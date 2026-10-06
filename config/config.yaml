@@ -1,0 +1,441 @@
+# =============================================================================
+# EFCI Ecuador — Configuración general del proyecto
+# etapa de ingesta de datos: Ingesta y armonización de la base histórica de eventos
+# -----------------------------------------------------------------------------
+# Toda ruta, umbral o parámetro que pueda variar entre ejecuciones o entre
+# países (ver estrategia de escalabilidad, etapa de diseño conceptual §17) vive aquí, no en el
+# código. No hardcodear estos valores en notebooks ni módulos.
+# =============================================================================
+
+project:
+  name: "EFCI Ecuador"
+  phase: "etapa de asociación ENSO–amenaza - Asociacion estadistica ENSO-amenaza (NB ajustado por estacionalidad)"
+  version: "0.15.0"
+  crs: "EPSG:4326"  # WGS84 — CRS de trabajo por defecto para todas las capas
+
+# -----------------------------------------------------------------------------
+# Correcciones puntuales de datos, aplicadas en la etapa de ingesta de datos (ingesta), sobre el
+# workbook crudo — nunca se modifica "Indices ENSO (1).xlsx" en sí, la
+# corrección vive en el pipeline y queda documentada aquí, de forma
+# auditable, en vez de "arreglarse" silenciosamente en algún cálculo
+# posterior. Cada corrección requiere evidencia y decisión explícita de
+# Jerson — no se aplican correcciones por sospecha sin verificar.
+# -----------------------------------------------------------------------------
+known_data_corrections:
+  - event_id: 51387
+    column: "ANIMALES MUERTOS"
+    original_value: 500000
+    corrected_value: 0
+    reason: >
+      Baños de Agua Santa (Tungurahua), aluvión en Río Negro, 2021-09-05.
+      El valor original (500,000 muertes de ganado) es inconsistente con
+      "ANIMALES AFECTADOS"=0 en la misma fila (no puede haber 0 animales
+      afectados y 500,000 muertos). La descripción completa del evento en
+      SNGRE (extensa, día a día) no menciona ninguna cifra de animales
+      muertos, solo una línea genérica de MAG sobre "afectación pecuaria".
+      Búsqueda en fuentes de prensa independientes (El Comercio, El
+      Universo, La Hora, septiembre 2021) confirma el evento — 3
+      fallecidos, 2 desaparecidos, ~50 personas incomunicadas, pérdidas
+      estimadas en 600,000 USD — sin mencionar pérdida de ganado; 500,000
+      animales muertos superaría varias veces esa pérdida total estimada,
+      para una comunidad rural de unas pocas decenas de familias. Se
+      corrige a 0, consistente con ANIMALES AFECTADOS=0 en la misma fila.
+      Ver docs/methodology/01_data_ingestion.md y 08_efci_composite.md §5.3.
+    decided_by: "Jerson Achicanoy"
+    decided_date: "2026-08-06"
+
+# -----------------------------------------------------------------------------
+# Rutas. Todas relativas a la raíz del repositorio.
+# EXCEPCIÓN DOCUMENTADA: el workbook maestro "Indices ENSO (1).xlsx" ya vivía
+# en la raíz del proyecto antes de establecer esta arquitectura; no se movió
+# ni renombró para no romper el flujo de trabajo en Excel que ya usa el
+# equipo. Ver docs/methodology/01_data_ingestion.md, sección "Excepción de
+# estructura de carpetas".
+# -----------------------------------------------------------------------------
+paths:
+  raw_workbook: "../Indices ENSO (1).xlsx"
+  processed_dir: "../data/processed"
+  raw_dir: "../data/raw"
+  log_dir: "../logs"
+
+# Nombres de las hojas del workbook maestro que usa la etapa de ingesta de datos
+sheets:
+  hazard_events: "BD_2015_2025"
+  icen_trimestral: "ICEN_Trimestral"
+  oni_trimestral: "ONI trimestral"
+
+# -----------------------------------------------------------------------------
+# Alcance de peligro (decisión 2026-08-05, ver docs/methodology/01_data_ingestion.md).
+# Clave = valor exacto de la columna EVENTO en BD_2015_2025.
+# Valor  = código interno normalizado (ASCII, usado en todo el pipeline).
+# -----------------------------------------------------------------------------
+hazard_scope:
+  "Inundación": "flood"
+  "Aluvión (Flujos)": "debris_flow"
+  "Deslizamiento": "landslide"
+  "Socavamiento": "scour"
+
+# Palabras clave (en minúsculas) usadas para sub-clasificar el mecanismo de
+# inundación/aluvión a partir de la columna CAUSA. Heurística documentada,
+# no un campo oficial de la fuente — ver limitaciones en el documento técnico.
+flood_subtype_keywords:
+  riverine: ["desbordamiento", "cuerpos de agua"]
+  coastal: ["aguaje", "marejada"]
+  pluvial_flash: ["lluvias intensas", "lluvias"]
+
+# Bounding box de Ecuador continental + insular (Galápagos), para validar
+# coordenadas reportadas y detectar errores de geocodificación.
+ecuador_bbox:
+  lat_min: -5.5
+  lat_max: 1.7
+  lon_min: -92.5
+  lon_max: -75.0
+
+# Convención de mapeo trimestre ENSO -> mes calendario (mes central del
+# trimestre móvil de 3 meses). Validada empíricamente contra la hoja
+# "2015 2025 (mes)" del workbook maestro — ver documento técnico.
+trimester_to_month:
+  DEF: 1
+  EFM: 2
+  FMA: 3
+  MAM: 4
+  AMJ: 5
+  MJJ: 6
+  JJA: 7
+  JAS: 8
+  ASO: 9
+  SON: 10
+  OND: 11
+  NDE: 12
+
+# Ventana temporal del proyecto (brief original, sección 1)
+date_range:
+  start_year: 2015
+  end_year: 2025
+
+# Manejo de información de identificación personal (PII) en la columna
+# "Fuente" (nombres y teléfonos de operadores SNGRE/ECU911).
+pii:
+  source_column: "Fuente"
+  phone_regex: '09\d{8}|\d{7,}'
+  drop_raw_source_text: true
+
+logging:
+  level: "INFO"
+  log_filename: "efci_pipeline.log"
+
+# -----------------------------------------------------------------------------
+# etapa de integración espacial — Límites administrativos.
+# Fuente: HDX "Ecuador - Subnational Administrative Boundaries" (cod-ab-ecu),
+# declarada por HDX como derivada directamente de INEC. Descargada
+# manualmente por Jerson el 2026-08-05 (el entorno de ejecución no tiene
+# salida de red hacia HDX/INEC/IGM — ver docs/methodology/02_spatial_integration.md
+# sección "Excepción de adquisición de datos").
+#
+# Verificado empíricamente (ver notebook Step2, sección 1): ADM1_PCODE/ADM2_PCODE
+# = "EC" + código DPA de INEC. Cruce contra hazard_event: 100% de coincidencia
+# en provincia (24/24) y cantón (221/221); 80.7% en parroquia (parish_code no
+# se usa como capa base por esa cobertura parcial, pero SÍ se usa desde
+# 2026-08-05 como confirmación cruzada dirigida de los casos ambiguos del
+# cruce espacial cantonal — ver notebook Step2 sección 4.7 y
+# docs/methodology/02_spatial_integration.md).
+#
+# ADM4 (656 MB, nivel sub-parroquial) se descargó pero NO se usa en esta fase:
+# no forma parte del esquema Admin_Boundary del diseño (provincia/cantón/
+# parroquia opcional) y su resolución excede lo necesario para EFCI a nivel
+# cantonal. Queda documentado como capa futura disponible.
+# -----------------------------------------------------------------------------
+admin_boundaries:
+  source: "HDX cod-ab-ecu (INEC), descarga manual 2026-08-05"
+  dir: "../data/raw/admin_boundaries"
+  files:
+    adm0: "ecu_adm_adm0_2024.shp"  # país — solo para contexto cartográfico
+    adm1: "ecu_adm_adm1_2024.shp"  # provincia — 24 features
+    adm2: "ecu_adm_adm2_2024.shp"  # cantón — 221 features
+    adm3: "ecu_adm_adm3_2024.shp"  # parroquia — 1,042 features (opcional, ver limitaciones)
+  pcode_prefix: "EC"  # se elimina de ADMx_PCODE para obtener el código DPA de INEC
+  output_gpkg: "admin_boundaries.gpkg"
+
+# -----------------------------------------------------------------------------
+# etapa de índice de severidad — Índice de Severidad.
+# Decisiones confirmadas por Jerson (2026-08-05, AskUserQuestion): estadístico
+# base = MÁXIMO histórico por unidad administrativa (no media/percentil 90);
+# normalización = min-max (no z-score/percentil). Ver
+# docs/methodology/04_severity_index.md para la justificación completa.
+#
+# Pesos del compuesto por pilar (evento a evento, antes de agregar):
+# "destruido" pesa 2x "afectado" (pérdida total vs. parcial). En el pilar
+# Población, muertos/desaparecidos pesan 10x y heridos 5x frente a
+# "afectado directo" — no estaba en la fórmula original de etapa de diseño conceptual (que solo
+# nombraba Población/Vivienda/Agricultura/Ganadería/Infraestructura), se
+# documenta como decisión metodológica explícita, no oculta.
+# -----------------------------------------------------------------------------
+severity_index:
+  base_statistic: "max"  # máximo histórico por unidad administrativa
+  normalization: "min_max"
+  destroyed_weight_multiplier: 2.0  # "destruido" vs. "afectado" dentro de cada pilar
+  death_weight_multiplier: 10.0  # muertos/desaparecidos vs. "afectado directo"
+  injured_weight_multiplier: 5.0  # heridos vs. "afectado directo"
+  pillar_weights:  # deben sumar 1.0 — fórmula etapa de diseño conceptual §9
+    poblacion: 0.30
+    vivienda: 0.25
+    agricultura: 0.20
+    ganaderia: 0.15
+    infraestructura: 0.10
+
+# -----------------------------------------------------------------------------
+# etapa de índice de recurrencia — Índice de Recurrencia.
+# "Evento ENSO" confirmado por Jerson (2026-08-05, AskUserQuestion): mes con
+# categoría ICEN "El Niño" de cualquier magnitud (Débil/Moderado/Fuerte/
+# Extraordinario) — se excluyen Neutro y La Niña del denominador. ICEN elegido
+# como índice ancla tras confirmar su correlación con la SST cruda de la
+# región Niño 1+2 (r=0.997, 2015-2025) frente a ONI (r=0.79) — ver
+# docs/methodology/05_recurrence_index.md.
+# -----------------------------------------------------------------------------
+recurrence_index:
+  anchor_enso_index: "ICEN"
+  enso_event_categories_prefix: "El Niño"  # cualquier categoría ICEN que empiece así cuenta como "evento ENSO"
+  nino12_source_file: "ersst5.nino.mth.91-20.ascii"  # NOAA/CPC ERSSTv5, en data/raw/
+
+# -----------------------------------------------------------------------------
+# etapa de índice de persistencia — Índice de Persistencia.
+# Alcance temporal confirmado por Jerson (2026-08-05, AskUserQuestion): toda la
+# línea de tiempo 2015-2025 (132 meses), no restringido a los 38 meses "evento
+# ENSO" de etapa de índice de recurrencia — mide cronicidad general del cantón, no solo lo
+# estrictamente atribuible a El Niño. Ver docs/methodology/06_persistence_index.md.
+#
+# Tres componentes, normalizados y combinados en partes iguales (1/3 cada
+# uno) — etapa de diseño conceptual §9 no especifica pesos para Persistencia (a diferencia de
+# Severidad, que sí trae fórmula); pendiente de análisis de sensibilidad
+# como los demás pesos del proyecto.
+# -----------------------------------------------------------------------------
+persistence_index:
+  component_weights:
+    racha_maxima: 0.3333
+    duracion_media: 0.3333
+    longitud_temporada: 0.3334
+  season_length_denominator: 12  # meses calendario en un año — techo natural, no min-max
+
+# -----------------------------------------------------------------------------
+# etapa de índice de magnitud ENSO — Índice de Magnitud ENSO.
+# Traduce las categorías oficiales ICEN (ENFEN, hoja 'Notas Metodológicas'
+# del workbook) a una escala ordinal 0-1. Neutro y La Niña (cualquier
+# magnitud) = 0: no son "El Niño", y el proyecto mide inundaciones asociadas
+# específicamente a El Niño (misma decisión de alcance que etapa de índice de recurrencia §4.3).
+# Agregación por cantón/provincia confirmada por Jerson (2026-08-05,
+# AskUserQuestion): MÁXIMO entre los meses en que la unidad tuvo evento —
+# "¿al El Niño más fuerte que ha enfrentado este cantón?", consistente con
+# el enfoque de peor escenario ya usado en Severidad y Persistencia
+#.
+# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# etapa de índice compuesto — EFCI compuesto.
+# Fórmula etapa de diseño conceptual §9. Magnitud ENSO: se usa 'mean' (etapa de índice de magnitud ENSO, mejor poder de
+# discriminación: 200/221 valores distintos vs. 4/221 con 'max') como
+# insumo del EFCI oficial; 'max' se mantiene como variante de sensibilidad,
+# no se descarta. Clasificación: quiebres naturales (Jenks), confirmado por
+# Jerson (2026-08-05, AskUserQuestion) sobre cuantiles, dado que la
+# distribución es sesgada (pocos cantones muy extremos). Ver
+# docs/methodology/08_efci_composite.md.
+# -----------------------------------------------------------------------------
+efci_composite:
+  weights:
+    recurrencia: 0.35
+    severidad: 0.30
+    persistencia: 0.20
+    magnitud_enso: 0.15
+  magnitude_column_primary: "enso_magnitude_mean"
+  magnitude_column_alternative: "enso_magnitude_max"
+  classification_method: "jenks"
+  n_classes: 5
+  class_labels: ["Muy Baja", "Baja", "Moderada", "Alta", "Muy Alta"]
+  # Escenarios de sensibilidad de pesos (además del caso base) — etapa de diseño conceptual §9
+  # pide explícitamente validar los pesos por sensibilidad antes de fijarlos.
+  sensitivity_weight_scenarios:
+    equitativo: {recurrencia: 0.25, severidad: 0.25, persistencia: 0.25, magnitud_enso: 0.25}
+    enfasis_severidad: {recurrencia: 0.25, severidad: 0.45, persistencia: 0.15, magnitud_enso: 0.15}
+    enfasis_recurrencia: {recurrencia: 0.55, severidad: 0.20, persistencia: 0.15, magnitud_enso: 0.10}
+  # Winsorización para la prueba de robustez de Severidad frente a los 2
+  # outliers documentados en etapa de índice de severidad §6 (Quito 750k afectados indirectos,
+  # Baños 500k muertes de ganado) — percentil de recorte antes de min-max.
+  # NOTA (2026-08-05): se probó primero con 0.95, pero varias columnas de
+  # impacto (affected_indirect, houses_destroyed, livestock_deaths) tienen
+  # percentil 95 = 0 (más del 95% de eventos tiene 0 en esas columnas) —
+  # winsorizar ahí no "recorta un outlier", literalmente aplasta casi toda
+  # la señal a 0, generando un artefacto de empate masivo (117/221 cantones
+  # empatados exactamente en 0.75), no una medición real de sensibilidad a
+  # outliers. Se usa 0.99 en su lugar — ver docs/methodology/08_efci_composite.md §4.3.
+  severity_winsorize_percentile: 0.99
+
+enso_magnitude_index:
+  anchor_enso_index: "ICEN"
+  # 2026-08-06: criterio ENSO ampliado (ver enso_criterio_ampliado abajo) --
+  # la magnitud mensual ya no se deriva solo de icen_category, se deriva de
+  # magnitud_enso_combinada (max de la categoria ICEN y la categoria ONI del
+  # mes, calculado en etapa de índice de recurrencia), exportada en enso_index_monthly_extended.
+  # anchor_enso_index se conserva por trazabilidad historica, no se usa para
+  # mapear category_values directamente en etapa de índice de magnitud ENSO desde 2026-08-06.
+  #
+  # 2026-08-05 (actualizado): el máximo (elegido originalmente) resultó con
+  # bajo poder de discriminación (24/24 provincias empatadas en 0.75; ver
+  # docs/methodology/07_enso_magnitude_index.md §6). Jerson decidió calcular
+  # AMBAS agregaciones como columnas separadas y diferir la elección final
+  # al análisis de sensibilidad de la etapa de índice compuesto — no se fija un único método
+  # "aggregation" aquí, se listan los dos calculados.
+  aggregation_methods: ["max", "mean"]
+  category_values:
+    "Neutro": 0.0
+    "La Niña - Débil": 0.0
+    "La Niña - Moderada": 0.0
+    "La Niña - Fuerte": 0.0
+    "El Niño - Débil": 0.25
+    "El Niño - Moderado": 0.50
+    "El Niño - Fuerte": 0.75
+    "El Niño - Muy Fuerte": 1.00
+    "El Niño - Extraordinario": 1.00
+
+# -----------------------------------------------------------------------------
+# 2026-08-06 — Criterio ENSO ampliado (union ICEN + ONI), confirmado por
+# Jerson vía AskUserQuestion. Antes: "evento ENSO" = solo mes ICEN "El Niño"
+# (38 meses, region Niño 1+2 / costera). Verificado con datos reales que el
+# 19% de meses donde ICEN y ONI discrepan NO es ruido: los 18 meses donde
+# solo ONI marca El Niño muestran 251.8 eventos/mes (vs 129.1/mes normal,
+# +95%) y 85.3 inundaciones/mes (vs 36.3/mes normal, +135%) -- señal real
+# que quedaba fuera. Niño3/Niño4 NO se calculan por separado: correlacionan
+# 0.92-0.97 (anomalía, 2015-2025) con ONI/Niño3.4, serían redundantes.
+enso_criterio_ampliado:
+  definicion: "union: mes ENSO = ICEN El Niño O ONI El Niño (cualquier magnitud)"
+  n_meses_enso_anterior_solo_icen: 38
+  n_meses_enso_ampliado: 54
+  columna_trazabilidad: "tipo_enso"  # valores: "Niño Costero" | "Niño" | "Ambos" | "No ENSO"
+  magnitud_mensual: "magnitud_enso_combinada = max(valor_ordinal_ICEN, valor_ordinal_ONI) del mes"
+  ninos_3_y_4_calculados_por_separado: false
+  justificacion_ninos_3_4: "correlación anomalía 2015-2025 con ONI (Niño3.4): Niño3=0.968, Niño4=0.918 -- redundantes"
+
+# -----------------------------------------------------------------------------
+# etapa de análisis espacial — Análisis espacial (etapa de diseño conceptual §8).
+# Decisiones confirmadas por Jerson (2026-08-06, AskUserQuestion):
+# - Variables: EFCI + los 4 sub-índices (5 capas) para Gi*/Local Moran's I,
+#   no solo el EFCI compuesto — permite ver si un hotspot de EFCI está
+#   dominado por un componente específico.
+# - Pesos espaciales: Jerson delegó la elección técnica ("el mejor para
+#   este tipo de ejercicios") — se usa contigüidad Queen de orden 1 (la
+#   más usada en econometría espacial para polígonos administrativos) con
+#   respaldo KNN=1 para unidades sin vecino por contigüidad. Verificado
+#   empíricamente: solo 3 cantones caen en este caso (San Cristóbal,
+#   Isabela, Santa Cruz — los 3 cantones de Galápagos, geográficamente
+#   islas reales) y el respaldo KNN=1 los conecta correctamente entre sí
+#   (85-94 km de distancia entre sus centroides) y no con el continente
+#   (>900 km) — el resultado es el esperado, no un artefacto.
+# - KDE: sobre coordenadas de evento, ponderado por el score de severidad
+#   a nivel evento (misma fórmula de pilares de etapa de índice de severidad §4.1, normalizado
+#   0-1 a nivel nacional para esta fase específicamente — no reutiliza la
+#   normalización por cantón de etapa de índice de severidad, que agrega por máximo).
+# - Hexágonos: ~10 km de lado → H3 resolución 5 (borde promedio 9.85 km,
+#   la resolución H3 estándar más cercana al valor pedido).
+# -----------------------------------------------------------------------------
+spatial_analysis:
+  variables: ["efci", "severity_index", "recurrence_index", "persistence_index", "enso_magnitude_mean"]
+  weights:
+    method: "queen_knn_fallback"
+    knn_fallback_k: 1
+    gi_star_transform: "b"  # binario — convención estándar para Getis-Ord Gi*
+    local_moran_transform: "r"  # fila-estandarizado — convención estándar para Local Moran's I
+  significance:
+    permutations: 999
+    p_thresholds: [0.01, 0.05, 0.10]  # niveles de confianza 99/95/90%
+  kde:
+    weight_by: "event_severity_score"  # score de severidad a nivel evento (ver arriba)
+    bw_method: "silverman"
+    grid_resolution_km: 10
+    crs_metric: "EPSG:32717"  # UTM 17S — CRS métrico para Ecuador continental
+  hexagons:
+    h3_resolution: 5  # ~9.85 km de borde promedio, más cercano a "~10 km"
+
+# -----------------------------------------------------------------------------
+# etapa de susceptibilidad SAR (extensión, fuera de las 10 fases originales de etapa de diseño conceptual): clasificación
+# y validación local del producto de frecuencia de inundación Sentinel-1 (SAR),
+# posterior a la exportación GEE (ver scripts/gee/Step11_*.ipynb).
+#
+# Decisiones clave (ver docs/methodology/11_flood_susceptibility_sar.md §4):
+# - Clasificación nativa (30 m): quiebres Jenks calculados por búsqueda
+#   combinatoria exacta sobre el histograma completo de valores 0-8
+#   (ponderado por conteo de píxeles) — no una muestra, el histograma
+#   completo cabe en 9 valores, así que es exacto, no aproximado.
+# - Vectorización a polígono de borde exacto a 30 m resultó computacionalmente
+#   inviable en este entorno (una sola franja de la categoría "Muy Baja" ya
+#   generaba 186,000+ polígonos individuales que no completaban ni la unión
+#   topológica en 165s) — se probaron variantes de agregación por bloque-máximo
+#   (90 m a 990 m) pero todas mostraron una inflación de área severa e
+#   inaceptable (3.6x a 13.7x el área real de 6,740 km² a resolución nativa).
+# - Producto vectorial final: reutiliza la MISMA grilla hexagonal H3 res.5 de
+#   etapa de análisis espacial (719 hexágonos), con el promedio (no el máximo) del valor crudo de
+#   frecuencia por hexágono — un promedio ponderado por área que no infla el
+#   área aparente — y clasificado con quiebres Jenks propios (no los de 30 m).
+sar_flood_classification:
+  raster_nativo: "data/processed/sar_flood_susceptibility_clasificado.tif"  # 30m, valores 0-5
+  poligonos_hexagonales: "data/processed/sar_flood_susceptibility_hexagonos.gpkg"  # 719 hex, reutiliza grid etapa de análisis espacial
+  jenks_breaks_nativo_valores_0_8: [1, 2, 3, 4, 5]  # cat1=valor1, cat2=valor2, cat3=valor3, cat4=valor4, cat5=valores5-8
+  estadistico_agregacion_hexagono: "mean"  # NO max -- evita inflacion de area (ver nota arriba)
+  fechas_objetivo_totales: 15
+  fechas_validas_con_cobertura_s1: 9  # 2017 (3) + 2023 (3) + 2024 (3) -- 2015 y 2016 excluidos por cobertura S1 insuficiente
+
+# -----------------------------------------------------------------------------
+# etapa de componente predictivo — Componente predictivo (etapa de diseño conceptual §10)
+# -----------------------------------------------------------------------------
+# Decisiones confirmadas por Jerson vía AskUserQuestion (2026-08-06):
+# - Unidad de predicción: cantón x episodio ENSO (no cantón x mes).
+# - Salida: regresión de impacto (población/agricultura/vivienda) +
+#   clasificación de severidad — no solo una de las dos.
+# - Manejo de N pequeño (5-6 episodios independientes): modelo simple
+#   (Random Forest) + baseline explícito de referencia (media histórica del
+#   propio cantón), reportados siempre lado a lado, no solo el modelo.
+#
+# Episodios redefinidos como bloques de meses CONTIGUOS de categoría ICEN
+# "El Niño" (verificado programáticamente contra los 38 meses reales del
+# índice ENSO de etapa de índice de recurrencia) — 6 episodios, no los "5" usados en etapa de susceptibilidad SAR para
+# elegir fechas SAR (aquella lista separaba 2015/2016 por conveniencia de
+# muestreo calendario; climatológicamente es un solo evento continuo).
+prediction_component:
+  unidad_prediccion: "canton_x_episodio_enso"
+  validacion: "leave_one_episode_out"
+  n_episodios: 6
+  algoritmo: "RandomForest (regresión log1p + clasificación balanceada)"
+  n_estimators: 300
+  targets_regresion: ["poblacion_afectada", "agricultura_perdida_ha", "vivienda_afectada"]
+  target_clasificacion: "severo"  # score compuesto min-max, percentil 80
+  umbral_severidad_percentil: 0.80
+  baseline: "media_historica_propio_canton"  # excluyendo siempre el episodio evaluado (sin fuga)
+  panel: "data/processed/prediccion_panel_canton_episodio.parquet"
+  metricas_loeo: "data/processed/prediccion_metricas_loeo.csv"
+  modelos_finales: "models/step12_modelos_finales.joblib"  # entrenados con los 6 episodios, NO validados (ver LOEO para eso)
+
+# -----------------------------------------------------------------------------
+# etapa de asociación ENSO–amenaza — Asociación estadística ENSO–amenaza (respuesta al feedback de
+# revisión externa, 2026-10-06)
+# -----------------------------------------------------------------------------
+# Pregunta: ¿hay más eventos durante El Niño, descontando estacionalidad y
+# tendencia de reporte, y varía según magnitud, región y amenaza?
+# Modelo: Binomial Negativa (NB2) mensual con efectos fijos de mes calendario
+# y tendencia lineal; errores HAC (Newey-West); bootstrap por bloques de
+# verificación; corrección Benjamini-Hochberg. Detalle en
+# docs/methodology/15_enso_hazard_association.md
+enso_association:
+  flag_icen: "es_evento_enso_icen_solo"   # 38 meses El Niño ICEN (definición etapa de índice de recurrencia §4.3)
+  flag_oni: "es_evento_enso_oni_solo"     # sensibilidad con ONI
+  hac_lags: 3
+  max_lag: 3
+  bootstrap_B: 1000
+  bootstrap_block: 6
+  seed: 20261006
+  fdr_alpha: 0.05
+  min_eventos_estrato: 200                # estratos región x amenaza con menos eventos se omiten
+  # Regiones por código de provincia (INEC). Galápagos (20) se excluye de
+  # los estratos regionales: solo 26 eventos, sin poder estadístico.
+  regiones:
+    Costa: [7, 8, 9, 12, 13, 23, 24]
+    Sierra: [1, 2, 3, 4, 5, 6, 10, 11, 17, 18]
+    Oriente: [14, 15, 16, 19, 21, 22]
+  salida_dir: "data/processed"
+  senal_umbral_fuerte: 2.0     # IRR >= 2 y significativo (BH) -> señal "Fuerte"
+  senal_umbral_moderada: 1.2   # IRR >= 1.2 y significativo -> "Moderada"; entre 1 y 1.2 -> "Débil"

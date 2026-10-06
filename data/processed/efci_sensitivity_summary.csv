@@ -1,0 +1,6 @@
+prueba,spearman_rho,p_valor,cantones_cambian_clase,pct_cambian_clase
+Magnitud: mean vs. max,0.9704,0.0,72,32.6
+Pesos: equitativo,0.9854,0.0,65,29.4
+Pesos: enfasis_severidad,0.9907,0.0,31,14.0
+Pesos: enfasis_recurrencia,0.9938,0.0,39,17.6
+Severidad: original vs. winsorizada (outliers),0.8716,0.0,131,59.3

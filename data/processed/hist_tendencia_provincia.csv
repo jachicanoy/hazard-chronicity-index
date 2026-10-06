@@ -1,0 +1,117 @@
+province_code,province_name_official,hazard_type,tendencia,p_valor,pendiente_sen,anios_con_dato
+01,Azuay,debris_flow,no trend,0.0829,0.1667,7
+01,Azuay,flood,increasing,0.0031,5.8571,11
+01,Azuay,landslide,no trend,0.0617,7.25,11
+01,Azuay,scour,increasing,0.0045,1.1,8
+02,Bolívar,debris_flow,increasing,0.0052,0.6,9
+02,Bolívar,flood,no trend,0.1172,1.5,11
+02,Bolívar,landslide,no trend,0.31,7.0,11
+02,Bolívar,scour,increasing,0.0107,0.8889,10
+03,Cañar,debris_flow,datos_insuficientes,,,2
+03,Cañar,flood,increasing,0.0039,1.3333,10
+03,Cañar,landslide,no trend,0.099,1.5,11
+03,Cañar,scour,increasing,0.0453,0.1667,6
+04,Carchi,debris_flow,no trend,0.1066,0.2222,6
+04,Carchi,flood,no trend,0.2064,0.5,11
+04,Carchi,landslide,increasing,0.001,2.4286,11
+04,Carchi,scour,increasing,0.0061,0.3333,4
+05,Cotopaxi,debris_flow,increasing,0.0084,0.5556,8
+05,Cotopaxi,flood,increasing,0.0227,2.375,11
+05,Cotopaxi,landslide,no trend,0.4297,1.0,11
+05,Cotopaxi,scour,no trend,0.0661,0.4444,9
+06,Chimborazo,debris_flow,increasing,0.0004,2.625,9
+06,Chimborazo,flood,increasing,0.0273,1.0,11
+06,Chimborazo,landslide,no trend,0.6962,-1.25,11
+06,Chimborazo,scour,increasing,0.0027,1.0,8
+07,El Oro,debris_flow,increasing,0.0066,0.6,6
+07,El Oro,flood,no trend,0.101,5.0,11
+07,El Oro,landslide,no trend,0.2129,4.2857,11
+07,El Oro,scour,increasing,0.0417,1.2,11
+08,Esmeraldas,debris_flow,increasing,0.039,0.1429,7
+08,Esmeraldas,flood,no trend,0.31,5.75,11
+08,Esmeraldas,landslide,no trend,0.1195,3.0,11
+08,Esmeraldas,scour,increasing,0.027,0.8333,10
+09,Guayas,debris_flow,datos_insuficientes,,,1
+09,Guayas,flood,no trend,0.1195,27.2222,11
+09,Guayas,landslide,no trend,0.8137,0.125,11
+09,Guayas,scour,no trend,0.1817,1.1429,11
+10,Imbabura,debris_flow,increasing,0.02,0.3333,5
+10,Imbabura,flood,no trend,0.0601,1.3333,11
+10,Imbabura,landslide,increasing,0.0063,5.25,11
+10,Imbabura,scour,increasing,0.0458,0.5,8
+11,Loja,debris_flow,increasing,0.0149,1.0,9
+11,Loja,flood,no trend,0.6384,0.25,11
+11,Loja,landslide,no trend,0.1379,-4.3333,11
+11,Loja,scour,no trend,0.9374,0.0,9
+12,Los Ríos,flood,increasing,0.0039,10.125,11
+12,Los Ríos,landslide,no trend,0.0829,0.5,10
+12,Los Ríos,scour,increasing,0.0178,1.6667,10
+13,Manabí,debris_flow,increasing,0.0175,0.1667,4
+13,Manabí,flood,no trend,0.3502,9.5,11
+13,Manabí,landslide,no trend,0.9378,-0.3333,11
+13,Manabí,scour,no trend,0.8748,0.0,11
+14,Morona Santiago,debris_flow,no trend,0.2026,0.5,8
+14,Morona Santiago,flood,increasing,0.0027,1.5,11
+14,Morona Santiago,landslide,no trend,0.101,-4.375,11
+14,Morona Santiago,scour,increasing,0.0339,1.5,11
+15,Napo,debris_flow,increasing,0.0022,1.2,9
+15,Napo,flood,no trend,0.0823,1.0,11
+15,Napo,landslide,no trend,0.9378,-0.875,11
+15,Napo,scour,increasing,0.006,1.4,10
+16,Pastaza,debris_flow,datos_insuficientes,,,2
+16,Pastaza,flood,increasing,0.0077,1.5,11
+16,Pastaza,landslide,no trend,0.0601,-1.875,11
+16,Pastaza,scour,no trend,0.9369,0.0,11
+17,Pichincha,debris_flow,increasing,0.006,1.0,9
+17,Pichincha,flood,increasing,0.0006,12.2,11
+17,Pichincha,landslide,increasing,0.0081,26.7,11
+17,Pichincha,scour,increasing,0.0027,1.0,10
+18,Tungurahua,debris_flow,no trend,0.754,0.2857,10
+18,Tungurahua,flood,no trend,0.1142,-1.0,11
+18,Tungurahua,landslide,decreasing,0.0006,-14.0,11
+18,Tungurahua,scour,no trend,0.4168,0.25,11
+19,Zamora Chinchipe,debris_flow,increasing,0.031,0.3333,8
+19,Zamora Chinchipe,flood,no trend,0.5846,-0.4,11
+19,Zamora Chinchipe,landslide,decreasing,0.0023,-9.5,11
+19,Zamora Chinchipe,scour,no trend,0.1439,-0.2,7
+20,Galápagos,debris_flow,datos_insuficientes,,,1
+20,Galápagos,flood,no trend,0.1939,0.4444,7
+20,Galápagos,landslide,datos_insuficientes,,,2
+21,Sucumbíos,debris_flow,datos_insuficientes,,,2
+21,Sucumbíos,flood,no trend,0.6883,0.0,11
+21,Sucumbíos,landslide,no trend,0.4795,-0.7143,11
+21,Sucumbíos,scour,no trend,1.0,0.0,10
+22,Orellana,flood,no trend,0.101,1.4444,11
+22,Orellana,landslide,no trend,0.5823,0.2222,11
+22,Orellana,scour,increasing,0.0069,0.75,8
+23,Santo Domingo de los Tsáchilas,debris_flow,datos_insuficientes,,,3
+23,Santo Domingo de los Tsáchilas,flood,no trend,0.2129,1.6667,11
+23,Santo Domingo de los Tsáchilas,landslide,no trend,0.4335,1.0,11
+23,Santo Domingo de los Tsáchilas,scour,no trend,0.8121,0.0,9
+24,Santa Elena,flood,increasing,0.0324,2.375,11
+24,Santa Elena,landslide,no trend,0.4574,0.0,7
+24,Santa Elena,scour,increasing,0.0475,0.1429,5
+01,Azuay,TODOS,increasing,0.0081,16.0,11
+02,Bolívar,TODOS,no trend,0.1379,10.75,11
+03,Cañar,TODOS,increasing,0.0149,3.2,11
+04,Carchi,TODOS,increasing,0.0002,3.6667,11
+05,Cotopaxi,TODOS,increasing,0.01,4.1667,11
+06,Chimborazo,TODOS,no trend,0.4363,2.75,11
+07,El Oro,TODOS,no trend,0.1195,12.2857,11
+08,Esmeraldas,TODOS,no trend,0.1379,10.875,11
+09,Guayas,TODOS,no trend,0.1195,27.0,11
+10,Imbabura,TODOS,increasing,0.0031,6.75,11
+11,Loja,TODOS,no trend,0.5334,-3.6667,11
+12,Los Ríos,TODOS,increasing,0.0031,13.2,11
+13,Manabí,TODOS,no trend,0.4363,10.4,11
+14,Morona Santiago,TODOS,no trend,1.0,-0.75,11
+15,Napo,TODOS,no trend,0.1172,3.25,11
+16,Pastaza,TODOS,no trend,1.0,-0.4,11
+17,Pichincha,TODOS,increasing,0.0018,40.8,11
+18,Tungurahua,TODOS,decreasing,0.0031,-15.0,11
+19,Zamora Chinchipe,TODOS,no trend,0.0725,-9.8,11
+20,Galápagos,TODOS,no trend,0.1698,0.5,7
+21,Sucumbíos,TODOS,no trend,1.0,-0.3333,11
+22,Orellana,TODOS,increasing,0.0063,2.0,11
+23,Santo Domingo de los Tsáchilas,TODOS,no trend,0.2129,2.7143,11
+24,Santa Elena,TODOS,increasing,0.0293,2.7778,11

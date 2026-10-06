@@ -1,0 +1,1161 @@
+province_code,province_name_official,hazard_type,n,media,mediana,maximo,desv_std,variable_impacto
+01,Azuay,debris_flow,17,0.11764705882352941,0.0,1,0.3321055820775357,deaths
+01,Azuay,flood,274,0.0036496350364963502,0.0,1,0.06041220933301769,deaths
+01,Azuay,landslide,737,0.028493894165535955,0.0,5,0.2668292795642503,deaths
+01,Azuay,scour,44,0.0,0.0,0,0.0,deaths
+02,Bolívar,debris_flow,33,0.06060606060606061,0.0,1,0.24230584229877997,deaths
+02,Bolívar,flood,120,0.041666666666666664,0.0,3,0.30114161869426803,deaths
+02,Bolívar,landslide,703,0.017069701280227598,0.0,4,0.21281977309115693,deaths
+02,Bolívar,scour,38,0.0,0.0,0,0.0,deaths
+03,Cañar,debris_flow,3,0.3333333333333333,0.0,1,0.5773502691896258,deaths
+03,Cañar,flood,67,0.0,0.0,0,0.0,deaths
+03,Cañar,landslide,135,0.02962962962962963,0.0,2,0.20950334805648507,deaths
+03,Cañar,scour,13,0.0,0.0,0,0.0,deaths
+04,Carchi,debris_flow,16,0.0,0.0,0,0.0,deaths
+04,Carchi,flood,55,0.01818181818181818,0.0,1,0.13483997249264842,deaths
+04,Carchi,landslide,199,0.07035175879396985,0.0,3,0.38280645858153894,deaths
+04,Carchi,scour,11,0.0,0.0,0,0.0,deaths
+05,Cotopaxi,debris_flow,35,0.08571428571428572,0.0,2,0.3734913631120909,deaths
+05,Cotopaxi,flood,131,0.0,0.0,0,0.0,deaths
+05,Cotopaxi,landslide,270,0.06296296296296296,0.0,5,0.39480657176195777,deaths
+05,Cotopaxi,scour,32,0.0,0.0,0,0.0,deaths
+06,Chimborazo,debris_flow,112,0.09821428571428571,0.0,4,0.5688588454971816,deaths
+06,Chimborazo,flood,90,0.0,0.0,0,0.0,deaths
+06,Chimborazo,landslide,882,0.09750566893424037,0.0,65,2.2024685646022055,deaths
+06,Chimborazo,scour,37,0.0,0.0,0,0.0,deaths
+07,El Oro,debris_flow,38,0.05263157894736842,0.0,2,0.32444284226152503,deaths
+07,El Oro,flood,473,0.019027484143763214,0.0,4,0.2199227167931169,deaths
+07,El Oro,landslide,866,0.008083140877598153,0.0,1,0.08959393310034663,deaths
+07,El Oro,scour,115,0.0,0.0,0,0.0,deaths
+08,Esmeraldas,debris_flow,14,0.07142857142857142,0.0,1,0.26726124191242434,deaths
+08,Esmeraldas,flood,630,0.006349206349206349,0.0,2,0.09746062899682387,deaths
+08,Esmeraldas,landslide,422,0.026066350710900472,0.0,3,0.22181110569244225,deaths
+08,Esmeraldas,scour,67,0.0,0.0,0,0.0,deaths
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,deaths
+09,Guayas,flood,1531,0.0013063357282821686,0.0,1,0.03613145325171238,deaths
+09,Guayas,landslide,104,0.07692307692307693,0.0,5,0.534123139365797,deaths
+09,Guayas,scour,102,0.029411764705882353,0.0,3,0.2970442628930023,deaths
+10,Imbabura,debris_flow,17,0.11764705882352941,0.0,2,0.48507125007266594,deaths
+10,Imbabura,flood,112,0.0,0.0,0,0.0,deaths
+10,Imbabura,landslide,437,0.020594965675057208,0.0,2,0.17143916799617673,deaths
+10,Imbabura,scour,29,0.06896551724137931,0.0,2,0.37139067635410367,deaths
+11,Loja,debris_flow,51,0.09803921568627451,0.0,3,0.5001960399996912,deaths
+11,Loja,flood,188,0.010638297872340425,0.0,1,0.10286597386359325,deaths
+11,Loja,landslide,1294,0.020865533230293665,0.0,6,0.2787063122885789,deaths
+11,Loja,scour,42,0.0,0.0,0,0.0,deaths
+12,Los Ríos,flood,667,0.004497751124437781,0.0,1,0.06696450077693657,deaths
+12,Los Ríos,landslide,40,0.075,0.0,3,0.474341649025257,deaths
+12,Los Ríos,scour,88,0.0,0.0,0,0.0,deaths
+13,Manabí,debris_flow,27,0.037037037037037035,0.0,1,0.19245008972987523,deaths
+13,Manabí,flood,1033,0.005808325266214908,0.0,2,0.08785310837729655,deaths
+13,Manabí,landslide,388,0.02577319587628866,0.0,4,0.2476883724003169,deaths
+13,Manabí,scour,58,0.0,0.0,0,0.0,deaths
+14,Morona Santiago,debris_flow,35,0.0,0.0,0,0.0,deaths
+14,Morona Santiago,flood,199,0.02512562814070352,0.0,3,0.25499427463662205,deaths
+14,Morona Santiago,landslide,790,0.021518987341772152,0.0,9,0.34996682300693016,deaths
+14,Morona Santiago,scour,114,0.0,0.0,0,0.0,deaths
+15,Napo,debris_flow,80,0.05,0.0,1,0.21932000780317518,deaths
+15,Napo,flood,120,0.008333333333333333,0.0,1,0.09128709291752768,deaths
+15,Napo,landslide,697,0.02295552367288379,0.0,6,0.2775941168480871,deaths
+15,Napo,scour,68,0.0,0.0,0,0.0,deaths
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,deaths
+16,Pastaza,flood,183,0.01092896174863388,0.0,2,0.14784425419091454,deaths
+16,Pastaza,landslide,324,0.009259259259259259,0.0,2,0.12407206312859158,deaths
+16,Pastaza,scour,49,0.02040816326530612,0.0,1,0.14285714285714285,deaths
+17,Pichincha,debris_flow,54,0.5555555555555556,0.0,28,3.809950560104455,deaths
+17,Pichincha,flood,520,0.007692307692307693,0.0,3,0.13859486688767472,deaths
+17,Pichincha,landslide,2085,0.019184652278177457,0.0,6,0.2310293808421753,deaths
+17,Pichincha,scour,59,0.0,0.0,0,0.0,deaths
+18,Tungurahua,debris_flow,112,0.05357142857142857,0.0,5,0.48097659125832865,deaths
+18,Tungurahua,flood,135,0.007407407407407408,0.0,1,0.08606629658238704,deaths
+18,Tungurahua,landslide,1113,0.027852650494159928,0.0,14,0.45294457058672616,deaths
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,deaths
+19,Zamora Chinchipe,debris_flow,28,0.0,0.0,0,0.0,deaths
+19,Zamora Chinchipe,flood,159,0.018867924528301886,0.0,2,0.17688221473258164,deaths
+19,Zamora Chinchipe,landslide,661,0.03479576399394856,0.0,5,0.2757900426382228,deaths
+19,Zamora Chinchipe,scour,15,0.0,0.0,0,0.0,deaths
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,deaths
+20,Galápagos,flood,23,0.0,0.0,0,0.0,deaths
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,deaths
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,deaths
+21,Sucumbíos,flood,101,0.0,0.0,0,0.0,deaths
+21,Sucumbíos,landslide,176,0.017045454545454544,0.0,2,0.16816426724848768,deaths
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,deaths
+22,Orellana,flood,141,0.0,0.0,0,0.0,deaths
+22,Orellana,landslide,61,0.0,0.0,0,0.0,deaths
+22,Orellana,scour,35,0.0,0.0,0,0.0,deaths
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,deaths
+23,Santo Domingo de los Tsáchilas,flood,184,0.021739130434782608,0.0,4,0.2948839123097942,deaths
+23,Santo Domingo de los Tsáchilas,landslide,226,0.03982300884955752,0.0,2,0.27196072363775853,deaths
+23,Santo Domingo de los Tsáchilas,scour,30,0.03333333333333333,0.0,1,0.18257418583505536,deaths
+24,Santa Elena,flood,145,0.0,0.0,0,0.0,deaths
+24,Santa Elena,landslide,13,0.07692307692307693,0.0,1,0.2773500981126146,deaths
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,deaths
+01,Azuay,debris_flow,17,6.588235294117647,0.0,45,11.407556834886972,affected_direct
+01,Azuay,flood,274,7.638686131386861,0.0,269,30.660926556695,affected_direct
+01,Azuay,landslide,737,2.2157394843962006,0.0,308,16.38193503253814,affected_direct
+01,Azuay,scour,44,0.09090909090909091,0.0,4,0.6030226891555271,affected_direct
+02,Bolívar,debris_flow,33,5.787878787878788,0.0,43,10.784124836297494,affected_direct
+02,Bolívar,flood,120,58.925,4.0,2566,247.92019461746085,affected_direct
+02,Bolívar,landslide,703,1.5291607396870555,0.0,473,18.293396758506997,affected_direct
+02,Bolívar,scour,38,2.210526315789474,0.0,47,8.305510690114914,affected_direct
+03,Cañar,debris_flow,3,9.0,0.0,27,15.588457268119896,affected_direct
+03,Cañar,flood,67,6.880597014925373,0.0,200,25.022730507728667,affected_direct
+03,Cañar,landslide,135,1.6666666666666667,0.0,34,4.800497486657293,affected_direct
+03,Cañar,scour,13,4.846153846153846,0.0,51,14.25860064339037,affected_direct
+04,Carchi,debris_flow,16,9.375,2.0,61,17.712048629863986,affected_direct
+04,Carchi,flood,55,14.272727272727273,4.0,137,28.161212190775313,affected_direct
+04,Carchi,landslide,199,1.7587939698492463,0.0,96,9.188382572342153,affected_direct
+04,Carchi,scour,11,0.45454545454545453,0.0,5,1.507556722888818,affected_direct
+05,Cotopaxi,debris_flow,35,11.0,0.0,139,26.592789823338116,affected_direct
+05,Cotopaxi,flood,131,72.0381679389313,5.0,3200,316.1926726290634,affected_direct
+05,Cotopaxi,landslide,270,1.788888888888889,0.0,64,6.953634728367878,affected_direct
+05,Cotopaxi,scour,32,6.59375,0.0,137,24.798360215039196,affected_direct
+06,Chimborazo,debris_flow,112,59.294642857142854,0.0,1978,231.81573291107,affected_direct
+06,Chimborazo,flood,90,16.433333333333334,1.0,715,76.56121146588261,affected_direct
+06,Chimborazo,landslide,882,3.740362811791383,0.0,1160,44.579171661951285,affected_direct
+06,Chimborazo,scour,37,10.513513513513514,0.0,324,53.41432476489888,affected_direct
+07,El Oro,debris_flow,38,66.76315789473684,1.5,1117,191.52283530642563,affected_direct
+07,El Oro,flood,473,92.55602536997885,6.0,4840,424.2719356147311,affected_direct
+07,El Oro,landslide,866,9.25635103926097,0.0,4000,152.19544435796055,affected_direct
+07,El Oro,scour,115,2.4782608695652173,0.0,160,15.72591325888856,affected_direct
+08,Esmeraldas,debris_flow,14,3.5,0.0,25,7.250994626733845,affected_direct
+08,Esmeraldas,flood,630,165.3111111111111,5.0,11343,561.387109329931,affected_direct
+08,Esmeraldas,landslide,422,3.890995260663507,0.0,348,26.435193278330416,affected_direct
+08,Esmeraldas,scour,67,4.626865671641791,0.0,200,24.778311521274382,affected_direct
+09,Guayas,debris_flow,1,18.0,18.0,18,0.0,affected_direct
+09,Guayas,flood,1531,144.51208360548662,4.0,16086,649.1882042421083,affected_direct
+09,Guayas,landslide,104,3.105769230769231,0.0,67,7.8343508838621245,affected_direct
+09,Guayas,scour,102,4.9411764705882355,0.0,282,30.158270142834017,affected_direct
+10,Imbabura,debris_flow,17,9.470588235294118,0.0,100,24.553812451070666,affected_direct
+10,Imbabura,flood,112,15.910714285714286,3.5,472,50.56180832156284,affected_direct
+10,Imbabura,landslide,437,4.066361556064074,0.0,1072,51.94667068463196,affected_direct
+10,Imbabura,scour,29,0.8275862068965517,0.0,15,3.1967501971001893,affected_direct
+11,Loja,debris_flow,51,56.470588235294116,0.0,1250,206.88415627506873,affected_direct
+11,Loja,flood,188,43.73936170212766,5.0,1272,122.05171667770766,affected_direct
+11,Loja,landslide,1294,5.710200927357032,0.0,524,28.894510718974086,affected_direct
+11,Loja,scour,42,1.119047619047619,0.0,35,5.460288480507239,affected_direct
+12,Los Ríos,flood,667,263.0614692653673,28.0,7364,663.9608450227796,affected_direct
+12,Los Ríos,landslide,40,3.15,0.0,28,6.498717822257967,affected_direct
+12,Los Ríos,scour,88,0.5568181818181818,0.0,16,2.4394174664779245,affected_direct
+13,Manabí,debris_flow,27,49.77777777777778,0.0,1017,195.80137764372213,affected_direct
+13,Manabí,flood,1033,216.19845111326234,12.0,47800,1604.5372827642698,affected_direct
+13,Manabí,landslide,388,18.445876288659793,0.0,880,78.85580113810234,affected_direct
+13,Manabí,scour,58,20.24137931034483,0.0,416,72.77514284154985,affected_direct
+14,Morona Santiago,debris_flow,35,2.7714285714285714,0.0,34,6.795698095489676,affected_direct
+14,Morona Santiago,flood,199,25.824120603015075,0.0,1062,89.17593676595945,affected_direct
+14,Morona Santiago,landslide,790,0.8379746835443038,0.0,210,10.945843222535972,affected_direct
+14,Morona Santiago,scour,114,0.05263157894736842,0.0,6,0.5619514869490163,affected_direct
+15,Napo,debris_flow,80,5.025,0.0,84,16.341277238091028,affected_direct
+15,Napo,flood,120,154.89166666666668,4.0,2088,371.4992517457054,affected_direct
+15,Napo,landslide,697,0.8206599713055954,0.0,270,10.884357019352672,affected_direct
+15,Napo,scour,68,2.264705882352941,0.0,68,10.232546329717529,affected_direct
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,affected_direct
+16,Pastaza,flood,183,166.9398907103825,34.0,1601,294.2146963967167,affected_direct
+16,Pastaza,landslide,324,2.5401234567901234,0.0,535,31.744943206434595,affected_direct
+16,Pastaza,scour,49,0.14285714285714285,0.0,7,1.0,affected_direct
+17,Pichincha,debris_flow,54,19.77777777777778,0.0,555,78.61913605134005,affected_direct
+17,Pichincha,flood,520,12.409615384615385,0.0,1825,87.49940546919493,affected_direct
+17,Pichincha,landslide,2085,0.6719424460431654,0.0,400,9.084683927887786,affected_direct
+17,Pichincha,scour,59,1.2881355932203389,0.0,36,5.034538801798505,affected_direct
+18,Tungurahua,debris_flow,112,21.580357142857142,0.0,908,95.89733985289838,affected_direct
+18,Tungurahua,flood,135,30.296296296296298,3.0,904,100.82377666703469,affected_direct
+18,Tungurahua,landslide,1113,4.233602875112309,0.0,1201,52.573665885607625,affected_direct
+18,Tungurahua,scour,61,0.16393442622950818,0.0,4,0.7567546469156402,affected_direct
+19,Zamora Chinchipe,debris_flow,28,0.7857142857142857,0.0,12,2.897727626404076,affected_direct
+19,Zamora Chinchipe,flood,159,41.0314465408805,7.0,1230,128.94795443985683,affected_direct
+19,Zamora Chinchipe,landslide,661,1.1754916792738275,0.0,149,8.363126405873134,affected_direct
+19,Zamora Chinchipe,scour,15,2.6666666666666665,0.0,15,4.775931721614518,affected_direct
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,affected_direct
+20,Galápagos,flood,23,2.9130434782608696,0.0,20,5.204133352688915,affected_direct
+20,Galápagos,landslide,2,1.0,1.0,2,1.4142135623730951,affected_direct
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,affected_direct
+21,Sucumbíos,flood,101,184.5049504950495,24.0,1711,364.9571378603898,affected_direct
+21,Sucumbíos,landslide,176,141.28977272727272,0.0,23384,1763.5689791225573,affected_direct
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,affected_direct
+22,Orellana,flood,141,63.87943262411348,5.0,2816,257.08454627049116,affected_direct
+22,Orellana,landslide,61,0.18032786885245902,0.0,4,0.806395203385856,affected_direct
+22,Orellana,scour,35,1.7428571428571429,0.0,32,5.705223907256644,affected_direct
+23,Santo Domingo de los Tsáchilas,debris_flow,6,7.5,0.0,45,18.371173070873837,affected_direct
+23,Santo Domingo de los Tsáchilas,flood,184,18.434782608695652,5.0,872,69.83709449258038,affected_direct
+23,Santo Domingo de los Tsáchilas,landslide,226,0.827433628318584,0.0,40,3.552945514486332,affected_direct
+23,Santo Domingo de los Tsáchilas,scour,30,0.03333333333333333,0.0,1,0.18257418583505536,affected_direct
+24,Santa Elena,flood,145,122.42758620689655,8.0,1600,301.2439198286274,affected_direct
+24,Santa Elena,landslide,13,10.76923076923077,0.0,140,38.82901373576605,affected_direct
+24,Santa Elena,scour,13,4.923076923076923,0.0,64,17.750406279207333,affected_direct
+01,Azuay,debris_flow,17,61.1764705882353,0.0,1040,252.2370500377863,affected_indirect
+01,Azuay,flood,274,129.1167883211679,0.0,20000,1507.7030418822542,affected_indirect
+01,Azuay,landslide,737,92.80732700135685,0.0,25494,1341.2387467823,affected_indirect
+01,Azuay,scour,44,113.63636363636364,0.0,5000,753.7783614444089,affected_indirect
+02,Bolívar,debris_flow,33,318.90909090909093,0.0,4932,1194.4748941385383,affected_indirect
+02,Bolívar,flood,120,149.84166666666667,0.0,12000,1219.8569209103982,affected_indirect
+02,Bolívar,landslide,703,44.55618776671408,0.0,20742,824.8980110753356,affected_indirect
+02,Bolívar,scour,38,67.36842105263158,0.0,2560,415.28683809475206,affected_indirect
+03,Cañar,debris_flow,3,2.0,0.0,6,3.4641016151377544,affected_indirect
+03,Cañar,flood,67,0.0,0.0,0,0.0,affected_indirect
+03,Cañar,landslide,135,0.044444444444444446,0.0,6,0.5163977794943222,affected_indirect
+03,Cañar,scour,13,0.0,0.0,0,0.0,affected_indirect
+04,Carchi,debris_flow,16,218.75,0.0,3500,875.0000000000001,affected_indirect
+04,Carchi,flood,55,0.0,0.0,0,0.0,affected_indirect
+04,Carchi,landslide,199,63.02512562814071,0.0,7840,572.8455592208513,affected_indirect
+04,Carchi,scour,11,0.0,0.0,0,0.0,affected_indirect
+05,Cotopaxi,debris_flow,35,0.0,0.0,0,0.0,affected_indirect
+05,Cotopaxi,flood,131,0.0,0.0,0,0.0,affected_indirect
+05,Cotopaxi,landslide,270,0.0,0.0,0,0.0,affected_indirect
+05,Cotopaxi,scour,32,27.8125,0.0,890,157.33125881400684,affected_indirect
+06,Chimborazo,debris_flow,112,99.53571428571429,0.0,8000,780.2810758127852,affected_indirect
+06,Chimborazo,flood,90,0.12222222222222222,0.0,11,1.159501808728406,affected_indirect
+06,Chimborazo,landslide,882,3.5918367346938775,0.0,2000,76.26262245479587,affected_indirect
+06,Chimborazo,scour,37,0.0,0.0,0,0.0,affected_indirect
+07,El Oro,debris_flow,38,99.57894736842105,0.0,2504,445.3850221136611,affected_indirect
+07,El Oro,flood,473,0.44608879492600423,0.0,96,5.734757849621348,affected_indirect
+07,El Oro,landslide,866,16.70554272517321,0.0,10000,355.2119287844168,affected_indirect
+07,El Oro,scour,115,37.391304347826086,0.0,2800,295.1243774569229,affected_indirect
+08,Esmeraldas,debris_flow,14,0.0,0.0,0,0.0,affected_indirect
+08,Esmeraldas,flood,630,1.5380952380952382,0.0,200,12.285073453278228,affected_indirect
+08,Esmeraldas,landslide,422,0.5402843601895735,0.0,190,9.370040593644628,affected_indirect
+08,Esmeraldas,scour,67,0.23880597014925373,0.0,12,1.538294532215013,affected_indirect
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,affected_indirect
+09,Guayas,flood,1531,4.318745917700849,0.0,1740,72.34839660627003,affected_indirect
+09,Guayas,landslide,104,0.0,0.0,0,0.0,affected_indirect
+09,Guayas,scour,102,3.3823529411764706,0.0,240,25.651527705319488,affected_indirect
+10,Imbabura,debris_flow,17,28.823529411764707,0.0,450,108.96572585801788,affected_indirect
+10,Imbabura,flood,112,48.982142857142854,0.0,3000,326.39278780405357,affected_indirect
+10,Imbabura,landslide,437,28.54004576659039,0.0,4654,267.56082455698294,affected_indirect
+10,Imbabura,scour,29,68.96551724137932,0.0,2000,371.39067635410373,affected_indirect
+11,Loja,debris_flow,51,0.0,0.0,0,0.0,affected_indirect
+11,Loja,flood,188,32.54255319148936,0.0,3769,299.0331180089817,affected_indirect
+11,Loja,landslide,1294,141.15842349304484,0.0,126515,3833.975040930811,affected_indirect
+11,Loja,scour,42,0.0,0.0,0,0.0,affected_indirect
+12,Los Ríos,flood,667,1.5307346326836582,0.0,400,18.73123164527613,affected_indirect
+12,Los Ríos,landslide,40,50.0,0.0,2000,316.22776601683796,affected_indirect
+12,Los Ríos,scour,88,0.0,0.0,0,0.0,affected_indirect
+13,Manabí,debris_flow,27,0.0,0.0,0,0.0,affected_indirect
+13,Manabí,flood,1033,0.25943852855759925,0.0,64,3.614472212421453,affected_indirect
+13,Manabí,landslide,388,1.0644329896907216,0.0,400,20.31594053272819,affected_indirect
+13,Manabí,scour,58,0.0,0.0,0,0.0,affected_indirect
+14,Morona Santiago,debris_flow,35,0.0,0.0,0,0.0,affected_indirect
+14,Morona Santiago,flood,199,0.40703517587939697,0.0,81,5.741937760567523,affected_indirect
+14,Morona Santiago,landslide,790,1.718987341772152,0.0,600,29.649828216958532,affected_indirect
+14,Morona Santiago,scour,114,0.10526315789473684,0.0,12,1.123902973898033,affected_indirect
+15,Napo,debris_flow,80,216.325,0.0,6868,1050.4518349714738,affected_indirect
+15,Napo,flood,120,0.3,0.0,28,2.652412885967617,affected_indirect
+15,Napo,landslide,697,2.60545193687231,0.0,800,39.98430905034721,affected_indirect
+15,Napo,scour,68,0.0,0.0,0,0.0,affected_indirect
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,affected_indirect
+16,Pastaza,flood,183,163.9344262295082,0.0,30000,2217.6638128637187,affected_indirect
+16,Pastaza,landslide,324,0.0,0.0,0,0.0,affected_indirect
+16,Pastaza,scour,49,0.0,0.0,0,0.0,affected_indirect
+17,Pichincha,debris_flow,54,1296.7037037037037,0.0,69743,9490.147585447285,affected_indirect
+17,Pichincha,flood,520,214.1769230769231,0.0,73000,3342.9124079882567,affected_indirect
+17,Pichincha,landslide,2085,522.0244604316547,0.0,750000,16635.36405668196,affected_indirect
+17,Pichincha,scour,59,47.66101694915254,0.0,2812,366.0912176780767,affected_indirect
+18,Tungurahua,debris_flow,112,1.4285714285714286,0.0,160,15.118578920369089,affected_indirect
+18,Tungurahua,flood,135,1.674074074074074,0.0,226,19.450983027619476,affected_indirect
+18,Tungurahua,landslide,1113,0.0017969451931716084,0.0,1,0.04237132562552273,affected_indirect
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,affected_indirect
+19,Zamora Chinchipe,debris_flow,28,0.0,0.0,0,0.0,affected_indirect
+19,Zamora Chinchipe,flood,159,0.8301886792452831,0.0,132,10.468280931479502,affected_indirect
+19,Zamora Chinchipe,landslide,661,0.1059001512859304,0.0,70,2.7226844455454486,affected_indirect
+19,Zamora Chinchipe,scour,15,0.0,0.0,0,0.0,affected_indirect
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,affected_indirect
+20,Galápagos,flood,23,0.0,0.0,0,0.0,affected_indirect
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,affected_indirect
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,affected_indirect
+21,Sucumbíos,flood,101,0.0,0.0,0,0.0,affected_indirect
+21,Sucumbíos,landslide,176,1.7386363636363635,0.0,156,16.266350415632743,affected_indirect
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,affected_indirect
+22,Orellana,flood,141,8.432624113475176,0.0,335,40.55935773028728,affected_indirect
+22,Orellana,landslide,61,0.0,0.0,0,0.0,affected_indirect
+22,Orellana,scour,35,0.0,0.0,0,0.0,affected_indirect
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,affected_indirect
+23,Santo Domingo de los Tsáchilas,flood,184,0.0,0.0,0,0.0,affected_indirect
+23,Santo Domingo de los Tsáchilas,landslide,226,0.0,0.0,0,0.0,affected_indirect
+23,Santo Domingo de los Tsáchilas,scour,30,4.666666666666667,0.0,140,25.560386016907753,affected_indirect
+24,Santa Elena,flood,145,7.048275862068966,0.0,800,68.82347901964718,affected_indirect
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,affected_indirect
+24,Santa Elena,scour,13,138.46153846153845,0.0,1800,499.23017660270625,affected_indirect
+01,Azuay,debris_flow,17,0.0,0.0,0,0.0,sheltered
+01,Azuay,flood,274,0.0,0.0,0,0.0,sheltered
+01,Azuay,landslide,737,0.016282225237449117,0.0,9,0.349309515518828,sheltered
+01,Azuay,scour,44,0.0,0.0,0,0.0,sheltered
+02,Bolívar,debris_flow,33,0.0,0.0,0,0.0,sheltered
+02,Bolívar,flood,120,1.1,0.0,122,11.166727287765552,sheltered
+02,Bolívar,landslide,703,0.17780938833570412,0.0,106,4.033120328213512,sheltered
+02,Bolívar,scour,38,0.0,0.0,0,0.0,sheltered
+03,Cañar,debris_flow,3,0.0,0.0,0,0.0,sheltered
+03,Cañar,flood,67,0.0,0.0,0,0.0,sheltered
+03,Cañar,landslide,135,0.25925925925925924,0.0,22,2.1159062239855855,sheltered
+03,Cañar,scour,13,3.230769230769231,0.0,42,11.64870412072981,sheltered
+04,Carchi,debris_flow,16,0.0,0.0,0,0.0,sheltered
+04,Carchi,flood,55,0.0,0.0,0,0.0,sheltered
+04,Carchi,landslide,199,0.0,0.0,0,0.0,sheltered
+04,Carchi,scour,11,0.0,0.0,0,0.0,sheltered
+05,Cotopaxi,debris_flow,35,0.0,0.0,0,0.0,sheltered
+05,Cotopaxi,flood,131,0.16793893129770993,0.0,19,1.678610559846012,sheltered
+05,Cotopaxi,landslide,270,0.044444444444444446,0.0,12,0.7302967433402217,sheltered
+05,Cotopaxi,scour,32,0.0,0.0,0,0.0,sheltered
+06,Chimborazo,debris_flow,112,0.0,0.0,0,0.0,sheltered
+06,Chimborazo,flood,90,0.0,0.0,0,0.0,sheltered
+06,Chimborazo,landslide,882,0.09977324263038549,0.0,50,1.7964588558365113,sheltered
+06,Chimborazo,scour,37,0.0,0.0,0,0.0,sheltered
+07,El Oro,debris_flow,38,0.0,0.0,0,0.0,sheltered
+07,El Oro,flood,473,1.813953488372093,0.0,139,11.400976384274351,sheltered
+07,El Oro,landslide,866,0.005773672055427252,0.0,5,0.1699069165076461,sheltered
+07,El Oro,scour,115,0.0,0.0,0,0.0,sheltered
+08,Esmeraldas,debris_flow,14,0.0,0.0,0,0.0,sheltered
+08,Esmeraldas,flood,630,4.936507936507937,0.0,582,45.40948578822283,sheltered
+08,Esmeraldas,landslide,422,0.7180094786729858,0.0,152,8.589537237107328,sheltered
+08,Esmeraldas,scour,67,0.11940298507462686,0.0,8,0.9773555548504417,sheltered
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,sheltered
+09,Guayas,flood,1531,0.9725669497060745,0.0,481,17.466360718243386,sheltered
+09,Guayas,landslide,104,0.0,0.0,0,0.0,sheltered
+09,Guayas,scour,102,0.0,0.0,0,0.0,sheltered
+10,Imbabura,debris_flow,17,0.0,0.0,0,0.0,sheltered
+10,Imbabura,flood,112,0.15178571428571427,0.0,11,1.1794778309353484,sheltered
+10,Imbabura,landslide,437,0.0,0.0,0,0.0,sheltered
+10,Imbabura,scour,29,0.0,0.0,0,0.0,sheltered
+11,Loja,debris_flow,51,0.0,0.0,0,0.0,sheltered
+11,Loja,flood,188,0.05851063829787234,0.0,11,0.8022574532384201,sheltered
+11,Loja,landslide,1294,0.09273570324574962,0.0,36,1.314701132779212,sheltered
+11,Loja,scour,42,0.0,0.0,0,0.0,sheltered
+12,Los Ríos,flood,667,0.7841079460269865,0.0,53,5.029777925746239,sheltered
+12,Los Ríos,landslide,40,0.275,0.0,11,1.7392527130926085,sheltered
+12,Los Ríos,scour,88,0.0,0.0,0,0.0,sheltered
+13,Manabí,debris_flow,27,0.0,0.0,0,0.0,sheltered
+13,Manabí,flood,1033,0.6447241045498547,0.0,136,7.036492210075366,sheltered
+13,Manabí,landslide,388,0.4097938144329897,0.0,85,4.870372058517234,sheltered
+13,Manabí,scour,58,0.0,0.0,0,0.0,sheltered
+14,Morona Santiago,debris_flow,35,0.0,0.0,0,0.0,sheltered
+14,Morona Santiago,flood,199,0.35678391959798994,0.0,53,3.961728745774205,sheltered
+14,Morona Santiago,landslide,790,0.020253164556962026,0.0,11,0.4296901783703523,sheltered
+14,Morona Santiago,scour,114,0.0,0.0,0,0.0,sheltered
+15,Napo,debris_flow,80,0.0,0.0,0,0.0,sheltered
+15,Napo,flood,120,0.5,0.0,60,5.477225575051662,sheltered
+15,Napo,landslide,697,0.1649928263988522,0.0,109,4.134593654888037,sheltered
+15,Napo,scour,68,0.0,0.0,0,0.0,sheltered
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,sheltered
+16,Pastaza,flood,183,0.22950819672131148,0.0,27,2.138553295188366,sheltered
+16,Pastaza,landslide,324,0.07098765432098765,0.0,17,1.0005683894738506,sheltered
+16,Pastaza,scour,49,0.0,0.0,0,0.0,sheltered
+17,Pichincha,debris_flow,54,0.0,0.0,0,0.0,sheltered
+17,Pichincha,flood,520,0.08269230769230769,0.0,34,1.5315841351184407,sheltered
+17,Pichincha,landslide,2085,0.02685851318944844,0.0,15,0.48116936259461457,sheltered
+17,Pichincha,scour,59,0.0,0.0,0,0.0,sheltered
+18,Tungurahua,debris_flow,112,0.008928571428571428,0.0,1,0.0944911182523068,sheltered
+18,Tungurahua,flood,135,0.18518518518518517,0.0,21,1.8373617733984915,sheltered
+18,Tungurahua,landslide,1113,0.04132973944294699,0.0,12,0.589246281144979,sheltered
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,sheltered
+19,Zamora Chinchipe,debris_flow,28,0.0,0.0,0,0.0,sheltered
+19,Zamora Chinchipe,flood,159,0.1761006289308176,0.0,12,1.3049787388295149,sheltered
+19,Zamora Chinchipe,landslide,661,0.14674735249621784,0.0,57,2.3266458842980398,sheltered
+19,Zamora Chinchipe,scour,15,0.4666666666666667,0.0,7,1.8073922282301278,sheltered
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,sheltered
+20,Galápagos,flood,23,1.2608695652173914,0.0,29,6.046918007655167,sheltered
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,sheltered
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,sheltered
+21,Sucumbíos,flood,101,3.0693069306930694,0.0,300,29.84970935394266,sheltered
+21,Sucumbíos,landslide,176,0.0,0.0,0,0.0,sheltered
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,sheltered
+22,Orellana,flood,141,1.5177304964539007,0.0,69,9.150021730559232,sheltered
+22,Orellana,landslide,61,0.0,0.0,0,0.0,sheltered
+22,Orellana,scour,35,0.0,0.0,0,0.0,sheltered
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,sheltered
+23,Santo Domingo de los Tsáchilas,flood,184,0.2717391304347826,0.0,50,3.686048903872426,sheltered
+23,Santo Domingo de los Tsáchilas,landslide,226,0.9380530973451328,0.0,150,10.640203160834613,sheltered
+23,Santo Domingo de los Tsáchilas,scour,30,0.0,0.0,0,0.0,sheltered
+24,Santa Elena,flood,145,0.1103448275862069,0.0,12,1.0214181411924734,sheltered
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,sheltered
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,sheltered
+01,Azuay,debris_flow,17,0.7058823529411765,0.0,8,1.9288826390670113,houses_affected
+01,Azuay,flood,274,1.5291970802919708,0.0,59,5.646570622290926,houses_affected
+01,Azuay,landslide,737,0.508819538670285,0.0,48,3.3763468876442,houses_affected
+01,Azuay,scour,44,0.0,0.0,0,0.0,houses_affected
+02,Bolívar,debris_flow,33,1.0,0.0,16,2.958039891549808,houses_affected
+02,Bolívar,flood,120,5.55,0.0,122,15.437512970769905,houses_affected
+02,Bolívar,landslide,703,0.14935988620199148,0.0,11,0.8683392899288701,houses_affected
+02,Bolívar,scour,38,0.34210526315789475,0.0,10,1.6320492141074816,houses_affected
+03,Cañar,debris_flow,3,3.3333333333333335,2.0,7,3.2145502536643185,houses_affected
+03,Cañar,flood,67,1.373134328358209,0.0,15,2.545559537797216,houses_affected
+03,Cañar,landslide,135,0.5481481481481482,0.0,22,2.143085091458484,houses_affected
+03,Cañar,scour,13,1.2307692307692308,0.0,11,3.0592440829352534,houses_affected
+04,Carchi,debris_flow,16,2.25,0.0,14,4.479583313955291,houses_affected
+04,Carchi,flood,55,4.418181818181818,1.0,43,9.306888944119935,houses_affected
+04,Carchi,landslide,199,0.3015075376884422,0.0,8,1.1545027084120572,houses_affected
+04,Carchi,scour,11,0.09090909090909091,0.0,1,0.30151134457776363,houses_affected
+05,Cotopaxi,debris_flow,35,2.0285714285714285,0.0,38,6.46477202312072,houses_affected
+05,Cotopaxi,flood,131,2.4656488549618323,0.0,72,8.093965187741054,houses_affected
+05,Cotopaxi,landslide,270,0.24444444444444444,0.0,10,1.0308740772146279,houses_affected
+05,Cotopaxi,scour,32,0.21875,0.0,3,0.6082431071696207,houses_affected
+06,Chimborazo,debris_flow,112,1.5089285714285714,0.0,28,3.9387095698887324,houses_affected
+06,Chimborazo,flood,90,1.6666666666666667,1.0,16,3.1265445621126857,houses_affected
+06,Chimborazo,landslide,882,0.2471655328798186,0.0,104,3.744707640990832,houses_affected
+06,Chimborazo,scour,37,0.1891891891891892,0.0,4,0.7007074931745706,houses_affected
+07,El Oro,debris_flow,38,13.894736842105264,0.0,145,29.74103496416503,houses_affected
+07,El Oro,flood,473,22.621564482029598,1.0,1190,107.67802818740168,houses_affected
+07,El Oro,landslide,866,0.33371824480369516,0.0,40,2.012836099749025,houses_affected
+07,El Oro,scour,115,0.2782608695652174,0.0,17,1.7093541721176684,houses_affected
+08,Esmeraldas,debris_flow,14,0.8571428571428571,0.0,6,1.7478401113789142,houses_affected
+08,Esmeraldas,flood,630,38.611111111111114,1.0,3314,153.13357388330553,houses_affected
+08,Esmeraldas,landslide,422,0.5924170616113744,0.0,87,5.013969969647335,houses_affected
+08,Esmeraldas,scour,67,1.1044776119402986,0.0,50,6.154905233640665,houses_affected
+09,Guayas,debris_flow,1,3.0,3.0,3,0.0,houses_affected
+09,Guayas,flood,1531,36.20117570215545,0.0,3700,171.28556219252764,houses_affected
+09,Guayas,landslide,104,0.6634615384615384,0.0,13,1.549259622254167,houses_affected
+09,Guayas,scour,102,0.9019607843137255,0.0,50,5.407200560311872,houses_affected
+10,Imbabura,debris_flow,17,0.8235294117647058,0.0,7,1.8786728732554485,houses_affected
+10,Imbabura,flood,112,4.276785714285714,1.0,128,15.866679813811974,houses_affected
+10,Imbabura,landslide,437,0.2585812356979405,0.0,19,1.3695411409006928,houses_affected
+10,Imbabura,scour,29,0.1724137931034483,0.0,3,0.6017216678143155,houses_affected
+11,Loja,debris_flow,51,7.607843137254902,0.0,112,22.840383912160977,houses_affected
+11,Loja,flood,188,8.537234042553191,1.0,201,23.8872954577779,houses_affected
+11,Loja,landslide,1294,1.3075734157650696,0.0,146,6.955809346603725,houses_affected
+11,Loja,scour,42,0.30952380952380953,0.0,9,1.4053572627643993,houses_affected
+12,Los Ríos,flood,667,70.56221889055472,4.0,1841,188.17518740000523,houses_affected
+12,Los Ríos,landslide,40,0.55,0.0,6,1.299901376929646,houses_affected
+12,Los Ríos,scour,88,0.125,0.0,4,0.5835385517507052,houses_affected
+13,Manabí,debris_flow,27,55.111111111111114,0.0,959,191.71138831654318,houses_affected
+13,Manabí,flood,1033,69.41529525653436,3.0,11950,434.69611906321296,houses_affected
+13,Manabí,landslide,388,6.574742268041237,0.0,272,28.020794810173886,houses_affected
+13,Manabí,scour,58,2.5,0.0,90,12.276421559876049,houses_affected
+14,Morona Santiago,debris_flow,35,0.5714285714285714,0.0,7,1.4609769955453116,houses_affected
+14,Morona Santiago,flood,199,1.7135678391959799,0.0,43,4.71226283696241,houses_affected
+14,Morona Santiago,landslide,790,0.05443037974683544,0.0,22,0.8138997593934976,houses_affected
+14,Morona Santiago,scour,114,0.008771929824561403,0.0,1,0.0936585811581694,houses_affected
+15,Napo,debris_flow,80,0.65,0.0,34,3.9685472264554935,houses_affected
+15,Napo,flood,120,5.016666666666667,0.0,324,30.376622848603077,houses_affected
+15,Napo,landslide,697,0.0746054519368723,0.0,24,1.0200014906593253,houses_affected
+15,Napo,scour,68,0.04411764705882353,0.0,2,0.2695393267023518,houses_affected
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,houses_affected
+16,Pastaza,flood,183,7.491803278688525,0.0,339,32.75648897252638,houses_affected
+16,Pastaza,landslide,324,0.07098765432098765,0.0,9,0.5976405723485324,houses_affected
+16,Pastaza,scour,49,0.061224489795918366,0.0,2,0.31676511180119216,houses_affected
+17,Pichincha,debris_flow,54,2.814814814814815,0.0,32,6.718249081403307,houses_affected
+17,Pichincha,flood,520,2.7673076923076922,1.0,145,8.6689093249352,houses_affected
+17,Pichincha,landslide,2085,0.1251798561151079,0.0,7,0.5006368581132588,houses_affected
+17,Pichincha,scour,59,0.3050847457627119,0.0,9,1.2212802396374116,houses_affected
+18,Tungurahua,debris_flow,112,1.1785714285714286,0.0,33,4.082955751722968,houses_affected
+18,Tungurahua,flood,135,1.5555555555555556,1.0,13,2.538264381354263,houses_affected
+18,Tungurahua,landslide,1113,0.11230907457322552,0.0,29,1.2454815332676523,houses_affected
+18,Tungurahua,scour,61,0.09836065573770492,0.0,1,0.3002730997379377,houses_affected
+19,Zamora Chinchipe,debris_flow,28,0.39285714285714285,0.0,6,1.2863754913562,houses_affected
+19,Zamora Chinchipe,flood,159,10.257861635220126,1.0,430,39.84244505938168,houses_affected
+19,Zamora Chinchipe,landslide,661,0.19969742813918306,0.0,23,1.3335075299952317,houses_affected
+19,Zamora Chinchipe,scour,15,0.6666666666666666,0.0,4,1.1126972805283737,houses_affected
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,houses_affected
+20,Galápagos,flood,23,1.9565217391304348,1.0,12,2.930688111403892,houses_affected
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,houses_affected
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,houses_affected
+21,Sucumbíos,flood,101,35.722772277227726,3.0,404,78.65546628326364,houses_affected
+21,Sucumbíos,landslide,176,0.8636363636363636,0.0,85,6.90619898465027,houses_affected
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,houses_affected
+22,Orellana,flood,141,5.148936170212766,0.0,401,34.60097772570116,houses_affected
+22,Orellana,landslide,61,0.04918032786885246,0.0,1,0.21803894974650143,houses_affected
+22,Orellana,scour,35,0.22857142857142856,0.0,6,1.0314385809239868,houses_affected
+23,Santo Domingo de los Tsáchilas,debris_flow,6,2.3333333333333335,0.0,13,5.240865068542279,houses_affected
+23,Santo Domingo de los Tsáchilas,flood,184,4.5271739130434785,1.0,150,12.662466401043957,houses_affected
+23,Santo Domingo de los Tsáchilas,landslide,226,0.15486725663716813,0.0,6,0.5795770335826296,houses_affected
+23,Santo Domingo de los Tsáchilas,scour,30,0.1,0.0,1,0.30512857662936466,houses_affected
+24,Santa Elena,flood,145,13.524137931034483,1.0,357,43.516612849229574,houses_affected
+24,Santa Elena,landslide,13,3.1538461538461537,0.0,41,11.371354022617197,houses_affected
+24,Santa Elena,scour,13,1.1538461538461537,0.0,15,4.160251471689218,houses_affected
+01,Azuay,debris_flow,17,0.7058823529411765,0.0,6,1.5315313367000096,houses_destroyed
+01,Azuay,flood,274,0.021897810218978103,0.0,3,0.20850605123540356,houses_destroyed
+01,Azuay,landslide,737,0.10176390773405698,0.0,10,0.7620122343320123,houses_destroyed
+01,Azuay,scour,44,0.0,0.0,0,0.0,houses_destroyed
+02,Bolívar,debris_flow,33,0.12121212121212122,0.0,2,0.41514875026728054,houses_destroyed
+02,Bolívar,flood,120,0.5166666666666667,0.0,13,1.9915085846104281,houses_destroyed
+02,Bolívar,landslide,703,0.025604551920341393,0.0,3,0.19073675593529582,houses_destroyed
+02,Bolívar,scour,38,0.07894736842105263,0.0,3,0.4866642633922877,houses_destroyed
+03,Cañar,debris_flow,3,0.0,0.0,0,0.0,houses_destroyed
+03,Cañar,flood,67,0.1791044776119403,0.0,3,0.548423999163453,houses_destroyed
+03,Cañar,landslide,135,0.08148148148148149,0.0,4,0.45796193304377586,houses_destroyed
+03,Cañar,scour,13,0.07692307692307693,0.0,1,0.2773500981126145,houses_destroyed
+04,Carchi,debris_flow,16,0.3125,0.0,5,1.25,houses_destroyed
+04,Carchi,flood,55,0.03636363636363636,0.0,1,0.18891859540615819,houses_destroyed
+04,Carchi,landslide,199,0.05527638190954774,0.0,2,0.2696046469397176,houses_destroyed
+04,Carchi,scour,11,0.0,0.0,0,0.0,houses_destroyed
+05,Cotopaxi,debris_flow,35,0.2,0.0,3,0.6324555320336758,houses_destroyed
+05,Cotopaxi,flood,131,0.7251908396946565,0.0,71,6.259827271043511,houses_destroyed
+05,Cotopaxi,landslide,270,0.037037037037037035,0.0,2,0.2079250439508644,houses_destroyed
+05,Cotopaxi,scour,32,0.03125,0.0,1,0.17677669529663687,houses_destroyed
+06,Chimborazo,debris_flow,112,0.24107142857142858,0.0,6,0.8724567746775901,houses_destroyed
+06,Chimborazo,flood,90,0.011111111111111112,0.0,1,0.10540925533894598,houses_destroyed
+06,Chimborazo,landslide,882,0.12131519274376418,0.0,57,2.1745664497706487,houses_destroyed
+06,Chimborazo,scour,37,0.05405405405405406,0.0,2,0.3287979746107146,houses_destroyed
+07,El Oro,debris_flow,38,3.526315789473684,0.0,110,17.882101639145127,houses_destroyed
+07,El Oro,flood,473,0.21141649048625794,0.0,61,2.865213021538762,houses_destroyed
+07,El Oro,landslide,866,0.026558891454965358,0.0,3,0.2106668341834967,houses_destroyed
+07,El Oro,scour,115,0.008695652173913044,0.0,1,0.09325048082403137,houses_destroyed
+08,Esmeraldas,debris_flow,14,0.07142857142857142,0.0,1,0.2672612419124244,houses_destroyed
+08,Esmeraldas,flood,630,1.4714285714285715,0.0,753,30.20494347021047,houses_destroyed
+08,Esmeraldas,landslide,422,0.14691943127962084,0.0,21,1.158353934133978,houses_destroyed
+08,Esmeraldas,scour,67,0.07462686567164178,0.0,3,0.4373970124955441,houses_destroyed
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,houses_destroyed
+09,Guayas,flood,1531,0.08229915088177661,0.0,89,2.320360337549144,houses_destroyed
+09,Guayas,landslide,104,0.09615384615384616,0.0,2,0.3273675755166149,houses_destroyed
+09,Guayas,scour,102,0.0196078431372549,0.0,1,0.13933307603182385,houses_destroyed
+10,Imbabura,debris_flow,17,0.23529411764705882,0.0,4,0.9701425001453319,houses_destroyed
+10,Imbabura,flood,112,0.03571428571428571,0.0,1,0.18641092980036003,houses_destroyed
+10,Imbabura,landslide,437,0.07093821510297482,0.0,12,0.6752521026529084,houses_destroyed
+10,Imbabura,scour,29,0.0,0.0,0,0.0,houses_destroyed
+11,Loja,debris_flow,51,2.1372549019607843,0.0,75,10.812991459985783,houses_destroyed
+11,Loja,flood,188,0.4946808510638298,0.0,49,3.8438746890178406,houses_destroyed
+11,Loja,landslide,1294,0.2071097372488408,0.0,114,3.530279428942855,houses_destroyed
+11,Loja,scour,42,0.0,0.0,0,0.0,houses_destroyed
+12,Los Ríos,flood,667,0.034482758620689655,0.0,4,0.2457045289430565,houses_destroyed
+12,Los Ríos,landslide,40,0.075,0.0,1,0.2667467828369185,houses_destroyed
+12,Los Ríos,scour,88,0.045454545454545456,0.0,2,0.2586032735340944,houses_destroyed
+13,Manabí,debris_flow,27,0.7777777777777778,0.0,17,3.332051035408087,houses_destroyed
+13,Manabí,flood,1033,0.2584704743465634,0.0,30,1.8273303013898141,houses_destroyed
+13,Manabí,landslide,388,0.25257731958762886,0.0,20,1.248510660737515,houses_destroyed
+13,Manabí,scour,58,0.017241379310344827,0.0,1,0.13130643285972254,houses_destroyed
+14,Morona Santiago,debris_flow,35,0.08571428571428572,0.0,2,0.37349136311209086,houses_destroyed
+14,Morona Santiago,flood,199,0.2914572864321608,0.0,24,1.926811724363887,houses_destroyed
+14,Morona Santiago,landslide,790,0.017721518987341773,0.0,7,0.2705481895282341,houses_destroyed
+14,Morona Santiago,scour,114,0.0,0.0,0,0.0,houses_destroyed
+15,Napo,debris_flow,80,0.55,0.0,24,2.9030756278929113,houses_destroyed
+15,Napo,flood,120,0.3333333333333333,0.0,12,1.6618979396776339,houses_destroyed
+15,Napo,landslide,697,0.0703012912482066,0.0,33,1.2784437584719617,houses_destroyed
+15,Napo,scour,68,0.11764705882352941,0.0,3,0.5045882543313219,houses_destroyed
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,houses_destroyed
+16,Pastaza,flood,183,0.4371584699453552,0.0,50,3.7643697737377786,houses_destroyed
+16,Pastaza,landslide,324,0.009259259259259259,0.0,2,0.12407206312859158,houses_destroyed
+16,Pastaza,scour,49,0.0,0.0,0,0.0,houses_destroyed
+17,Pichincha,debris_flow,54,0.16666666666666666,0.0,7,0.9664172308847474,houses_destroyed
+17,Pichincha,flood,520,0.04230769230769231,0.0,10,0.5063550483683874,houses_destroyed
+17,Pichincha,landslide,2085,0.010071942446043165,0.0,6,0.18168079779715762,houses_destroyed
+17,Pichincha,scour,59,0.0,0.0,0,0.0,houses_destroyed
+18,Tungurahua,debris_flow,112,0.08035714285714286,0.0,7,0.6730111555123107,houses_destroyed
+18,Tungurahua,flood,135,0.014814814814814815,0.0,1,0.12126110875009048,houses_destroyed
+18,Tungurahua,landslide,1113,0.020664869721473494,0.0,11,0.3703545695560035,houses_destroyed
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,houses_destroyed
+19,Zamora Chinchipe,debris_flow,28,0.07142857142857142,0.0,2,0.3779644730092272,houses_destroyed
+19,Zamora Chinchipe,flood,159,0.14465408805031446,0.0,7,0.8255146303392012,houses_destroyed
+19,Zamora Chinchipe,landslide,661,0.04387291981845688,0.0,5,0.27995585508407517,houses_destroyed
+19,Zamora Chinchipe,scour,15,0.0,0.0,0,0.0,houses_destroyed
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,houses_destroyed
+20,Galápagos,flood,23,0.0,0.0,0,0.0,houses_destroyed
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,houses_destroyed
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,houses_destroyed
+21,Sucumbíos,flood,101,0.04950495049504951,0.0,2,0.25985525292987155,houses_destroyed
+21,Sucumbíos,landslide,176,0.017045454545454544,0.0,2,0.16816426724848768,houses_destroyed
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,houses_destroyed
+22,Orellana,flood,141,0.02127659574468085,0.0,1,0.14481935083717123,houses_destroyed
+22,Orellana,landslide,61,0.01639344262295082,0.0,1,0.12803687993289598,houses_destroyed
+22,Orellana,scour,35,0.14285714285714285,0.0,3,0.5500190982169267,houses_destroyed
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,houses_destroyed
+23,Santo Domingo de los Tsáchilas,flood,184,0.20652173913043478,0.0,30,2.2496534935529255,houses_destroyed
+23,Santo Domingo de los Tsáchilas,landslide,226,0.18141592920353983,0.0,20,1.6700791024548045,houses_destroyed
+23,Santo Domingo de los Tsáchilas,scour,30,0.0,0.0,0,0.0,houses_destroyed
+24,Santa Elena,flood,145,0.034482758620689655,0.0,2,0.21774708517784636,houses_destroyed
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,houses_destroyed
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,houses_destroyed
+01,Azuay,debris_flow,17,0.0,0.0,0,0.0,schools_affected
+01,Azuay,flood,274,0.16423357664233576,0.0,2,0.3809064235266507,schools_affected
+01,Azuay,landslide,737,0.012211668928086838,0.0,1,0.10990420099459253,schools_affected
+01,Azuay,scour,44,0.045454545454545456,0.0,1,0.21070705494148542,schools_affected
+02,Bolívar,debris_flow,33,0.0,0.0,0,0.0,schools_affected
+02,Bolívar,flood,120,0.1,0.0,3,0.39747099677499853,schools_affected
+02,Bolívar,landslide,703,0.005689900426742532,0.0,1,0.07527007780621087,schools_affected
+02,Bolívar,scour,38,0.0,0.0,0,0.0,schools_affected
+03,Cañar,debris_flow,3,0.0,0.0,0,0.0,schools_affected
+03,Cañar,flood,67,0.19402985074626866,0.0,7,0.8916923978753911,schools_affected
+03,Cañar,landslide,135,0.007407407407407408,0.0,1,0.08606629658238704,schools_affected
+03,Cañar,scour,13,0.0,0.0,0,0.0,schools_affected
+04,Carchi,debris_flow,16,0.0,0.0,0,0.0,schools_affected
+04,Carchi,flood,55,0.10909090909090909,0.0,1,0.3146266024828463,schools_affected
+04,Carchi,landslide,199,0.0,0.0,0,0.0,schools_affected
+04,Carchi,scour,11,0.0,0.0,0,0.0,schools_affected
+05,Cotopaxi,debris_flow,35,0.02857142857142857,0.0,1,0.1690308509457033,schools_affected
+05,Cotopaxi,flood,131,0.030534351145038167,0.0,2,0.21263660939987675,schools_affected
+05,Cotopaxi,landslide,270,0.003703703703703704,0.0,1,0.060858061945018464,schools_affected
+05,Cotopaxi,scour,32,0.03125,0.0,1,0.1767766952966369,schools_affected
+06,Chimborazo,debris_flow,112,0.017857142857142856,0.0,1,0.13302731936060236,schools_affected
+06,Chimborazo,flood,90,0.022222222222222223,0.0,1,0.14823135407896973,schools_affected
+06,Chimborazo,landslide,882,0.0022675736961451248,0.0,1,0.0475920143795036,schools_affected
+06,Chimborazo,scour,37,0.02702702702702703,0.0,1,0.16439898730535726,schools_affected
+07,El Oro,debris_flow,38,0.07894736842105263,0.0,1,0.2732763127330939,schools_affected
+07,El Oro,flood,473,0.06976744186046512,0.0,5,0.408328741403744,schools_affected
+07,El Oro,landslide,866,0.005773672055427252,0.0,1,0.07580879232581976,schools_affected
+07,El Oro,scour,115,0.008695652173913044,0.0,1,0.09325048082403138,schools_affected
+08,Esmeraldas,debris_flow,14,0.07142857142857142,0.0,1,0.26726124191242434,schools_affected
+08,Esmeraldas,flood,630,0.17142857142857143,0.0,18,0.9859793854974535,schools_affected
+08,Esmeraldas,landslide,422,0.009478672985781991,0.0,1,0.09701097359453616,schools_affected
+08,Esmeraldas,scour,67,0.05970149253731343,0.0,1,0.2387211518300628,schools_affected
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,schools_affected
+09,Guayas,flood,1531,0.14892227302416722,0.0,23,0.8571291655129168,schools_affected
+09,Guayas,landslide,104,0.04807692307692308,0.0,1,0.2149647834019842,schools_affected
+09,Guayas,scour,102,0.029411764705882353,0.0,1,0.16979208910778987,schools_affected
+10,Imbabura,debris_flow,17,0.0,0.0,0,0.0,schools_affected
+10,Imbabura,flood,112,0.1875,0.0,2,0.41440829411853497,schools_affected
+10,Imbabura,landslide,437,0.004576659038901602,0.0,1,0.06757338318080908,schools_affected
+10,Imbabura,scour,29,0.0,0.0,0,0.0,schools_affected
+11,Loja,debris_flow,51,0.35294117647058826,0.0,6,1.1282469483542104,schools_affected
+11,Loja,flood,188,0.19148936170212766,0.0,4,0.5716398354650413,schools_affected
+11,Loja,landslide,1294,0.0517774343122102,0.0,4,0.26895419457385733,schools_affected
+11,Loja,scour,42,0.047619047619047616,0.0,1,0.2155402687045212,schools_affected
+12,Los Ríos,flood,667,0.031484257871064465,0.0,2,0.18314417180114187,schools_affected
+12,Los Ríos,landslide,40,0.025,0.0,1,0.15811388300841897,schools_affected
+12,Los Ríos,scour,88,0.011363636363636364,0.0,1,0.10660035817780522,schools_affected
+13,Manabí,debris_flow,27,0.07407407407407407,0.0,1,0.2668802563418119,schools_affected
+13,Manabí,flood,1033,0.26621490803484993,0.0,17,1.2111365107072922,schools_affected
+13,Manabí,landslide,388,0.04381443298969072,0.0,2,0.23980587885361077,schools_affected
+13,Manabí,scour,58,0.034482758620689655,0.0,1,0.18405922400991942,schools_affected
+14,Morona Santiago,debris_flow,35,0.0,0.0,0,0.0,schools_affected
+14,Morona Santiago,flood,199,0.04020100502512563,0.0,1,0.19692576614735352,schools_affected
+14,Morona Santiago,landslide,790,0.0,0.0,0,0.0,schools_affected
+14,Morona Santiago,scour,114,0.017543859649122806,0.0,1,0.1318658570441865,schools_affected
+15,Napo,debris_flow,80,0.0,0.0,0,0.0,schools_affected
+15,Napo,flood,120,0.08333333333333333,0.0,3,0.441223153459176,schools_affected
+15,Napo,landslide,697,0.0014347202295552368,0.0,1,0.03787770095392852,schools_affected
+15,Napo,scour,68,0.0,0.0,0,0.0,schools_affected
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,schools_affected
+16,Pastaza,flood,183,0.00546448087431694,0.0,1,0.07392212709545727,schools_affected
+16,Pastaza,landslide,324,0.0030864197530864196,0.0,1,0.05555555555555556,schools_affected
+16,Pastaza,scour,49,0.0,0.0,0,0.0,schools_affected
+17,Pichincha,debris_flow,54,0.037037037037037035,0.0,1,0.19062587709298623,schools_affected
+17,Pichincha,flood,520,0.051923076923076926,0.0,3,0.27621888545889817,schools_affected
+17,Pichincha,landslide,2085,0.0057553956834532375,0.0,2,0.08176007469249844,schools_affected
+17,Pichincha,scour,59,0.03389830508474576,0.0,1,0.182520824972938,schools_affected
+18,Tungurahua,debris_flow,112,0.03571428571428571,0.0,1,0.18641092980036003,schools_affected
+18,Tungurahua,flood,135,0.022222222222222223,0.0,1,0.14795454458610452,schools_affected
+18,Tungurahua,landslide,1113,0.006289308176100629,0.0,1,0.07909091641928627,schools_affected
+18,Tungurahua,scour,61,0.01639344262295082,0.0,1,0.12803687993289598,schools_affected
+19,Zamora Chinchipe,debris_flow,28,0.03571428571428571,0.0,1,0.1889822365046136,schools_affected
+19,Zamora Chinchipe,flood,159,0.1320754716981132,0.0,3,0.4074186654431981,schools_affected
+19,Zamora Chinchipe,landslide,661,0.0045385779122541605,0.0,1,0.06726681682563397,schools_affected
+19,Zamora Chinchipe,scour,15,0.13333333333333333,0.0,1,0.35186577527449836,schools_affected
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,schools_affected
+20,Galápagos,flood,23,0.21739130434782608,0.0,4,0.8504823091062899,schools_affected
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,schools_affected
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,schools_affected
+21,Sucumbíos,flood,101,0.009900990099009901,0.0,1,0.0995037190209989,schools_affected
+21,Sucumbíos,landslide,176,0.005681818181818182,0.0,1,0.0753778361444409,schools_affected
+21,Sucumbíos,scour,32,0.03125,0.0,1,0.17677669529663687,schools_affected
+22,Orellana,flood,141,0.0851063829787234,0.0,3,0.42239726903418545,schools_affected
+22,Orellana,landslide,61,0.0,0.0,0,0.0,schools_affected
+22,Orellana,scour,35,0.05714285714285714,0.0,1,0.2355041079768028,schools_affected
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.16666666666666666,0.0,1,0.408248290463863,schools_affected
+23,Santo Domingo de los Tsáchilas,flood,184,0.08152173913043478,0.0,1,0.2743813101323856,schools_affected
+23,Santo Domingo de los Tsáchilas,landslide,226,0.017699115044247787,0.0,1,0.1321481246316338,schools_affected
+23,Santo Domingo de los Tsáchilas,scour,30,0.0,0.0,0,0.0,schools_affected
+24,Santa Elena,flood,145,0.08275862068965517,0.0,2,0.3228227987410015,schools_affected
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,schools_affected
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,schools_affected
+01,Azuay,debris_flow,17,0.0,0.0,0,0.0,health_facilities_affected
+01,Azuay,flood,274,0.051094890510948905,0.0,1,0.22059419866945282,health_facilities_affected
+01,Azuay,landslide,737,0.0,0.0,0,0.0,health_facilities_affected
+01,Azuay,scour,44,0.0,0.0,0,0.0,health_facilities_affected
+02,Bolívar,debris_flow,33,0.0,0.0,0,0.0,health_facilities_affected
+02,Bolívar,flood,120,0.008333333333333333,0.0,1,0.09128709291752768,health_facilities_affected
+02,Bolívar,landslide,703,0.0,0.0,0,0.0,health_facilities_affected
+02,Bolívar,scour,38,0.0,0.0,0,0.0,health_facilities_affected
+03,Cañar,debris_flow,3,0.3333333333333333,0.0,1,0.5773502691896258,health_facilities_affected
+03,Cañar,flood,67,0.05970149253731343,0.0,1,0.2387211518300628,health_facilities_affected
+03,Cañar,landslide,135,0.0,0.0,0,0.0,health_facilities_affected
+03,Cañar,scour,13,0.0,0.0,0,0.0,health_facilities_affected
+04,Carchi,debris_flow,16,0.0,0.0,0,0.0,health_facilities_affected
+04,Carchi,flood,55,0.01818181818181818,0.0,1,0.13483997249264842,health_facilities_affected
+04,Carchi,landslide,199,0.0,0.0,0,0.0,health_facilities_affected
+04,Carchi,scour,11,0.0,0.0,0,0.0,health_facilities_affected
+05,Cotopaxi,debris_flow,35,0.0,0.0,0,0.0,health_facilities_affected
+05,Cotopaxi,flood,131,0.007633587786259542,0.0,1,0.08737040566610378,health_facilities_affected
+05,Cotopaxi,landslide,270,0.0,0.0,0,0.0,health_facilities_affected
+05,Cotopaxi,scour,32,0.0,0.0,0,0.0,health_facilities_affected
+06,Chimborazo,debris_flow,112,0.0,0.0,0,0.0,health_facilities_affected
+06,Chimborazo,flood,90,0.17777777777777778,0.0,1,0.3844674641127625,health_facilities_affected
+06,Chimborazo,landslide,882,0.0,0.0,0,0.0,health_facilities_affected
+06,Chimborazo,scour,37,0.08108108108108109,0.0,3,0.49319696191607193,health_facilities_affected
+07,El Oro,debris_flow,38,0.05263157894736842,0.0,1,0.2262942859214143,health_facilities_affected
+07,El Oro,flood,473,0.008456659619450317,0.0,2,0.11242863425228983,health_facilities_affected
+07,El Oro,landslide,866,0.0,0.0,0,0.0,health_facilities_affected
+07,El Oro,scour,115,0.0,0.0,0,0.0,health_facilities_affected
+08,Esmeraldas,debris_flow,14,0.14285714285714285,0.0,1,0.36313651960128146,health_facilities_affected
+08,Esmeraldas,flood,630,0.1523809523809524,0.0,9,0.6782698326863131,health_facilities_affected
+08,Esmeraldas,landslide,422,0.0,0.0,0,0.0,health_facilities_affected
+08,Esmeraldas,scour,67,0.0,0.0,0,0.0,health_facilities_affected
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,health_facilities_affected
+09,Guayas,flood,1531,0.02939255388634879,0.0,5,0.24210046944191624,health_facilities_affected
+09,Guayas,landslide,104,0.0,0.0,0,0.0,health_facilities_affected
+09,Guayas,scour,102,0.0,0.0,0,0.0,health_facilities_affected
+10,Imbabura,debris_flow,17,0.0,0.0,0,0.0,health_facilities_affected
+10,Imbabura,flood,112,0.026785714285714284,0.0,1,0.16218227031056387,health_facilities_affected
+10,Imbabura,landslide,437,0.0,0.0,0,0.0,health_facilities_affected
+10,Imbabura,scour,29,0.0,0.0,0,0.0,health_facilities_affected
+11,Loja,debris_flow,51,0.058823529411764705,0.0,1,0.23763541031440183,health_facilities_affected
+11,Loja,flood,188,0.031914893617021274,0.0,3,0.25129089858732023,health_facilities_affected
+11,Loja,landslide,1294,0.0030911901081916537,0.0,4,0.1111969443499533,health_facilities_affected
+11,Loja,scour,42,0.0,0.0,0,0.0,health_facilities_affected
+12,Los Ríos,flood,667,0.020989505247376312,0.0,2,0.16305154459863633,health_facilities_affected
+12,Los Ríos,landslide,40,0.0,0.0,0,0.0,health_facilities_affected
+12,Los Ríos,scour,88,0.0,0.0,0,0.0,health_facilities_affected
+13,Manabí,debris_flow,27,0.0,0.0,0,0.0,health_facilities_affected
+13,Manabí,flood,1033,0.0484027105517909,0.0,3,0.2633635012508289,health_facilities_affected
+13,Manabí,landslide,388,0.002577319587628866,0.0,1,0.05076730825668096,health_facilities_affected
+13,Manabí,scour,58,0.0,0.0,0,0.0,health_facilities_affected
+14,Morona Santiago,debris_flow,35,0.02857142857142857,0.0,1,0.1690308509457033,health_facilities_affected
+14,Morona Santiago,flood,199,0.035175879396984924,0.0,1,0.18468877512637946,health_facilities_affected
+14,Morona Santiago,landslide,790,0.0,0.0,0,0.0,health_facilities_affected
+14,Morona Santiago,scour,114,0.0,0.0,0,0.0,health_facilities_affected
+15,Napo,debris_flow,80,0.0,0.0,0,0.0,health_facilities_affected
+15,Napo,flood,120,0.0,0.0,0,0.0,health_facilities_affected
+15,Napo,landslide,697,0.0,0.0,0,0.0,health_facilities_affected
+15,Napo,scour,68,0.0,0.0,0,0.0,health_facilities_affected
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,health_facilities_affected
+16,Pastaza,flood,183,0.00546448087431694,0.0,1,0.07392212709545727,health_facilities_affected
+16,Pastaza,landslide,324,0.0,0.0,0,0.0,health_facilities_affected
+16,Pastaza,scour,49,0.0,0.0,0,0.0,health_facilities_affected
+17,Pichincha,debris_flow,54,0.018518518518518517,0.0,1,0.13608276348795434,health_facilities_affected
+17,Pichincha,flood,520,0.0057692307692307696,0.0,1,0.0758089616475111,health_facilities_affected
+17,Pichincha,landslide,2085,0.007673860911270983,0.0,16,0.35040230390272226,health_facilities_affected
+17,Pichincha,scour,59,0.0,0.0,0,0.0,health_facilities_affected
+18,Tungurahua,debris_flow,112,0.0,0.0,0,0.0,health_facilities_affected
+18,Tungurahua,flood,135,0.007407407407407408,0.0,1,0.08606629658238704,health_facilities_affected
+18,Tungurahua,landslide,1113,0.0008984725965858042,0.0,1,0.029974532466509038,health_facilities_affected
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,health_facilities_affected
+19,Zamora Chinchipe,debris_flow,28,0.0,0.0,0,0.0,health_facilities_affected
+19,Zamora Chinchipe,flood,159,0.012578616352201259,0.0,1,0.11179894836849427,health_facilities_affected
+19,Zamora Chinchipe,landslide,661,0.0,0.0,0,0.0,health_facilities_affected
+19,Zamora Chinchipe,scour,15,0.0,0.0,0,0.0,health_facilities_affected
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,health_facilities_affected
+20,Galápagos,flood,23,0.043478260869565216,0.0,1,0.20851441405707472,health_facilities_affected
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,health_facilities_affected
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,health_facilities_affected
+21,Sucumbíos,flood,101,0.0297029702970297,0.0,1,0.17061333737750137,health_facilities_affected
+21,Sucumbíos,landslide,176,0.0,0.0,0,0.0,health_facilities_affected
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,health_facilities_affected
+22,Orellana,flood,141,0.0070921985815602835,0.0,1,0.08421519210665189,health_facilities_affected
+22,Orellana,landslide,61,0.0,0.0,0,0.0,health_facilities_affected
+22,Orellana,scour,35,0.0,0.0,0,0.0,health_facilities_affected
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,health_facilities_affected
+23,Santo Domingo de los Tsáchilas,flood,184,0.03260869565217391,0.0,1,0.17809477163447351,health_facilities_affected
+23,Santo Domingo de los Tsáchilas,landslide,226,0.0,0.0,0,0.0,health_facilities_affected
+23,Santo Domingo de los Tsáchilas,scour,30,0.0,0.0,0,0.0,health_facilities_affected
+24,Santa Elena,flood,145,0.034482758620689655,0.0,1,0.18309807266751713,health_facilities_affected
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,health_facilities_affected
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,health_facilities_affected
+01,Azuay,debris_flow,17,0.0,0.0,0,0.0,crops_affected_ha
+01,Azuay,flood,274,0.40875912408759124,0.0,64,4.35604879356848,crops_affected_ha
+01,Azuay,landslide,737,0.14111261872455902,0.0,100,3.6862929652450314,crops_affected_ha
+01,Azuay,scour,44,0.0,0.0,0,0.0,crops_affected_ha
+02,Bolívar,debris_flow,33,0.8181818181818182,0.0,20,3.6008206135420147,crops_affected_ha
+02,Bolívar,flood,120,20.15,0.0,550,77.60075045119238,crops_affected_ha
+02,Bolívar,landslide,703,0.15647226173541964,0.0,32,1.7681851445553074,crops_affected_ha
+02,Bolívar,scour,38,0.15789473684210525,0.0,6,0.9733285267845754,crops_affected_ha
+03,Cañar,debris_flow,3,0.0,0.0,0,0.0,crops_affected_ha
+03,Cañar,flood,67,0.05970149253731343,0.0,3,0.3845736330537532,crops_affected_ha
+03,Cañar,landslide,135,0.0,0.0,0,0.0,crops_affected_ha
+03,Cañar,scour,13,0.0,0.0,0,0.0,crops_affected_ha
+04,Carchi,debris_flow,16,1.4375,0.0,20,4.979541478221999,crops_affected_ha
+04,Carchi,flood,55,1.018181818181818,0.0,20,4.039118482352072,crops_affected_ha
+04,Carchi,landslide,199,0.035175879396984924,0.0,4,0.32375455883238624,crops_affected_ha
+04,Carchi,scour,11,0.0,0.0,0,0.0,crops_affected_ha
+05,Cotopaxi,debris_flow,35,3.4857142857142858,0.0,117,19.76980976517631,crops_affected_ha
+05,Cotopaxi,flood,131,24.50381679389313,0.0,1500,141.26284143374508,crops_affected_ha
+05,Cotopaxi,landslide,270,0.1111111111111111,0.0,20,1.2799086088811107,crops_affected_ha
+05,Cotopaxi,scour,32,0.0,0.0,0,0.0,crops_affected_ha
+06,Chimborazo,debris_flow,112,3.1517857142857144,0.0,112,14.618395064437625,crops_affected_ha
+06,Chimborazo,flood,90,1.4111111111111112,0.0,28,4.690162893231289,crops_affected_ha
+06,Chimborazo,landslide,882,0.05895691609977324,0.0,20,0.7879154240832577,crops_affected_ha
+06,Chimborazo,scour,37,3.2432432432432434,0.0,100,16.67567324212363,crops_affected_ha
+07,El Oro,debris_flow,38,3.473684210526316,0.0,50,9.934207464696712,crops_affected_ha
+07,El Oro,flood,473,6.211416490486258,0.0,763,46.93158693714135,crops_affected_ha
+07,El Oro,landslide,866,0.003464203233256351,0.0,2,0.07594953747799689,crops_affected_ha
+07,El Oro,scour,115,0.0,0.0,0,0.0,crops_affected_ha
+08,Esmeraldas,debris_flow,14,0.0,0.0,0,0.0,crops_affected_ha
+08,Esmeraldas,flood,630,13.053968253968254,0.0,1873,116.95726506836778,crops_affected_ha
+08,Esmeraldas,landslide,422,0.2132701421800948,0.0,50,2.5921522744209553,crops_affected_ha
+08,Esmeraldas,scour,67,0.0,0.0,0,0.0,crops_affected_ha
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,crops_affected_ha
+09,Guayas,flood,1531,13.190071848465056,0.0,2900,108.93205200332437,crops_affected_ha
+09,Guayas,landslide,104,0.0,0.0,0,0.0,crops_affected_ha
+09,Guayas,scour,102,0.0,0.0,0,0.0,crops_affected_ha
+10,Imbabura,debris_flow,17,0.17647058823529413,0.0,2,0.5285941398709243,crops_affected_ha
+10,Imbabura,flood,112,0.33035714285714285,0.0,21,2.28740536300921,crops_affected_ha
+10,Imbabura,landslide,437,0.12814645308924486,0.0,19,1.385395481100165,crops_affected_ha
+10,Imbabura,scour,29,0.0,0.0,0,0.0,crops_affected_ha
+11,Loja,debris_flow,51,0.8235294117647058,0.0,38,5.324306085690195,crops_affected_ha
+11,Loja,flood,188,1.6436170212765957,0.0,120,10.352896812423698,crops_affected_ha
+11,Loja,landslide,1294,0.27743431221020093,0.0,96,3.4032195622606003,crops_affected_ha
+11,Loja,scour,42,0.0,0.0,0,0.0,crops_affected_ha
+12,Los Ríos,flood,667,62.292353823088455,0.0,7324,354.39791600597204,crops_affected_ha
+12,Los Ríos,landslide,40,0.375,0.0,15,2.371708245126284,crops_affected_ha
+12,Los Ríos,scour,88,0.0,0.0,0,0.0,crops_affected_ha
+13,Manabí,debris_flow,27,0.2962962962962963,0.0,7,1.3534802665383903,crops_affected_ha
+13,Manabí,flood,1033,36.42884801548887,0.0,9930,347.69425029235884,crops_affected_ha
+13,Manabí,landslide,388,1.0360824742268042,0.0,200,11.900046125609345,crops_affected_ha
+13,Manabí,scour,58,0.0,0.0,0,0.0,crops_affected_ha
+14,Morona Santiago,debris_flow,35,0.0,0.0,0,0.0,crops_affected_ha
+14,Morona Santiago,flood,199,1.6482412060301508,0.0,90,9.362879878450515,crops_affected_ha
+14,Morona Santiago,landslide,790,0.1620253164556962,0.0,83,3.309406028728284,crops_affected_ha
+14,Morona Santiago,scour,114,0.0,0.0,0,0.0,crops_affected_ha
+15,Napo,debris_flow,80,0.1,0.0,6,0.7044164475972788,crops_affected_ha
+15,Napo,flood,120,24.275,0.0,933,118.76931687204446,crops_affected_ha
+15,Napo,landslide,697,0.02582496413199426,0.0,16,0.6106515629943079,crops_affected_ha
+15,Napo,scour,68,0.0,0.0,0,0.0,crops_affected_ha
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,crops_affected_ha
+16,Pastaza,flood,183,3.4098360655737703,0.0,184,18.362387245605984,crops_affected_ha
+16,Pastaza,landslide,324,0.0,0.0,0,0.0,crops_affected_ha
+16,Pastaza,scour,49,0.0,0.0,0,0.0,crops_affected_ha
+17,Pichincha,debris_flow,54,0.0,0.0,0,0.0,crops_affected_ha
+17,Pichincha,flood,520,0.4673076923076923,0.0,192,8.655630022157844,crops_affected_ha
+17,Pichincha,landslide,2085,0.0009592326139088729,0.0,1,0.03096404898499538,crops_affected_ha
+17,Pichincha,scour,59,0.0,0.0,0,0.0,crops_affected_ha
+18,Tungurahua,debris_flow,112,2.8214285714285716,0.0,91,12.642851689460686,crops_affected_ha
+18,Tungurahua,flood,135,6.562962962962963,0.0,614,53.33344941944247,crops_affected_ha
+18,Tungurahua,landslide,1113,0.44654088050314467,0.0,287,9.069925656972753,crops_affected_ha
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,crops_affected_ha
+19,Zamora Chinchipe,debris_flow,28,0.0,0.0,0,0.0,crops_affected_ha
+19,Zamora Chinchipe,flood,159,6.729559748427673,0.0,500,43.74837219895291,crops_affected_ha
+19,Zamora Chinchipe,landslide,661,0.048411497730711045,0.0,27,1.0677438917136657,crops_affected_ha
+19,Zamora Chinchipe,scour,15,0.0,0.0,0,0.0,crops_affected_ha
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,crops_affected_ha
+20,Galápagos,flood,23,0.21739130434782608,0.0,5,1.0425720702853738,crops_affected_ha
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,crops_affected_ha
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,crops_affected_ha
+21,Sucumbíos,flood,101,3.603960396039604,0.0,290,28.949984182351734,crops_affected_ha
+21,Sucumbíos,landslide,176,0.07954545454545454,0.0,14,1.0552897060221726,crops_affected_ha
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,crops_affected_ha
+22,Orellana,flood,141,4.75177304964539,0.0,302,26.82779902275378,crops_affected_ha
+22,Orellana,landslide,61,0.0,0.0,0,0.0,crops_affected_ha
+22,Orellana,scour,35,0.0,0.0,0,0.0,crops_affected_ha
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,crops_affected_ha
+23,Santo Domingo de los Tsáchilas,flood,184,0.0,0.0,0,0.0,crops_affected_ha
+23,Santo Domingo de los Tsáchilas,landslide,226,0.0,0.0,0,0.0,crops_affected_ha
+23,Santo Domingo de los Tsáchilas,scour,30,0.0,0.0,0,0.0,crops_affected_ha
+24,Santa Elena,flood,145,5.103448275862069,0.0,146,21.526380500940334,crops_affected_ha
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,crops_affected_ha
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,crops_affected_ha
+01,Azuay,debris_flow,17,0.0,0.0,0,0.0,livestock_affected
+01,Azuay,flood,274,1.3175182481751824,0.0,170,12.85098817659756,livestock_affected
+01,Azuay,landslide,737,0.0067842605156037995,0.0,5,0.18417736717093933,livestock_affected
+01,Azuay,scour,44,0.0,0.0,0,0.0,livestock_affected
+02,Bolívar,debris_flow,33,1.0606060606060606,0.0,30,5.2674673346127285,livestock_affected
+02,Bolívar,flood,120,36.95,0.0,2318,227.35382597368786,livestock_affected
+02,Bolívar,landslide,703,0.034139402560455195,0.0,15,0.595783683112806,livestock_affected
+02,Bolívar,scour,38,0.0,0.0,0,0.0,livestock_affected
+03,Cañar,debris_flow,3,0.0,0.0,0,0.0,livestock_affected
+03,Cañar,flood,67,0.0,0.0,0,0.0,livestock_affected
+03,Cañar,landslide,135,0.0,0.0,0,0.0,livestock_affected
+03,Cañar,scour,13,0.0,0.0,0,0.0,livestock_affected
+04,Carchi,debris_flow,16,0.0,0.0,0,0.0,livestock_affected
+04,Carchi,flood,55,0.0,0.0,0,0.0,livestock_affected
+04,Carchi,landslide,199,0.0,0.0,0,0.0,livestock_affected
+04,Carchi,scour,11,0.0,0.0,0,0.0,livestock_affected
+05,Cotopaxi,debris_flow,35,3.4285714285714284,0.0,120,20.283702113484395,livestock_affected
+05,Cotopaxi,flood,131,4.847328244274809,0.0,548,48.05004975302679,livestock_affected
+05,Cotopaxi,landslide,270,0.018518518518518517,0.0,5,0.3042903097250923,livestock_affected
+05,Cotopaxi,scour,32,0.0,0.0,0,0.0,livestock_affected
+06,Chimborazo,debris_flow,112,370.66964285714283,0.0,40033,3781.7919923846607,livestock_affected
+06,Chimborazo,flood,90,57.833333333333336,0.0,5000,526.9310180211532,livestock_affected
+06,Chimborazo,landslide,882,1.100907029478458,0.0,718,25.382880072313863,livestock_affected
+06,Chimborazo,scour,37,9.35135135135135,0.0,346,56.88204960765363,livestock_affected
+07,El Oro,debris_flow,38,22.31578947368421,0.0,790,128.0941598903265,livestock_affected
+07,El Oro,flood,473,0.4334038054968288,0.0,105,6.660049151704594,livestock_affected
+07,El Oro,landslide,866,0.20785219399538107,0.0,100,4.349285584159656,livestock_affected
+07,El Oro,scour,115,0.0,0.0,0,0.0,livestock_affected
+08,Esmeraldas,debris_flow,14,0.0,0.0,0,0.0,livestock_affected
+08,Esmeraldas,flood,630,0.946031746031746,0.0,239,13.343103771243891,livestock_affected
+08,Esmeraldas,landslide,422,0.0,0.0,0,0.0,livestock_affected
+08,Esmeraldas,scour,67,0.0,0.0,0,0.0,livestock_affected
+09,Guayas,debris_flow,1,0.0,0.0,0,0.0,livestock_affected
+09,Guayas,flood,1531,6.966035271064664,0.0,4098,129.05304232962538,livestock_affected
+09,Guayas,landslide,104,0.0,0.0,0,0.0,livestock_affected
+09,Guayas,scour,102,0.0,0.0,0,0.0,livestock_affected
+10,Imbabura,debris_flow,17,5.470588235294118,0.0,93,22.555813128378965,livestock_affected
+10,Imbabura,flood,112,0.0,0.0,0,0.0,livestock_affected
+10,Imbabura,landslide,437,0.0,0.0,0,0.0,livestock_affected
+10,Imbabura,scour,29,0.0,0.0,0,0.0,livestock_affected
+11,Loja,debris_flow,51,3.450980392156863,0.0,106,17.623068660696063,livestock_affected
+11,Loja,flood,188,82.85106382978724,0.0,15341,1118.8629871957107,livestock_affected
+11,Loja,landslide,1294,0.030139103554868624,0.0,31,0.8758266783025161,livestock_affected
+11,Loja,scour,42,0.0,0.0,0,0.0,livestock_affected
+12,Los Ríos,flood,667,0.0,0.0,0,0.0,livestock_affected
+12,Los Ríos,landslide,40,0.0,0.0,0,0.0,livestock_affected
+12,Los Ríos,scour,88,0.0,0.0,0,0.0,livestock_affected
+13,Manabí,debris_flow,27,0.0,0.0,0,0.0,livestock_affected
+13,Manabí,flood,1033,5.612778315585673,0.0,3000,105.02388576291814,livestock_affected
+13,Manabí,landslide,388,0.12886597938144329,0.0,50,2.538365412834047,livestock_affected
+13,Manabí,scour,58,0.0,0.0,0,0.0,livestock_affected
+14,Morona Santiago,debris_flow,35,0.0,0.0,0,0.0,livestock_affected
+14,Morona Santiago,flood,199,15.402010050251256,0.0,3050,216.2060119235791,livestock_affected
+14,Morona Santiago,landslide,790,0.1962025316455696,0.0,155,5.514652518977356,livestock_affected
+14,Morona Santiago,scour,114,0.0,0.0,0,0.0,livestock_affected
+15,Napo,debris_flow,80,0.8625,0.0,50,5.8042842099498735,livestock_affected
+15,Napo,flood,120,1.8083333333333333,0.0,155,14.677654561181324,livestock_affected
+15,Napo,landslide,697,0.018651362984218076,0.0,6,0.2753199087028912,livestock_affected
+15,Napo,scour,68,0.0,0.0,0,0.0,livestock_affected
+16,Pastaza,debris_flow,2,0.0,0.0,0,0.0,livestock_affected
+16,Pastaza,flood,183,0.47540983606557374,0.0,67,5.053363227943258,livestock_affected
+16,Pastaza,landslide,324,0.0,0.0,0,0.0,livestock_affected
+16,Pastaza,scour,49,0.0,0.0,0,0.0,livestock_affected
+17,Pichincha,debris_flow,54,0.0,0.0,0,0.0,livestock_affected
+17,Pichincha,flood,520,0.43653846153846154,0.0,130,6.956776235167156,livestock_affected
+17,Pichincha,landslide,2085,0.0,0.0,0,0.0,livestock_affected
+17,Pichincha,scour,59,0.0,0.0,0,0.0,livestock_affected
+18,Tungurahua,debris_flow,112,12.303571428571429,0.0,900,89.85271625143346,livestock_affected
+18,Tungurahua,flood,135,23.02962962962963,0.0,760,106.61535975847463,livestock_affected
+18,Tungurahua,landslide,1113,13.966756513926326,0.0,10000,323.71268259413955,livestock_affected
+18,Tungurahua,scour,61,0.0,0.0,0,0.0,livestock_affected
+19,Zamora Chinchipe,debris_flow,28,0.0,0.0,0,0.0,livestock_affected
+19,Zamora Chinchipe,flood,159,288.34591194968556,0.0,45146,3580.3532832322803,livestock_affected
+19,Zamora Chinchipe,landslide,661,3.0529500756429653,0.0,2018,78.49110301586737,livestock_affected
+19,Zamora Chinchipe,scour,15,0.0,0.0,0,0.0,livestock_affected
+20,Galápagos,debris_flow,1,0.0,0.0,0,0.0,livestock_affected
+20,Galápagos,flood,23,0.0,0.0,0,0.0,livestock_affected
+20,Galápagos,landslide,2,0.0,0.0,0,0.0,livestock_affected
+21,Sucumbíos,debris_flow,3,0.0,0.0,0,0.0,livestock_affected
+21,Sucumbíos,flood,101,0.0,0.0,0,0.0,livestock_affected
+21,Sucumbíos,landslide,176,289.20454545454544,0.0,50900,3836.731859752042,livestock_affected
+21,Sucumbíos,scour,32,0.0,0.0,0,0.0,livestock_affected
+22,Orellana,flood,141,1.2765957446808511,0.0,130,11.701713173096083,livestock_affected
+22,Orellana,landslide,61,0.0,0.0,0,0.0,livestock_affected
+22,Orellana,scour,35,0.0,0.0,0,0.0,livestock_affected
+23,Santo Domingo de los Tsáchilas,debris_flow,6,0.0,0.0,0,0.0,livestock_affected
+23,Santo Domingo de los Tsáchilas,flood,184,0.0,0.0,0,0.0,livestock_affected
+23,Santo Domingo de los Tsáchilas,landslide,226,0.0,0.0,0,0.0,livestock_affected
+23,Santo Domingo de los Tsáchilas,scour,30,0.0,0.0,0,0.0,livestock_affected
+24,Santa Elena,flood,145,0.46206896551724136,0.0,67,5.564047150200578,livestock_affected
+24,Santa Elena,landslide,13,0.0,0.0,0,0.0,livestock_affected
+24,Santa Elena,scour,13,0.0,0.0,0,0.0,livestock_affected
+01,Azuay,TODOS,1072,0.022388059701492536,0.0,5,0.22756513020396424,deaths
+02,Bolívar,TODOS,894,0.021252796420581657,0.0,4,0.22347203434020327,deaths
+03,Cañar,TODOS,218,0.022935779816513763,0.0,2,0.17812801668128578,deaths
+04,Carchi,TODOS,281,0.05338078291814947,0.0,3,0.32841224233438554,deaths
+05,Cotopaxi,TODOS,468,0.042735042735042736,0.0,5,0.31773185449429486,deaths
+06,Chimborazo,TODOS,1121,0.08652988403211419,0.0,65,1.9618246338478404,deaths
+07,El Oro,TODOS,1492,0.012064343163538873,0.0,4,0.1505252191438163,deaths
+08,Esmeraldas,TODOS,1133,0.01412180052956752,0.0,3,0.1566377378259877,deaths
+09,Guayas,TODOS,1738,0.007479861910241657,0.0,5,0.15345336181289498,deaths
+10,Imbabura,TODOS,595,0.021848739495798318,0.0,2,0.18674946930882835,deaths
+11,Loja,TODOS,1575,0.02158730158730159,0.0,6,0.27061278260748617,deaths
+12,Los Ríos,TODOS,795,0.007547169811320755,0.0,3,0.12270419151779365,deaths
+13,Manabí,TODOS,1506,0.011288180610889775,0.0,4,0.14764620757418662,deaths
+14,Morona Santiago,TODOS,1138,0.019332161687170474,0.0,9,0.3104380150102186,deaths
+15,Napo,TODOS,965,0.021761658031088083,0.0,6,0.24643307100889403,deaths
+16,Pastaza,TODOS,558,0.010752688172043012,0.0,2,0.13355707950042095,deaths
+17,Pichincha,TODOS,2718,0.027225901398086828,0.0,28,0.577451817158533,deaths
+18,Tungurahua,TODOS,1421,0.02674173117522871,0.0,14,0.42375236441680414,deaths
+19,Zamora Chinchipe,TODOS,863,0.030127462340672075,0.0,5,0.25309381709995526,deaths
+20,Galápagos,TODOS,26,0.0,0.0,0,0.0,deaths
+21,Sucumbíos,TODOS,312,0.009615384615384616,0.0,2,0.12642949620934468,deaths
+22,Orellana,TODOS,237,0.0,0.0,0,0.0,deaths
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.03139013452914798,0.0,4,0.27462144779286096,deaths
+24,Santa Elena,TODOS,171,0.005847953216374269,0.0,1,0.07647191129018725,deaths
+01,Azuay,TODOS,1072,3.583955223880597,0.0,308,20.7883030214477,affected_direct
+02,Bolívar,TODOS,894,9.419463087248323,0.0,2566,94.03089543344787,affected_direct
+03,Cañar,TODOS,218,3.5596330275229358,0.0,200,14.976436910611337,affected_direct
+04,Carchi,TODOS,281,4.590747330960854,0.0,137,15.988381489500037,affected_direct
+05,Cotopaxi,TODOS,468,22.47008547008547,0.0,3200,170.0437566888528,affected_direct
+06,Chimborazo,TODOS,1121,10.533452274754683,0.0,1978,87.88343027810278,affected_direct
+07,El Oro,TODOS,1492,36.60656836461126,0.0,4840,269.98507057568196,affected_direct
+08,Esmeraldas,TODOS,1133,93.68667255075022,0.0,11343,426.43245995733145,affected_direct
+09,Guayas,TODOS,1738,127.78653624856156,2.0,16086,611.0222762796216,affected_direct
+10,Imbabura,TODOS,595,6.292436974789916,0.0,1072,49.97971164083473,affected_direct
+11,Loja,TODOS,1575,11.770793650793651,0.0,1272,63.53015200510363,affected_direct
+12,Los Ríos,TODOS,795,220.92704402515724,12.0,7364,615.6635376957548,affected_direct
+13,Manabí,TODOS,1506,154.71978751660026,2.0,47800,1332.7179247476715,affected_direct
+14,Morona Santiago,TODOS,1138,5.18804920913884,0.0,1062,39.49556333109006,affected_direct
+15,Napo,TODOS,965,20.430051813471504,0.0,2088,140.43865972638804,affected_direct
+16,Pastaza,TODOS,558,56.236559139784944,0.0,1601,186.7096112905891,affected_direct
+17,Pichincha,TODOS,2718,3.310522442972774,0.0,1825,40.909110992363864,affected_direct
+18,Tungurahua,TODOS,1421,7.902181562280084,0.0,1201,62.595489888588325,affected_direct
+19,Zamora Chinchipe,TODOS,863,8.531865585168019,0.0,1230,57.7996667603373,affected_direct
+20,Galápagos,TODOS,26,2.6538461538461537,0.0,20,4.947260314091489,affected_direct
+21,Sucumbíos,TODOS,312,139.42948717948718,0.0,23384,1340.0656657720501,affected_direct
+22,Orellana,TODOS,237,38.30801687763713,0.0,2816,200.441911306839,affected_direct
+23,Santo Domingo de los Tsáchilas,TODOS,446,8.127802690582959,0.0,872,45.73051780792786,affected_direct
+24,Santa Elena,TODOS,171,105.00584795321637,4.0,1600,280.537750360562,affected_direct
+01,Azuay,TODOS,1072,102.44123134328358,0.0,25494,1356.3588719928032,affected_indirect
+02,Bolívar,TODOS,894,69.78523489932886,0.0,20742,891.7070363671687,affected_indirect
+03,Cañar,TODOS,218,0.05504587155963303,0.0,6,0.5733700582455933,affected_indirect
+04,Carchi,TODOS,281,57.08896797153025,0.0,7840,524.740557581284,affected_indirect
+05,Cotopaxi,TODOS,468,1.9017094017094016,0.0,890,41.14026455337116,affected_indirect
+06,Chimborazo,TODOS,1121,12.780553077609277,0.0,8000,256.422819800299,affected_indirect
+07,El Oro,TODOS,1492,15.256032171581769,0.0,10000,291.6893533716347,affected_indirect
+08,Esmeraldas,TODOS,1133,1.0706090026478376,0.0,200,10.813564283280826,affected_indirect
+09,Guayas,TODOS,1738,4.002876869965478,0.0,1740,68.18984043311298,affected_indirect
+10,Imbabura,TODOS,595,34.36638655462185,0.0,4654,281.7807674211215,affected_indirect
+11,Loja,TODOS,1575,119.85841269841269,0.0,126515,3476.7659191130824,affected_indirect
+12,Los Ríos,TODOS,795,3.8,0.0,2000,72.93552585667646,affected_indirect
+13,Manabí,TODOS,1506,0.45219123505976094,0.0,400,10.734273291763888,affected_indirect
+14,Morona Santiago,TODOS,1138,1.2750439367311073,0.0,600,24.82673310283078,affected_indirect
+15,Napo,TODOS,965,19.852849740932644,0.0,6868,308.3454728166073,affected_indirect
+16,Pastaza,TODOS,558,53.763440860215056,0.0,30000,1270.0012700019051,affected_indirect
+17,Pichincha,TODOS,2718,468.22185430463577,0.0,750000,14703.354328188721,affected_indirect
+18,Tungurahua,TODOS,1421,0.2730471498944405,0.0,226,7.3432951935686175,affected_indirect
+19,Zamora Chinchipe,TODOS,863,0.23406720741599074,0.0,132,5.083607067508623,affected_indirect
+20,Galápagos,TODOS,26,0.0,0.0,0,0.0,affected_indirect
+21,Sucumbíos,TODOS,312,0.9807692307692307,0.0,156,12.23245966692082,affected_indirect
+22,Orellana,TODOS,237,5.0168776371308015,0.0,335,31.51337706875188,affected_indirect
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.31390134529147984,0.0,140,6.629192133345297,affected_indirect
+24,Santa Elena,TODOS,171,16.502923976608187,0.0,1800,151.12738585744793,affected_indirect
+01,Azuay,TODOS,1072,0.011194029850746268,0.0,9,0.28966910456886563,sheltered
+02,Bolívar,TODOS,894,0.28747203579418346,0.0,122,5.432175686038473,sheltered
+03,Cañar,TODOS,218,0.3532110091743119,0.0,42,3.2878793974579503,sheltered
+04,Carchi,TODOS,281,0.0,0.0,0,0.0,sheltered
+05,Cotopaxi,TODOS,468,0.07264957264957266,0.0,19,1.0465911981468032,sheltered
+06,Chimborazo,TODOS,1121,0.07850133809099019,0.0,50,1.5938195033158544,sheltered
+07,El Oro,TODOS,1492,0.5784182305630027,0.0,139,6.4709962758057324,sheltered
+08,Esmeraldas,TODOS,1133,3.0194174757281553,0.0,582,34.32048050866825,sheltered
+09,Guayas,TODOS,1738,0.8567318757192175,0.0,481,16.395643127075115,sheltered
+10,Imbabura,TODOS,595,0.02857142857142857,0.0,11,0.5133147801223571,sheltered
+11,Loja,TODOS,1575,0.08317460317460318,0.0,36,1.2234743701023785,sheltered
+12,Los Ríos,TODOS,795,0.6716981132075471,0.0,53,4.630056390126591,sheltered
+13,Manabí,TODOS,1506,0.547808764940239,0.0,136,6.330806279780578,sheltered
+14,Morona Santiago,TODOS,1138,0.07644991212653779,0.0,53,1.6964832105767156,sheltered
+15,Napo,TODOS,965,0.18134715025906736,0.0,109,4.007936142856107,sheltered
+16,Pastaza,TODOS,558,0.11648745519713262,0.0,27,1.4427608653425794,sheltered
+17,Pichincha,TODOS,2718,0.03642384105960265,0.0,34,0.7913300069379519,sheltered
+18,Tungurahua,TODOS,1421,0.050668543279380716,0.0,21,0.7701983761672208,sheltered
+19,Zamora Chinchipe,TODOS,863,0.15295480880648898,0.0,57,2.1242741261241647,sheltered
+20,Galápagos,TODOS,26,1.1153846153846154,0.0,29,5.687367919007336,sheltered
+21,Sucumbíos,TODOS,312,0.9935897435897436,0.0,300,16.98722682415231,sheltered
+22,Orellana,TODOS,237,0.9029535864978903,0.0,69,7.086860583804181,sheltered
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.5874439461883408,0.0,150,7.934859752673875,sheltered
+24,Santa Elena,TODOS,171,0.0935672514619883,0.0,12,0.9409098349520316,sheltered
+01,Azuay,TODOS,1072,0.7518656716417911,0.0,59,4.029303988738801,houses_affected
+02,Bolívar,TODOS,894,0.9138702460850112,0.0,122,6.011408341244434,houses_affected
+03,Cañar,TODOS,218,0.8807339449541285,0.0,22,2.3777957908318643,houses_affected
+04,Carchi,TODOS,281,1.209964412811388,0.0,43,4.630879313155844,houses_affected
+05,Cotopaxi,TODOS,468,0.9978632478632479,0.0,72,4.792704543135311,houses_affected
+06,Chimborazo,TODOS,1121,0.4852809991079393,0.0,104,3.6912066281721314,houses_affected
+07,El Oro,TODOS,1492,7.740616621983914,0.0,1190,61.66313702063135,houses_affected
+08,Esmeraldas,TODOS,1133,21.76610767872904,0.0,3314,115.74687190415197,houses_affected
+09,Guayas,TODOS,1738,31.983889528193327,0.0,3700,161.170355363029,houses_affected
+10,Imbabura,TODOS,595,1.026890756302521,0.0,128,7.141141972156616,houses_affected
+11,Loja,TODOS,1575,2.3479365079365078,0.0,201,11.429451323502901,houses_affected
+12,Los Ríos,TODOS,795,59.24276729559748,2.0,1841,174.27033252501062,houses_affected
+13,Manabí,TODOS,1506,50.39176626826029,0.0,11950,362.28134187355295,houses_affected
+14,Morona Santiago,TODOS,1138,0.35588752196836554,0.0,43,2.1887345600014982,houses_affected
+15,Napo,TODOS,965,0.7347150259067358,0.0,324,10.889681011765237,houses_affected
+16,Pastaza,TODOS,558,2.503584229390681,0.0,339,19.05201671242881,houses_affected
+17,Pichincha,TODOS,2718,0.6880058866813834,0.0,145,4.07716465452827,houses_affected
+18,Tungurahua,TODOS,1421,0.33286418015482055,0.0,33,1.835402101775508,houses_affected
+19,Zamora Chinchipe,TODOS,863,2.06720741599073,0.0,430,17.537765083994696,houses_affected
+20,Galápagos,TODOS,26,1.7307692307692308,1.0,12,2.8221650172545516,houses_affected
+21,Sucumbíos,TODOS,312,12.051282051282051,0.0,404,47.80457200373605,houses_affected
+22,Orellana,TODOS,237,3.109704641350211,0.0,401,26.76792506341366,houses_affected
+23,Santo Domingo de los Tsáchilas,TODOS,446,1.984304932735426,0.0,150,8.428268396739703,houses_affected
+24,Santa Elena,TODOS,171,11.7953216374269,0.0,357,40.389852850416446,houses_affected
+01,Azuay,TODOS,1072,0.08675373134328358,0.0,10,0.6728924305875293,houses_destroyed
+02,Bolívar,TODOS,894,0.09731543624161074,0.0,13,0.7751267331605994,houses_destroyed
+03,Cañar,TODOS,218,0.11009174311926606,0.0,4,0.4769227307264601,houses_destroyed
+04,Carchi,TODOS,281,0.06405693950177936,0.0,5,0.3819450927674962,houses_destroyed
+05,Cotopaxi,TODOS,468,0.24145299145299146,0.0,71,3.3252379322593804,houses_destroyed
+06,Chimborazo,TODOS,1121,0.12221231043710973,0.0,57,1.9498756630392107,houses_destroyed
+07,El Oro,TODOS,1492,0.17292225201072386,0.0,110,3.295769503323166,houses_destroyed
+08,Esmeraldas,TODOS,1133,0.8781994704324801,0.0,753,22.536566116046462,houses_destroyed
+09,Guayas,TODOS,1738,0.07940161104718067,0.0,89,2.17948811386999,houses_destroyed
+10,Imbabura,TODOS,595,0.06554621848739496,0.0,12,0.6064242182302869,houses_destroyed
+11,Loja,TODOS,1575,0.2984126984126984,0.0,114,3.9787991228275437,houses_destroyed
+12,Los Ríos,TODOS,795,0.03773584905660377,0.0,4,0.24808567964254843,houses_destroyed
+13,Manabí,TODOS,1506,0.25697211155378485,0.0,30,1.700019892951558,houses_destroyed
+14,Morona Santiago,TODOS,1138,0.06590509666080843,0.0,24,0.8440682975313574,houses_destroyed
+15,Napo,TODOS,965,0.1461139896373057,0.0,33,1.500483299547549,houses_destroyed
+16,Pastaza,TODOS,558,0.14874551971326164,0.0,50,2.1632868310928006,houses_destroyed
+17,Pichincha,TODOS,2718,0.01913171449595291,0.0,10,0.30515455869326447,houses_destroyed
+18,Tungurahua,TODOS,1421,0.023926812104152005,0.0,11,0.38012830338469417,houses_destroyed
+19,Zamora Chinchipe,TODOS,863,0.06257242178447277,0.0,7,0.4370077133858686,houses_destroyed
+20,Galápagos,TODOS,26,0.0,0.0,0,0.0,houses_destroyed
+21,Sucumbíos,TODOS,312,0.02564102564102564,0.0,2,0.1947450455876561,houses_destroyed
+22,Orellana,TODOS,237,0.0379746835443038,0.0,3,0.24922105639287714,houses_destroyed
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.17713004484304934,0.0,30,1.869330665801669,houses_destroyed
+24,Santa Elena,TODOS,171,0.029239766081871343,0.0,2,0.20078963486241072,houses_destroyed
+01,Azuay,TODOS,1072,0.05223880597014925,0.0,2,0.22676762224009292,schools_affected
+02,Bolívar,TODOS,894,0.017897091722595078,0.0,3,0.1629571578994963,schools_affected
+03,Cañar,TODOS,218,0.06422018348623854,0.0,7,0.5039060214809492,schools_affected
+04,Carchi,TODOS,281,0.021352313167259787,0.0,1,0.14481374886626475,schools_affected
+05,Cotopaxi,TODOS,468,0.014957264957264958,0.0,2,0.1380135854754928,schools_affected
+06,Chimborazo,TODOS,1121,0.006244424620874219,0.0,1,0.0788097224085933,schools_affected
+07,El Oro,TODOS,1492,0.028150134048257374,0.0,5,0.244068046896236,schools_affected
+08,Esmeraldas,TODOS,1133,0.10326566637246248,0.0,18,0.7441870828906946,schools_affected
+09,Guayas,TODOS,1738,0.13578826237054084,0.0,23,0.8079747776180074,schools_affected
+10,Imbabura,TODOS,595,0.03865546218487395,0.0,2,0.20147154083704308,schools_affected
+11,Loja,TODOS,1575,0.07809523809523809,0.0,6,0.3800908452520266,schools_affected
+12,Los Ríos,TODOS,795,0.028930817610062894,0.0,2,0.17506598682146685,schools_affected
+13,Manabí,TODOS,1506,0.19654714475431606,0.0,17,1.0167442159982656,schools_affected
+14,Morona Santiago,TODOS,1138,0.008787346221441126,0.0,1,0.09336910297947745,schools_affected
+15,Napo,TODOS,965,0.011398963730569948,0.0,3,0.16063479945393389,schools_affected
+16,Pastaza,TODOS,558,0.0035842293906810036,0.0,1,0.0598146680043576,schools_affected
+17,Pichincha,TODOS,2718,0.01582045621780721,0.0,3,0.1465085254329076,schools_affected
+18,Tungurahua,TODOS,1421,0.01055594651653765,0.0,1,0.10223440616740909,schools_affected
+19,Zamora Chinchipe,TODOS,863,0.031286210892236384,0.0,3,0.1990559864402832,schools_affected
+20,Galápagos,TODOS,26,0.19230769230769232,0.0,4,0.800960961307392,schools_affected
+21,Sucumbíos,TODOS,312,0.009615384615384616,0.0,1,0.09774225976795363,schools_affected
+22,Orellana,TODOS,237,0.05907172995780591,0.0,3,0.33932257901534,schools_affected
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.04484304932735426,0.0,1,0.20719170417133578,schools_affected
+24,Santa Elena,TODOS,171,0.07017543859649122,0.0,2,0.2986035610760637,schools_affected
+01,Azuay,TODOS,1072,0.013059701492537313,0.0,1,0.11358336309797565,health_facilities_affected
+02,Bolívar,TODOS,894,0.0011185682326621924,0.0,1,0.033445003104532564,health_facilities_affected
+03,Cañar,TODOS,218,0.022935779816513763,0.0,1,0.15004332862562497,health_facilities_affected
+04,Carchi,TODOS,281,0.0035587188612099642,0.0,1,0.059654998627189364,health_facilities_affected
+05,Cotopaxi,TODOS,468,0.002136752136752137,0.0,1,0.046225016352102445,health_facilities_affected
+06,Chimborazo,TODOS,1121,0.01694915254237288,0.0,3,0.1484381969207547,health_facilities_affected
+07,El Oro,TODOS,1492,0.004021447721179625,0.0,2,0.07313920702381899,health_facilities_affected
+08,Esmeraldas,TODOS,1133,0.08649602824360106,0.0,9,0.5126693370438579,health_facilities_affected
+09,Guayas,TODOS,1738,0.025891829689298044,0.0,5,0.22741680666043618,health_facilities_affected
+10,Imbabura,TODOS,595,0.005042016806722689,0.0,1,0.07088751878263173,health_facilities_affected
+11,Loja,TODOS,1575,0.008253968253968255,0.0,4,0.14009594282988416,health_facilities_affected
+12,Los Ríos,TODOS,795,0.01761006289308176,0.0,2,0.14953100113900564,health_facilities_affected
+13,Manabí,TODOS,1506,0.03386454183266932,0.0,3,0.22064976286304394,health_facilities_affected
+14,Morona Santiago,TODOS,1138,0.007029876977152899,0.0,1,0.08358586705696548,health_facilities_affected
+15,Napo,TODOS,965,0.0,0.0,0,0.0,health_facilities_affected
+16,Pastaza,TODOS,558,0.0017921146953405018,0.0,1,0.042333375666730184,health_facilities_affected
+17,Pichincha,TODOS,2718,0.007358351729212656,0.0,16,0.3092565514840075,health_facilities_affected
+18,Tungurahua,TODOS,1421,0.0014074595355383533,0.0,1,0.0375029114449979,health_facilities_affected
+19,Zamora Chinchipe,TODOS,863,0.002317497103128621,0.0,1,0.048112457756885114,health_facilities_affected
+20,Galápagos,TODOS,26,0.038461538461538464,0.0,1,0.196116135138184,health_facilities_affected
+21,Sucumbíos,TODOS,312,0.009615384615384616,0.0,1,0.09774225976795363,health_facilities_affected
+22,Orellana,TODOS,237,0.004219409282700422,0.0,1,0.06495698024616309,health_facilities_affected
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.013452914798206279,0.0,1,0.11533324955171867,health_facilities_affected
+24,Santa Elena,TODOS,171,0.029239766081871343,0.0,1,0.168972694793648,health_facilities_affected
+01,Azuay,TODOS,1072,0.20149253731343283,0.0,100,3.7670840367584417,crops_affected_ha
+02,Bolívar,TODOS,894,2.864653243847875,0.0,550,29.185943307039608,crops_affected_ha
+03,Cañar,TODOS,218,0.01834862385321101,0.0,3,0.2138801669804626,crops_affected_ha
+04,Carchi,TODOS,281,0.30604982206405695,0.0,20,2.1857327271768057,crops_affected_ha
+05,Cotopaxi,TODOS,468,7.183760683760684,0.0,1500,75.51164801707908,crops_affected_ha
+06,Chimborazo,TODOS,1121,0.5816235504014273,0.0,112,5.789521125423983,crops_affected_ha
+07,El Oro,TODOS,1492,2.059651474530831,0.0,763,26.608542762935734,crops_affected_ha
+08,Esmeraldas,TODOS,1133,7.338040600176522,0.0,1873,87.43138415367007,crops_affected_ha
+09,Guayas,TODOS,1738,11.61910241657077,0.0,2900,102.32472790098886,crops_affected_ha
+10,Imbabura,TODOS,595,0.16134453781512606,0.0,21,1.5496882082244843,crops_affected_ha
+11,Loja,TODOS,1575,0.4507936507936508,0.0,120,4.832514854032532,crops_affected_ha
+12,Los Ríos,TODOS,795,52.28176100628931,0.0,7324,325.3820867453041,crops_affected_ha
+13,Manabí,TODOS,1506,25.259628154050464,0.0,9930,288.4545087960645,crops_affected_ha
+14,Morona Santiago,TODOS,1138,0.4007029876977153,0.0,90,4.816535524316289,crops_affected_ha
+15,Napo,TODOS,965,3.0455958549222797,0.0,933,42.493519078498,crops_affected_ha
+16,Pastaza,TODOS,558,1.118279569892473,0.0,184,10.617910544163328,crops_affected_ha
+17,Pichincha,TODOS,2718,0.09013980868285504,0.0,192,3.787554720005797,crops_affected_ha
+18,Tungurahua,TODOS,1421,1.1956368754398312,0.0,614,18.67576596744735,crops_affected_ha
+19,Zamora Chinchipe,TODOS,863,1.2769409038238702,0.0,500,18.93163948161122,crops_affected_ha
+20,Galápagos,TODOS,26,0.19230769230769232,0.0,5,0.9805806756909203,crops_affected_ha
+21,Sucumbíos,TODOS,312,1.2115384615384615,0.0,290,16.518530806489625,crops_affected_ha
+22,Orellana,TODOS,237,2.827004219409283,0.0,302,20.79479106600486,crops_affected_ha
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.0,0.0,0,0.0,crops_affected_ha
+24,Santa Elena,TODOS,171,4.3274853801169595,0.0,146,19.897038032406236,crops_affected_ha
+01,Azuay,TODOS,1072,0.3414179104477612,0.0,170,6.515158009494464,livestock_affected
+02,Bolívar,TODOS,894,5.02572706935123,0.0,2318,83.95002251498126,livestock_affected
+03,Cañar,TODOS,218,0.0,0.0,0,0.0,livestock_affected
+04,Carchi,TODOS,281,0.0,0.0,0,0.0,livestock_affected
+05,Cotopaxi,TODOS,468,1.623931623931624,0.0,548,26.029706796295198,livestock_affected
+06,Chimborazo,TODOS,1121,42.85191793041927,0.0,40033,1205.1034467371815,livestock_affected
+07,El Oro,TODOS,1492,0.8264075067024129,0.0,790,21.078086744476366,livestock_affected
+08,Esmeraldas,TODOS,1133,0.5260370697263901,0.0,239,9.957350832746556,livestock_affected
+09,Guayas,TODOS,1738,6.136363636363637,0.0,4098,121.14052294447977,livestock_affected
+10,Imbabura,TODOS,595,0.15630252100840336,0.0,93,3.8126282868621635,livestock_affected
+11,Loja,TODOS,1575,10.026031746031746,0.0,15341,386.59730363726686,livestock_affected
+12,Los Ríos,TODOS,795,0.0,0.0,0,0.0,livestock_affected
+13,Manabí,TODOS,1506,3.8831341301460824,0.0,3000,87.01514524913947,livestock_affected
+14,Morona Santiago,TODOS,1138,2.829525483304042,0.0,3050,90.52586975035275,livestock_affected
+15,Napo,TODOS,965,0.30984455958549223,0.0,155,5.457337030589167,livestock_affected
+16,Pastaza,TODOS,558,0.15591397849462366,0.0,67,2.8972330897029956,livestock_affected
+17,Pichincha,TODOS,2718,0.08351729212656366,0.0,130,3.045359549612188,livestock_affected
+18,Tungurahua,TODOS,1421,14.097114707952146,0.0,10000,289.4494027619938,livestock_affected
+19,Zamora Chinchipe,TODOS,863,55.46349942062572,0.0,45146,1538.3829461039204,livestock_affected
+20,Galápagos,TODOS,26,0.0,0.0,0,0.0,livestock_affected
+21,Sucumbíos,TODOS,312,163.14102564102564,0.0,50900,2881.645051897996,livestock_affected
+22,Orellana,TODOS,237,0.759493670886076,0.0,130,9.0346065214143,livestock_affected
+23,Santo Domingo de los Tsáchilas,TODOS,446,0.0,0.0,0,0.0,livestock_affected
+24,Santa Elena,TODOS,171,0.391812865497076,0.0,67,5.123618056442546,livestock_affected

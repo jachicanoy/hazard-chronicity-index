@@ -1,0 +1,26 @@
+# Fuentes de datos pesados que NO se versionan en GitHub.
+# El repositorio guarda solo código, resultados agregados y documentación.
+# Cada fuente declara dónde vive y cómo se obtiene; scripts/fetch_data.py las descarga a data/.
+version: 1
+sources:
+  limites_administrativos:
+    description: "Límites político-administrativos de Ecuador (INEC/HDX), niveles provincia, cantón y parroquia"
+    backend: manual            # descargar de HDX: https://data.humdata.org/dataset/cod-ab-ecu
+    target: data/raw/admin_boundaries/
+  eventos_sngre:
+    description: "Reportes de emergencia SNGRE/ECU911 2015-2025 (acceso restringido, requiere autorización)"
+    backend: manual
+    target: data/raw/
+    public: false
+  datos_publicos:
+    description: "Modelo predictivo, raster Sentinel-1, serie Nino 1+2 de NOAA y limites administrativos. La carpeta conserva la estructura del proyecto (models/, raw/, processed/) y se copia en la raiz del repositorio. Alternativa recomendada para publicar con DOI: Zenodo"
+    backend: gdrive
+    gdrive_folder_id: "1QspEqv-kokBFqK6ml2dzW4cGLn8bixBk"
+    target: .
+  chirps:
+    description: "Precipitación CHIRPS v2 (se lee directamente de la fuente, sin copiarla)"
+    backend: remote
+    url: "https://data.chc.ucsb.edu/products/CHIRPS-2.0/"
+  inamhi:
+    description: "Estaciones y pronósticos INAMHI (sujeto a convenio de datos)"
+    backend: manual

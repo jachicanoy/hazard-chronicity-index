@@ -1,0 +1,13 @@
+prueba,valor
+"Monte Carlo EFCI (centrado +-20%, N=10000) - mediana pct cambio clase",1.81
+"Monte Carlo EFCI (centrado +-20%, N=10000) - p95 pct cambio clase",19.457
+"Monte Carlo EFCI (simplex completo, N=10000) - mediana pct cambio clase",32.5792
+Sobol S1 aprox (centrado) - peso mas influyente: magnitud_enso,0.3918
+Sobol S1 aprox (simplex completo) - peso mas influyente: magnitud_enso,0.7161
+AHP Severidad - Consistency Ratio,0.0175
+Severidad-AHP vs base - pct cambian clase,0.5
+Severidad-PCA vs base - pct cambian clase,13.1
+Severidad-equitativo vs base - pct cambian clase,3.6
+Severidad-mediana/MAD vs base - pct cambian clase,52.0362
+Bootstrap EFCI - ancho IC90 mediano (todos los cantones),0.0054
+Bootstrap EFCI - ancho IC90 p95 (todos los cantones),0.0477

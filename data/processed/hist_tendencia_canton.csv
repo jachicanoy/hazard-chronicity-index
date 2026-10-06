@@ -1,0 +1,928 @@
+province_code,province_name_official,canton_code,canton_name_official,hazard_type,tendencia,p_valor,pendiente_sen,anios_con_dato
+01,Azuay,0101,Cuenca,debris_flow,no trend,0.1329,0.0,5
+01,Azuay,0101,Cuenca,flood,increasing,0.004,3.3333,11
+01,Azuay,0101,Cuenca,landslide,increasing,0.035,4.2222,11
+01,Azuay,0101,Cuenca,scour,increasing,0.0133,0.4,8
+01,Azuay,0102,Girón,flood,increasing,0.0443,0.25,4
+01,Azuay,0102,Girón,landslide,no trend,0.2026,1.125,8
+01,Azuay,0102,Girón,scour,datos_insuficientes,,,2
+01,Azuay,0103,Gualaceo,flood,increasing,0.0195,0.2,8
+01,Azuay,0103,Gualaceo,landslide,no trend,0.0627,0.375,10
+01,Azuay,0103,Gualaceo,scour,datos_insuficientes,,,2
+01,Azuay,0104,Nabón,flood,no trend,0.1685,0.0,4
+01,Azuay,0104,Nabón,landslide,no trend,0.1385,0.1667,7
+01,Azuay,0105,Paute,debris_flow,datos_insuficientes,,,2
+01,Azuay,0105,Paute,flood,increasing,0.0393,0.2,5
+01,Azuay,0105,Paute,landslide,no trend,0.8106,0.0,10
+01,Azuay,0106,Pucará,flood,datos_insuficientes,,,2
+01,Azuay,0106,Pucará,landslide,increasing,0.0065,1.4286,10
+01,Azuay,0106,Pucará,scour,no trend,0.2006,0.0,4
+01,Azuay,0107,San Fernando,landslide,datos_insuficientes,,,1
+01,Azuay,0108,Santa Isabel,debris_flow,datos_insuficientes,,,1
+01,Azuay,0108,Santa Isabel,flood,increasing,0.0475,0.25,5
+01,Azuay,0108,Santa Isabel,landslide,increasing,0.0303,0.3333,11
+01,Azuay,0108,Santa Isabel,scour,datos_insuficientes,,,3
+01,Azuay,0109,Sígsig,debris_flow,datos_insuficientes,,,1
+01,Azuay,0109,Sígsig,flood,datos_insuficientes,,,2
+01,Azuay,0109,Sígsig,landslide,no trend,0.692,-0.125,9
+01,Azuay,0110,Oña,flood,datos_insuficientes,,,1
+01,Azuay,0110,Oña,landslide,no trend,0.2626,0.0,5
+01,Azuay,0111,Chordeleg,flood,datos_insuficientes,,,3
+01,Azuay,0111,Chordeleg,landslide,datos_insuficientes,,,2
+01,Azuay,0112,El Pan,landslide,datos_insuficientes,,,3
+01,Azuay,0113,Sevilla de Oro,debris_flow,datos_insuficientes,,,3
+01,Azuay,0113,Sevilla de Oro,flood,datos_insuficientes,,,1
+01,Azuay,0113,Sevilla de Oro,landslide,no trend,0.8693,0.0,11
+01,Azuay,0113,Sevilla de Oro,scour,datos_insuficientes,,,2
+01,Azuay,0114,Guachapala,flood,datos_insuficientes,,,2
+01,Azuay,0114,Guachapala,landslide,datos_insuficientes,,,2
+01,Azuay,0115,Camilo Ponce enríquez,flood,no trend,0.6261,0.0,7
+01,Azuay,0115,Camilo Ponce enríquez,landslide,no trend,0.8616,0.0,6
+01,Azuay,0115,Camilo Ponce enríquez,scour,datos_insuficientes,,,2
+02,Bolívar,0201,Guaranda,debris_flow,increasing,0.0316,0.25,6
+02,Bolívar,0201,Guaranda,flood,no trend,0.1013,0.25,8
+02,Bolívar,0201,Guaranda,landslide,no trend,0.1844,1.0,11
+02,Bolívar,0201,Guaranda,scour,increasing,0.0123,0.25,6
+02,Bolívar,0202,Chillanes,debris_flow,datos_insuficientes,,,2
+02,Bolívar,0202,Chillanes,flood,no trend,0.1439,0.25,7
+02,Bolívar,0202,Chillanes,landslide,increasing,0.0094,2.0,11
+02,Bolívar,0202,Chillanes,scour,datos_insuficientes,,,3
+02,Bolívar,0203,Chimbo,debris_flow,datos_insuficientes,,,3
+02,Bolívar,0203,Chimbo,flood,no trend,0.0999,0.0,4
+02,Bolívar,0203,Chimbo,landslide,no trend,0.0849,1.0,11
+02,Bolívar,0203,Chimbo,scour,datos_insuficientes,,,3
+02,Bolívar,0204,Echeandía,debris_flow,datos_insuficientes,,,3
+02,Bolívar,0204,Echeandía,flood,no trend,0.2659,0.2857,9
+02,Bolívar,0204,Echeandía,landslide,no trend,0.299,0.5,8
+02,Bolívar,0204,Echeandía,scour,increasing,0.0242,0.1429,5
+02,Bolívar,0205,San Miguel,debris_flow,increasing,0.0175,0.1429,4
+02,Bolívar,0205,San Miguel,flood,no trend,0.8623,0.0,5
+02,Bolívar,0205,San Miguel,landslide,no trend,0.2758,1.8333,11
+02,Bolívar,0205,San Miguel,scour,datos_insuficientes,,,1
+02,Bolívar,0206,Caluma,debris_flow,datos_insuficientes,,,1
+02,Bolívar,0206,Caluma,flood,no trend,0.2493,0.2222,7
+02,Bolívar,0206,Caluma,landslide,no trend,0.2948,0.1667,8
+02,Bolívar,0206,Caluma,scour,datos_insuficientes,,,3
+02,Bolívar,0207,Las Naves,flood,increasing,0.0261,0.4,6
+02,Bolívar,0207,Las Naves,landslide,increasing,0.0044,0.1667,4
+02,Bolívar,0207,Las Naves,scour,increasing,0.0265,0.1,4
+03,Cañar,0301,Azogues,debris_flow,datos_insuficientes,,,1
+03,Cañar,0301,Azogues,flood,increasing,0.0443,0.25,4
+03,Cañar,0301,Azogues,landslide,no trend,0.809,0.0,8
+03,Cañar,0301,Azogues,scour,datos_insuficientes,,,3
+03,Cañar,0302,Biblián,flood,no trend,0.0664,0.25,6
+03,Cañar,0302,Biblián,landslide,no trend,0.1899,0.1667,8
+03,Cañar,0302,Biblián,scour,datos_insuficientes,,,1
+03,Cañar,0303,Cañar,debris_flow,datos_insuficientes,,,1
+03,Cañar,0303,Cañar,flood,increasing,0.0026,0.3333,5
+03,Cañar,0303,Cañar,landslide,increasing,0.0335,1.0,10
+03,Cañar,0303,Cañar,scour,datos_insuficientes,,,1
+03,Cañar,0304,La Troncal,flood,no trend,0.1274,0.3333,7
+03,Cañar,0304,La Troncal,landslide,no trend,0.3754,0.125,8
+03,Cañar,0304,La Troncal,scour,datos_insuficientes,,,2
+03,Cañar,0305,El Tambo,debris_flow,datos_insuficientes,,,1
+03,Cañar,0305,El Tambo,flood,datos_insuficientes,,,1
+03,Cañar,0305,El Tambo,landslide,datos_insuficientes,,,3
+03,Cañar,0305,El Tambo,scour,datos_insuficientes,,,1
+03,Cañar,0306,Déleg,flood,datos_insuficientes,,,1
+03,Cañar,0306,Déleg,landslide,datos_insuficientes,,,1
+03,Cañar,0306,Déleg,scour,datos_insuficientes,,,1
+03,Cañar,0307,Suscal,flood,datos_insuficientes,,,1
+03,Cañar,0307,Suscal,landslide,no trend,0.1956,0.0,4
+04,Carchi,0401,Tulcán,debris_flow,datos_insuficientes,,,2
+04,Carchi,0401,Tulcán,flood,no trend,0.1707,0.2,8
+04,Carchi,0401,Tulcán,landslide,increasing,0.0417,1.0,11
+04,Carchi,0401,Tulcán,scour,datos_insuficientes,,,2
+04,Carchi,0402,Bolívar,debris_flow,datos_insuficientes,,,3
+04,Carchi,0402,Bolívar,flood,no trend,0.4447,0.0,6
+04,Carchi,0402,Bolívar,landslide,no trend,0.4574,0.0,7
+04,Carchi,0403,Espejo,debris_flow,datos_insuficientes,,,1
+04,Carchi,0403,Espejo,flood,datos_insuficientes,,,3
+04,Carchi,0403,Espejo,landslide,increasing,0.0094,0.3333,8
+04,Carchi,0404,Mira,debris_flow,datos_insuficientes,,,1
+04,Carchi,0404,Mira,flood,datos_insuficientes,,,3
+04,Carchi,0404,Mira,landslide,increasing,0.0328,0.4286,11
+04,Carchi,0404,Mira,scour,datos_insuficientes,,,2
+04,Carchi,0405,Montúfar,debris_flow,datos_insuficientes,,,2
+04,Carchi,0405,Montúfar,flood,no trend,0.3975,0.0,6
+04,Carchi,0405,Montúfar,landslide,no trend,0.074,0.3333,7
+04,Carchi,0405,Montúfar,scour,datos_insuficientes,,,1
+04,Carchi,0406,San Pedro de Huaca,debris_flow,datos_insuficientes,,,3
+04,Carchi,0406,San Pedro de Huaca,flood,datos_insuficientes,,,2
+04,Carchi,0406,San Pedro de Huaca,landslide,datos_insuficientes,,,1
+04,Carchi,0406,San Pedro de Huaca,scour,datos_insuficientes,,,2
+05,Cotopaxi,0501,Latacunga,debris_flow,increasing,0.0348,0.25,7
+05,Cotopaxi,0501,Latacunga,flood,increasing,0.0289,0.5,7
+05,Cotopaxi,0501,Latacunga,landslide,no trend,1.0,0.0,10
+05,Cotopaxi,0501,Latacunga,scour,no trend,0.601,0.0,6
+05,Cotopaxi,0502,La Maná,debris_flow,datos_insuficientes,,,3
+05,Cotopaxi,0502,La Maná,flood,increasing,0.0394,0.6,6
+05,Cotopaxi,0502,La Maná,landslide,no trend,1.0,0.0,7
+05,Cotopaxi,0502,La Maná,scour,increasing,0.0132,0.125,4
+05,Cotopaxi,0503,Pangua,flood,no trend,0.3604,0.0,6
+05,Cotopaxi,0503,Pangua,landslide,no trend,0.5792,0.2222,8
+05,Cotopaxi,0503,Pangua,scour,no trend,0.2981,0.0,5
+05,Cotopaxi,0504,Pujilí,debris_flow,datos_insuficientes,,,2
+05,Cotopaxi,0504,Pujilí,flood,no trend,0.074,0.75,7
+05,Cotopaxi,0504,Pujilí,landslide,no trend,0.9363,0.0,11
+05,Cotopaxi,0505,Salcedo,debris_flow,datos_insuficientes,,,1
+05,Cotopaxi,0505,Salcedo,flood,no trend,0.0828,0.0,5
+05,Cotopaxi,0505,Salcedo,landslide,datos_insuficientes,,,2
+05,Cotopaxi,0506,Saquisilí,debris_flow,datos_insuficientes,,,1
+05,Cotopaxi,0506,Saquisilí,flood,no trend,0.1819,-0.1111,6
+05,Cotopaxi,0506,Saquisilí,landslide,no trend,0.5083,0.0,4
+05,Cotopaxi,0507,Sigchos,debris_flow,datos_insuficientes,,,3
+05,Cotopaxi,0507,Sigchos,flood,no trend,0.0999,0.0,4
+05,Cotopaxi,0507,Sigchos,landslide,no trend,0.5249,0.25,11
+05,Cotopaxi,0507,Sigchos,scour,no trend,0.8549,0.0,4
+06,Chimborazo,0601,Riobamba,debris_flow,no trend,0.0513,0.3,7
+06,Chimborazo,0601,Riobamba,flood,no trend,0.0627,0.25,7
+06,Chimborazo,0601,Riobamba,landslide,no trend,0.4306,-0.4,11
+06,Chimborazo,0601,Riobamba,scour,increasing,0.0217,0.125,4
+06,Chimborazo,0602,Alausí,debris_flow,increasing,0.0491,0.3333,5
+06,Chimborazo,0602,Alausí,flood,datos_insuficientes,,,2
+06,Chimborazo,0602,Alausí,landslide,no trend,0.9378,0.25,11
+06,Chimborazo,0602,Alausí,scour,datos_insuficientes,,,3
+06,Chimborazo,0603,Colta,debris_flow,datos_insuficientes,,,3
+06,Chimborazo,0603,Colta,flood,no trend,0.5361,0.0,5
+06,Chimborazo,0603,Colta,landslide,no trend,0.692,0.3333,11
+06,Chimborazo,0604,Chambo,debris_flow,no trend,0.1186,0.0,4
+06,Chimborazo,0604,Chambo,flood,datos_insuficientes,,,2
+06,Chimborazo,0604,Chambo,landslide,no trend,0.332,0.125,9
+06,Chimborazo,0605,Chunchi,debris_flow,datos_insuficientes,,,2
+06,Chimborazo,0605,Chunchi,flood,datos_insuficientes,,,2
+06,Chimborazo,0605,Chunchi,landslide,no trend,1.0,0.0,11
+06,Chimborazo,0605,Chunchi,scour,datos_insuficientes,,,3
+06,Chimborazo,0606,Guamote,debris_flow,increasing,0.0045,0.25,5
+06,Chimborazo,0606,Guamote,flood,no trend,0.2727,0.0,4
+06,Chimborazo,0606,Guamote,landslide,no trend,0.5823,-0.2857,11
+06,Chimborazo,0606,Guamote,scour,datos_insuficientes,,,1
+06,Chimborazo,0607,Guano,debris_flow,increasing,0.0475,0.1429,9
+06,Chimborazo,0607,Guano,flood,no trend,0.8069,0.0,8
+06,Chimborazo,0607,Guano,landslide,no trend,0.2064,-1.0,11
+06,Chimborazo,0607,Guano,scour,datos_insuficientes,,,2
+06,Chimborazo,0608,Pallatanga,debris_flow,datos_insuficientes,,,3
+06,Chimborazo,0608,Pallatanga,flood,no trend,0.5791,0.0,4
+06,Chimborazo,0608,Pallatanga,landslide,no trend,1.0,0.0,11
+06,Chimborazo,0608,Pallatanga,scour,datos_insuficientes,,,2
+06,Chimborazo,0609,Penipe,debris_flow,increasing,0.0374,0.125,5
+06,Chimborazo,0609,Penipe,flood,datos_insuficientes,,,2
+06,Chimborazo,0609,Penipe,landslide,no trend,0.8082,0.0,10
+06,Chimborazo,0609,Penipe,scour,datos_insuficientes,,,3
+06,Chimborazo,0610,Cumandá,debris_flow,increasing,0.0061,0.1667,4
+06,Chimborazo,0610,Cumandá,flood,no trend,0.7431,0.0,7
+06,Chimborazo,0610,Cumandá,landslide,no trend,1.0,0.0,10
+06,Chimborazo,0610,Cumandá,scour,increasing,0.007,0.2,5
+07,El Oro,0701,Machala,flood,increasing,0.0105,1.4,11
+07,El Oro,0701,Machala,scour,no trend,0.4857,0.0,6
+07,El Oro,0702,Arenillas,flood,no trend,0.7521,0.1429,8
+07,El Oro,0702,Arenillas,landslide,datos_insuficientes,,,2
+07,El Oro,0702,Arenillas,scour,no trend,0.2986,0.0,4
+07,El Oro,0703,Atahualpa,debris_flow,datos_insuficientes,,,1
+07,El Oro,0703,Atahualpa,flood,datos_insuficientes,,,2
+07,El Oro,0703,Atahualpa,landslide,no trend,0.692,0.25,11
+07,El Oro,0703,Atahualpa,scour,datos_insuficientes,,,3
+07,El Oro,0704,Balsas,debris_flow,datos_insuficientes,,,1
+07,El Oro,0704,Balsas,flood,no trend,0.2362,0.0,7
+07,El Oro,0704,Balsas,landslide,no trend,0.1586,0.5,11
+07,El Oro,0704,Balsas,scour,no trend,0.3906,0.0,5
+07,El Oro,0705,Chilla,debris_flow,datos_insuficientes,,,1
+07,El Oro,0705,Chilla,flood,datos_insuficientes,,,3
+07,El Oro,0705,Chilla,landslide,no trend,0.7526,0.1111,10
+07,El Oro,0705,Chilla,scour,datos_insuficientes,,,3
+07,El Oro,0706,El Guabo,flood,increasing,0.0095,0.7143,9
+07,El Oro,0706,El Guabo,landslide,datos_insuficientes,,,1
+07,El Oro,0706,El Guabo,scour,no trend,1.0,0.0,4
+07,El Oro,0707,Huaquillas,flood,no trend,0.6926,0.1111,9
+07,El Oro,0708,Marcabelí,debris_flow,datos_insuficientes,,,1
+07,El Oro,0708,Marcabelí,flood,no trend,0.2224,0.0,6
+07,El Oro,0708,Marcabelí,landslide,datos_insuficientes,,,2
+07,El Oro,0708,Marcabelí,scour,datos_insuficientes,,,2
+07,El Oro,0709,Pasaje,debris_flow,datos_insuficientes,,,3
+07,El Oro,0709,Pasaje,flood,no trend,0.1552,1.1429,11
+07,El Oro,0709,Pasaje,landslide,no trend,0.1323,1.1111,9
+07,El Oro,0709,Pasaje,scour,no trend,0.2556,0.2,7
+07,El Oro,0710,Piñas,debris_flow,datos_insuficientes,,,3
+07,El Oro,0710,Piñas,flood,no trend,0.112,0.3333,8
+07,El Oro,0710,Piñas,landslide,no trend,0.4335,1.0,11
+07,El Oro,0710,Piñas,scour,no trend,0.1939,0.2,7
+07,El Oro,0711,Portovelo,debris_flow,datos_insuficientes,,,3
+07,El Oro,0711,Portovelo,flood,no trend,0.8082,0.0,7
+07,El Oro,0711,Portovelo,landslide,no trend,0.0849,1.0,11
+07,El Oro,0711,Portovelo,scour,no trend,0.2366,0.0,4
+07,El Oro,0712,Santa Rosa,debris_flow,datos_insuficientes,,,2
+07,El Oro,0712,Santa Rosa,flood,no trend,0.754,0.25,11
+07,El Oro,0712,Santa Rosa,landslide,no trend,0.2471,-0.1429,6
+07,El Oro,0712,Santa Rosa,scour,datos_insuficientes,,,3
+07,El Oro,0713,Zaruma,debris_flow,no trend,0.0961,0.0,4
+07,El Oro,0713,Zaruma,flood,no trend,0.6117,0.0,6
+07,El Oro,0713,Zaruma,landslide,no trend,0.4297,0.4,11
+07,El Oro,0713,Zaruma,scour,no trend,1.0,0.0,6
+07,El Oro,0714,Las Lajas,debris_flow,datos_insuficientes,,,1
+07,El Oro,0714,Las Lajas,flood,no trend,0.4879,0.0,5
+07,El Oro,0714,Las Lajas,landslide,no trend,0.0934,0.2857,8
+07,El Oro,0714,Las Lajas,scour,no trend,0.1849,0.0,5
+08,Esmeraldas,0801,Esmeraldas,debris_flow,datos_insuficientes,,,3
+08,Esmeraldas,0801,Esmeraldas,flood,no trend,0.1172,1.375,11
+08,Esmeraldas,0801,Esmeraldas,landslide,increasing,0.0283,1.6,11
+08,Esmeraldas,0801,Esmeraldas,scour,increasing,0.0258,0.2857,7
+08,Esmeraldas,0802,Eloy Alfaro,flood,increasing,0.0293,1.0,11
+08,Esmeraldas,0802,Eloy Alfaro,landslide,no trend,0.0675,0.0,4
+08,Esmeraldas,0802,Eloy Alfaro,scour,datos_insuficientes,,,3
+08,Esmeraldas,0803,Muisne,flood,increasing,0.0227,1.0,9
+08,Esmeraldas,0803,Muisne,landslide,no trend,0.8737,0.0,11
+08,Esmeraldas,0803,Muisne,scour,no trend,0.3299,0.1429,7
+08,Esmeraldas,0804,Quinindé,debris_flow,datos_insuficientes,,,2
+08,Esmeraldas,0804,Quinindé,flood,no trend,0.3875,0.75,11
+08,Esmeraldas,0804,Quinindé,landslide,no trend,0.3473,0.6667,11
+08,Esmeraldas,0804,Quinindé,scour,no trend,0.2514,0.2222,7
+08,Esmeraldas,0805,San Lorenzo,debris_flow,datos_insuficientes,,,1
+08,Esmeraldas,0805,San Lorenzo,flood,no trend,0.8745,0.0,10
+08,Esmeraldas,0805,San Lorenzo,landslide,no trend,1.0,0.0,11
+08,Esmeraldas,0805,San Lorenzo,scour,datos_insuficientes,,,2
+08,Esmeraldas,0806,Atacames,debris_flow,datos_insuficientes,,,1
+08,Esmeraldas,0806,Atacames,flood,increasing,0.049,1.125,8
+08,Esmeraldas,0806,Atacames,landslide,no trend,0.3362,0.1429,8
+08,Esmeraldas,0806,Atacames,scour,datos_insuficientes,,,3
+08,Esmeraldas,0807,Rioverde,debris_flow,datos_insuficientes,,,2
+08,Esmeraldas,0807,Rioverde,flood,no trend,0.5641,0.0,11
+08,Esmeraldas,0807,Rioverde,landslide,no trend,0.3299,0.1429,9
+08,Esmeraldas,0807,Rioverde,scour,no trend,0.2353,0.0,5
+09,Guayas,0901,Guayaquil,flood,no trend,0.0849,5.4286,11
+09,Guayas,0901,Guayaquil,landslide,no trend,0.6883,0.0,11
+09,Guayas,0901,Guayaquil,scour,no trend,0.3099,0.0,7
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),flood,no trend,0.4297,0.75,11
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),scour,datos_insuficientes,,,1
+09,Guayas,0903,Balao,flood,no trend,0.4721,0.1429,8
+09,Guayas,0903,Balao,scour,datos_insuficientes,,,1
+09,Guayas,0904,Balzar,flood,no trend,0.1552,0.5,9
+09,Guayas,0904,Balzar,landslide,datos_insuficientes,,,1
+09,Guayas,0904,Balzar,scour,datos_insuficientes,,,2
+09,Guayas,0905,Colimes,flood,increasing,0.0189,0.6667,7
+09,Guayas,0905,Colimes,scour,datos_insuficientes,,,1
+09,Guayas,0906,Daule,flood,no trend,0.1172,3.1429,10
+09,Guayas,0906,Daule,landslide,datos_insuficientes,,,2
+09,Guayas,0906,Daule,scour,datos_insuficientes,,,1
+09,Guayas,0907,Durán,flood,no trend,0.1726,0.625,11
+09,Guayas,0907,Durán,landslide,no trend,1.0,0.0,5
+09,Guayas,0907,Durán,scour,datos_insuficientes,,,2
+09,Guayas,0908,El Empalme,flood,no trend,0.2318,0.2,9
+09,Guayas,0908,El Empalme,landslide,no trend,0.7313,0.0,5
+09,Guayas,0908,El Empalme,scour,datos_insuficientes,,,2
+09,Guayas,0909,El Triunfo,debris_flow,datos_insuficientes,,,1
+09,Guayas,0909,El Triunfo,flood,no trend,0.4758,0.2222,8
+09,Guayas,0909,El Triunfo,landslide,datos_insuficientes,,,2
+09,Guayas,0909,El Triunfo,scour,no trend,0.0982,0.1,5
+09,Guayas,0910,Milagro,flood,no trend,0.1172,1.5,9
+09,Guayas,0910,Milagro,scour,datos_insuficientes,,,2
+09,Guayas,0911,Naranjal,flood,no trend,0.1323,1.3333,9
+09,Guayas,0911,Naranjal,landslide,datos_insuficientes,,,1
+09,Guayas,0911,Naranjal,scour,no trend,0.2006,0.0,4
+09,Guayas,0912,Naranjito,flood,no trend,0.1368,0.5,6
+09,Guayas,0912,Naranjito,scour,increasing,0.0242,0.1667,5
+09,Guayas,0913,Palestina,flood,no trend,0.5744,0.3333,7
+09,Guayas,0913,Palestina,scour,no trend,0.1956,0.0,4
+09,Guayas,0914,Pedro Carbo,flood,increasing,0.0384,0.8571,10
+09,Guayas,0914,Pedro Carbo,landslide,datos_insuficientes,,,1
+09,Guayas,0914,Pedro Carbo,scour,datos_insuficientes,,,3
+09,Guayas,0916,Samborondón,flood,no trend,0.2288,1.0,7
+09,Guayas,0918,Santa Lucía,flood,increasing,0.0068,1.0,8
+09,Guayas,0918,Santa Lucía,scour,datos_insuficientes,,,2
+09,Guayas,0919,Salitre,flood,no trend,0.2101,2.375,9
+09,Guayas,0919,Salitre,scour,no trend,0.1721,0.0,4
+09,Guayas,0920,San Jacinto de Yaguachi,flood,no trend,0.2247,1.5,8
+09,Guayas,0920,San Jacinto de Yaguachi,landslide,datos_insuficientes,,,1
+09,Guayas,0920,San Jacinto de Yaguachi,scour,no trend,0.0645,0.0,4
+09,Guayas,0921,Playas,flood,no trend,1.0,0.0,10
+09,Guayas,0921,Playas,scour,datos_insuficientes,,,1
+09,Guayas,0922,Simón Bolívar,flood,increasing,0.0056,1.0,8
+09,Guayas,0922,Simón Bolívar,scour,datos_insuficientes,,,3
+09,Guayas,0923,Coronel Marcelino Maridueña,flood,no trend,0.4543,0.0,6
+09,Guayas,0923,Coronel Marcelino Maridueña,scour,datos_insuficientes,,,2
+09,Guayas,0924,Lomas de Sargentillo,flood,increasing,0.011,0.4444,8
+09,Guayas,0925,Nobol,flood,no trend,0.1044,0.3,9
+09,Guayas,0925,Nobol,scour,datos_insuficientes,,,2
+09,Guayas,0927,General  Antonio Elizalde,flood,no trend,0.2505,0.0,7
+09,Guayas,0927,General  Antonio Elizalde,landslide,no trend,0.0829,-0.1429,5
+09,Guayas,0927,General  Antonio Elizalde,scour,no trend,0.601,0.0,6
+09,Guayas,0928,Isidro Ayora,flood,no trend,0.0704,0.2222,9
+10,Imbabura,1001,Ibarra,debris_flow,no trend,0.0675,0.0,4
+10,Imbabura,1001,Ibarra,flood,no trend,0.1817,0.5,9
+10,Imbabura,1001,Ibarra,landslide,increasing,0.035,2.0,11
+10,Imbabura,1001,Ibarra,scour,no trend,0.3606,0.0,4
+10,Imbabura,1002,Antonio Ante,debris_flow,datos_insuficientes,,,1
+10,Imbabura,1002,Antonio Ante,flood,no trend,0.1249,0.3,7
+10,Imbabura,1002,Antonio Ante,landslide,no trend,0.9269,0.0,4
+10,Imbabura,1002,Antonio Ante,scour,datos_insuficientes,,,1
+10,Imbabura,1003,Cotacachi,debris_flow,increasing,0.0107,0.1,4
+10,Imbabura,1003,Cotacachi,flood,no trend,0.074,0.25,7
+10,Imbabura,1003,Cotacachi,landslide,no trend,0.0509,1.5,11
+10,Imbabura,1003,Cotacachi,scour,no trend,0.1223,0.2,5
+10,Imbabura,1004,Otavalo,debris_flow,datos_insuficientes,,,1
+10,Imbabura,1004,Otavalo,flood,no trend,0.6215,0.0,7
+10,Imbabura,1004,Otavalo,landslide,increasing,0.0227,0.75,10
+10,Imbabura,1004,Otavalo,scour,datos_insuficientes,,,3
+10,Imbabura,1005,Pimampiro,debris_flow,datos_insuficientes,,,2
+10,Imbabura,1005,Pimampiro,flood,datos_insuficientes,,,3
+10,Imbabura,1005,Pimampiro,landslide,increasing,0.0169,0.5556,10
+10,Imbabura,1005,Pimampiro,scour,datos_insuficientes,,,1
+10,Imbabura,1006,San Miguel de Urcuquí,flood,datos_insuficientes,,,2
+10,Imbabura,1006,San Miguel de Urcuquí,landslide,no trend,0.1517,0.6667,10
+10,Imbabura,1006,San Miguel de Urcuquí,scour,datos_insuficientes,,,2
+11,Loja,1101,Loja,debris_flow,no trend,0.2618,0.25,8
+11,Loja,1101,Loja,flood,no trend,0.3904,0.5,10
+11,Loja,1101,Loja,landslide,no trend,0.5846,-1.8,11
+11,Loja,1101,Loja,scour,no trend,1.0,0.0,8
+11,Loja,1102,Calvas,debris_flow,datos_insuficientes,,,2
+11,Loja,1102,Calvas,flood,no trend,0.0627,-0.1429,7
+11,Loja,1102,Calvas,landslide,no trend,0.2728,-0.875,11
+11,Loja,1102,Calvas,scour,no trend,0.5228,0.0,5
+11,Loja,1103,Catamayo,debris_flow,increasing,0.0217,0.125,4
+11,Loja,1103,Catamayo,flood,no trend,0.2493,-0.1429,7
+11,Loja,1103,Catamayo,landslide,no trend,0.2689,-0.75,11
+11,Loja,1103,Catamayo,scour,datos_insuficientes,,,3
+11,Loja,1104,Celica,debris_flow,no trend,0.3951,0.0,4
+11,Loja,1104,Celica,flood,no trend,0.4041,0.0,6
+11,Loja,1104,Celica,landslide,no trend,0.3071,-0.6667,10
+11,Loja,1104,Celica,scour,datos_insuficientes,,,1
+11,Loja,1105,Chaguarpamba,debris_flow,datos_insuficientes,,,1
+11,Loja,1105,Chaguarpamba,flood,no trend,0.0664,0.1667,6
+11,Loja,1105,Chaguarpamba,landslide,no trend,0.9374,0.0,11
+11,Loja,1105,Chaguarpamba,scour,datos_insuficientes,,,1
+11,Loja,1106,Espíndola,flood,no trend,0.1391,0.0,4
+11,Loja,1106,Espíndola,landslide,no trend,0.1817,-0.6667,9
+11,Loja,1107,Gonzanamá,flood,datos_insuficientes,,,2
+11,Loja,1107,Gonzanamá,landslide,no trend,1.0,0.0,10
+11,Loja,1107,Gonzanamá,scour,datos_insuficientes,,,1
+11,Loja,1108,Macará,debris_flow,datos_insuficientes,,,1
+11,Loja,1108,Macará,flood,no trend,0.7313,0.0,5
+11,Loja,1108,Macará,landslide,no trend,0.8106,0.0,8
+11,Loja,1108,Macará,scour,datos_insuficientes,,,3
+11,Loja,1109,Paltas,debris_flow,datos_insuficientes,,,1
+11,Loja,1109,Paltas,flood,datos_insuficientes,,,1
+11,Loja,1109,Paltas,landslide,no trend,1.0,0.0,11
+11,Loja,1109,Paltas,scour,datos_insuficientes,,,2
+11,Loja,1110,Puyango,flood,datos_insuficientes,,,3
+11,Loja,1110,Puyango,landslide,no trend,0.9378,-0.125,10
+11,Loja,1111,Saraguro,debris_flow,datos_insuficientes,,,1
+11,Loja,1111,Saraguro,flood,no trend,1.0,0.0,4
+11,Loja,1111,Saraguro,landslide,no trend,0.5275,-0.25,10
+11,Loja,1111,Saraguro,scour,datos_insuficientes,,,3
+11,Loja,1112,Sozoranga,debris_flow,datos_insuficientes,,,1
+11,Loja,1112,Sozoranga,flood,datos_insuficientes,,,3
+11,Loja,1112,Sozoranga,landslide,no trend,0.31,-0.8333,9
+11,Loja,1112,Sozoranga,scour,datos_insuficientes,,,1
+11,Loja,1113,Zapotillo,flood,no trend,0.7313,0.0,5
+11,Loja,1113,Zapotillo,landslide,no trend,1.0,0.0,7
+11,Loja,1114,Pindal,debris_flow,datos_insuficientes,,,1
+11,Loja,1114,Pindal,flood,no trend,0.3309,0.0,5
+11,Loja,1114,Pindal,landslide,no trend,0.8048,0.0,6
+11,Loja,1115,Quilanga,debris_flow,datos_insuficientes,,,2
+11,Loja,1115,Quilanga,flood,datos_insuficientes,,,3
+11,Loja,1115,Quilanga,landslide,no trend,1.0,0.0,10
+11,Loja,1116,Olmedo,debris_flow,datos_insuficientes,,,3
+11,Loja,1116,Olmedo,flood,datos_insuficientes,,,2
+11,Loja,1116,Olmedo,landslide,no trend,0.8106,0.0,8
+12,Los Ríos,1201,Babahoyo,flood,increasing,0.0063,3.6667,11
+12,Los Ríos,1201,Babahoyo,scour,increasing,0.0332,0.6667,8
+12,Los Ríos,1202,Baba,flood,increasing,0.0089,1.5,8
+12,Los Ríos,1202,Baba,scour,datos_insuficientes,,,2
+12,Los Ríos,1203,Montalvo,flood,no trend,0.056,0.5,10
+12,Los Ríos,1203,Montalvo,landslide,no trend,0.5083,0.0,7
+12,Los Ríos,1203,Montalvo,scour,no trend,0.2362,0.0,6
+12,Los Ríos,1204,Puebloviejo,flood,increasing,0.0169,0.6667,8
+12,Los Ríos,1204,Puebloviejo,scour,datos_insuficientes,,,2
+12,Los Ríos,1205,Quevedo,flood,no trend,0.1323,1.0,10
+12,Los Ríos,1205,Quevedo,landslide,no trend,0.6261,0.0,8
+12,Los Ríos,1205,Quevedo,scour,no trend,0.0726,0.0,4
+12,Los Ríos,1206,Urdaneta,flood,increasing,0.0339,1.25,11
+12,Los Ríos,1206,Urdaneta,landslide,datos_insuficientes,,,2
+12,Los Ríos,1206,Urdaneta,scour,datos_insuficientes,,,3
+12,Los Ríos,1207,Ventanas,flood,no trend,0.4758,0.4286,10
+12,Los Ríos,1207,Ventanas,landslide,datos_insuficientes,,,1
+12,Los Ríos,1207,Ventanas,scour,increasing,0.0278,0.2,7
+12,Los Ríos,1208,Vinces,flood,increasing,0.0339,0.8571,9
+12,Los Ríos,1208,Vinces,scour,datos_insuficientes,,,2
+12,Los Ríos,1209,Palenque,flood,increasing,0.0212,0.2857,7
+12,Los Ríos,1210,Buena Fe,flood,no trend,0.0544,0.25,8
+12,Los Ríos,1210,Buena Fe,landslide,datos_insuficientes,,,3
+12,Los Ríos,1210,Buena Fe,scour,datos_insuficientes,,,1
+12,Los Ríos,1211,Valencia,flood,increasing,0.0056,0.6,8
+12,Los Ríos,1211,Valencia,landslide,datos_insuficientes,,,2
+12,Los Ríos,1211,Valencia,scour,datos_insuficientes,,,3
+12,Los Ríos,1212,Mocache,flood,no trend,0.3167,0.0,8
+12,Los Ríos,1212,Mocache,landslide,datos_insuficientes,,,3
+12,Los Ríos,1212,Mocache,scour,datos_insuficientes,,,3
+12,Los Ríos,1213,Quinsaloma,flood,no trend,0.1044,0.3333,7
+13,Manabí,1301,Portoviejo,debris_flow,datos_insuficientes,,,1
+13,Manabí,1301,Portoviejo,flood,no trend,0.2415,2.1667,10
+13,Manabí,1301,Portoviejo,landslide,no trend,0.524,-0.25,11
+13,Manabí,1301,Portoviejo,scour,no trend,0.8533,0.0,4
+13,Manabí,1302,Bolívar,flood,no trend,0.0684,0.5,8
+13,Manabí,1302,Bolívar,landslide,no trend,0.7453,0.0,9
+13,Manabí,1302,Bolívar,scour,datos_insuficientes,,,1
+13,Manabí,1303,Chone,debris_flow,datos_insuficientes,,,3
+13,Manabí,1303,Chone,flood,no trend,0.3433,0.75,11
+13,Manabí,1303,Chone,landslide,no trend,0.3733,0.2,10
+13,Manabí,1303,Chone,scour,datos_insuficientes,,,2
+13,Manabí,1304,El Carmen,flood,no trend,0.1394,0.5714,10
+13,Manabí,1304,El Carmen,landslide,no trend,0.5744,-0.2,10
+13,Manabí,1304,El Carmen,scour,no trend,0.2986,0.0,4
+13,Manabí,1305,Flavio Alfaro,flood,no trend,0.1474,0.3,11
+13,Manabí,1305,Flavio Alfaro,landslide,no trend,0.2969,-0.5,10
+13,Manabí,1305,Flavio Alfaro,scour,datos_insuficientes,,,3
+13,Manabí,1306,Jipijapa,debris_flow,datos_insuficientes,,,1
+13,Manabí,1306,Jipijapa,flood,no trend,0.2969,0.3333,9
+13,Manabí,1306,Jipijapa,landslide,no trend,0.8048,0.0,10
+13,Manabí,1306,Jipijapa,scour,no trend,0.7768,0.0,4
+13,Manabí,1307,Junín,flood,no trend,0.1879,0.1667,7
+13,Manabí,1307,Junín,landslide,no trend,0.4168,0.125,8
+13,Manabí,1307,Junín,scour,datos_insuficientes,,,1
+13,Manabí,1308,Manta,debris_flow,datos_insuficientes,,,1
+13,Manabí,1308,Manta,flood,no trend,0.099,1.0,10
+13,Manabí,1308,Manta,landslide,no trend,0.7453,0.0,7
+13,Manabí,1308,Manta,scour,no trend,0.4263,0.0,5
+13,Manabí,1309,Montecristi,flood,no trend,0.6335,0.125,9
+13,Manabí,1309,Montecristi,landslide,datos_insuficientes,,,3
+13,Manabí,1309,Montecristi,scour,datos_insuficientes,,,1
+13,Manabí,1310,Paján,debris_flow,datos_insuficientes,,,1
+13,Manabí,1310,Paján,flood,no trend,0.1074,0.25,7
+13,Manabí,1310,Paján,landslide,increasing,0.014,0.25,4
+13,Manabí,1310,Paján,scour,no trend,0.2696,0.0,6
+13,Manabí,1311,Pichincha,debris_flow,datos_insuficientes,,,1
+13,Manabí,1311,Pichincha,flood,increasing,0.02,0.25,5
+13,Manabí,1311,Pichincha,landslide,no trend,1.0,0.0,7
+13,Manabí,1311,Pichincha,scour,datos_insuficientes,,,1
+13,Manabí,1312,Rocafuerte,debris_flow,datos_insuficientes,,,2
+13,Manabí,1312,Rocafuerte,flood,no trend,0.8082,0.0,8
+13,Manabí,1312,Rocafuerte,landslide,no trend,1.0,0.0,5
+13,Manabí,1312,Rocafuerte,scour,datos_insuficientes,,,3
+13,Manabí,1313,Santa Ana,debris_flow,datos_insuficientes,,,2
+13,Manabí,1313,Santa Ana,flood,no trend,0.2649,0.8333,10
+13,Manabí,1313,Santa Ana,landslide,no trend,0.4595,0.0,8
+13,Manabí,1313,Santa Ana,scour,datos_insuficientes,,,3
+13,Manabí,1314,Sucre,debris_flow,datos_insuficientes,,,1
+13,Manabí,1314,Sucre,flood,no trend,0.1808,1.0,10
+13,Manabí,1314,Sucre,landslide,no trend,1.0,0.0,6
+13,Manabí,1314,Sucre,scour,datos_insuficientes,,,1
+13,Manabí,1315,Tosagua,debris_flow,datos_insuficientes,,,1
+13,Manabí,1315,Tosagua,flood,no trend,0.6356,0.25,8
+13,Manabí,1315,Tosagua,landslide,no trend,0.1332,0.2,6
+13,Manabí,1315,Tosagua,scour,datos_insuficientes,,,1
+13,Manabí,1316,24 de Mayo,debris_flow,datos_insuficientes,,,1
+13,Manabí,1316,24 de Mayo,flood,no trend,0.4584,0.0,9
+13,Manabí,1316,24 de Mayo,landslide,datos_insuficientes,,,3
+13,Manabí,1317,Pedernales,flood,no trend,0.4208,-0.25,11
+13,Manabí,1317,Pedernales,landslide,no trend,0.4634,0.0,7
+13,Manabí,1317,Pedernales,scour,datos_insuficientes,,,2
+13,Manabí,1318,Olmedo,flood,no trend,0.6261,0.0,8
+13,Manabí,1318,Olmedo,landslide,no trend,0.794,0.0,5
+13,Manabí,1318,Olmedo,scour,datos_insuficientes,,,2
+13,Manabí,1319,Puerto López,flood,no trend,0.6291,0.0,7
+13,Manabí,1319,Puerto López,landslide,datos_insuficientes,,,3
+13,Manabí,1319,Puerto López,scour,datos_insuficientes,,,3
+13,Manabí,1320,Jama,debris_flow,datos_insuficientes,,,1
+13,Manabí,1320,Jama,flood,no trend,0.1604,0.1667,7
+13,Manabí,1320,Jama,landslide,no trend,0.2471,-0.1429,6
+13,Manabí,1320,Jama,scour,datos_insuficientes,,,2
+13,Manabí,1321,Jaramijó,flood,no trend,0.8623,0.0,5
+13,Manabí,1321,Jaramijó,landslide,datos_insuficientes,,,1
+13,Manabí,1321,Jaramijó,scour,datos_insuficientes,,,1
+13,Manabí,1322,San Vicente,flood,no trend,0.3744,0.1667,7
+13,Manabí,1322,San Vicente,landslide,no trend,0.2673,0.0,4
+14,Morona Santiago,1401,Morona,flood,increasing,0.0127,1.2,10
+14,Morona Santiago,1401,Morona,landslide,no trend,0.2129,-1.25,11
+14,Morona Santiago,1401,Morona,scour,no trend,0.1223,0.1111,9
+14,Morona Santiago,1402,Gualaquiza,debris_flow,datos_insuficientes,,,3
+14,Morona Santiago,1402,Gualaquiza,flood,no trend,0.1997,0.2,11
+14,Morona Santiago,1402,Gualaquiza,landslide,no trend,0.5309,0.4444,11
+14,Morona Santiago,1402,Gualaquiza,scour,increasing,0.0162,0.5,8
+14,Morona Santiago,1403,Limón Indanza,debris_flow,no trend,0.3906,0.0,5
+14,Morona Santiago,1403,Limón Indanza,flood,no trend,1.0,0.0,4
+14,Morona Santiago,1403,Limón Indanza,landslide,no trend,0.101,-2.5556,11
+14,Morona Santiago,1403,Limón Indanza,scour,no trend,1.0,0.0,4
+14,Morona Santiago,1404,Palora,flood,no trend,0.1849,0.0,7
+14,Morona Santiago,1404,Palora,landslide,datos_insuficientes,,,2
+14,Morona Santiago,1404,Palora,scour,datos_insuficientes,,,1
+14,Morona Santiago,1405,Santiago,debris_flow,datos_insuficientes,,,1
+14,Morona Santiago,1405,Santiago,flood,no trend,0.5791,0.0,4
+14,Morona Santiago,1405,Santiago,landslide,decreasing,0.0149,-1.3333,11
+14,Morona Santiago,1405,Santiago,scour,no trend,0.5045,0.0,6
+14,Morona Santiago,1406,Sucúa,debris_flow,datos_insuficientes,,,3
+14,Morona Santiago,1406,Sucúa,flood,increasing,0.0348,0.3333,7
+14,Morona Santiago,1406,Sucúa,landslide,no trend,0.1439,0.2857,7
+14,Morona Santiago,1406,Sucúa,scour,no trend,0.2294,0.0,5
+14,Morona Santiago,1407,Huamboya,debris_flow,datos_insuficientes,,,1
+14,Morona Santiago,1407,Huamboya,flood,no trend,1.0,0.0,6
+14,Morona Santiago,1407,Huamboya,landslide,no trend,0.1698,-0.2,9
+14,Morona Santiago,1407,Huamboya,scour,datos_insuficientes,,,2
+14,Morona Santiago,1408,San Juan Bosco,debris_flow,datos_insuficientes,,,2
+14,Morona Santiago,1408,San Juan Bosco,flood,datos_insuficientes,,,2
+14,Morona Santiago,1408,San Juan Bosco,landslide,no trend,0.4758,0.1667,10
+14,Morona Santiago,1408,San Juan Bosco,scour,datos_insuficientes,,,1
+14,Morona Santiago,1409,Taisha,flood,no trend,0.1819,0.125,6
+14,Morona Santiago,1409,Taisha,landslide,no trend,0.5464,0.0,9
+14,Morona Santiago,1409,Taisha,scour,no trend,1.0,0.0,5
+14,Morona Santiago,1410,Logroño,flood,no trend,0.0745,0.125,7
+14,Morona Santiago,1410,Logroño,landslide,no trend,0.8616,0.0,6
+14,Morona Santiago,1410,Logroño,scour,datos_insuficientes,,,1
+14,Morona Santiago,1411,Pablo Sexto,flood,datos_insuficientes,,,1
+14,Morona Santiago,1411,Pablo Sexto,landslide,datos_insuficientes,,,1
+14,Morona Santiago,1411,Pablo Sexto,scour,increasing,0.0298,0.0,4
+14,Morona Santiago,1412,Tiwintza,debris_flow,datos_insuficientes,,,1
+14,Morona Santiago,1412,Tiwintza,flood,no trend,0.3299,-0.125,7
+14,Morona Santiago,1412,Tiwintza,landslide,no trend,1.0,0.0,11
+14,Morona Santiago,1412,Tiwintza,scour,datos_insuficientes,,,3
+15,Napo,1501,Tena,debris_flow,datos_insuficientes,,,1
+15,Napo,1501,Tena,flood,no trend,0.8137,0.2222,11
+15,Napo,1501,Tena,landslide,increasing,0.0095,0.8,10
+15,Napo,1501,Tena,scour,no trend,0.1744,0.4286,8
+15,Napo,1503,Archidona,debris_flow,datos_insuficientes,,,2
+15,Napo,1503,Archidona,flood,no trend,0.4922,0.0,10
+15,Napo,1503,Archidona,landslide,no trend,0.9369,0.0,11
+15,Napo,1503,Archidona,scour,no trend,0.0552,0.0,5
+15,Napo,1504,El Chaco,debris_flow,increasing,0.0022,0.75,7
+15,Napo,1504,El Chaco,flood,increasing,0.0011,0.4444,5
+15,Napo,1504,El Chaco,landslide,no trend,0.4822,1.0,11
+15,Napo,1504,El Chaco,scour,no trend,0.1223,0.2,5
+15,Napo,1507,Quijos,debris_flow,increasing,0.0348,0.8333,8
+15,Napo,1507,Quijos,flood,no trend,1.0,0.0,6
+15,Napo,1507,Quijos,landslide,no trend,0.0868,-2.0,11
+15,Napo,1507,Quijos,scour,datos_insuficientes,,,3
+15,Napo,1509,Carlos Julio Arosemena Tola,flood,no trend,0.5083,0.0,4
+15,Napo,1509,Carlos Julio Arosemena Tola,landslide,no trend,0.3167,0.0,6
+15,Napo,1509,Carlos Julio Arosemena Tola,scour,datos_insuficientes,,,1
+16,Pastaza,1601,Pastaza,debris_flow,datos_insuficientes,,,1
+16,Pastaza,1601,Pastaza,flood,increasing,0.006,1.25,11
+16,Pastaza,1601,Pastaza,landslide,no trend,0.099,-0.8571,11
+16,Pastaza,1601,Pastaza,scour,no trend,0.9363,0.0,9
+16,Pastaza,1602,Mera,debris_flow,datos_insuficientes,,,1
+16,Pastaza,1602,Mera,flood,no trend,0.0581,0.2857,10
+16,Pastaza,1602,Mera,landslide,no trend,0.2386,-0.75,11
+16,Pastaza,1602,Mera,scour,no trend,0.6261,0.0,7
+16,Pastaza,1603,Santa Clara,flood,datos_insuficientes,,,2
+16,Pastaza,1603,Santa Clara,landslide,no trend,0.5792,-0.1111,10
+16,Pastaza,1604,Arajuno,flood,no trend,0.1439,0.25,11
+16,Pastaza,1604,Arajuno,landslide,no trend,0.2598,-0.2222,11
+16,Pastaza,1604,Arajuno,scour,no trend,0.1296,0.1667,6
+17,Pichincha,1701,Distrito Metropolitano de Quito,debris_flow,increasing,0.0022,0.8571,9
+17,Pichincha,1701,Distrito Metropolitano de Quito,flood,increasing,0.0004,7.3333,11
+17,Pichincha,1701,Distrito Metropolitano de Quito,landslide,increasing,0.0127,21.0,11
+17,Pichincha,1701,Distrito Metropolitano de Quito,scour,increasing,0.0283,0.5556,10
+17,Pichincha,1702,Cayambe,debris_flow,datos_insuficientes,,,1
+17,Pichincha,1702,Cayambe,flood,increasing,0.0041,0.75,8
+17,Pichincha,1702,Cayambe,landslide,increasing,0.0388,0.6667,11
+17,Pichincha,1702,Cayambe,scour,datos_insuficientes,,,3
+17,Pichincha,1703,Mejía,debris_flow,no trend,0.3606,0.0,4
+17,Pichincha,1703,Mejía,flood,increasing,0.0303,1.3333,11
+17,Pichincha,1703,Mejía,landslide,no trend,0.1379,3.2,11
+17,Pichincha,1703,Mejía,scour,no trend,0.0999,0.0,4
+17,Pichincha,1704,Pedro Moncayo,debris_flow,datos_insuficientes,,,1
+17,Pichincha,1704,Pedro Moncayo,flood,increasing,0.0175,0.2857,4
+17,Pichincha,1704,Pedro Moncayo,landslide,increasing,0.0068,0.5714,10
+17,Pichincha,1705,Rumiñahui,flood,increasing,0.0131,0.8333,5
+17,Pichincha,1705,Rumiñahui,landslide,increasing,0.0076,0.5,7
+17,Pichincha,1705,Rumiñahui,scour,increasing,0.042,0.0,4
+17,Pichincha,1707,San Miguel de los Bancos,flood,no trend,0.2006,0.0,4
+17,Pichincha,1707,San Miguel de los Bancos,landslide,no trend,0.0627,0.5,11
+17,Pichincha,1708,Pedro Vicente Maldonado,debris_flow,datos_insuficientes,,,1
+17,Pichincha,1708,Pedro Vicente Maldonado,flood,datos_insuficientes,,,1
+17,Pichincha,1708,Pedro Vicente Maldonado,landslide,no trend,0.4595,0.0,4
+17,Pichincha,1709,Puerto Quito,flood,no trend,0.1859,0.2222,9
+17,Pichincha,1709,Puerto Quito,landslide,no trend,0.1859,0.1111,6
+17,Pichincha,1709,Puerto Quito,scour,datos_insuficientes,,,2
+18,Tungurahua,1801,Ambato,debris_flow,no trend,1.0,0.0,9
+18,Tungurahua,1801,Ambato,flood,no trend,0.2386,-0.4444,11
+18,Tungurahua,1801,Ambato,landslide,decreasing,0.0417,-3.5,11
+18,Tungurahua,1801,Ambato,scour,no trend,0.1859,0.1429,11
+18,Tungurahua,1802,Baños de Agua Santa,debris_flow,no trend,0.1817,0.4,10
+18,Tungurahua,1802,Baños de Agua Santa,flood,datos_insuficientes,,,2
+18,Tungurahua,1802,Baños de Agua Santa,landslide,decreasing,0.0063,-3.6,11
+18,Tungurahua,1802,Baños de Agua Santa,scour,no trend,0.4041,0.0,8
+18,Tungurahua,1803,Cevallos,debris_flow,datos_insuficientes,,,1
+18,Tungurahua,1803,Cevallos,flood,no trend,0.1956,0.0,4
+18,Tungurahua,1803,Cevallos,landslide,no trend,0.2986,0.0,4
+18,Tungurahua,1803,Cevallos,scour,datos_insuficientes,,,1
+18,Tungurahua,1804,Mocha,debris_flow,no trend,0.7115,0.0,4
+18,Tungurahua,1804,Mocha,flood,no trend,0.0726,0.0,4
+18,Tungurahua,1804,Mocha,landslide,no trend,0.1241,-0.25,7
+18,Tungurahua,1805,Patate,debris_flow,no trend,1.0,0.0,6
+18,Tungurahua,1805,Patate,flood,no trend,0.1329,0.0,7
+18,Tungurahua,1805,Patate,landslide,no trend,0.0684,-1.0,11
+18,Tungurahua,1805,Patate,scour,datos_insuficientes,,,2
+18,Tungurahua,1806,Quero,debris_flow,datos_insuficientes,,,1
+18,Tungurahua,1806,Quero,flood,no trend,0.794,0.0,5
+18,Tungurahua,1806,Quero,landslide,no trend,1.0,0.0,8
+18,Tungurahua,1806,Quero,scour,no trend,0.9269,0.0,4
+18,Tungurahua,1807,San Pedro de Pelileo,debris_flow,no trend,0.438,0.0,5
+18,Tungurahua,1807,San Pedro de Pelileo,flood,no trend,1.0,0.0,7
+18,Tungurahua,1807,San Pedro de Pelileo,landslide,decreasing,0.0122,-2.4,11
+18,Tungurahua,1807,San Pedro de Pelileo,scour,no trend,0.9269,0.0,4
+18,Tungurahua,1808,Santiago de Píllaro,debris_flow,no trend,0.1879,0.125,7
+18,Tungurahua,1808,Santiago de Píllaro,flood,no trend,0.2248,0.0,5
+18,Tungurahua,1808,Santiago de Píllaro,landslide,no trend,0.0684,-0.4,11
+18,Tungurahua,1808,Santiago de Píllaro,scour,no trend,1.0,0.0,4
+18,Tungurahua,1809,Tisaleo,debris_flow,datos_insuficientes,,,1
+18,Tungurahua,1809,Tisaleo,flood,no trend,0.7989,0.0,6
+18,Tungurahua,1809,Tisaleo,landslide,datos_insuficientes,,,3
+19,Zamora Chinchipe,1901,Zamora,debris_flow,increasing,0.0235,0.2857,6
+19,Zamora Chinchipe,1901,Zamora,flood,no trend,0.8748,0.0,11
+19,Zamora Chinchipe,1901,Zamora,landslide,decreasing,0.0188,-3.8,11
+19,Zamora Chinchipe,1901,Zamora,scour,decreasing,0.007,-0.2,5
+19,Zamora Chinchipe,1902,Chinchipe,flood,datos_insuficientes,,,3
+19,Zamora Chinchipe,1902,Chinchipe,landslide,decreasing,0.0133,-0.8333,8
+19,Zamora Chinchipe,1902,Chinchipe,scour,datos_insuficientes,,,1
+19,Zamora Chinchipe,1903,Nangaritza,debris_flow,datos_insuficientes,,,1
+19,Zamora Chinchipe,1903,Nangaritza,flood,no trend,0.7287,0.0,10
+19,Zamora Chinchipe,1903,Nangaritza,landslide,no trend,0.2505,0.0,5
+19,Zamora Chinchipe,1903,Nangaritza,scour,datos_insuficientes,,,2
+19,Zamora Chinchipe,1904,Yacuambi,debris_flow,datos_insuficientes,,,2
+19,Zamora Chinchipe,1904,Yacuambi,flood,datos_insuficientes,,,3
+19,Zamora Chinchipe,1904,Yacuambi,landslide,no trend,1.0,0.0,11
+19,Zamora Chinchipe,1904,Yacuambi,scour,datos_insuficientes,,,1
+19,Zamora Chinchipe,1905,Yantzaza,debris_flow,datos_insuficientes,,,3
+19,Zamora Chinchipe,1905,Yantzaza,flood,no trend,0.6261,0.0,10
+19,Zamora Chinchipe,1905,Yantzaza,landslide,decreasing,0.0339,-0.75,9
+19,Zamora Chinchipe,1905,Yantzaza,scour,datos_insuficientes,,,1
+19,Zamora Chinchipe,1906,El Pangui,flood,no trend,0.2618,-0.2,9
+19,Zamora Chinchipe,1906,El Pangui,landslide,decreasing,0.023,-0.4,8
+19,Zamora Chinchipe,1907,Centinela del Cóndor,debris_flow,datos_insuficientes,,,1
+19,Zamora Chinchipe,1907,Centinela del Cóndor,flood,no trend,0.742,0.0,7
+19,Zamora Chinchipe,1907,Centinela del Cóndor,landslide,no trend,0.2064,-0.375,10
+19,Zamora Chinchipe,1907,Centinela del Cóndor,scour,datos_insuficientes,,,1
+19,Zamora Chinchipe,1908,Palanda,debris_flow,no trend,0.3552,0.0,4
+19,Zamora Chinchipe,1908,Palanda,flood,datos_insuficientes,,,2
+19,Zamora Chinchipe,1908,Palanda,landslide,no trend,0.0849,-2.4,10
+19,Zamora Chinchipe,1909,Paquisha,flood,no trend,0.9296,0.0,5
+19,Zamora Chinchipe,1909,Paquisha,landslide,no trend,0.2217,-0.2222,9
+19,Zamora Chinchipe,1909,Paquisha,scour,datos_insuficientes,,,1
+20,Galápagos,2001,San Cristóbal,debris_flow,datos_insuficientes,,,1
+20,Galápagos,2001,San Cristóbal,flood,increasing,0.0301,0.25,6
+20,Galápagos,2001,San Cristóbal,landslide,datos_insuficientes,,,2
+20,Galápagos,2002,Isabela,flood,datos_insuficientes,,,1
+20,Galápagos,2003,Santa Cruz,flood,no trend,0.4041,0.0,6
+21,Sucumbíos,2101,Lago Agrio,flood,no trend,0.1526,-0.2,9
+21,Sucumbíos,2101,Lago Agrio,landslide,no trend,0.7287,0.0,5
+21,Sucumbíos,2101,Lago Agrio,scour,no trend,0.8623,0.0,5
+21,Sucumbíos,2102,Gonzalo Pizarro,flood,no trend,0.5522,0.0,7
+21,Sucumbíos,2102,Gonzalo Pizarro,landslide,no trend,0.1586,-0.6667,11
+21,Sucumbíos,2102,Gonzalo Pizarro,scour,no trend,0.5606,0.0,8
+21,Sucumbíos,2103,Putumayo,flood,no trend,0.1274,0.2,7
+21,Sucumbíos,2103,Putumayo,scour,datos_insuficientes,,,2
+21,Sucumbíos,2104,Shushufindi,flood,no trend,0.6306,0.0,8
+21,Sucumbíos,2104,Shushufindi,scour,datos_insuficientes,,,1
+21,Sucumbíos,2105,Sucumbíos,debris_flow,datos_insuficientes,,,2
+21,Sucumbíos,2105,Sucumbíos,flood,datos_insuficientes,,,2
+21,Sucumbíos,2105,Sucumbíos,landslide,no trend,0.9374,0.0,11
+21,Sucumbíos,2105,Sucumbíos,scour,datos_insuficientes,,,3
+21,Sucumbíos,2106,Cascales,flood,datos_insuficientes,,,2
+21,Sucumbíos,2106,Cascales,landslide,datos_insuficientes,,,3
+21,Sucumbíos,2106,Cascales,scour,datos_insuficientes,,,2
+21,Sucumbíos,2107,Cuyabeno,flood,no trend,0.4168,0.1111,8
+21,Sucumbíos,2107,Cuyabeno,landslide,datos_insuficientes,,,1
+22,Orellana,2201,Francisco de Orellana,flood,no trend,0.3835,0.3333,11
+22,Orellana,2201,Francisco de Orellana,landslide,no trend,0.5792,0.2222,9
+22,Orellana,2201,Francisco de Orellana,scour,increasing,0.0022,0.6,7
+22,Orellana,2202,Aguarico,flood,no trend,0.2347,0.3333,10
+22,Orellana,2202,Aguarico,scour,datos_insuficientes,,,2
+22,Orellana,2203,La Joya de los Sachas,flood,no trend,1.0,0.0,6
+22,Orellana,2203,La Joya de los Sachas,landslide,datos_insuficientes,,,3
+22,Orellana,2203,La Joya de los Sachas,scour,increasing,0.0271,0.1111,5
+22,Orellana,2204,Loreto,flood,no trend,1.0,0.0,6
+22,Orellana,2204,Loreto,landslide,no trend,0.571,0.0,7
+22,Orellana,2204,Loreto,scour,datos_insuficientes,,,1
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,debris_flow,datos_insuficientes,,,3
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,flood,no trend,0.1379,1.0,11
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,landslide,no trend,0.5846,0.5,11
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,scour,no trend,0.4721,-0.1429,8
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,flood,no trend,0.112,0.4,8
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,landslide,no trend,0.1653,0.0,8
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,scour,no trend,0.1082,0.0,4
+24,Santa Elena,2401,Santa Elena,flood,no trend,0.0823,1.625,10
+24,Santa Elena,2401,Santa Elena,landslide,no trend,0.735,0.0,7
+24,Santa Elena,2401,Santa Elena,scour,increasing,0.0393,0.1667,5
+24,Santa Elena,2402,La Libertad,flood,no trend,0.6261,0.0,8
+24,Santa Elena,2403,Salinas,flood,increasing,0.0169,0.7143,10
+24,Santa Elena,2403,Salinas,landslide,datos_insuficientes,,,1
+24,Santa Elena,2403,Salinas,scour,datos_insuficientes,,,2
+01,Azuay,0101,Cuenca,TODOS,increasing,0.0127,9.6,11
+01,Azuay,0102,Girón,TODOS,no trend,0.1552,1.5,8
+01,Azuay,0103,Gualaceo,TODOS,increasing,0.0417,0.625,10
+01,Azuay,0104,Nabón,TODOS,no trend,0.0638,0.25,8
+01,Azuay,0105,Paute,TODOS,no trend,0.0708,0.6,10
+01,Azuay,0106,Pucará,TODOS,increasing,0.0147,1.6,10
+01,Azuay,0107,San Fernando,TODOS,datos_insuficientes,,,1
+01,Azuay,0108,Santa Isabel,TODOS,increasing,0.0169,0.6667,11
+01,Azuay,0109,Sígsig,TODOS,no trend,0.9374,0.0,9
+01,Azuay,0110,Oña,TODOS,no trend,0.2294,0.0,5
+01,Azuay,0111,Chordeleg,TODOS,no trend,0.1917,0.0,5
+01,Azuay,0112,El Pan,TODOS,datos_insuficientes,,,3
+01,Azuay,0113,Sevilla de Oro,TODOS,no trend,0.8721,0.0,11
+01,Azuay,0114,Guachapala,TODOS,datos_insuficientes,,,3
+01,Azuay,0115,Camilo Ponce enríquez,TODOS,no trend,0.7475,0.0,9
+02,Bolívar,0201,Guaranda,TODOS,no trend,0.0509,2.25,11
+02,Bolívar,0202,Chillanes,TODOS,increasing,0.0235,2.6667,11
+02,Bolívar,0203,Chimbo,TODOS,no trend,0.1172,1.5,11
+02,Bolívar,0204,Echeandía,TODOS,no trend,0.1552,1.0,11
+02,Bolívar,0205,San Miguel,TODOS,no trend,0.2415,2.0,11
+02,Bolívar,0206,Caluma,TODOS,no trend,0.3031,0.3333,8
+02,Bolívar,0207,Las Naves,TODOS,increasing,0.0215,0.6667,6
+03,Cañar,0301,Azogues,TODOS,no trend,0.129,0.6,9
+03,Cañar,0302,Biblián,TODOS,no trend,0.0684,0.3333,9
+03,Cañar,0303,Cañar,TODOS,increasing,0.0188,1.3333,10
+03,Cañar,0304,La Troncal,TODOS,no trend,0.1323,0.5,10
+03,Cañar,0305,El Tambo,TODOS,no trend,0.4334,0.0,5
+03,Cañar,0306,Déleg,TODOS,datos_insuficientes,,,3
+03,Cañar,0307,Suscal,TODOS,no trend,0.2327,0.0,4
+04,Carchi,0401,Tulcán,TODOS,increasing,0.0495,1.3333,11
+04,Carchi,0402,Bolívar,TODOS,no trend,0.3341,0.2,9
+04,Carchi,0403,Espejo,TODOS,increasing,0.0121,0.5,8
+04,Carchi,0404,Mira,TODOS,no trend,0.0962,0.5,11
+04,Carchi,0405,Montúfar,TODOS,no trend,0.0829,0.5,9
+04,Carchi,0406,San Pedro de Huaca,TODOS,no trend,0.1632,0.0,6
+05,Cotopaxi,0501,Latacunga,TODOS,no trend,0.0684,0.8,11
+05,Cotopaxi,0502,La Maná,TODOS,no trend,0.1817,1.0,9
+05,Cotopaxi,0503,Pangua,TODOS,no trend,0.3865,0.5,8
+05,Cotopaxi,0504,Pujilí,TODOS,no trend,0.1172,0.8889,11
+05,Cotopaxi,0505,Salcedo,TODOS,no trend,0.0704,0.125,5
+05,Cotopaxi,0506,Saquisilí,TODOS,no trend,0.2618,-0.2,8
+05,Cotopaxi,0507,Sigchos,TODOS,increasing,0.04,1.0,11
+06,Chimborazo,0601,Riobamba,TODOS,no trend,0.3875,0.2857,11
+06,Chimborazo,0602,Alausí,TODOS,no trend,0.8148,0.75,11
+06,Chimborazo,0603,Colta,TODOS,no trend,0.6944,0.5,11
+06,Chimborazo,0604,Chambo,TODOS,increasing,0.0388,0.3333,10
+06,Chimborazo,0605,Chunchi,TODOS,no trend,0.9374,0.0,11
+06,Chimborazo,0606,Guamote,TODOS,no trend,0.9378,0.1429,11
+06,Chimborazo,0607,Guano,TODOS,no trend,0.5309,-1.0,11
+06,Chimborazo,0608,Pallatanga,TODOS,no trend,0.8755,0.1111,11
+06,Chimborazo,0609,Penipe,TODOS,no trend,0.5275,0.25,11
+06,Chimborazo,0610,Cumandá,TODOS,no trend,0.2247,0.2857,11
+07,El Oro,0701,Machala,TODOS,increasing,0.0094,1.4,11
+07,El Oro,0702,Arenillas,TODOS,no trend,0.5275,0.25,8
+07,El Oro,0703,Atahualpa,TODOS,no trend,0.7521,0.25,11
+07,El Oro,0704,Balsas,TODOS,no trend,0.2101,1.0,11
+07,El Oro,0705,Chilla,TODOS,no trend,0.3473,0.3333,10
+07,El Oro,0706,El Guabo,TODOS,increasing,0.0056,0.75,10
+07,El Oro,0707,Huaquillas,TODOS,no trend,0.6926,0.1111,9
+07,El Oro,0708,Marcabelí,TODOS,no trend,0.1142,0.25,6
+07,El Oro,0709,Pasaje,TODOS,increasing,0.0127,3.0,11
+07,El Oro,0710,Piñas,TODOS,no trend,0.3502,2.0,11
+07,El Oro,0711,Portovelo,TODOS,no trend,0.0617,2.0,11
+07,El Oro,0712,Santa Rosa,TODOS,no trend,0.8755,0.125,11
+07,El Oro,0713,Zaruma,TODOS,no trend,0.3502,0.6667,11
+07,El Oro,0714,Las Lajas,TODOS,no trend,0.156,0.5,9
+08,Esmeraldas,0801,Esmeraldas,TODOS,increasing,0.043,3.0,11
+08,Esmeraldas,0802,Eloy Alfaro,TODOS,increasing,0.0235,1.1111,11
+08,Esmeraldas,0803,Muisne,TODOS,no trend,0.0892,2.375,11
+08,Esmeraldas,0804,Quinindé,TODOS,no trend,0.3904,1.0,11
+08,Esmeraldas,0805,San Lorenzo,TODOS,no trend,0.5846,0.3333,11
+08,Esmeraldas,0806,Atacames,TODOS,no trend,0.1172,1.6,9
+08,Esmeraldas,0807,Rioverde,TODOS,no trend,1.0,0.0,11
+09,Guayas,0901,Guayaquil,TODOS,increasing,0.043,5.4444,11
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),TODOS,no trend,0.4758,0.6,11
+09,Guayas,0903,Balao,TODOS,no trend,0.4721,0.1429,8
+09,Guayas,0904,Balzar,TODOS,no trend,0.2386,0.5,9
+09,Guayas,0905,Colimes,TODOS,increasing,0.0189,0.7778,7
+09,Guayas,0906,Daule,TODOS,no trend,0.1172,3.2857,10
+09,Guayas,0907,Durán,TODOS,no trend,0.3875,0.5,11
+09,Guayas,0908,El Empalme,TODOS,no trend,0.1889,0.1429,10
+09,Guayas,0909,El Triunfo,TODOS,no trend,0.3835,0.3333,9
+09,Guayas,0910,Milagro,TODOS,no trend,0.1172,1.5714,9
+09,Guayas,0911,Naranjal,TODOS,no trend,0.0549,1.2222,10
+09,Guayas,0912,Naranjito,TODOS,no trend,0.15,0.75,7
+09,Guayas,0913,Palestina,TODOS,no trend,0.7521,0.1111,8
+09,Guayas,0914,Pedro Carbo,TODOS,increasing,0.0476,1.0,10
+09,Guayas,0916,Samborondón,TODOS,no trend,0.2288,1.0,7
+09,Guayas,0918,Santa Lucía,TODOS,increasing,0.0084,1.3333,8
+09,Guayas,0919,Salitre,TODOS,no trend,0.1586,2.7143,9
+09,Guayas,0920,San Jacinto de Yaguachi,TODOS,no trend,0.156,1.0,9
+09,Guayas,0921,Playas,TODOS,no trend,1.0,0.0,10
+09,Guayas,0922,Simón Bolívar,TODOS,increasing,0.0056,1.0,8
+09,Guayas,0923,Coronel Marcelino Maridueña,TODOS,no trend,0.1879,0.1429,7
+09,Guayas,0924,Lomas de Sargentillo,TODOS,increasing,0.011,0.4444,8
+09,Guayas,0925,Nobol,TODOS,no trend,0.0934,0.3333,9
+09,Guayas,0927,General  Antonio Elizalde,TODOS,no trend,0.6895,0.0,10
+09,Guayas,0928,Isidro Ayora,TODOS,no trend,0.0704,0.2222,9
+10,Imbabura,1001,Ibarra,TODOS,no trend,0.0725,2.75,11
+10,Imbabura,1002,Antonio Ante,TODOS,increasing,0.0171,0.3333,9
+10,Imbabura,1003,Cotacachi,TODOS,increasing,0.0235,2.0,11
+10,Imbabura,1004,Otavalo,TODOS,increasing,0.006,0.8333,11
+10,Imbabura,1005,Pimampiro,TODOS,increasing,0.0169,0.7143,10
+10,Imbabura,1006,San Miguel de Urcuquí,TODOS,no trend,0.092,0.8,10
+11,Loja,1101,Loja,TODOS,no trend,0.5334,-1.0,11
+11,Loja,1102,Calvas,TODOS,no trend,0.2728,-1.0,11
+11,Loja,1103,Catamayo,TODOS,no trend,0.6384,-0.5,11
+11,Loja,1104,Celica,TODOS,no trend,0.2376,-0.6,11
+11,Loja,1105,Chaguarpamba,TODOS,no trend,1.0,0.0,11
+11,Loja,1106,Espíndola,TODOS,no trend,0.4335,-0.4,10
+11,Loja,1107,Gonzanamá,TODOS,no trend,1.0,0.0,10
+11,Loja,1108,Macará,TODOS,no trend,0.6356,-0.25,8
+11,Loja,1109,Paltas,TODOS,no trend,1.0,0.0,11
+11,Loja,1110,Puyango,TODOS,no trend,0.8137,-0.1429,11
+11,Loja,1111,Saraguro,TODOS,no trend,0.4758,-0.2,11
+11,Loja,1112,Sozoranga,TODOS,no trend,0.2728,-1.0,9
+11,Loja,1113,Zapotillo,TODOS,no trend,0.936,0.0,7
+11,Loja,1114,Pindal,TODOS,no trend,0.576,0.1667,8
+11,Loja,1115,Quilanga,TODOS,no trend,0.9363,0.0,10
+11,Loja,1116,Olmedo,TODOS,no trend,0.9363,0.0,8
+12,Los Ríos,1201,Babahoyo,TODOS,increasing,0.0023,4.25,11
+12,Los Ríos,1202,Baba,TODOS,increasing,0.0149,1.4286,9
+12,Los Ríos,1203,Montalvo,TODOS,no trend,0.0983,0.7143,11
+12,Los Ríos,1204,Puebloviejo,TODOS,increasing,0.0089,0.7143,8
+12,Los Ríos,1205,Quevedo,TODOS,no trend,0.101,1.0,10
+12,Los Ríos,1206,Urdaneta,TODOS,increasing,0.0227,1.5,11
+12,Los Ríos,1207,Ventanas,TODOS,no trend,0.1552,0.8571,10
+12,Los Ríos,1208,Vinces,TODOS,increasing,0.0273,0.8571,9
+12,Los Ríos,1209,Palenque,TODOS,increasing,0.0212,0.2857,7
+12,Los Ríos,1210,Buena Fe,TODOS,increasing,0.0084,0.4444,8
+12,Los Ríos,1211,Valencia,TODOS,increasing,0.0072,0.7778,8
+12,Los Ríos,1212,Mocache,TODOS,increasing,0.0292,0.3333,9
+12,Los Ríos,1213,Quinsaloma,TODOS,no trend,0.1044,0.3333,7
+13,Manabí,1301,Portoviejo,TODOS,no trend,0.31,2.0,11
+13,Manabí,1302,Bolívar,TODOS,no trend,0.2347,0.5,10
+13,Manabí,1303,Chone,TODOS,no trend,0.2415,1.3333,11
+13,Manabí,1304,El Carmen,TODOS,no trend,0.754,0.3333,10
+13,Manabí,1305,Flavio Alfaro,TODOS,no trend,0.5823,-0.3333,11
+13,Manabí,1306,Jipijapa,TODOS,no trend,0.6938,0.5,10
+13,Manabí,1307,Junín,TODOS,no trend,0.2347,0.3333,9
+13,Manabí,1308,Manta,TODOS,no trend,0.0849,1.25,10
+13,Manabí,1309,Montecristi,TODOS,no trend,0.7526,0.125,9
+13,Manabí,1310,Paján,TODOS,increasing,0.0189,0.5714,11
+13,Manabí,1311,Pichincha,TODOS,no trend,0.3126,0.0,9
+13,Manabí,1312,Rocafuerte,TODOS,no trend,0.8745,0.0,9
+13,Manabí,1313,Santa Ana,TODOS,no trend,0.2064,1.0,11
+13,Manabí,1314,Sucre,TODOS,no trend,0.3071,0.8333,11
+13,Manabí,1315,Tosagua,TODOS,no trend,0.3835,0.375,9
+13,Manabí,1316,24 de Mayo,TODOS,no trend,0.5744,0.375,9
+13,Manabí,1317,Pedernales,TODOS,no trend,0.7501,0.0,11
+13,Manabí,1318,Olmedo,TODOS,no trend,0.692,0.1429,9
+13,Manabí,1319,Puerto López,TODOS,no trend,0.571,0.0,8
+13,Manabí,1320,Jama,TODOS,no trend,0.8748,0.0,9
+13,Manabí,1321,Jaramijó,TODOS,no trend,0.8623,0.0,5
+13,Manabí,1322,San Vicente,TODOS,no trend,0.6895,0.0,8
+14,Morona Santiago,1401,Morona,TODOS,no trend,0.9378,0.3333,11
+14,Morona Santiago,1402,Gualaquiza,TODOS,increasing,0.0495,1.25,11
+14,Morona Santiago,1403,Limón Indanza,TODOS,no trend,0.1844,-3.0,11
+14,Morona Santiago,1404,Palora,TODOS,no trend,0.1186,0.1,8
+14,Morona Santiago,1405,Santiago,TODOS,decreasing,0.0224,-1.6667,11
+14,Morona Santiago,1406,Sucúa,TODOS,increasing,0.0031,0.5,11
+14,Morona Santiago,1407,Huamboya,TODOS,no trend,0.8721,0.0,11
+14,Morona Santiago,1408,San Juan Bosco,TODOS,no trend,0.3795,0.3333,11
+14,Morona Santiago,1409,Taisha,TODOS,no trend,0.3795,0.2,11
+14,Morona Santiago,1410,Logroño,TODOS,no trend,0.3702,0.125,9
+14,Morona Santiago,1411,Pablo Sexto,TODOS,increasing,0.0443,0.1,4
+14,Morona Santiago,1412,Tiwintza,TODOS,no trend,0.6335,-0.1111,11
+15,Napo,1501,Tena,TODOS,no trend,0.1379,1.375,11
+15,Napo,1503,Archidona,TODOS,no trend,0.8121,0.0,11
+15,Napo,1504,El Chaco,TODOS,no trend,0.3473,2.7778,11
+15,Napo,1507,Quijos,TODOS,no trend,0.1844,-1.3333,11
+15,Napo,1509,Carlos Julio Arosemena Tola,TODOS,no trend,0.1167,0.125,9
+16,Pastaza,1601,Pastaza,TODOS,no trend,0.8137,0.3333,11
+16,Pastaza,1602,Mera,TODOS,no trend,0.6384,-0.25,11
+16,Pastaza,1603,Santa Clara,TODOS,no trend,0.5275,-0.2,10
+16,Pastaza,1604,Arajuno,TODOS,no trend,0.692,0.1111,11
+17,Pichincha,1701,Distrito Metropolitano de Quito,TODOS,increasing,0.0063,28.75,11
+17,Pichincha,1702,Cayambe,TODOS,increasing,0.0017,1.0,11
+17,Pichincha,1703,Mejía,TODOS,increasing,0.0188,4.875,11
+17,Pichincha,1704,Pedro Moncayo,TODOS,increasing,0.0034,0.875,10
+17,Pichincha,1705,Rumiñahui,TODOS,increasing,0.005,1.6667,7
+17,Pichincha,1707,San Miguel de los Bancos,TODOS,no trend,0.065,0.5714,11
+17,Pichincha,1708,Pedro Vicente Maldonado,TODOS,no trend,0.1962,0.0,5
+17,Pichincha,1709,Puerto Quito,TODOS,no trend,0.1112,0.5,10
+18,Tungurahua,1801,Ambato,TODOS,no trend,0.0509,-3.6667,11
+18,Tungurahua,1802,Baños de Agua Santa,TODOS,decreasing,0.0155,-3.6667,11
+18,Tungurahua,1803,Cevallos,TODOS,no trend,0.5045,0.0,6
+18,Tungurahua,1804,Mocha,TODOS,decreasing,0.0364,-0.4,9
+18,Tungurahua,1805,Patate,TODOS,no trend,0.0509,-1.3333,11
+18,Tungurahua,1806,Quero,TODOS,no trend,1.0,0.0,8
+18,Tungurahua,1807,San Pedro de Pelileo,TODOS,decreasing,0.0039,-2.2,11
+18,Tungurahua,1808,Santiago de Píllaro,TODOS,no trend,0.6944,-0.1429,11
+18,Tungurahua,1809,Tisaleo,TODOS,no trend,0.2896,-0.1111,7
+19,Zamora Chinchipe,1901,Zamora,TODOS,no trend,0.0509,-3.5,11
+19,Zamora Chinchipe,1902,Chinchipe,TODOS,decreasing,0.0283,-0.6667,10
+19,Zamora Chinchipe,1903,Nangaritza,TODOS,no trend,0.6261,0.0,11
+19,Zamora Chinchipe,1904,Yacuambi,TODOS,no trend,0.9374,0.0,11
+19,Zamora Chinchipe,1905,Yantzaza,TODOS,no trend,0.1586,-0.8,11
+19,Zamora Chinchipe,1906,El Pangui,TODOS,decreasing,0.0303,-0.6667,9
+19,Zamora Chinchipe,1907,Centinela del Cóndor,TODOS,no trend,0.6384,-0.25,10
+19,Zamora Chinchipe,1908,Palanda,TODOS,no trend,0.0868,-2.2857,10
+19,Zamora Chinchipe,1909,Paquisha,TODOS,no trend,0.3702,-0.1667,9
+20,Galápagos,2001,San Cristóbal,TODOS,increasing,0.0453,0.25,6
+20,Galápagos,2002,Isabela,TODOS,datos_insuficientes,,,1
+20,Galápagos,2003,Santa Cruz,TODOS,no trend,0.4041,0.0,6
+21,Sucumbíos,2101,Lago Agrio,TODOS,no trend,0.2386,-0.4,10
+21,Sucumbíos,2102,Gonzalo Pizarro,TODOS,no trend,0.1586,-0.7143,11
+21,Sucumbíos,2103,Putumayo,TODOS,no trend,0.092,0.4,7
+21,Sucumbíos,2104,Shushufindi,TODOS,no trend,0.5727,0.0,8
+21,Sucumbíos,2105,Sucumbíos,TODOS,no trend,0.754,-0.125,11
+21,Sucumbíos,2106,Cascales,TODOS,no trend,1.0,0.0,6
+21,Sucumbíos,2107,Cuyabeno,TODOS,no trend,0.3702,0.1111,8
+22,Orellana,2201,Francisco de Orellana,TODOS,increasing,0.0122,1.625,11
+22,Orellana,2202,Aguarico,TODOS,no trend,0.1274,0.5,10
+22,Orellana,2203,La Joya de los Sachas,TODOS,no trend,0.4208,0.2,9
+22,Orellana,2204,Loreto,TODOS,no trend,1.0,0.0,9
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,TODOS,no trend,0.31,2.0,11
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,TODOS,no trend,0.099,0.6667,9
+24,Santa Elena,2401,Santa Elena,TODOS,no trend,0.0509,1.6667,11
+24,Santa Elena,2402,La Libertad,TODOS,no trend,0.6261,0.0,8
+24,Santa Elena,2403,Salinas,TODOS,increasing,0.0141,0.75,10

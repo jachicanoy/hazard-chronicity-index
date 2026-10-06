@@ -1,0 +1,928 @@
+province_code,province_name_official,canton_code,canton_name_official,hazard_type,n_eventos,anios_afectados,primer_evento,ultimo_evento,meses_afectados
+01,Azuay,0101,Cuenca,debris_flow,6,5,2015-04-21,2025-11-04,6
+01,Azuay,0101,Cuenca,flood,185,11,2015-04-21,2025-12-20,45
+01,Azuay,0101,Cuenca,landslide,366,11,2015-03-19,2025-11-29,75
+01,Azuay,0101,Cuenca,scour,20,8,2015-03-04,2025-05-19,17
+01,Azuay,0102,Girón,flood,14,4,2019-03-25,2025-04-09,7
+01,Azuay,0102,Girón,landslide,62,8,2015-03-21,2025-04-15,19
+01,Azuay,0102,Girón,scour,2,2,2021-03-23,2025-03-29,2
+01,Azuay,0103,Gualaceo,flood,15,8,2017-07-26,2025-11-20,12
+01,Azuay,0103,Gualaceo,landslide,39,10,2015-06-25,2025-07-12,28
+01,Azuay,0103,Gualaceo,scour,2,2,2021-11-17,2025-03-06,2
+01,Azuay,0104,Nabón,flood,6,4,2019-03-06,2025-11-20,5
+01,Azuay,0104,Nabón,landslide,20,7,2017-03-12,2025-11-20,13
+01,Azuay,0105,Paute,debris_flow,5,2,2022-07-08,2025-03-18,2
+01,Azuay,0105,Paute,flood,12,5,2019-11-17,2025-11-19,9
+01,Azuay,0105,Paute,landslide,37,10,2016-09-14,2025-11-19,21
+01,Azuay,0106,Pucará,flood,3,2,2016-03-06,2023-04-18,3
+01,Azuay,0106,Pucará,landslide,63,10,2015-03-29,2025-11-28,33
+01,Azuay,0106,Pucará,scour,9,4,2016-03-07,2025-04-18,6
+01,Azuay,0107,San Fernando,landslide,1,1,2025-02-12,2025-02-12,1
+01,Azuay,0108,Santa Isabel,debris_flow,1,1,2022-04-21,2022-04-21,1
+01,Azuay,0108,Santa Isabel,flood,9,5,2019-03-01,2025-06-10,9
+01,Azuay,0108,Santa Isabel,landslide,38,11,2015-03-01,2025-11-01,28
+01,Azuay,0108,Santa Isabel,scour,7,3,2022-03-18,2025-04-03,5
+01,Azuay,0109,Sígsig,debris_flow,1,1,2025-07-12,2025-07-12,1
+01,Azuay,0109,Sígsig,flood,6,2,2022-07-04,2025-07-02,6
+01,Azuay,0109,Sígsig,landslide,32,9,2015-06-25,2025-10-20,24
+01,Azuay,0110,Oña,flood,1,1,2025-03-13,2025-03-13,1
+01,Azuay,0110,Oña,landslide,12,5,2016-10-28,2025-04-06,8
+01,Azuay,0111,Chordeleg,flood,5,3,2020-12-26,2023-12-29,4
+01,Azuay,0111,Chordeleg,landslide,3,2,2016-04-05,2025-03-30,3
+01,Azuay,0112,El Pan,landslide,4,3,2016-08-31,2025-07-03,4
+01,Azuay,0113,Sevilla de Oro,debris_flow,4,3,2019-10-19,2025-07-19,3
+01,Azuay,0113,Sevilla de Oro,flood,1,1,2025-11-04,2025-11-04,1
+01,Azuay,0113,Sevilla de Oro,landslide,45,11,2015-06-24,2025-07-13,33
+01,Azuay,0113,Sevilla de Oro,scour,2,2,2022-08-30,2025-07-03,2
+01,Azuay,0114,Guachapala,flood,2,2,2015-06-26,2025-03-28,2
+01,Azuay,0114,Guachapala,landslide,8,2,2021-11-24,2025-09-24,6
+01,Azuay,0115,Camilo Ponce enríquez,flood,15,7,2015-01-17,2024-02-19,10
+01,Azuay,0115,Camilo Ponce enríquez,landslide,7,6,2015-01-17,2025-04-01,7
+01,Azuay,0115,Camilo Ponce enríquez,scour,2,2,2020-03-08,2022-03-17,2
+02,Bolívar,0201,Guaranda,debris_flow,14,6,2019-03-25,2025-11-26,13
+02,Bolívar,0201,Guaranda,flood,18,8,2015-02-16,2025-03-20,13
+02,Bolívar,0201,Guaranda,landslide,249,11,2015-01-02,2025-10-29,66
+02,Bolívar,0201,Guaranda,scour,11,6,2019-03-28,2025-04-19,8
+02,Bolívar,0202,Chillanes,debris_flow,3,2,2020-01-22,2023-03-10,3
+02,Bolívar,0202,Chillanes,flood,19,7,2015-03-20,2025-04-26,12
+02,Bolívar,0202,Chillanes,landslide,135,11,2015-02-09,2025-06-02,42
+02,Bolívar,0202,Chillanes,scour,4,3,2016-03-13,2025-04-10,4
+02,Bolívar,0203,Chimbo,debris_flow,4,3,2023-03-13,2025-03-25,3
+02,Bolívar,0203,Chimbo,flood,9,4,2016-01-21,2025-04-29,6
+02,Bolívar,0203,Chimbo,landslide,92,11,2015-03-20,2025-05-10,30
+02,Bolívar,0203,Chimbo,scour,3,3,2019-02-26,2023-04-29,3
+02,Bolívar,0204,Echeandía,debris_flow,3,3,2018-04-02,2025-03-05,3
+02,Bolívar,0204,Echeandía,flood,23,9,2015-03-20,2025-04-23,17
+02,Bolívar,0204,Echeandía,landslide,32,8,2015-03-17,2025-04-28,19
+02,Bolívar,0204,Echeandía,scour,9,5,2018-04-28,2025-04-27,7
+02,Bolívar,0205,San Miguel,debris_flow,8,4,2022-03-09,2025-02-16,6
+02,Bolívar,0205,San Miguel,flood,10,5,2016-04-03,2024-02-19,6
+02,Bolívar,0205,San Miguel,landslide,171,11,2015-02-08,2025-05-27,40
+02,Bolívar,0205,San Miguel,scour,1,1,2023-03-14,2023-03-14,1
+02,Bolívar,0206,Caluma,debris_flow,1,1,2015-03-20,2015-03-20,1
+02,Bolívar,0206,Caluma,flood,19,7,2015-03-20,2025-03-10,13
+02,Bolívar,0206,Caluma,landslide,18,8,2015-03-20,2025-05-16,13
+02,Bolívar,0206,Caluma,scour,5,3,2015-03-20,2023-03-13,4
+02,Bolívar,0207,Las Naves,flood,22,6,2017-03-04,2025-04-10,14
+02,Bolívar,0207,Las Naves,landslide,6,4,2022-03-06,2025-02-26,5
+02,Bolívar,0207,Las Naves,scour,5,4,2022-03-30,2025-03-05,5
+03,Cañar,0301,Azogues,debris_flow,1,1,2022-07-04,2022-07-04,1
+03,Cañar,0301,Azogues,flood,15,4,2021-02-28,2025-11-19,9
+03,Cañar,0301,Azogues,landslide,18,8,2015-03-09,2025-07-12,14
+03,Cañar,0301,Azogues,scour,5,3,2022-04-19,2024-06-17,4
+03,Cañar,0302,Biblián,flood,12,6,2019-02-26,2024-06-16,7
+03,Cañar,0302,Biblián,landslide,17,8,2016-10-13,2025-11-20,13
+03,Cañar,0302,Biblián,scour,2,1,2022-04-18,2022-06-07,2
+03,Cañar,0303,Cañar,debris_flow,1,1,2019-03-27,2019-03-27,1
+03,Cañar,0303,Cañar,flood,10,5,2020-03-17,2025-04-14,7
+03,Cañar,0303,Cañar,landslide,73,10,2016-03-31,2025-11-09,31
+03,Cañar,0303,Cañar,scour,1,1,2022-04-01,2022-04-01,1
+03,Cañar,0304,La Troncal,flood,27,7,2015-01-17,2025-04-09,15
+03,Cañar,0304,La Troncal,landslide,17,8,2015-05-03,2025-03-17,14
+03,Cañar,0304,La Troncal,scour,3,2,2016-02-26,2025-04-22,3
+03,Cañar,0305,El Tambo,debris_flow,1,1,2022-06-04,2022-06-04,1
+03,Cañar,0305,El Tambo,flood,1,1,2016-06-23,2016-06-23,1
+03,Cañar,0305,El Tambo,landslide,4,3,2017-03-15,2021-03-18,4
+03,Cañar,0305,El Tambo,scour,1,1,2021-11-26,2021-11-26,1
+03,Cañar,0306,Déleg,flood,1,1,2025-05-18,2025-05-18,1
+03,Cañar,0306,Déleg,landslide,1,1,2022-06-20,2022-06-20,1
+03,Cañar,0306,Déleg,scour,1,1,2023-04-21,2023-04-21,1
+03,Cañar,0307,Suscal,flood,1,1,2020-03-20,2020-03-20,1
+03,Cañar,0307,Suscal,landslide,5,4,2019-02-14,2025-03-04,5
+04,Carchi,0401,Tulcán,debris_flow,3,2,2023-11-16,2024-04-29,3
+04,Carchi,0401,Tulcán,flood,22,8,2015-11-03,2025-11-21,14
+04,Carchi,0401,Tulcán,landslide,88,11,2015-02-08,2025-04-04,51
+04,Carchi,0401,Tulcán,scour,2,2,2021-06-13,2024-05-03,2
+04,Carchi,0402,Bolívar,debris_flow,5,3,2021-07-19,2025-03-05,4
+04,Carchi,0402,Bolívar,flood,8,6,2015-04-17,2025-07-03,8
+04,Carchi,0402,Bolívar,landslide,18,7,2015-02-10,2025-07-04,12
+04,Carchi,0403,Espejo,debris_flow,1,1,2023-04-09,2023-04-09,1
+04,Carchi,0403,Espejo,flood,6,3,2022-06-25,2025-03-04,5
+04,Carchi,0403,Espejo,landslide,17,8,2017-03-31,2025-11-21,16
+04,Carchi,0404,Mira,debris_flow,1,1,2021-06-13,2021-06-13,1
+04,Carchi,0404,Mira,flood,7,3,2016-03-08,2019-11-05,6
+04,Carchi,0404,Mira,landslide,53,11,2015-10-16,2025-10-29,35
+04,Carchi,0404,Mira,scour,4,2,2023-04-09,2024-05-28,4
+04,Carchi,0405,Montúfar,debris_flow,3,2,2019-12-08,2022-10-27,2
+04,Carchi,0405,Montúfar,flood,10,6,2015-03-20,2025-04-12,8
+04,Carchi,0405,Montúfar,landslide,22,7,2017-01-20,2025-07-03,15
+04,Carchi,0405,Montúfar,scour,3,1,2025-01-09,2025-07-16,2
+04,Carchi,0406,San Pedro de Huaca,debris_flow,3,3,2019-04-22,2023-03-24,3
+04,Carchi,0406,San Pedro de Huaca,flood,2,2,2020-04-14,2023-04-25,2
+04,Carchi,0406,San Pedro de Huaca,landslide,1,1,2018-12-03,2018-12-03,1
+04,Carchi,0406,San Pedro de Huaca,scour,2,2,2023-03-24,2025-07-03,2
+05,Cotopaxi,0501,Latacunga,debris_flow,15,7,2019-12-08,2025-10-30,11
+05,Cotopaxi,0501,Latacunga,flood,31,7,2019-03-20,2025-11-05,21
+05,Cotopaxi,0501,Latacunga,landslide,22,10,2015-08-06,2025-11-28,20
+05,Cotopaxi,0501,Latacunga,scour,9,6,2017-03-21,2024-02-20,7
+05,Cotopaxi,0502,La Maná,debris_flow,3,3,2018-04-04,2024-04-27,3
+05,Cotopaxi,0502,La Maná,flood,25,6,2015-03-19,2025-04-12,14
+05,Cotopaxi,0502,La Maná,landslide,19,7,2015-01-11,2025-03-05,12
+05,Cotopaxi,0502,La Maná,scour,6,4,2022-05-19,2025-02-13,6
+05,Cotopaxi,0503,Pangua,flood,15,6,2016-04-10,2025-06-02,8
+05,Cotopaxi,0503,Pangua,landslide,31,8,2016-01-25,2025-04-11,20
+05,Cotopaxi,0503,Pangua,scour,10,5,2016-03-02,2025-03-13,8
+05,Cotopaxi,0504,Pujilí,debris_flow,4,2,2022-01-25,2025-09-21,3
+05,Cotopaxi,0504,Pujilí,flood,32,7,2016-04-05,2025-10-08,17
+05,Cotopaxi,0504,Pujilí,landslide,132,11,2015-03-17,2025-11-30,58
+05,Cotopaxi,0505,Salcedo,debris_flow,2,1,2025-03-28,2025-04-10,2
+05,Cotopaxi,0505,Salcedo,flood,5,5,2017-04-24,2025-10-27,5
+05,Cotopaxi,0505,Salcedo,landslide,2,2,2017-05-21,2023-10-18,2
+05,Cotopaxi,0506,Saquisilí,debris_flow,3,1,2020-01-24,2020-12-10,3
+05,Cotopaxi,0506,Saquisilí,flood,11,6,2015-03-02,2025-05-05,8
+05,Cotopaxi,0506,Saquisilí,landslide,4,4,2016-07-17,2025-03-05,4
+05,Cotopaxi,0507,Sigchos,debris_flow,8,3,2022-01-12,2025-04-06,4
+05,Cotopaxi,0507,Sigchos,flood,12,4,2017-04-20,2025-04-07,8
+05,Cotopaxi,0507,Sigchos,landslide,60,11,2015-03-22,2025-04-17,31
+05,Cotopaxi,0507,Sigchos,scour,7,4,2017-02-18,2023-04-20,7
+06,Chimborazo,0601,Riobamba,debris_flow,18,7,2017-12-30,2025-05-18,14
+06,Chimborazo,0601,Riobamba,flood,25,7,2016-05-26,2025-10-23,14
+06,Chimborazo,0601,Riobamba,landslide,101,11,2015-01-28,2025-12-24,73
+06,Chimborazo,0601,Riobamba,scour,6,4,2021-03-06,2025-08-12,6
+06,Chimborazo,0602,Alausí,debris_flow,23,5,2019-03-18,2025-05-18,12
+06,Chimborazo,0602,Alausí,flood,4,2,2022-03-06,2023-05-28,2
+06,Chimborazo,0602,Alausí,landslide,178,11,2015-01-17,2025-12-27,75
+06,Chimborazo,0602,Alausí,scour,5,3,2022-03-09,2025-04-14,4
+06,Chimborazo,0603,Colta,debris_flow,7,3,2019-04-19,2025-04-07,5
+06,Chimborazo,0603,Colta,flood,6,5,2017-03-13,2025-02-24,5
+06,Chimborazo,0603,Colta,landslide,117,11,2015-01-22,2025-06-01,61
+06,Chimborazo,0604,Chambo,debris_flow,6,4,2019-08-04,2025-11-30,6
+06,Chimborazo,0604,Chambo,flood,2,2,2021-03-14,2025-03-28,2
+06,Chimborazo,0604,Chambo,landslide,18,9,2015-05-12,2025-07-31,17
+06,Chimborazo,0605,Chunchi,debris_flow,2,2,2020-04-15,2024-02-28,2
+06,Chimborazo,0605,Chunchi,flood,3,2,2017-03-08,2025-03-05,3
+06,Chimborazo,0605,Chunchi,landslide,114,11,2015-01-21,2025-10-11,54
+06,Chimborazo,0605,Chunchi,scour,4,3,2019-02-24,2025-03-12,4
+06,Chimborazo,0606,Guamote,debris_flow,14,5,2021-05-18,2025-11-28,12
+06,Chimborazo,0606,Guamote,flood,15,4,2016-03-13,2025-11-28,11
+06,Chimborazo,0606,Guamote,landslide,98,11,2015-01-07,2025-12-14,64
+06,Chimborazo,0606,Guamote,scour,1,1,2025-07-03,2025-07-03,1
+06,Chimborazo,0607,Guano,debris_flow,17,9,2017-08-08,2025-05-18,15
+06,Chimborazo,0607,Guano,flood,16,8,2016-06-10,2025-04-10,13
+06,Chimborazo,0607,Guano,landslide,104,11,2015-02-08,2025-12-12,57
+06,Chimborazo,0607,Guano,scour,3,2,2019-05-17,2024-06-17,2
+06,Chimborazo,0608,Pallatanga,debris_flow,7,3,2022-03-19,2025-03-12,5
+06,Chimborazo,0608,Pallatanga,flood,5,4,2015-03-20,2024-02-08,5
+06,Chimborazo,0608,Pallatanga,landslide,70,11,2015-03-20,2025-03-29,29
+06,Chimborazo,0608,Pallatanga,scour,4,2,2023-03-09,2025-03-04,4
+06,Chimborazo,0609,Penipe,debris_flow,11,5,2020-06-19,2025-11-27,7
+06,Chimborazo,0609,Penipe,flood,2,2,2024-06-16,2025-05-21,2
+06,Chimborazo,0609,Penipe,landslide,52,10,2015-02-01,2025-11-15,39
+06,Chimborazo,0609,Penipe,scour,6,3,2015-04-26,2025-04-13,5
+06,Chimborazo,0610,Cumandá,debris_flow,7,4,2022-03-31,2025-03-11,6
+06,Chimborazo,0610,Cumandá,flood,12,7,2015-03-02,2025-02-23,10
+06,Chimborazo,0610,Cumandá,landslide,30,10,2015-02-23,2025-07-29,22
+06,Chimborazo,0610,Cumandá,scour,8,5,2021-02-11,2025-04-14,8
+07,El Oro,0701,Machala,flood,85,11,2015-02-08,2025-04-21,29
+07,El Oro,0701,Machala,scour,7,6,2015-12-03,2025-02-26,7
+07,El Oro,0702,Arenillas,flood,45,8,2015-03-29,2025-04-03,18
+07,El Oro,0702,Arenillas,landslide,5,2,2016-03-03,2023-05-29,4
+07,El Oro,0702,Arenillas,scour,4,4,2017-04-12,2025-03-28,4
+07,El Oro,0703,Atahualpa,debris_flow,3,1,2025-04-08,2025-04-22,1
+07,El Oro,0703,Atahualpa,flood,3,2,2021-04-07,2025-04-05,2
+07,El Oro,0703,Atahualpa,landslide,110,11,2015-02-08,2025-04-28,40
+07,El Oro,0703,Atahualpa,scour,3,3,2016-03-05,2025-04-10,3
+07,El Oro,0704,Balsas,debris_flow,1,1,2025-04-02,2025-04-02,1
+07,El Oro,0704,Balsas,flood,15,7,2015-03-24,2025-05-01,12
+07,El Oro,0704,Balsas,landslide,61,11,2015-03-25,2025-04-27,27
+07,El Oro,0704,Balsas,scour,18,5,2016-04-23,2025-04-27,7
+07,El Oro,0705,Chilla,debris_flow,1,1,2022-03-13,2022-03-13,1
+07,El Oro,0705,Chilla,flood,5,3,2017-02-16,2025-04-06,4
+07,El Oro,0705,Chilla,landslide,50,10,2016-04-05,2025-04-14,24
+07,El Oro,0705,Chilla,scour,3,3,2019-03-15,2023-03-10,3
+07,El Oro,0706,El Guabo,flood,44,9,2016-03-03,2025-04-11,21
+07,El Oro,0706,El Guabo,landslide,1,1,2023-11-01,2023-11-01,1
+07,El Oro,0706,El Guabo,scour,7,4,2017-02-27,2023-04-29,7
+07,El Oro,0707,Huaquillas,flood,37,9,2015-03-18,2025-04-02,19
+07,El Oro,0708,Marcabelí,debris_flow,3,1,2025-04-02,2025-04-25,1
+07,El Oro,0708,Marcabelí,flood,9,6,2015-05-17,2025-04-25,7
+07,El Oro,0708,Marcabelí,landslide,7,2,2024-01-11,2025-04-25,3
+07,El Oro,0708,Marcabelí,scour,3,2,2023-03-08,2025-04-02,3
+07,El Oro,0709,Pasaje,debris_flow,6,3,2022-01-31,2025-04-11,5
+07,El Oro,0709,Pasaje,flood,84,11,2015-07-04,2025-04-11,28
+07,El Oro,0709,Pasaje,landslide,69,9,2015-02-21,2025-04-11,24
+07,El Oro,0709,Pasaje,scour,15,7,2016-03-09,2025-04-12,9
+07,El Oro,0710,Piñas,debris_flow,9,3,2022-03-12,2025-04-23,6
+07,El Oro,0710,Piñas,flood,30,8,2016-04-12,2025-03-30,15
+07,El Oro,0710,Piñas,landslide,237,11,2015-03-19,2025-12-27,52
+07,El Oro,0710,Piñas,scour,18,7,2017-02-16,2025-04-27,14
+07,El Oro,0711,Portovelo,debris_flow,4,3,2019-12-07,2025-02-24,4
+07,El Oro,0711,Portovelo,flood,21,7,2015-03-22,2025-04-09,12
+07,El Oro,0711,Portovelo,landslide,152,11,2015-03-24,2025-10-10,44
+07,El Oro,0711,Portovelo,scour,15,4,2018-03-21,2025-03-28,10
+07,El Oro,0712,Santa Rosa,debris_flow,4,2,2023-03-08,2025-04-06,3
+07,El Oro,0712,Santa Rosa,flood,76,11,2015-03-20,2025-04-26,31
+07,El Oro,0712,Santa Rosa,landslide,16,6,2015-04-20,2025-03-27,10
+07,El Oro,0712,Santa Rosa,scour,4,3,2016-06-22,2021-01-26,4
+07,El Oro,0713,Zaruma,debris_flow,5,4,2019-02-26,2025-04-13,5
+07,El Oro,0713,Zaruma,flood,11,6,2015-03-28,2025-04-09,8
+07,El Oro,0713,Zaruma,landslide,129,11,2015-02-17,2025-12-16,42
+07,El Oro,0713,Zaruma,scour,11,6,2015-02-28,2023-05-13,9
+07,El Oro,0714,Las Lajas,debris_flow,2,1,2025-04-22,2025-04-22,1
+07,El Oro,0714,Las Lajas,flood,8,5,2015-04-20,2025-05-03,7
+07,El Oro,0714,Las Lajas,landslide,29,8,2015-03-27,2025-04-06,18
+07,El Oro,0714,Las Lajas,scour,7,5,2017-04-12,2025-04-26,5
+08,Esmeraldas,0801,Esmeraldas,debris_flow,7,3,2020-03-01,2024-02-19,3
+08,Esmeraldas,0801,Esmeraldas,flood,143,11,2015-01-15,2025-04-30,35
+08,Esmeraldas,0801,Esmeraldas,landslide,158,11,2015-01-07,2025-05-13,54
+08,Esmeraldas,0801,Esmeraldas,scour,15,7,2016-03-29,2025-05-05,13
+08,Esmeraldas,0802,Eloy Alfaro,flood,99,11,2015-02-07,2025-06-18,28
+08,Esmeraldas,0802,Eloy Alfaro,landslide,9,4,2019-05-17,2025-05-26,6
+08,Esmeraldas,0802,Eloy Alfaro,scour,3,3,2019-08-09,2023-07-06,3
+08,Esmeraldas,0803,Muisne,flood,104,9,2015-05-30,2025-08-13,26
+08,Esmeraldas,0803,Muisne,landslide,37,11,2015-02-19,2025-04-10,26
+08,Esmeraldas,0803,Muisne,scour,15,7,2015-04-08,2025-02-19,9
+08,Esmeraldas,0804,Quinindé,debris_flow,2,2,2021-02-15,2025-03-11,2
+08,Esmeraldas,0804,Quinindé,flood,98,11,2015-03-20,2025-04-27,35
+08,Esmeraldas,0804,Quinindé,landslide,133,11,2015-02-05,2025-04-17,50
+08,Esmeraldas,0804,Quinindé,scour,20,7,2015-04-29,2025-04-10,16
+08,Esmeraldas,0805,San Lorenzo,debris_flow,1,1,2022-05-15,2022-05-15,1
+08,Esmeraldas,0805,San Lorenzo,flood,63,10,2015-05-25,2025-07-01,31
+08,Esmeraldas,0805,San Lorenzo,landslide,47,11,2015-04-05,2025-11-06,39
+08,Esmeraldas,0805,San Lorenzo,scour,5,2,2021-02-16,2024-08-27,5
+08,Esmeraldas,0806,Atacames,debris_flow,2,1,2021-03-08,2021-03-22,1
+08,Esmeraldas,0806,Atacames,flood,67,8,2016-01-25,2025-05-20,22
+08,Esmeraldas,0806,Atacames,landslide,20,8,2017-01-30,2025-02-17,14
+08,Esmeraldas,0806,Atacames,scour,4,3,2021-03-09,2025-01-16,3
+08,Esmeraldas,0807,Rioverde,debris_flow,2,2,2019-05-31,2023-05-09,2
+08,Esmeraldas,0807,Rioverde,flood,56,11,2015-02-06,2025-05-05,24
+08,Esmeraldas,0807,Rioverde,landslide,18,9,2015-02-06,2025-04-13,16
+08,Esmeraldas,0807,Rioverde,scour,5,5,2017-06-22,2025-02-11,5
+09,Guayas,0901,Guayaquil,flood,332,11,2015-01-17,2025-04-28,52
+09,Guayas,0901,Guayaquil,landslide,68,11,2015-03-31,2025-04-23,28
+09,Guayas,0901,Guayaquil,scour,14,7,2015-04-11,2024-03-11,11
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),flood,63,11,2015-03-22,2025-04-11,28
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),scour,1,1,2023-04-06,2023-04-06,1
+09,Guayas,0903,Balao,flood,20,8,2016-04-02,2025-03-27,12
+09,Guayas,0903,Balao,scour,2,1,2017-03-24,2017-03-27,1
+09,Guayas,0904,Balzar,flood,40,9,2015-02-07,2025-05-16,20
+09,Guayas,0904,Balzar,landslide,2,1,2023-04-04,2023-04-14,1
+09,Guayas,0904,Balzar,scour,2,2,2015-06-29,2025-05-24,2
+09,Guayas,0905,Colimes,flood,45,7,2017-02-08,2025-04-23,14
+09,Guayas,0905,Colimes,scour,1,1,2024-01-14,2024-01-14,1
+09,Guayas,0906,Daule,flood,141,10,2015-03-14,2025-05-04,27
+09,Guayas,0906,Daule,landslide,3,2,2023-03-09,2025-02-20,3
+09,Guayas,0906,Daule,scour,2,1,2024-12-04,2024-12-29,1
+09,Guayas,0907,Durán,flood,71,11,2015-02-25,2025-07-31,28
+09,Guayas,0907,Durán,landslide,7,5,2015-03-23,2025-02-11,6
+09,Guayas,0907,Durán,scour,2,2,2015-02-17,2023-08-28,2
+09,Guayas,0908,El Empalme,flood,32,9,2015-02-06,2025-04-22,20
+09,Guayas,0908,El Empalme,landslide,11,5,2017-05-08,2023-06-01,10
+09,Guayas,0908,El Empalme,scour,2,2,2015-04-06,2022-05-10,2
+09,Guayas,0909,El Triunfo,debris_flow,1,1,2017-03-21,2017-03-21,1
+09,Guayas,0909,El Triunfo,flood,30,8,2015-01-24,2025-11-30,15
+09,Guayas,0909,El Triunfo,landslide,2,2,2015-02-09,2020-03-19,2
+09,Guayas,0909,El Triunfo,scour,7,5,2017-03-03,2025-05-02,6
+09,Guayas,0910,Milagro,flood,97,9,2015-03-18,2025-04-04,26
+09,Guayas,0910,Milagro,scour,3,2,2024-12-11,2025-02-04,2
+09,Guayas,0911,Naranjal,flood,72,9,2015-03-31,2025-05-06,19
+09,Guayas,0911,Naranjal,landslide,1,1,2025-04-25,2025-04-25,1
+09,Guayas,0911,Naranjal,scour,7,4,2015-02-25,2025-04-16,7
+09,Guayas,0912,Naranjito,flood,28,6,2016-03-03,2025-04-13,15
+09,Guayas,0912,Naranjito,scour,9,5,2019-02-26,2025-04-29,8
+09,Guayas,0913,Palestina,flood,37,7,2015-02-11,2025-04-28,14
+09,Guayas,0913,Palestina,scour,5,4,2015-05-07,2025-05-25,5
+09,Guayas,0914,Pedro Carbo,flood,64,10,2015-11-24,2025-05-19,22
+09,Guayas,0914,Pedro Carbo,landslide,1,1,2015-05-20,2015-05-20,1
+09,Guayas,0914,Pedro Carbo,scour,5,3,2022-01-27,2024-02-24,4
+09,Guayas,0916,Samborondón,flood,57,7,2015-02-09,2025-06-11,18
+09,Guayas,0918,Santa Lucía,flood,56,8,2016-01-26,2025-04-23,17
+09,Guayas,0918,Santa Lucía,scour,3,2,2022-03-19,2023-09-08,2
+09,Guayas,0919,Salitre,flood,133,9,2015-02-11,2025-05-27,23
+09,Guayas,0919,Salitre,scour,14,4,2017-03-24,2025-03-02,11
+09,Guayas,0920,San Jacinto de Yaguachi,flood,61,8,2015-02-24,2025-04-11,19
+09,Guayas,0920,San Jacinto de Yaguachi,landslide,1,1,2017-03-19,2017-03-19,1
+09,Guayas,0920,San Jacinto de Yaguachi,scour,6,4,2021-02-10,2024-02-23,4
+09,Guayas,0921,Playas,flood,24,10,2015-03-18,2025-02-23,16
+09,Guayas,0921,Playas,scour,1,1,2017-02-08,2017-02-08,1
+09,Guayas,0922,Simón Bolívar,flood,38,8,2016-02-05,2025-04-10,16
+09,Guayas,0922,Simón Bolívar,scour,5,3,2021-02-18,2024-02-20,4
+09,Guayas,0923,Coronel Marcelino Maridueña,flood,13,6,2016-03-07,2025-04-18,9
+09,Guayas,0923,Coronel Marcelino Maridueña,scour,2,2,2024-02-20,2025-05-20,2
+09,Guayas,0924,Lomas de Sargentillo,flood,24,8,2017-01-09,2025-03-13,14
+09,Guayas,0925,Nobol,flood,20,9,2015-02-15,2025-03-05,15
+09,Guayas,0925,Nobol,scour,2,2,2022-03-05,2025-03-30,2
+09,Guayas,0927,General  Antonio Elizalde,flood,17,7,2015-01-26,2025-03-29,13
+09,Guayas,0927,General  Antonio Elizalde,landslide,8,5,2015-02-13,2024-03-04,7
+09,Guayas,0927,General  Antonio Elizalde,scour,7,6,2016-04-05,2024-05-18,7
+09,Guayas,0928,Isidro Ayora,flood,16,9,2015-05-14,2025-03-13,14
+10,Imbabura,1001,Ibarra,debris_flow,8,4,2021-03-05,2025-10-27,8
+10,Imbabura,1001,Ibarra,flood,46,9,2015-04-19,2025-10-26,27
+10,Imbabura,1001,Ibarra,landslide,165,11,2015-02-07,2025-12-28,71
+10,Imbabura,1001,Ibarra,scour,9,4,2017-05-22,2024-03-05,5
+10,Imbabura,1002,Antonio Ante,debris_flow,1,1,2022-05-19,2022-05-19,1
+10,Imbabura,1002,Antonio Ante,flood,18,7,2016-11-11,2025-05-03,13
+10,Imbabura,1002,Antonio Ante,landslide,6,4,2016-12-17,2025-05-03,6
+10,Imbabura,1002,Antonio Ante,scour,1,1,2022-05-19,2022-05-19,1
+10,Imbabura,1003,Cotacachi,debris_flow,4,4,2022-05-19,2025-02-18,4
+10,Imbabura,1003,Cotacachi,flood,24,7,2016-01-25,2025-05-02,11
+10,Imbabura,1003,Cotacachi,landslide,126,11,2015-03-18,2025-05-02,40
+10,Imbabura,1003,Cotacachi,scour,12,5,2016-01-13,2025-05-02,8
+10,Imbabura,1004,Otavalo,debris_flow,1,1,2022-02-08,2022-02-08,1
+10,Imbabura,1004,Otavalo,flood,18,7,2015-05-05,2025-05-02,14
+10,Imbabura,1004,Otavalo,landslide,56,10,2016-01-26,2025-05-19,32
+10,Imbabura,1004,Otavalo,scour,4,3,2019-04-04,2025-04-02,3
+10,Imbabura,1005,Pimampiro,debris_flow,3,2,2022-10-28,2024-04-23,3
+10,Imbabura,1005,Pimampiro,flood,4,3,2015-04-17,2025-03-15,3
+10,Imbabura,1005,Pimampiro,landslide,45,10,2015-06-21,2025-12-08,30
+10,Imbabura,1005,Pimampiro,scour,1,1,2025-03-15,2025-03-15,1
+10,Imbabura,1006,San Miguel de Urcuquí,flood,2,2,2020-01-02,2025-02-11,2
+10,Imbabura,1006,San Miguel de Urcuquí,landslide,39,10,2015-02-21,2025-04-08,23
+10,Imbabura,1006,San Miguel de Urcuquí,scour,2,2,2021-12-14,2022-10-26,2
+11,Loja,1101,Loja,debris_flow,23,8,2015-04-26,2025-11-20,17
+11,Loja,1101,Loja,flood,71,10,2015-03-18,2025-07-02,29
+11,Loja,1101,Loja,landslide,452,11,2015-01-11,2025-12-16,87
+11,Loja,1101,Loja,scour,19,8,2015-03-19,2025-07-18,14
+11,Loja,1102,Calvas,debris_flow,2,2,2022-03-02,2023-12-30,2
+11,Loja,1102,Calvas,flood,11,7,2015-04-15,2024-12-27,8
+11,Loja,1102,Calvas,landslide,100,11,2015-03-03,2025-05-31,32
+11,Loja,1102,Calvas,scour,5,5,2015-04-21,2025-01-01,5
+11,Loja,1103,Catamayo,debris_flow,6,4,2021-02-11,2025-04-01,6
+11,Loja,1103,Catamayo,flood,13,7,2015-03-26,2024-04-23,11
+11,Loja,1103,Catamayo,landslide,91,11,2015-01-17,2025-10-26,41
+11,Loja,1103,Catamayo,scour,5,3,2015-03-26,2023-04-11,4
+11,Loja,1104,Celica,debris_flow,4,4,2019-04-22,2024-01-04,4
+11,Loja,1104,Celica,flood,10,6,2015-03-25,2025-03-10,8
+11,Loja,1104,Celica,landslide,70,10,2015-03-22,2025-04-03,24
+11,Loja,1104,Celica,scour,1,1,2015-04-14,2015-04-14,1
+11,Loja,1105,Chaguarpamba,debris_flow,4,1,2025-01-15,2025-04-22,2
+11,Loja,1105,Chaguarpamba,flood,11,6,2016-03-06,2025-03-11,6
+11,Loja,1105,Chaguarpamba,landslide,77,11,2015-01-29,2025-11-29,36
+11,Loja,1105,Chaguarpamba,scour,2,1,2025-03-01,2025-03-05,1
+11,Loja,1106,Espíndola,flood,5,4,2017-03-31,2025-04-30,4
+11,Loja,1106,Espíndola,landslide,47,9,2015-01-28,2025-05-03,22
+11,Loja,1107,Gonzanamá,flood,2,2,2017-03-24,2018-11-07,2
+11,Loja,1107,Gonzanamá,landslide,46,10,2015-03-06,2025-06-04,23
+11,Loja,1107,Gonzanamá,scour,1,1,2025-02-28,2025-02-28,1
+11,Loja,1108,Macará,debris_flow,1,1,2023-04-04,2023-04-04,1
+11,Loja,1108,Macará,flood,13,5,2015-03-21,2025-03-25,8
+11,Loja,1108,Macará,landslide,45,8,2015-03-26,2025-05-16,17
+11,Loja,1108,Macará,scour,3,3,2015-03-30,2017-02-05,3
+11,Loja,1109,Paltas,debris_flow,1,1,2025-04-03,2025-04-03,1
+11,Loja,1109,Paltas,flood,5,1,2017-03-18,2017-04-26,2
+11,Loja,1109,Paltas,landslide,79,11,2015-01-17,2025-05-03,27
+11,Loja,1109,Paltas,scour,2,2,2022-03-31,2025-03-12,2
+11,Loja,1110,Puyango,flood,5,3,2018-07-08,2023-04-28,3
+11,Loja,1110,Puyango,landslide,56,10,2015-03-02,2025-04-22,26
+11,Loja,1111,Saraguro,debris_flow,1,1,2023-04-18,2023-04-18,1
+11,Loja,1111,Saraguro,flood,6,4,2015-01-20,2024-03-01,4
+11,Loja,1111,Saraguro,landslide,67,10,2015-01-20,2025-04-03,33
+11,Loja,1111,Saraguro,scour,3,3,2016-04-30,2025-07-21,3
+11,Loja,1112,Sozoranga,debris_flow,1,1,2025-06-06,2025-06-06,1
+11,Loja,1112,Sozoranga,flood,3,3,2016-04-08,2019-04-23,3
+11,Loja,1112,Sozoranga,landslide,79,9,2015-03-26,2025-03-21,25
+11,Loja,1112,Sozoranga,scour,1,1,2015-03-16,2015-03-16,1
+11,Loja,1113,Zapotillo,flood,22,5,2015-03-26,2025-06-15,9
+11,Loja,1113,Zapotillo,landslide,14,7,2015-03-26,2025-03-24,9
+11,Loja,1114,Pindal,debris_flow,1,1,2025-04-05,2025-04-05,1
+11,Loja,1114,Pindal,flood,6,5,2017-03-24,2024-02-07,6
+11,Loja,1114,Pindal,landslide,17,6,2015-03-07,2025-04-30,10
+11,Loja,1115,Quilanga,debris_flow,2,2,2022-03-07,2025-01-06,2
+11,Loja,1115,Quilanga,flood,3,3,2015-04-19,2022-03-02,3
+11,Loja,1115,Quilanga,landslide,28,10,2015-03-29,2025-07-28,20
+11,Loja,1116,Olmedo,debris_flow,5,3,2021-03-04,2025-04-03,4
+11,Loja,1116,Olmedo,flood,2,2,2023-04-21,2025-03-04,2
+11,Loja,1116,Olmedo,landslide,26,8,2015-03-20,2025-04-06,14
+12,Los Ríos,1201,Babahoyo,flood,188,11,2015-03-21,2025-05-16,41
+12,Los Ríos,1201,Babahoyo,scour,30,8,2017-01-21,2025-04-11,21
+12,Los Ríos,1202,Baba,flood,59,8,2017-03-27,2025-05-16,19
+12,Los Ríos,1202,Baba,scour,2,2,2015-05-28,2023-05-03,2
+12,Los Ríos,1203,Montalvo,flood,46,10,2015-02-09,2025-04-10,30
+12,Los Ríos,1203,Montalvo,landslide,7,7,2015-02-09,2025-02-03,7
+12,Los Ríos,1203,Montalvo,scour,11,6,2017-03-01,2025-03-11,9
+12,Los Ríos,1204,Puebloviejo,flood,33,8,2015-03-28,2025-03-09,22
+12,Los Ríos,1204,Puebloviejo,scour,2,2,2024-05-08,2025-03-11,2
+12,Los Ríos,1205,Quevedo,flood,74,10,2015-11-24,2025-04-23,28
+12,Los Ríos,1205,Quevedo,landslide,20,8,2016-03-26,2025-06-30,15
+12,Los Ríos,1205,Quevedo,scour,4,4,2019-04-20,2025-03-14,4
+12,Los Ríos,1206,Urdaneta,flood,79,11,2015-02-09,2025-04-23,29
+12,Los Ríos,1206,Urdaneta,landslide,3,2,2024-03-05,2025-04-23,3
+12,Los Ríos,1206,Urdaneta,scour,5,3,2023-04-23,2025-05-08,5
+12,Los Ríos,1207,Ventanas,flood,52,10,2015-02-09,2025-03-26,21
+12,Los Ríos,1207,Ventanas,landslide,1,1,2021-02-15,2021-02-15,1
+12,Los Ríos,1207,Ventanas,scour,14,7,2017-03-30,2025-04-04,12
+12,Los Ríos,1208,Vinces,flood,44,9,2016-02-24,2025-05-16,22
+12,Los Ríos,1208,Vinces,scour,4,2,2024-02-19,2025-04-20,4
+12,Los Ríos,1209,Palenque,flood,13,7,2017-02-08,2025-03-06,10
+12,Los Ríos,1210,Buena Fe,flood,18,8,2018-02-09,2025-04-05,14
+12,Los Ríos,1210,Buena Fe,landslide,4,3,2021-02-14,2024-02-02,4
+12,Los Ríos,1210,Buena Fe,scour,2,1,2025-02-10,2025-03-20,2
+12,Los Ríos,1211,Valencia,flood,30,8,2016-01-25,2025-04-24,20
+12,Los Ríos,1211,Valencia,landslide,2,2,2023-03-08,2025-01-17,2
+12,Los Ríos,1211,Valencia,scour,7,3,2019-01-14,2025-03-19,6
+12,Los Ríos,1212,Mocache,flood,12,8,2016-01-25,2025-03-05,10
+12,Los Ríos,1212,Mocache,landslide,3,3,2017-03-30,2021-02-11,3
+12,Los Ríos,1212,Mocache,scour,7,3,2021-03-13,2025-04-28,5
+12,Los Ríos,1213,Quinsaloma,flood,19,7,2016-01-25,2025-03-05,17
+13,Manabí,1301,Portoviejo,debris_flow,4,1,2025-02-19,2025-03-04,2
+13,Manabí,1301,Portoviejo,flood,192,10,2015-02-15,2025-07-23,34
+13,Manabí,1301,Portoviejo,landslide,47,11,2015-02-15,2025-04-17,27
+13,Manabí,1301,Portoviejo,scour,5,4,2015-06-02,2025-03-07,5
+13,Manabí,1302,Bolívar,flood,30,8,2016-01-25,2025-04-10,17
+13,Manabí,1302,Bolívar,landslide,18,9,2015-05-16,2025-04-17,13
+13,Manabí,1302,Bolívar,scour,1,1,2019-03-17,2019-03-17,1
+13,Manabí,1303,Chone,debris_flow,3,3,2021-03-15,2025-02-14,3
+13,Manabí,1303,Chone,flood,166,11,2015-02-07,2025-05-15,40
+13,Manabí,1303,Chone,landslide,41,10,2016-01-19,2025-04-14,25
+13,Manabí,1303,Chone,scour,2,2,2021-03-09,2024-02-12,2
+13,Manabí,1304,El Carmen,flood,35,10,2015-03-26,2025-10-08,20
+13,Manabí,1304,El Carmen,landslide,32,10,2015-03-16,2025-04-19,22
+13,Manabí,1304,El Carmen,scour,4,4,2015-04-22,2024-02-02,4
+13,Manabí,1305,Flavio Alfaro,flood,30,11,2015-07-21,2025-05-18,22
+13,Manabí,1305,Flavio Alfaro,landslide,54,10,2015-01-17,2025-04-10,27
+13,Manabí,1305,Flavio Alfaro,scour,3,3,2015-07-13,2025-03-09,3
+13,Manabí,1306,Jipijapa,debris_flow,1,1,2023-03-17,2023-03-17,1
+13,Manabí,1306,Jipijapa,flood,46,9,2016-01-25,2025-04-02,18
+13,Manabí,1306,Jipijapa,landslide,37,10,2015-04-05,2025-06-03,20
+13,Manabí,1306,Jipijapa,scour,4,4,2017-02-08,2024-02-22,4
+13,Manabí,1307,Junín,flood,17,7,2016-02-01,2025-04-20,11
+13,Manabí,1307,Junín,landslide,20,8,2015-02-07,2025-06-19,13
+13,Manabí,1307,Junín,scour,1,1,2025-04-08,2025-04-08,1
+13,Manabí,1308,Manta,debris_flow,2,1,2025-02-23,2025-03-29,2
+13,Manabí,1308,Manta,flood,66,10,2015-02-07,2025-04-03,22
+13,Manabí,1308,Manta,landslide,18,7,2016-04-04,2025-04-14,12
+13,Manabí,1308,Manta,scour,6,5,2017-05-10,2025-02-20,5
+13,Manabí,1309,Montecristi,flood,37,9,2015-02-07,2025-04-02,15
+13,Manabí,1309,Montecristi,landslide,3,3,2016-04-16,2025-05-16,3
+13,Manabí,1309,Montecristi,scour,2,1,2017-01-20,2017-01-29,1
+13,Manabí,1310,Paján,debris_flow,1,1,2022-03-29,2022-03-29,1
+13,Manabí,1310,Paján,flood,33,7,2017-03-17,2025-04-23,14
+13,Manabí,1310,Paján,landslide,14,4,2020-03-07,2025-04-24,7
+13,Manabí,1310,Paján,scour,8,6,2015-05-20,2025-04-14,6
+13,Manabí,1311,Pichincha,debris_flow,1,1,2023-04-19,2023-04-19,1
+13,Manabí,1311,Pichincha,flood,10,5,2019-03-07,2025-04-25,8
+13,Manabí,1311,Pichincha,landslide,15,7,2015-05-03,2025-04-20,10
+13,Manabí,1311,Pichincha,scour,2,1,2020-02-01,2020-05-12,2
+13,Manabí,1312,Rocafuerte,debris_flow,3,2,2023-03-14,2025-02-24,3
+13,Manabí,1312,Rocafuerte,flood,34,8,2015-02-07,2025-04-14,18
+13,Manabí,1312,Rocafuerte,landslide,7,5,2015-02-07,2025-02-19,7
+13,Manabí,1312,Rocafuerte,scour,3,3,2015-06-03,2020-02-24,3
+13,Manabí,1313,Santa Ana,debris_flow,2,2,2023-06-06,2025-02-16,2
+13,Manabí,1313,Santa Ana,flood,74,10,2015-12-04,2025-04-28,19
+13,Manabí,1313,Santa Ana,landslide,9,8,2016-04-11,2025-02-15,8
+13,Manabí,1313,Santa Ana,scour,3,3,2017-04-10,2024-02-20,3
+13,Manabí,1314,Sucre,debris_flow,7,1,2025-02-06,2025-03-27,2
+13,Manabí,1314,Sucre,flood,61,10,2015-03-09,2025-03-17,18
+13,Manabí,1314,Sucre,landslide,8,6,2015-04-28,2025-03-11,7
+13,Manabí,1314,Sucre,scour,1,1,2019-03-18,2019-03-18,1
+13,Manabí,1315,Tosagua,debris_flow,1,1,2025-03-15,2025-03-15,1
+13,Manabí,1315,Tosagua,flood,35,8,2015-03-16,2025-04-03,16
+13,Manabí,1315,Tosagua,landslide,13,6,2017-02-08,2025-04-14,10
+13,Manabí,1315,Tosagua,scour,1,1,2019-02-07,2019-02-07,1
+13,Manabí,1316,24 de Mayo,debris_flow,1,1,2025-04-02,2025-04-02,1
+13,Manabí,1316,24 de Mayo,flood,33,9,2015-12-02,2025-05-19,16
+13,Manabí,1316,24 de Mayo,landslide,5,3,2017-04-07,2024-07-24,5
+13,Manabí,1317,Pedernales,flood,46,11,2015-02-27,2025-02-22,24
+13,Manabí,1317,Pedernales,landslide,13,7,2016-02-12,2025-04-23,11
+13,Manabí,1317,Pedernales,scour,3,2,2021-03-17,2024-07-14,3
+13,Manabí,1318,Olmedo,flood,19,8,2015-12-04,2025-04-01,14
+13,Manabí,1318,Olmedo,landslide,7,5,2015-02-20,2025-03-05,7
+13,Manabí,1318,Olmedo,scour,3,2,2019-03-01,2022-03-29,2
+13,Manabí,1319,Puerto López,flood,24,7,2015-03-30,2025-04-02,14
+13,Manabí,1319,Puerto López,landslide,6,3,2017-02-21,2023-04-28,3
+13,Manabí,1319,Puerto López,scour,3,3,2017-04-22,2024-08-17,3
+13,Manabí,1320,Jama,debris_flow,1,1,2023-05-29,2023-05-29,1
+13,Manabí,1320,Jama,flood,11,7,2016-01-25,2025-03-11,8
+13,Manabí,1320,Jama,landslide,15,6,2016-01-19,2023-02-24,8
+13,Manabí,1320,Jama,scour,2,2,2016-11-13,2021-02-04,2
+13,Manabí,1321,Jaramijó,flood,11,5,2016-02-05,2025-03-11,7
+13,Manabí,1321,Jaramijó,landslide,1,1,2023-03-22,2023-03-22,1
+13,Manabí,1321,Jaramijó,scour,1,1,2023-03-23,2023-03-23,1
+13,Manabí,1322,San Vicente,flood,23,7,2016-01-20,2025-03-11,14
+13,Manabí,1322,San Vicente,landslide,5,4,2016-11-23,2023-03-01,5
+14,Morona Santiago,1401,Morona,flood,73,10,2015-03-21,2025-03-11,44
+14,Morona Santiago,1401,Morona,landslide,186,11,2015-01-01,2025-10-18,84
+14,Morona Santiago,1401,Morona,scour,15,9,2017-06-13,2025-02-11,13
+14,Morona Santiago,1402,Gualaquiza,debris_flow,5,3,2021-05-16,2023-05-23,4
+14,Morona Santiago,1402,Gualaquiza,flood,33,11,2015-04-25,2025-10-24,27
+14,Morona Santiago,1402,Gualaquiza,landslide,70,11,2015-06-25,2025-08-05,42
+14,Morona Santiago,1402,Gualaquiza,scour,23,8,2017-04-13,2025-07-03,18
+14,Morona Santiago,1403,Limón Indanza,debris_flow,20,5,2018-01-21,2025-10-29,11
+14,Morona Santiago,1403,Limón Indanza,flood,7,4,2017-05-14,2025-05-19,6
+14,Morona Santiago,1403,Limón Indanza,landslide,262,11,2015-02-02,2025-09-30,87
+14,Morona Santiago,1403,Limón Indanza,scour,7,4,2017-05-08,2025-07-01,7
+14,Morona Santiago,1404,Palora,flood,8,7,2017-07-17,2024-06-16,8
+14,Morona Santiago,1404,Palora,landslide,2,2,2017-04-01,2025-03-13,2
+14,Morona Santiago,1404,Palora,scour,16,1,2024-06-16,2024-12-07,2
+14,Morona Santiago,1405,Santiago,debris_flow,1,1,2021-07-20,2021-07-20,1
+14,Morona Santiago,1405,Santiago,flood,5,4,2016-05-09,2025-08-15,5
+14,Morona Santiago,1405,Santiago,landslide,130,11,2015-03-22,2025-10-16,70
+14,Morona Santiago,1405,Santiago,scour,10,6,2016-05-09,2025-08-15,9
+14,Morona Santiago,1406,Sucúa,debris_flow,4,3,2021-12-22,2025-08-15,3
+14,Morona Santiago,1406,Sucúa,flood,15,7,2017-01-20,2025-08-15,11
+14,Morona Santiago,1406,Sucúa,landslide,22,7,2016-03-30,2025-08-15,11
+14,Morona Santiago,1406,Sucúa,scour,11,5,2015-04-14,2025-05-13,7
+14,Morona Santiago,1407,Huamboya,debris_flow,2,1,2024-06-16,2024-06-16,1
+14,Morona Santiago,1407,Huamboya,flood,16,6,2015-01-16,2025-02-12,9
+14,Morona Santiago,1407,Huamboya,landslide,19,9,2015-03-10,2024-10-28,15
+14,Morona Santiago,1407,Huamboya,scour,10,2,2024-12-07,2025-03-12,3
+14,Morona Santiago,1408,San Juan Bosco,debris_flow,2,2,2017-12-20,2018-05-19,2
+14,Morona Santiago,1408,San Juan Bosco,flood,2,2,2016-12-23,2024-04-25,2
+14,Morona Santiago,1408,San Juan Bosco,landslide,38,10,2015-03-20,2025-10-27,27
+14,Morona Santiago,1408,San Juan Bosco,scour,2,1,2024-04-19,2024-04-26,1
+14,Morona Santiago,1409,Taisha,flood,10,6,2015-03-21,2025-10-22,9
+14,Morona Santiago,1409,Taisha,landslide,14,9,2016-03-12,2024-10-28,14
+14,Morona Santiago,1409,Taisha,scour,10,5,2017-01-06,2025-07-03,9
+14,Morona Santiago,1410,Logroño,flood,9,7,2016-04-28,2025-05-03,9
+14,Morona Santiago,1410,Logroño,landslide,7,6,2016-06-20,2025-07-03,7
+14,Morona Santiago,1410,Logroño,scour,1,1,2019-06-05,2019-06-05,1
+14,Morona Santiago,1411,Pablo Sexto,flood,6,1,2024-06-16,2024-12-07,2
+14,Morona Santiago,1411,Pablo Sexto,landslide,2,1,2021-02-18,2021-05-03,2
+14,Morona Santiago,1411,Pablo Sexto,scour,4,4,2021-03-21,2025-03-11,4
+14,Morona Santiago,1412,Tiwintza,debris_flow,1,1,2017-11-23,2017-11-23,1
+14,Morona Santiago,1412,Tiwintza,flood,15,7,2015-02-02,2023-12-17,13
+14,Morona Santiago,1412,Tiwintza,landslide,38,11,2015-08-14,2025-12-13,33
+14,Morona Santiago,1412,Tiwintza,scour,5,3,2019-04-08,2023-04-17,4
+15,Napo,1501,Tena,debris_flow,1,1,2021-09-06,2021-09-06,1
+15,Napo,1501,Tena,flood,72,11,2015-01-23,2025-10-13,38
+15,Napo,1501,Tena,landslide,65,10,2016-05-01,2025-12-17,42
+15,Napo,1501,Tena,scour,30,8,2016-07-29,2025-07-02,19
+15,Napo,1503,Archidona,debris_flow,2,2,2019-09-14,2025-03-28,2
+15,Napo,1503,Archidona,flood,17,10,2015-09-29,2025-10-13,13
+15,Napo,1503,Archidona,landslide,200,11,2015-02-19,2025-11-28,79
+15,Napo,1503,Archidona,scour,5,5,2019-08-28,2025-03-04,5
+15,Napo,1504,El Chaco,debris_flow,26,7,2018-03-02,2025-11-10,16
+15,Napo,1504,El Chaco,flood,15,5,2021-08-03,2025-11-14,11
+15,Napo,1504,El Chaco,landslide,144,11,2015-03-14,2025-12-10,76
+15,Napo,1504,El Chaco,scour,16,5,2019-11-06,2024-06-16,11
+15,Napo,1507,Quijos,debris_flow,51,8,2017-12-10,2025-10-23,20
+15,Napo,1507,Quijos,flood,12,6,2015-06-05,2025-08-28,9
+15,Napo,1507,Quijos,landslide,276,11,2015-03-16,2025-10-26,81
+15,Napo,1507,Quijos,scour,16,3,2022-08-19,2025-09-03,6
+15,Napo,1509,Carlos Julio Arosemena Tola,flood,4,4,2017-01-06,2024-04-29,4
+15,Napo,1509,Carlos Julio Arosemena Tola,landslide,12,6,2018-04-23,2025-07-02,10
+15,Napo,1509,Carlos Julio Arosemena Tola,scour,1,1,2021-11-11,2021-11-11,1
+16,Pastaza,1601,Pastaza,debris_flow,1,1,2025-02-07,2025-02-07,1
+16,Pastaza,1601,Pastaza,flood,112,11,2015-01-05,2025-10-29,53
+16,Pastaza,1601,Pastaza,landslide,133,11,2015-01-01,2025-11-24,72
+16,Pastaza,1601,Pastaza,scour,25,9,2015-04-28,2025-03-17,12
+16,Pastaza,1602,Mera,debris_flow,1,1,2020-05-09,2020-05-09,1
+16,Pastaza,1602,Mera,flood,25,10,2016-11-03,2025-10-26,20
+16,Pastaza,1602,Mera,landslide,119,11,2015-01-14,2025-12-10,69
+16,Pastaza,1602,Mera,scour,15,7,2016-12-29,2025-07-04,13
+16,Pastaza,1603,Santa Clara,flood,2,2,2017-03-28,2019-01-11,2
+16,Pastaza,1603,Santa Clara,landslide,35,10,2015-03-21,2024-11-06,28
+16,Pastaza,1604,Arajuno,flood,44,11,2015-01-23,2025-10-29,32
+16,Pastaza,1604,Arajuno,landslide,37,11,2015-01-18,2025-10-04,30
+16,Pastaza,1604,Arajuno,scour,9,6,2018-05-28,2024-04-19,9
+17,Pichincha,1701,Distrito Metropolitano de Quito,debris_flow,43,9,2017-10-16,2025-10-24,31
+17,Pichincha,1701,Distrito Metropolitano de Quito,flood,322,11,2015-03-28,2025-11-28,75
+17,Pichincha,1701,Distrito Metropolitano de Quito,landslide,1548,11,2015-01-14,2025-12-27,117
+17,Pichincha,1701,Distrito Metropolitano de Quito,scour,42,10,2015-03-20,2025-07-04,35
+17,Pichincha,1702,Cayambe,debris_flow,1,1,2025-11-19,2025-11-19,1
+17,Pichincha,1702,Cayambe,flood,34,8,2016-03-09,2025-11-30,20
+17,Pichincha,1702,Cayambe,landslide,46,11,2015-06-28,2025-11-16,35
+17,Pichincha,1702,Cayambe,scour,3,3,2019-05-13,2025-03-30,3
+17,Pichincha,1703,Mejía,debris_flow,8,4,2019-04-03,2023-04-20,7
+17,Pichincha,1703,Mejía,flood,76,11,2015-03-19,2025-10-27,40
+17,Pichincha,1703,Mejía,landslide,346,11,2015-01-21,2025-12-27,83
+17,Pichincha,1703,Mejía,scour,7,4,2018-01-14,2025-04-12,4
+17,Pichincha,1704,Pedro Moncayo,debris_flow,1,1,2021-02-21,2021-02-21,1
+17,Pichincha,1704,Pedro Moncayo,flood,14,4,2021-03-16,2025-09-02,11
+17,Pichincha,1704,Pedro Moncayo,landslide,33,10,2015-01-18,2025-11-20,28
+17,Pichincha,1705,Rumiñahui,flood,45,5,2021-05-07,2025-11-29,20
+17,Pichincha,1705,Rumiñahui,landslide,22,7,2017-03-30,2025-11-21,15
+17,Pichincha,1705,Rumiñahui,scour,5,4,2021-05-23,2025-03-30,4
+17,Pichincha,1707,San Miguel de los Bancos,flood,7,4,2017-04-17,2025-03-01,5
+17,Pichincha,1707,San Miguel de los Bancos,landslide,60,11,2015-02-09,2025-03-15,35
+17,Pichincha,1708,Pedro Vicente Maldonado,debris_flow,1,1,2023-10-31,2023-10-31,1
+17,Pichincha,1708,Pedro Vicente Maldonado,flood,1,1,2024-03-19,2024-03-19,1
+17,Pichincha,1708,Pedro Vicente Maldonado,landslide,7,4,2017-02-11,2025-03-12,5
+17,Pichincha,1709,Puerto Quito,flood,21,9,2015-03-20,2025-04-21,16
+17,Pichincha,1709,Puerto Quito,landslide,23,6,2019-03-15,2025-04-18,12
+17,Pichincha,1709,Puerto Quito,scour,2,2,2019-03-13,2025-03-25,2
+18,Tungurahua,1801,Ambato,debris_flow,32,9,2017-07-25,2025-04-12,22
+18,Tungurahua,1801,Ambato,flood,73,11,2015-01-20,2025-09-21,43
+18,Tungurahua,1801,Ambato,landslide,354,11,2015-01-03,2025-11-22,113
+18,Tungurahua,1801,Ambato,scour,27,11,2015-01-31,2025-06-03,23
+18,Tungurahua,1802,Baños de Agua Santa,debris_flow,40,10,2015-07-22,2025-08-15,27
+18,Tungurahua,1802,Baños de Agua Santa,flood,4,2,2015-04-26,2024-06-16,4
+18,Tungurahua,1802,Baños de Agua Santa,landslide,391,11,2015-01-13,2025-12-14,94
+18,Tungurahua,1802,Baños de Agua Santa,scour,12,8,2015-05-14,2025-07-12,11
+18,Tungurahua,1803,Cevallos,debris_flow,1,1,2020-01-21,2020-01-21,1
+18,Tungurahua,1803,Cevallos,flood,5,4,2015-03-18,2023-09-02,5
+18,Tungurahua,1803,Cevallos,landslide,4,4,2015-08-22,2025-10-28,4
+18,Tungurahua,1803,Cevallos,scour,1,1,2025-04-19,2025-04-19,1
+18,Tungurahua,1804,Mocha,debris_flow,5,4,2018-11-22,2024-12-14,4
+18,Tungurahua,1804,Mocha,flood,4,4,2015-03-22,2020-07-13,4
+18,Tungurahua,1804,Mocha,landslide,21,7,2015-02-17,2025-09-01,18
+18,Tungurahua,1805,Patate,debris_flow,7,6,2017-07-26,2024-11-02,6
+18,Tungurahua,1805,Patate,flood,10,7,2015-06-05,2024-06-16,8
+18,Tungurahua,1805,Patate,landslide,87,11,2015-03-20,2025-07-09,48
+18,Tungurahua,1805,Patate,scour,2,2,2015-06-05,2017-07-26,2
+18,Tungurahua,1806,Quero,debris_flow,1,1,2018-12-04,2018-12-04,1
+18,Tungurahua,1806,Quero,flood,7,5,2017-01-09,2025-02-16,6
+18,Tungurahua,1806,Quero,landslide,17,8,2017-05-14,2025-02-25,13
+18,Tungurahua,1806,Quero,scour,6,4,2018-05-07,2022-06-26,5
+18,Tungurahua,1807,San Pedro de Pelileo,debris_flow,11,5,2017-10-31,2024-06-16,7
+18,Tungurahua,1807,San Pedro de Pelileo,flood,11,7,2016-07-07,2025-02-24,9
+18,Tungurahua,1807,San Pedro de Pelileo,landslide,186,11,2015-01-14,2025-09-20,89
+18,Tungurahua,1807,San Pedro de Pelileo,scour,6,4,2017-06-14,2024-10-28,6
+18,Tungurahua,1808,Santiago de Píllaro,debris_flow,13,7,2017-10-09,2025-11-28,13
+18,Tungurahua,1808,Santiago de Píllaro,flood,13,5,2019-04-05,2024-04-30,6
+18,Tungurahua,1808,Santiago de Píllaro,landslide,49,11,2015-03-16,2025-08-23,42
+18,Tungurahua,1808,Santiago de Píllaro,scour,7,4,2015-07-01,2022-10-20,6
+18,Tungurahua,1809,Tisaleo,debris_flow,2,1,2020-01-21,2020-01-22,1
+18,Tungurahua,1809,Tisaleo,flood,8,6,2016-04-12,2025-04-10,7
+18,Tungurahua,1809,Tisaleo,landslide,4,3,2015-01-25,2021-03-24,4
+19,Zamora Chinchipe,1901,Zamora,debris_flow,16,6,2017-10-22,2025-11-22,15
+19,Zamora Chinchipe,1901,Zamora,flood,46,11,2015-04-26,2025-07-01,33
+19,Zamora Chinchipe,1901,Zamora,landslide,292,11,2015-01-03,2025-09-10,81
+19,Zamora Chinchipe,1901,Zamora,scour,7,5,2015-05-03,2021-10-22,6
+19,Zamora Chinchipe,1902,Chinchipe,flood,4,3,2021-05-19,2025-03-06,4
+19,Zamora Chinchipe,1902,Chinchipe,landslide,45,8,2015-01-20,2025-12-21,30
+19,Zamora Chinchipe,1902,Chinchipe,scour,1,1,2022-03-02,2022-03-02,1
+19,Zamora Chinchipe,1903,Nangaritza,debris_flow,1,1,2020-02-05,2020-02-05,1
+19,Zamora Chinchipe,1903,Nangaritza,flood,22,10,2015-04-26,2025-12-19,16
+19,Zamora Chinchipe,1903,Nangaritza,landslide,6,5,2015-07-25,2022-06-10,6
+19,Zamora Chinchipe,1903,Nangaritza,scour,2,2,2021-11-18,2024-01-03,2
+19,Zamora Chinchipe,1904,Yacuambi,debris_flow,2,2,2020-12-02,2025-04-01,2
+19,Zamora Chinchipe,1904,Yacuambi,flood,4,3,2020-02-28,2024-02-20,4
+19,Zamora Chinchipe,1904,Yacuambi,landslide,61,11,2015-03-05,2025-10-21,44
+19,Zamora Chinchipe,1904,Yacuambi,scour,1,1,2015-04-30,2015-04-30,1
+19,Zamora Chinchipe,1905,Yantzaza,debris_flow,3,3,2019-02-12,2021-05-24,3
+19,Zamora Chinchipe,1905,Yantzaza,flood,29,10,2015-04-23,2025-11-05,21
+19,Zamora Chinchipe,1905,Yantzaza,landslide,37,9,2015-04-27,2025-04-07,29
+19,Zamora Chinchipe,1905,Yantzaza,scour,2,1,2016-06-13,2016-07-08,2
+19,Zamora Chinchipe,1906,El Pangui,flood,22,9,2015-04-26,2025-11-05,16
+19,Zamora Chinchipe,1906,El Pangui,landslide,17,8,2015-08-03,2025-01-28,16
+19,Zamora Chinchipe,1907,Centinela del Cóndor,debris_flow,1,1,2020-09-24,2020-09-24,1
+19,Zamora Chinchipe,1907,Centinela del Cóndor,flood,22,7,2015-04-30,2025-07-01,14
+19,Zamora Chinchipe,1907,Centinela del Cóndor,landslide,43,10,2015-04-18,2025-08-12,25
+19,Zamora Chinchipe,1907,Centinela del Cóndor,scour,1,1,2024-06-16,2024-06-16,1
+19,Zamora Chinchipe,1908,Palanda,debris_flow,5,4,2019-10-26,2025-11-28,5
+19,Zamora Chinchipe,1908,Palanda,flood,3,2,2018-10-08,2025-11-28,2
+19,Zamora Chinchipe,1908,Palanda,landslide,142,10,2015-02-03,2025-12-27,62
+19,Zamora Chinchipe,1909,Paquisha,flood,7,5,2016-09-01,2025-07-03,6
+19,Zamora Chinchipe,1909,Paquisha,landslide,18,9,2015-01-01,2025-12-17,14
+19,Zamora Chinchipe,1909,Paquisha,scour,1,1,2021-01-19,2021-01-19,1
+20,Galápagos,2001,San Cristóbal,debris_flow,1,1,2023-04-17,2023-04-17,1
+20,Galápagos,2001,San Cristóbal,flood,10,6,2016-01-04,2025-04-08,6
+20,Galápagos,2001,San Cristóbal,landslide,2,2,2023-02-20,2025-03-27,2
+20,Galápagos,2002,Isabela,flood,1,1,2024-03-21,2024-03-21,1
+20,Galápagos,2003,Santa Cruz,flood,12,6,2015-04-14,2025-04-02,7
+21,Sucumbíos,2101,Lago Agrio,flood,25,9,2015-07-22,2025-10-29,18
+21,Sucumbíos,2101,Lago Agrio,landslide,8,5,2015-03-29,2025-10-30,7
+21,Sucumbíos,2101,Lago Agrio,scour,8,5,2018-04-11,2025-02-25,7
+21,Sucumbíos,2102,Gonzalo Pizarro,flood,12,7,2015-10-18,2025-07-04,10
+21,Sucumbíos,2102,Gonzalo Pizarro,landslide,62,11,2015-01-22,2025-06-16,42
+21,Sucumbíos,2102,Gonzalo Pizarro,scour,14,8,2015-07-22,2024-05-22,14
+21,Sucumbíos,2103,Putumayo,flood,25,7,2015-07-24,2025-07-05,11
+21,Sucumbíos,2103,Putumayo,scour,3,2,2023-06-22,2025-04-08,3
+21,Sucumbíos,2104,Shushufindi,flood,18,8,2015-07-23,2025-07-07,12
+21,Sucumbíos,2104,Shushufindi,scour,1,1,2016-07-29,2016-07-29,1
+21,Sucumbíos,2105,Sucumbíos,debris_flow,3,2,2021-07-20,2025-06-02,2
+21,Sucumbíos,2105,Sucumbíos,flood,2,2,2017-07-29,2023-06-06,2
+21,Sucumbíos,2105,Sucumbíos,landslide,102,11,2015-04-08,2025-07-03,39
+21,Sucumbíos,2105,Sucumbíos,scour,3,3,2017-05-10,2021-01-24,3
+21,Sucumbíos,2106,Cascales,flood,4,2,2018-05-22,2025-02-26,2
+21,Sucumbíos,2106,Cascales,landslide,3,3,2017-03-31,2024-06-13,3
+21,Sucumbíos,2106,Cascales,scour,3,2,2018-05-23,2019-07-04,3
+21,Sucumbíos,2107,Cuyabeno,flood,15,8,2016-07-05,2025-07-03,12
+21,Sucumbíos,2107,Cuyabeno,landslide,1,1,2025-06-24,2025-06-24,1
+22,Orellana,2201,Francisco de Orellana,flood,63,11,2015-03-20,2025-12-19,32
+22,Orellana,2201,Francisco de Orellana,landslide,35,9,2015-03-21,2024-05-08,20
+22,Orellana,2201,Francisco de Orellana,scour,26,7,2019-06-16,2025-06-30,22
+22,Orellana,2202,Aguarico,flood,39,10,2015-03-20,2025-10-30,15
+22,Orellana,2202,Aguarico,scour,2,2,2022-07-18,2024-06-28,2
+22,Orellana,2203,La Joya de los Sachas,flood,24,6,2015-08-04,2024-05-05,12
+22,Orellana,2203,La Joya de los Sachas,landslide,3,3,2017-06-20,2021-06-23,3
+22,Orellana,2203,La Joya de los Sachas,scour,6,5,2021-02-08,2025-05-15,6
+22,Orellana,2204,Loreto,flood,15,6,2015-05-28,2025-07-03,9
+22,Orellana,2204,Loreto,landslide,23,7,2015-02-19,2025-06-12,18
+22,Orellana,2204,Loreto,scour,1,1,2015-06-08,2015-06-08,1
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,debris_flow,6,3,2021-02-09,2023-04-18,5
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,flood,158,11,2015-02-07,2025-11-28,46
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,landslide,213,11,2015-02-09,2025-11-14,54
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,scour,26,8,2015-01-14,2025-04-16,19
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,flood,26,8,2015-03-16,2025-05-16,16
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,landslide,13,8,2015-04-04,2025-04-23,11
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,scour,4,4,2017-05-12,2025-02-22,4
+24,Santa Elena,2401,Santa Elena,flood,88,10,2015-03-21,2025-04-03,19
+24,Santa Elena,2401,Santa Elena,landslide,12,7,2015-03-15,2025-02-16,8
+24,Santa Elena,2401,Santa Elena,scour,11,5,2017-03-24,2025-03-17,8
+24,Santa Elena,2402,La Libertad,flood,24,8,2016-01-26,2025-03-05,14
+24,Santa Elena,2403,Salinas,flood,33,10,2016-02-28,2025-06-16,14
+24,Santa Elena,2403,Salinas,landslide,1,1,2025-02-11,2025-02-11,1
+24,Santa Elena,2403,Salinas,scour,2,2,2017-04-26,2023-03-14,2
+01,Azuay,0101,Cuenca,TODOS,577,11,2015-03-04,2025-12-20,86
+01,Azuay,0102,Girón,TODOS,78,8,2015-03-21,2025-04-15,20
+01,Azuay,0103,Gualaceo,TODOS,56,10,2015-06-25,2025-11-20,34
+01,Azuay,0104,Nabón,TODOS,26,8,2017-03-12,2025-11-20,16
+01,Azuay,0105,Paute,TODOS,54,10,2016-09-14,2025-11-19,29
+01,Azuay,0106,Pucará,TODOS,75,10,2015-03-29,2025-11-28,34
+01,Azuay,0107,San Fernando,TODOS,1,1,2025-02-12,2025-02-12,1
+01,Azuay,0108,Santa Isabel,TODOS,55,11,2015-03-01,2025-11-01,32
+01,Azuay,0109,Sígsig,TODOS,39,9,2015-06-25,2025-10-20,27
+01,Azuay,0110,Oña,TODOS,13,5,2016-10-28,2025-04-06,8
+01,Azuay,0111,Chordeleg,TODOS,8,5,2016-04-05,2025-03-30,7
+01,Azuay,0112,El Pan,TODOS,4,3,2016-08-31,2025-07-03,4
+01,Azuay,0113,Sevilla de Oro,TODOS,52,11,2015-06-24,2025-11-04,37
+01,Azuay,0114,Guachapala,TODOS,10,3,2015-06-26,2025-09-24,7
+01,Azuay,0115,Camilo Ponce enríquez,TODOS,24,9,2015-01-17,2025-04-01,14
+02,Bolívar,0201,Guaranda,TODOS,292,11,2015-01-02,2025-11-26,69
+02,Bolívar,0202,Chillanes,TODOS,161,11,2015-02-09,2025-06-02,42
+02,Bolívar,0203,Chimbo,TODOS,108,11,2015-03-20,2025-05-10,30
+02,Bolívar,0204,Echeandía,TODOS,67,11,2015-03-17,2025-04-28,27
+02,Bolívar,0205,San Miguel,TODOS,190,11,2015-02-08,2025-05-27,41
+02,Bolívar,0206,Caluma,TODOS,43,8,2015-03-20,2025-05-16,21
+02,Bolívar,0207,Las Naves,TODOS,33,6,2017-03-04,2025-04-10,16
+03,Cañar,0301,Azogues,TODOS,39,9,2015-03-09,2025-11-19,21
+03,Cañar,0302,Biblián,TODOS,31,9,2016-10-13,2025-11-20,18
+03,Cañar,0303,Cañar,TODOS,85,10,2016-03-31,2025-11-09,33
+03,Cañar,0304,La Troncal,TODOS,47,10,2015-01-17,2025-04-22,24
+03,Cañar,0305,El Tambo,TODOS,7,5,2016-06-23,2022-06-04,7
+03,Cañar,0306,Déleg,TODOS,3,3,2022-06-20,2025-05-18,3
+03,Cañar,0307,Suscal,TODOS,6,4,2019-02-14,2025-03-04,5
+04,Carchi,0401,Tulcán,TODOS,115,11,2015-02-08,2025-11-21,56
+04,Carchi,0402,Bolívar,TODOS,31,9,2015-02-10,2025-07-04,20
+04,Carchi,0403,Espejo,TODOS,24,8,2017-03-31,2025-11-21,21
+04,Carchi,0404,Mira,TODOS,65,11,2015-10-16,2025-10-29,39
+04,Carchi,0405,Montúfar,TODOS,38,9,2015-03-20,2025-07-16,21
+04,Carchi,0406,San Pedro de Huaca,TODOS,8,6,2018-12-03,2025-07-03,7
+05,Cotopaxi,0501,Latacunga,TODOS,77,11,2015-08-06,2025-11-28,42
+05,Cotopaxi,0502,La Maná,TODOS,53,9,2015-01-11,2025-04-12,26
+05,Cotopaxi,0503,Pangua,TODOS,56,8,2016-01-25,2025-06-02,25
+05,Cotopaxi,0504,Pujilí,TODOS,168,11,2015-03-17,2025-11-30,65
+05,Cotopaxi,0505,Salcedo,TODOS,9,5,2017-04-24,2025-10-27,9
+05,Cotopaxi,0506,Saquisilí,TODOS,18,8,2015-03-02,2025-05-05,15
+05,Cotopaxi,0507,Sigchos,TODOS,87,11,2015-03-22,2025-04-17,38
+06,Chimborazo,0601,Riobamba,TODOS,150,11,2015-01-28,2025-12-24,79
+06,Chimborazo,0602,Alausí,TODOS,210,11,2015-01-17,2025-12-27,76
+06,Chimborazo,0603,Colta,TODOS,130,11,2015-01-22,2025-06-01,61
+06,Chimborazo,0604,Chambo,TODOS,26,10,2015-05-12,2025-11-30,23
+06,Chimborazo,0605,Chunchi,TODOS,123,11,2015-01-21,2025-10-11,55
+06,Chimborazo,0606,Guamote,TODOS,128,11,2015-01-07,2025-12-14,71
+06,Chimborazo,0607,Guano,TODOS,140,11,2015-02-08,2025-12-12,71
+06,Chimborazo,0608,Pallatanga,TODOS,86,11,2015-03-20,2025-03-29,32
+06,Chimborazo,0609,Penipe,TODOS,71,11,2015-02-01,2025-11-27,43
+06,Chimborazo,0610,Cumandá,TODOS,57,11,2015-02-23,2025-07-29,29
+07,El Oro,0701,Machala,TODOS,92,11,2015-02-08,2025-04-21,32
+07,El Oro,0702,Arenillas,TODOS,54,8,2015-03-29,2025-04-03,21
+07,El Oro,0703,Atahualpa,TODOS,119,11,2015-02-08,2025-04-28,40
+07,El Oro,0704,Balsas,TODOS,95,11,2015-03-24,2025-05-01,30
+07,El Oro,0705,Chilla,TODOS,59,10,2016-04-05,2025-04-14,26
+07,El Oro,0706,El Guabo,TODOS,52,10,2016-03-03,2025-04-11,26
+07,El Oro,0707,Huaquillas,TODOS,37,9,2015-03-18,2025-04-02,19
+07,El Oro,0708,Marcabelí,TODOS,22,6,2015-05-17,2025-04-25,9
+07,El Oro,0709,Pasaje,TODOS,174,11,2015-02-21,2025-04-12,39
+07,El Oro,0710,Piñas,TODOS,294,11,2015-03-19,2025-12-27,55
+07,El Oro,0711,Portovelo,TODOS,192,11,2015-03-22,2025-10-10,48
+07,El Oro,0712,Santa Rosa,TODOS,100,11,2015-03-20,2025-04-26,34
+07,El Oro,0713,Zaruma,TODOS,156,11,2015-02-17,2025-12-16,45
+07,El Oro,0714,Las Lajas,TODOS,46,9,2015-03-27,2025-05-03,23
+08,Esmeraldas,0801,Esmeraldas,TODOS,323,11,2015-01-07,2025-05-13,61
+08,Esmeraldas,0802,Eloy Alfaro,TODOS,111,11,2015-02-07,2025-06-18,31
+08,Esmeraldas,0803,Muisne,TODOS,156,11,2015-02-19,2025-08-13,42
+08,Esmeraldas,0804,Quinindé,TODOS,253,11,2015-02-05,2025-04-27,61
+08,Esmeraldas,0805,San Lorenzo,TODOS,116,11,2015-04-05,2025-11-06,54
+08,Esmeraldas,0806,Atacames,TODOS,93,9,2016-01-25,2025-05-20,28
+08,Esmeraldas,0807,Rioverde,TODOS,81,11,2015-02-06,2025-05-05,36
+09,Guayas,0901,Guayaquil,TODOS,414,11,2015-01-17,2025-04-28,61
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),TODOS,64,11,2015-03-22,2025-04-11,28
+09,Guayas,0903,Balao,TODOS,22,8,2016-04-02,2025-03-27,12
+09,Guayas,0904,Balzar,TODOS,44,9,2015-02-07,2025-05-24,21
+09,Guayas,0905,Colimes,TODOS,46,7,2017-02-08,2025-04-23,14
+09,Guayas,0906,Daule,TODOS,146,10,2015-03-14,2025-05-04,28
+09,Guayas,0907,Durán,TODOS,80,11,2015-02-17,2025-07-31,30
+09,Guayas,0908,El Empalme,TODOS,45,10,2015-02-06,2025-04-22,27
+09,Guayas,0909,El Triunfo,TODOS,40,9,2015-01-24,2025-11-30,19
+09,Guayas,0910,Milagro,TODOS,100,9,2015-03-18,2025-04-04,26
+09,Guayas,0911,Naranjal,TODOS,80,10,2015-02-25,2025-05-06,22
+09,Guayas,0912,Naranjito,TODOS,37,7,2016-03-03,2025-04-29,17
+09,Guayas,0913,Palestina,TODOS,42,8,2015-02-11,2025-05-25,18
+09,Guayas,0914,Pedro Carbo,TODOS,70,10,2015-05-20,2025-05-19,23
+09,Guayas,0916,Samborondón,TODOS,57,7,2015-02-09,2025-06-11,18
+09,Guayas,0918,Santa Lucía,TODOS,59,8,2016-01-26,2025-04-23,18
+09,Guayas,0919,Salitre,TODOS,147,9,2015-02-11,2025-05-27,27
+09,Guayas,0920,San Jacinto de Yaguachi,TODOS,68,9,2015-02-24,2025-04-11,21
+09,Guayas,0921,Playas,TODOS,25,10,2015-03-18,2025-02-23,17
+09,Guayas,0922,Simón Bolívar,TODOS,43,8,2016-02-05,2025-04-10,18
+09,Guayas,0923,Coronel Marcelino Maridueña,TODOS,15,7,2016-03-07,2025-05-20,11
+09,Guayas,0924,Lomas de Sargentillo,TODOS,24,8,2017-01-09,2025-03-13,14
+09,Guayas,0925,Nobol,TODOS,22,9,2015-02-15,2025-03-30,16
+09,Guayas,0927,General  Antonio Elizalde,TODOS,32,10,2015-01-26,2025-03-29,22
+09,Guayas,0928,Isidro Ayora,TODOS,16,9,2015-05-14,2025-03-13,14
+10,Imbabura,1001,Ibarra,TODOS,228,11,2015-02-07,2025-12-28,80
+10,Imbabura,1002,Antonio Ante,TODOS,26,9,2016-11-11,2025-05-03,18
+10,Imbabura,1003,Cotacachi,TODOS,166,11,2015-03-18,2025-05-02,42
+10,Imbabura,1004,Otavalo,TODOS,79,11,2015-05-05,2025-05-19,41
+10,Imbabura,1005,Pimampiro,TODOS,53,10,2015-04-17,2025-12-08,33
+10,Imbabura,1006,San Miguel de Urcuquí,TODOS,43,10,2015-02-21,2025-04-08,25
+11,Loja,1101,Loja,TODOS,565,11,2015-01-11,2025-12-16,97
+11,Loja,1102,Calvas,TODOS,118,11,2015-03-03,2025-05-31,36
+11,Loja,1103,Catamayo,TODOS,115,11,2015-01-17,2025-10-26,47
+11,Loja,1104,Celica,TODOS,85,11,2015-03-22,2025-04-03,28
+11,Loja,1105,Chaguarpamba,TODOS,94,11,2015-01-29,2025-11-29,36
+11,Loja,1106,Espíndola,TODOS,52,10,2015-01-28,2025-05-03,23
+11,Loja,1107,Gonzanamá,TODOS,49,10,2015-03-06,2025-06-04,24
+11,Loja,1108,Macará,TODOS,62,8,2015-03-21,2025-05-16,18
+11,Loja,1109,Paltas,TODOS,87,11,2015-01-17,2025-05-03,27
+11,Loja,1110,Puyango,TODOS,61,11,2015-03-02,2025-04-22,27
+11,Loja,1111,Saraguro,TODOS,77,11,2015-01-20,2025-07-21,37
+11,Loja,1112,Sozoranga,TODOS,84,9,2015-03-16,2025-06-06,26
+11,Loja,1113,Zapotillo,TODOS,36,7,2015-03-26,2025-06-15,13
+11,Loja,1114,Pindal,TODOS,24,8,2015-03-07,2025-04-30,13
+11,Loja,1115,Quilanga,TODOS,33,10,2015-03-29,2025-07-28,21
+11,Loja,1116,Olmedo,TODOS,33,8,2015-03-20,2025-04-06,16
+12,Los Ríos,1201,Babahoyo,TODOS,218,11,2015-03-21,2025-05-16,45
+12,Los Ríos,1202,Baba,TODOS,61,9,2015-05-28,2025-05-16,20
+12,Los Ríos,1203,Montalvo,TODOS,64,11,2015-02-09,2025-04-10,34
+12,Los Ríos,1204,Puebloviejo,TODOS,35,8,2015-03-28,2025-03-11,23
+12,Los Ríos,1205,Quevedo,TODOS,98,10,2015-11-24,2025-06-30,30
+12,Los Ríos,1206,Urdaneta,TODOS,87,11,2015-02-09,2025-05-08,30
+12,Los Ríos,1207,Ventanas,TODOS,67,10,2015-02-09,2025-04-04,25
+12,Los Ríos,1208,Vinces,TODOS,48,9,2016-02-24,2025-05-16,22
+12,Los Ríos,1209,Palenque,TODOS,13,7,2017-02-08,2025-03-06,10
+12,Los Ríos,1210,Buena Fe,TODOS,24,8,2018-02-09,2025-04-05,16
+12,Los Ríos,1211,Valencia,TODOS,39,8,2016-01-25,2025-04-24,23
+12,Los Ríos,1212,Mocache,TODOS,22,9,2016-01-25,2025-04-28,16
+12,Los Ríos,1213,Quinsaloma,TODOS,19,7,2016-01-25,2025-03-05,17
+13,Manabí,1301,Portoviejo,TODOS,248,11,2015-02-15,2025-07-23,43
+13,Manabí,1302,Bolívar,TODOS,49,10,2015-05-16,2025-04-17,24
+13,Manabí,1303,Chone,TODOS,212,11,2015-02-07,2025-05-15,45
+13,Manabí,1304,El Carmen,TODOS,71,10,2015-03-16,2025-10-08,34
+13,Manabí,1305,Flavio Alfaro,TODOS,87,11,2015-01-17,2025-05-18,37
+13,Manabí,1306,Jipijapa,TODOS,88,10,2015-04-05,2025-06-03,30
+13,Manabí,1307,Junín,TODOS,38,9,2015-02-07,2025-06-19,17
+13,Manabí,1308,Manta,TODOS,92,10,2015-02-07,2025-04-14,26
+13,Manabí,1309,Montecristi,TODOS,42,9,2015-02-07,2025-05-16,18
+13,Manabí,1310,Paján,TODOS,56,11,2015-05-20,2025-04-24,21
+13,Manabí,1311,Pichincha,TODOS,28,9,2015-05-03,2025-04-25,17
+13,Manabí,1312,Rocafuerte,TODOS,47,9,2015-02-07,2025-04-14,24
+13,Manabí,1313,Santa Ana,TODOS,88,11,2015-12-04,2025-04-28,22
+13,Manabí,1314,Sucre,TODOS,77,11,2015-03-09,2025-03-27,20
+13,Manabí,1315,Tosagua,TODOS,50,9,2015-03-16,2025-04-14,23
+13,Manabí,1316,24 de Mayo,TODOS,39,9,2015-12-02,2025-05-19,18
+13,Manabí,1317,Pedernales,TODOS,62,11,2015-02-27,2025-04-23,31
+13,Manabí,1318,Olmedo,TODOS,29,9,2015-02-20,2025-04-01,18
+13,Manabí,1319,Puerto López,TODOS,33,8,2015-03-30,2025-04-02,17
+13,Manabí,1320,Jama,TODOS,29,9,2016-01-19,2025-03-11,15
+13,Manabí,1321,Jaramijó,TODOS,13,5,2016-02-05,2025-03-11,7
+13,Manabí,1322,San Vicente,TODOS,28,8,2016-01-20,2025-03-11,17
+14,Morona Santiago,1401,Morona,TODOS,274,11,2015-01-01,2025-10-18,96
+14,Morona Santiago,1402,Gualaquiza,TODOS,131,11,2015-04-25,2025-10-24,61
+14,Morona Santiago,1403,Limón Indanza,TODOS,296,11,2015-02-02,2025-10-29,88
+14,Morona Santiago,1404,Palora,TODOS,26,8,2017-04-01,2025-03-13,11
+14,Morona Santiago,1405,Santiago,TODOS,146,11,2015-03-22,2025-10-16,70
+14,Morona Santiago,1406,Sucúa,TODOS,52,11,2015-04-14,2025-08-15,23
+14,Morona Santiago,1407,Huamboya,TODOS,47,11,2015-01-16,2025-03-12,22
+14,Morona Santiago,1408,San Juan Bosco,TODOS,44,11,2015-03-20,2025-10-27,29
+14,Morona Santiago,1409,Taisha,TODOS,34,11,2015-03-21,2025-10-22,29
+14,Morona Santiago,1410,Logroño,TODOS,17,9,2016-04-28,2025-07-03,15
+14,Morona Santiago,1411,Pablo Sexto,TODOS,12,4,2021-02-18,2025-03-11,7
+14,Morona Santiago,1412,Tiwintza,TODOS,59,11,2015-02-02,2025-12-13,41
+15,Napo,1501,Tena,TODOS,168,11,2015-01-23,2025-12-17,65
+15,Napo,1503,Archidona,TODOS,224,11,2015-02-19,2025-11-28,83
+15,Napo,1504,El Chaco,TODOS,201,11,2015-03-14,2025-12-10,86
+15,Napo,1507,Quijos,TODOS,355,11,2015-03-16,2025-10-26,85
+15,Napo,1509,Carlos Julio Arosemena Tola,TODOS,17,9,2017-01-06,2025-07-02,14
+16,Pastaza,1601,Pastaza,TODOS,271,11,2015-01-01,2025-11-24,88
+16,Pastaza,1602,Mera,TODOS,160,11,2015-01-14,2025-12-10,79
+16,Pastaza,1603,Santa Clara,TODOS,37,10,2015-03-21,2024-11-06,28
+16,Pastaza,1604,Arajuno,TODOS,90,11,2015-01-18,2025-10-29,50
+17,Pichincha,1701,Distrito Metropolitano de Quito,TODOS,1955,11,2015-01-14,2025-12-27,120
+17,Pichincha,1702,Cayambe,TODOS,84,11,2015-06-28,2025-11-30,47
+17,Pichincha,1703,Mejía,TODOS,437,11,2015-01-21,2025-12-27,92
+17,Pichincha,1704,Pedro Moncayo,TODOS,48,10,2015-01-18,2025-11-20,34
+17,Pichincha,1705,Rumiñahui,TODOS,72,7,2017-03-30,2025-11-29,26
+17,Pichincha,1707,San Miguel de los Bancos,TODOS,67,11,2015-02-09,2025-03-15,35
+17,Pichincha,1708,Pedro Vicente Maldonado,TODOS,9,5,2017-02-11,2025-03-12,7
+17,Pichincha,1709,Puerto Quito,TODOS,46,10,2015-03-20,2025-04-21,23
+18,Tungurahua,1801,Ambato,TODOS,486,11,2015-01-03,2025-11-22,122
+18,Tungurahua,1802,Baños de Agua Santa,TODOS,447,11,2015-01-13,2025-12-14,100
+18,Tungurahua,1803,Cevallos,TODOS,11,6,2015-03-18,2025-10-28,11
+18,Tungurahua,1804,Mocha,TODOS,30,9,2015-02-17,2025-09-01,23
+18,Tungurahua,1805,Patate,TODOS,106,11,2015-03-20,2025-07-09,54
+18,Tungurahua,1806,Quero,TODOS,31,8,2017-01-09,2025-02-25,21
+18,Tungurahua,1807,San Pedro de Pelileo,TODOS,214,11,2015-01-14,2025-09-20,95
+18,Tungurahua,1808,Santiago de Píllaro,TODOS,82,11,2015-03-16,2025-11-28,56
+18,Tungurahua,1809,Tisaleo,TODOS,14,7,2015-01-25,2025-04-10,10
+19,Zamora Chinchipe,1901,Zamora,TODOS,361,11,2015-01-03,2025-11-22,90
+19,Zamora Chinchipe,1902,Chinchipe,TODOS,50,10,2015-01-20,2025-12-21,34
+19,Zamora Chinchipe,1903,Nangaritza,TODOS,31,11,2015-04-26,2025-12-19,24
+19,Zamora Chinchipe,1904,Yacuambi,TODOS,68,11,2015-03-05,2025-10-21,47
+19,Zamora Chinchipe,1905,Yantzaza,TODOS,71,11,2015-04-23,2025-11-05,43
+19,Zamora Chinchipe,1906,El Pangui,TODOS,39,9,2015-04-26,2025-11-05,29
+19,Zamora Chinchipe,1907,Centinela del Cóndor,TODOS,67,10,2015-04-18,2025-08-12,36
+19,Zamora Chinchipe,1908,Palanda,TODOS,150,10,2015-02-03,2025-12-27,65
+19,Zamora Chinchipe,1909,Paquisha,TODOS,26,9,2015-01-01,2025-12-17,21
+20,Galápagos,2001,San Cristóbal,TODOS,13,6,2016-01-04,2025-04-08,8
+20,Galápagos,2002,Isabela,TODOS,1,1,2024-03-21,2024-03-21,1
+20,Galápagos,2003,Santa Cruz,TODOS,12,6,2015-04-14,2025-04-02,7
+21,Sucumbíos,2101,Lago Agrio,TODOS,41,10,2015-03-29,2025-10-30,26
+21,Sucumbíos,2102,Gonzalo Pizarro,TODOS,88,11,2015-01-22,2025-07-04,58
+21,Sucumbíos,2103,Putumayo,TODOS,28,7,2015-07-24,2025-07-05,13
+21,Sucumbíos,2104,Shushufindi,TODOS,19,8,2015-07-23,2025-07-07,13
+21,Sucumbíos,2105,Sucumbíos,TODOS,110,11,2015-04-08,2025-07-03,43
+21,Sucumbíos,2106,Cascales,TODOS,10,6,2017-03-31,2025-02-26,7
+21,Sucumbíos,2107,Cuyabeno,TODOS,16,8,2016-07-05,2025-07-03,13
+22,Orellana,2201,Francisco de Orellana,TODOS,124,11,2015-03-20,2025-12-19,53
+22,Orellana,2202,Aguarico,TODOS,41,10,2015-03-20,2025-10-30,17
+22,Orellana,2203,La Joya de los Sachas,TODOS,33,9,2015-08-04,2025-05-15,19
+22,Orellana,2204,Loreto,TODOS,39,9,2015-02-19,2025-07-03,25
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,TODOS,403,11,2015-01-14,2025-11-28,68
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,TODOS,43,9,2015-03-16,2025-05-16,23
+24,Santa Elena,2401,Santa Elena,TODOS,111,11,2015-03-15,2025-04-03,21
+24,Santa Elena,2402,La Libertad,TODOS,24,8,2016-01-26,2025-03-05,14
+24,Santa Elena,2403,Salinas,TODOS,36,10,2016-02-28,2025-06-16,16

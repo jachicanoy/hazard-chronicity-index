@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usa este material, cítelo como se indica."
+title: "Hazard Chronicity Index: cronicidad de amenazas asociadas a El Niño en Ecuador (2015-2025)"
+authors:
+  - family-names: Achicanoy
+    given-names: Jerson
+    affiliation: "3iS LATAM"
+license: MIT
+repository-code: "https://github.com/JersonCatalyst/hazard-chronicity-index"
+date-released: "2026-10-06"

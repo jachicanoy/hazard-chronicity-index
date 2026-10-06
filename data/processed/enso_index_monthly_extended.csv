@@ -1,0 +1,133 @@
+year,month,ICEN,icen_category,ONI,oni_category,nino12_sst,nino12_anom,nino12_anom_trim,es_evento_enso_icen_solo,es_evento_enso_oni_solo,es_evento_enso,tipo_enso,magnitud_enso_combinada
+2015,1,-0.08,Neutro,0.7,El Niño - Débil,24.41,-0.16,,False,True,True,Niño,0.25
+2015,2,-0.14,Neutro,0.6,El Niño - Débil,25.57,-0.53,-0.20000000000000004,False,True,True,Niño,0.25
+2015,3,0.26,Neutro,0.7,El Niño - Débil,26.57,0.09,0.18666666666666665,False,True,True,Niño,0.25
+2015,4,0.97,El Niño - Débil,0.8,El Niño - Débil,26.54,1.0,0.8799999999999999,True,True,True,Ambos,0.25
+2015,5,1.69,El Niño - Moderado,1.0,El Niño - Moderado,25.96,1.55,1.58,True,True,True,Ambos,0.5
+2015,6,2.19,El Niño - Fuerte,1.3,El Niño - Moderado,25.32,2.19,2.0933333333333333,True,True,True,Ambos,0.75
+2015,7,2.18,El Niño - Fuerte,1.6,El Niño - Fuerte,24.5,2.54,2.126666666666667,True,True,True,Ambos,0.75
+2015,8,2.16,El Niño - Fuerte,1.9,El Niño - Fuerte,22.66,1.65,2.1566666666666667,True,True,True,Ambos,0.75
+2015,9,2.0,El Niño - Moderado,2.2,El Niño - Muy Fuerte,23.01,2.28,2.0166666666666666,True,True,True,Ambos,1.0
+2015,10,2.2,El Niño - Fuerte,2.5,El Niño - Muy Fuerte,23.14,2.12,2.2266666666666666,True,True,True,Ambos,1.0
+2015,11,2.15,El Niño - Fuerte,2.6,El Niño - Muy Fuerte,23.93,2.28,2.203333333333333,True,True,True,Ambos,1.0
+2015,12,2.06,El Niño - Moderado,2.8,El Niño - Muy Fuerte,25.02,2.21,2.0933333333333333,True,True,True,Ambos,1.0
+2016,1,1.78,El Niño - Moderado,2.6,El Niño - Muy Fuerte,26.36,1.79,1.7666666666666666,True,True,True,Ambos,1.0
+2016,2,1.54,El Niño - Moderado,2.3,El Niño - Muy Fuerte,27.4,1.3,1.4800000000000002,True,True,True,Ambos,1.0
+2016,3,1.1,El Niño - Débil,1.7,El Niño - Fuerte,27.83,1.35,1.0333333333333334,True,True,True,Ambos,0.75
+2016,4,0.85,El Niño - Débil,1.0,El Niño - Moderado,25.98,0.45,0.7633333333333333,True,True,True,Ambos,0.5
+2016,5,0.64,El Niño - Débil,0.5,El Niño - Débil,24.9,0.49,0.5266666666666667,True,True,True,Ambos,0.25
+2016,6,0.56,El Niño - Débil,0.0,Neutro,23.77,0.64,0.46,True,False,True,Niño Costero,0.25
+2016,7,0.43,Neutro,-0.3,Neutro,22.21,0.25,0.3766666666666667,False,False,False,No ENSO,0.0
+2016,8,0.36,Neutro,-0.5,La Niña - Débil,21.25,0.24,0.35333333333333333,False,False,False,No ENSO,0.0
+2016,9,0.37,Neutro,-0.6,La Niña - Débil,21.29,0.57,0.3833333333333333,False,False,False,No ENSO,0.0
+2016,10,0.32,Neutro,-0.6,La Niña - Débil,21.36,0.34,0.3433333333333333,False,False,False,No ENSO,0.0
+2016,11,0.25,Neutro,-0.6,La Niña - Débil,21.78,0.12,0.2966666666666667,False,False,False,No ENSO,0.0
+2016,12,0.47,Neutro,-0.5,La Niña - Débil,23.24,0.43,0.49333333333333335,False,False,False,No ENSO,0.0
+2017,1,0.92,El Niño - Débil,-0.2,Neutro,25.5,0.93,0.9066666666666667,True,False,True,Niño Costero,0.25
+2017,2,1.37,El Niño - Moderado,0.0,Neutro,27.46,1.36,1.3,True,False,True,Niño Costero,0.5
+2017,3,1.42,El Niño - Moderado,0.2,Neutro,28.1,1.61,1.34,True,False,True,Niño Costero,0.5
+2017,4,1.07,El Niño - Débil,0.3,Neutro,26.59,1.05,0.9566666666666667,True,False,True,Niño Costero,0.25
+2017,5,0.46,Neutro,0.4,Neutro,24.63,0.21,0.34,False,False,False,No ENSO,0.0
+2017,6,-0.01,Neutro,0.4,Neutro,22.89,-0.24,-0.11666666666666665,False,False,False,No ENSO,0.0
+2017,7,-0.24,Neutro,0.2,Neutro,21.64,-0.32,-0.3,False,False,False,No ENSO,0.0
+2017,8,-0.47,Neutro,-0.1,Neutro,20.67,-0.34,-0.49,False,False,False,No ENSO,0.0
+2017,9,-0.66,Neutro,-0.3,Neutro,19.92,-0.81,-0.6533333333333333,False,False,False,No ENSO,0.0
+2017,10,-0.98,La Niña - Débil,-0.6,La Niña - Débil,20.21,-0.81,-0.9400000000000001,False,False,False,No ENSO,0.0
+2017,11,-1.19,La Niña - Moderada,-0.8,La Niña - Débil,20.46,-1.2,-1.1433333333333333,False,False,False,No ENSO,0.0
+2017,12,-1.32,La Niña - Fuerte,-0.9,La Niña - Débil,21.39,-1.42,-1.2466666666666668,False,False,False,No ENSO,0.0
+2018,1,-1.2,La Niña - Moderada,-0.8,La Niña - Débil,23.44,-1.12,-1.17,False,False,False,No ENSO,0.0
+2018,2,-1.14,La Niña - Moderada,-0.7,La Niña - Débil,25.13,-0.97,-1.1466666666666667,False,False,False,No ENSO,0.0
+2018,3,-1.08,La Niña - Débil,-0.6,La Niña - Débil,25.13,-1.35,-1.116666666666667,False,False,False,No ENSO,0.0
+2018,4,-0.97,La Niña - Débil,-0.4,Neutro,24.51,-1.03,-1.0433333333333332,False,False,False,No ENSO,0.0
+2018,5,-0.73,La Niña - Débil,-0.1,Neutro,23.67,-0.75,-0.8333333333333334,False,False,False,No ENSO,0.0
+2018,6,-0.54,Neutro,0.1,Neutro,22.4,-0.72,-0.6233333333333334,False,False,False,No ENSO,0.0
+2018,7,-0.44,Neutro,0.1,Neutro,21.56,-0.4,-0.4633333333333334,False,False,False,No ENSO,0.0
+2018,8,-0.28,Neutro,0.3,Neutro,20.74,-0.27,-0.25,False,False,False,No ENSO,0.0
+2018,9,-0.11,Neutro,0.5,El Niño - Débil,20.65,-0.08,-0.06333333333333334,False,True,True,Niño,0.25
+2018,10,0.23,Neutro,0.8,El Niño - Débil,21.18,0.16,0.2966666666666667,False,True,True,Niño,0.25
+2018,11,0.58,El Niño - Débil,1.0,El Niño - Moderado,22.46,0.81,0.6733333333333333,True,True,True,Ambos,0.5
+2018,12,0.89,El Niño - Débil,0.9,El Niño - Débil,23.86,1.05,0.8966666666666668,True,True,True,Ambos,0.25
+2019,1,0.87,El Niño - Débil,0.9,El Niño - Débil,25.4,0.83,0.8000000000000002,True,True,True,Ambos,0.25
+2019,2,0.59,El Niño - Débil,0.9,El Niño - Débil,26.62,0.52,0.49000000000000005,True,True,True,Ambos,0.25
+2019,3,0.41,Neutro,0.8,El Niño - Débil,26.61,0.12,0.3133333333333334,False,True,True,Niño,0.25
+2019,4,0.34,Neutro,0.8,El Niño - Débil,25.83,0.3,0.20666666666666675,False,True,True,Niño,0.25
+2019,5,0.25,Neutro,0.6,El Niño - Débil,24.61,0.2,0.0533333333333334,False,True,True,Niño,0.25
+2019,6,-0.12,Neutro,0.5,El Niño - Débil,22.78,-0.34,-0.27666666666666656,False,True,True,Niño,0.25
+2019,7,-0.54,Neutro,0.3,Neutro,21.27,-0.69,-0.5966666666666666,False,False,False,No ENSO,0.0
+2019,8,-0.73,La Niña - Débil,0.2,Neutro,20.24,-0.76,-0.7199999999999999,False,False,False,No ENSO,0.0
+2019,9,-0.78,La Niña - Débil,0.2,Neutro,20.01,-0.71,-0.7366666666666667,False,False,False,No ENSO,0.0
+2019,10,-0.6,Neutro,0.4,Neutro,20.27,-0.74,-0.5199999999999999,False,False,False,No ENSO,0.0
+2019,11,-0.4,Neutro,0.6,El Niño - Débil,21.55,-0.11,-0.2966666666666666,False,True,True,Niño,0.25
+2019,12,-0.25,Neutro,0.7,El Niño - Débil,22.77,-0.04,-0.17333333333333326,False,True,True,Niño,0.25
+2020,1,-0.16,Neutro,0.6,El Niño - Débil,24.2,-0.37,-0.12999999999999992,False,True,True,Niño,0.25
+2020,2,-0.15,Neutro,0.6,El Niño - Débil,26.12,0.02,-0.13666666666666658,False,True,True,Niño,0.25
+2020,3,0.1,Neutro,0.5,El Niño - Débil,26.43,-0.06,0.08000000000000008,False,True,True,Niño,0.25
+2020,4,0.19,Neutro,0.3,Neutro,25.81,0.28,0.026666666666666755,False,False,False,No ENSO,0.0
+2020,5,0.02,Neutro,0.0,Neutro,24.28,-0.14,-0.18666666666666656,False,False,False,No ENSO,0.0
+2020,6,-0.51,Neutro,-0.2,Neutro,22.43,-0.7,-0.7066666666666666,False,False,False,No ENSO,0.0
+2020,7,-0.93,La Niña - Débil,-0.4,Neutro,20.68,-1.28,-1.01,False,False,False,No ENSO,0.0
+2020,8,-1.14,La Niña - Moderada,-0.5,La Niña - Débil,19.96,-1.05,-1.1833333333333333,False,False,False,No ENSO,0.0
+2020,9,-1.0,La Niña - Débil,-0.8,La Niña - Débil,19.5,-1.22,-0.9566666666666666,False,False,False,No ENSO,0.0
+2020,10,-0.95,La Niña - Débil,-1.1,La Niña - Moderada,20.42,-0.6,-0.7999999999999998,False,False,False,No ENSO,0.0
+2020,11,-0.83,La Niña - Débil,-1.2,La Niña - Moderada,21.07,-0.58,-0.5933333333333333,False,False,False,No ENSO,0.0
+2020,12,-0.88,La Niña - Débil,-1.1,La Niña - Moderada,22.21,-0.6,-0.6866666666666665,False,False,False,No ENSO,0.0
+2021,1,-0.86,La Niña - Débil,-0.9,La Niña - Débil,23.68,-0.88,-0.7799999999999999,False,False,False,No ENSO,0.0
+2021,2,-0.83,La Niña - Débil,-0.8,La Niña - Débil,25.24,-0.86,-0.83,False,False,False,No ENSO,0.0
+2021,3,-0.81,La Niña - Débil,-0.7,La Niña - Débil,25.74,-0.75,-0.85,False,False,False,No ENSO,0.0
+2021,4,-0.76,La Niña - Débil,-0.5,La Niña - Débil,24.59,-0.94,-0.8266666666666667,False,False,False,No ENSO,0.0
+2021,5,-0.59,Neutro,-0.4,Neutro,23.63,-0.79,-0.6999999999999998,False,False,False,No ENSO,0.0
+2021,6,-0.34,Neutro,-0.3,Neutro,22.75,-0.37,-0.4566666666666666,False,False,False,No ENSO,0.0
+2021,7,-0.22,Neutro,-0.3,Neutro,21.75,-0.21,-0.2899999999999999,False,False,False,No ENSO,0.0
+2021,8,-0.36,Neutro,-0.4,Neutro,20.71,-0.29,-0.3999999999999999,False,False,False,No ENSO,0.0
+2021,9,-0.59,Neutro,-0.6,La Niña - Débil,20.02,-0.7,-0.62,False,False,False,No ENSO,0.0
+2021,10,-0.83,La Niña - Débil,-0.8,La Niña - Débil,20.15,-0.87,-0.8966666666666666,False,False,False,No ENSO,0.0
+2021,11,-1.18,La Niña - Moderada,-0.9,La Niña - Débil,20.53,-1.12,-1.2266666666666666,False,False,False,No ENSO,0.0
+2021,12,-1.28,La Niña - Moderada,-0.9,La Niña - Débil,21.12,-1.69,-1.3066666666666666,False,False,False,No ENSO,0.0
+2022,1,-1.43,La Niña - Fuerte,-0.8,La Niña - Débil,23.46,-1.11,-1.46,False,False,False,No ENSO,0.0
+2022,2,-1.05,La Niña - Débil,-0.8,La Niña - Débil,24.52,-1.58,-1.1500000000000001,False,False,False,No ENSO,0.0
+2022,3,-1.1,La Niña - Débil,-0.9,La Niña - Débil,25.73,-0.76,-1.2466666666666664,False,False,False,No ENSO,0.0
+2022,4,-1.1,La Niña - Débil,-1.0,La Niña - Moderada,24.14,-1.4,-1.2733333333333332,False,False,False,No ENSO,0.0
+2022,5,-1.36,La Niña - Fuerte,-0.9,La Niña - Débil,22.76,-1.66,-1.5166666666666666,False,False,False,No ENSO,0.0
+2022,6,-1.36,La Niña - Fuerte,-0.8,La Niña - Débil,21.63,-1.49,-1.45,False,False,False,No ENSO,0.0
+2022,7,-1.03,La Niña - Débil,-0.8,La Niña - Débil,20.76,-1.2,-1.0966666666666665,False,False,False,No ENSO,0.0
+2022,8,-0.93,La Niña - Débil,-0.9,La Niña - Débil,20.41,-0.6,-0.94,False,False,False,No ENSO,0.0
+2022,9,-1.12,La Niña - Moderada,-1.0,La Niña - Moderada,19.71,-1.02,-1.1333333333333333,False,False,False,No ENSO,0.0
+2022,10,-1.39,La Niña - Fuerte,-0.9,La Niña - Débil,19.23,-1.78,-1.3099999999999998,False,False,False,No ENSO,0.0
+2022,11,-1.24,La Niña - Moderada,-0.8,La Niña - Débil,20.52,-1.13,-1.1233333333333333,False,False,False,No ENSO,0.0
+2022,12,-0.81,La Niña - Débil,-0.7,La Niña - Débil,22.35,-0.46,-0.7166666666666665,False,False,False,No ENSO,0.0
+2023,1,-0.27,Neutro,-0.5,La Niña - Débil,24.0,-0.56,-0.17999999999999994,False,False,False,No ENSO,0.0
+2023,2,0.42,Neutro,-0.3,Neutro,26.58,0.48,0.47000000000000003,False,False,False,No ENSO,0.0
+2023,3,1.51,El Niño - Moderado,0.0,Neutro,27.98,1.49,1.53,True,False,True,Niño Costero,0.5
+2023,4,2.19,El Niño - Fuerte,0.3,Neutro,28.16,2.62,2.11,True,False,True,Niño Costero,0.75
+2023,5,2.55,El Niño - Fuerte,0.6,El Niño - Débil,26.64,2.22,2.4466666666666668,True,True,True,Ambos,0.75
+2023,6,2.62,El Niño - Fuerte,0.8,El Niño - Débil,25.63,2.5,2.566666666666667,True,True,True,Ambos,0.75
+2023,7,2.94,El Niño - Fuerte,1.1,El Niño - Moderado,24.94,2.98,2.9233333333333333,True,True,True,Ambos,0.75
+2023,8,2.91,El Niño - Fuerte,1.4,El Niño - Moderado,24.3,3.29,2.8966666666666665,True,True,True,Ambos,0.75
+2023,9,2.7,El Niño - Fuerte,1.6,El Niño - Fuerte,23.14,2.42,2.676666666666667,True,True,True,Ambos,0.75
+2023,10,2.27,El Niño - Fuerte,1.8,El Niño - Fuerte,23.34,2.32,2.27,True,True,True,Ambos,0.75
+2023,11,1.96,El Niño - Moderado,2.0,El Niño - Muy Fuerte,23.73,2.07,2.0,True,True,True,Ambos,1.0
+2023,12,1.61,El Niño - Moderado,2.1,El Niño - Muy Fuerte,24.42,1.61,1.656666666666667,True,True,True,Ambos,1.0
+2024,1,1.29,El Niño - Débil,1.9,El Niño - Fuerte,25.86,1.29,1.34,True,True,True,Ambos,0.75
+2024,2,0.98,El Niño - Débil,1.6,El Niño - Fuerte,27.22,1.12,0.8866666666666667,True,True,True,Ambos,0.75
+2024,3,0.57,El Niño - Débil,1.3,El Niño - Moderado,26.74,0.25,0.3866666666666669,True,True,True,Ambos,0.5
+2024,4,-0.11,Neutro,0.8,El Niño - Débil,25.33,-0.21,-0.37333333333333313,False,True,True,Niño,0.25
+2024,5,-0.61,Neutro,0.5,El Niño - Débil,23.25,-1.16,-0.7733333333333331,False,True,True,Niño,0.25
+2024,6,-0.86,La Niña - Débil,0.2,Neutro,22.18,-0.95,-0.9633333333333333,False,False,False,No ENSO,0.0
+2024,7,-0.69,Neutro,0.1,Neutro,21.18,-0.78,-0.7166666666666665,False,False,False,No ENSO,0.0
+2024,8,-0.66,Neutro,-0.1,Neutro,20.58,-0.42,-0.6499999999999998,False,False,False,No ENSO,0.0
+2024,9,-0.54,Neutro,-0.2,Neutro,19.98,-0.75,-0.49666666666666653,False,False,False,No ENSO,0.0
+2024,10,-0.39,Neutro,-0.2,Neutro,20.7,-0.32,-0.3366666666666665,False,False,False,No ENSO,0.0
+2024,11,-0.16,Neutro,-0.3,Neutro,21.72,0.06,-0.09666666666666653,False,False,False,No ENSO,0.0
+2024,12,-0.14,Neutro,-0.4,Neutro,22.78,-0.03,-0.09999999999999985,False,False,False,No ENSO,0.0
+2025,1,0.01,Neutro,-0.4,Neutro,24.24,-0.33,0.07333333333333347,False,False,False,No ENSO,0.0
+2025,2,0.43,Neutro,-0.2,Neutro,26.68,0.58,0.4133333333333335,False,False,False,No ENSO,0.0
+2025,3,0.72,El Niño - Débil,-0.1,Neutro,27.48,0.99,0.6633333333333334,True,False,True,Niño Costero,0.25
+2025,4,0.61,El Niño - Débil,0.0,Neutro,25.95,0.42,0.4500000000000002,True,False,True,Niño Costero,0.25
+2025,5,0.31,Neutro,0.0,Neutro,24.35,-0.06,0.15000000000000013,False,False,False,No ENSO,0.0
+2025,6,0.23,Neutro,0.0,Neutro,23.22,0.09,0.09333333333333348,False,False,False,No ENSO,0.0
+2025,7,0.23,Neutro,-0.1,Neutro,22.21,0.25,0.13333333333333347,False,False,False,No ENSO,0.0
+2025,8,-0.01,Neutro,-0.3,Neutro,21.06,0.06,-0.0433333333333332,False,False,False,No ENSO,0.0
+2025,9,-0.23,Neutro,-0.4,Neutro,20.29,-0.44,-0.24333333333333318,False,False,False,No ENSO,0.0
+2025,10,-0.45,Neutro,-0.5,La Niña - Débil,20.67,-0.35,-0.4166666666666665,False,False,False,No ENSO,0.0
+2025,11,-0.56,Neutro,-0.6,La Niña - Débil,21.19,-0.46,-0.47666666666666657,False,False,False,No ENSO,0.0
+2025,12,-0.58,Neutro,-0.5,La Niña - Débil,22.19,-0.62,,False,False,False,No ENSO,0.0

@@ -1,0 +1,1414 @@
+province_code,province_name_official,hazard_type,categoria,n_eventos,indice_enso
+01,Azuay,debris_flow,El Niño - Débil,6,ICEN
+01,Azuay,debris_flow,El Niño - Fuerte,1,ICEN
+01,Azuay,debris_flow,La Niña - Débil,2,ICEN
+01,Azuay,debris_flow,Neutro,8,ICEN
+01,Azuay,flood,El Niño - Débil,53,ICEN
+01,Azuay,flood,El Niño - Fuerte,16,ICEN
+01,Azuay,flood,El Niño - Moderado,25,ICEN
+01,Azuay,flood,La Niña - Débil,32,ICEN
+01,Azuay,flood,La Niña - Fuerte,8,ICEN
+01,Azuay,flood,La Niña - Moderada,13,ICEN
+01,Azuay,flood,Neutro,127,ICEN
+01,Azuay,landslide,El Niño - Débil,216,ICEN
+01,Azuay,landslide,El Niño - Fuerte,44,ICEN
+01,Azuay,landslide,El Niño - Moderado,72,ICEN
+01,Azuay,landslide,La Niña - Débil,104,ICEN
+01,Azuay,landslide,La Niña - Fuerte,9,ICEN
+01,Azuay,landslide,La Niña - Moderada,22,ICEN
+01,Azuay,landslide,Neutro,270,ICEN
+01,Azuay,scour,El Niño - Débil,11,ICEN
+01,Azuay,scour,El Niño - Fuerte,4,ICEN
+01,Azuay,scour,El Niño - Moderado,5,ICEN
+01,Azuay,scour,La Niña - Débil,8,ICEN
+01,Azuay,scour,La Niña - Moderada,1,ICEN
+01,Azuay,scour,Neutro,15,ICEN
+02,Bolívar,debris_flow,El Niño - Débil,7,ICEN
+02,Bolívar,debris_flow,El Niño - Fuerte,2,ICEN
+02,Bolívar,debris_flow,El Niño - Moderado,6,ICEN
+02,Bolívar,debris_flow,La Niña - Débil,6,ICEN
+02,Bolívar,debris_flow,Neutro,12,ICEN
+02,Bolívar,flood,El Niño - Débil,47,ICEN
+02,Bolívar,flood,El Niño - Fuerte,11,ICEN
+02,Bolívar,flood,El Niño - Moderado,26,ICEN
+02,Bolívar,flood,La Niña - Débil,22,ICEN
+02,Bolívar,flood,La Niña - Moderada,1,ICEN
+02,Bolívar,flood,Neutro,13,ICEN
+02,Bolívar,landslide,El Niño - Débil,257,ICEN
+02,Bolívar,landslide,El Niño - Fuerte,31,ICEN
+02,Bolívar,landslide,El Niño - Moderado,103,ICEN
+02,Bolívar,landslide,La Niña - Débil,114,ICEN
+02,Bolívar,landslide,La Niña - Fuerte,11,ICEN
+02,Bolívar,landslide,La Niña - Moderada,18,ICEN
+02,Bolívar,landslide,Neutro,169,ICEN
+02,Bolívar,scour,El Niño - Débil,15,ICEN
+02,Bolívar,scour,El Niño - Fuerte,3,ICEN
+02,Bolívar,scour,El Niño - Moderado,3,ICEN
+02,Bolívar,scour,La Niña - Débil,10,ICEN
+02,Bolívar,scour,La Niña - Fuerte,1,ICEN
+02,Bolívar,scour,Neutro,6,ICEN
+03,Cañar,debris_flow,La Niña - Débil,1,ICEN
+03,Cañar,debris_flow,La Niña - Fuerte,1,ICEN
+03,Cañar,debris_flow,Neutro,1,ICEN
+03,Cañar,flood,El Niño - Débil,14,ICEN
+03,Cañar,flood,El Niño - Fuerte,5,ICEN
+03,Cañar,flood,El Niño - Moderado,10,ICEN
+03,Cañar,flood,La Niña - Débil,17,ICEN
+03,Cañar,flood,La Niña - Moderada,1,ICEN
+03,Cañar,flood,Neutro,20,ICEN
+03,Cañar,landslide,El Niño - Débil,42,ICEN
+03,Cañar,landslide,El Niño - Fuerte,9,ICEN
+03,Cañar,landslide,El Niño - Moderado,18,ICEN
+03,Cañar,landslide,La Niña - Débil,30,ICEN
+03,Cañar,landslide,La Niña - Fuerte,2,ICEN
+03,Cañar,landslide,La Niña - Moderada,2,ICEN
+03,Cañar,landslide,Neutro,32,ICEN
+03,Cañar,scour,El Niño - Débil,2,ICEN
+03,Cañar,scour,El Niño - Fuerte,1,ICEN
+03,Cañar,scour,El Niño - Moderado,2,ICEN
+03,Cañar,scour,La Niña - Débil,6,ICEN
+03,Cañar,scour,La Niña - Fuerte,1,ICEN
+03,Cañar,scour,La Niña - Moderada,1,ICEN
+04,Carchi,debris_flow,El Niño - Débil,3,ICEN
+04,Carchi,debris_flow,El Niño - Fuerte,1,ICEN
+04,Carchi,debris_flow,El Niño - Moderado,2,ICEN
+04,Carchi,debris_flow,La Niña - Débil,2,ICEN
+04,Carchi,debris_flow,La Niña - Fuerte,1,ICEN
+04,Carchi,debris_flow,Neutro,7,ICEN
+04,Carchi,flood,El Niño - Débil,11,ICEN
+04,Carchi,flood,El Niño - Fuerte,9,ICEN
+04,Carchi,flood,El Niño - Moderado,7,ICEN
+04,Carchi,flood,La Niña - Débil,3,ICEN
+04,Carchi,flood,La Niña - Fuerte,3,ICEN
+04,Carchi,flood,La Niña - Moderada,2,ICEN
+04,Carchi,flood,Neutro,20,ICEN
+04,Carchi,landslide,El Niño - Débil,45,ICEN
+04,Carchi,landslide,El Niño - Fuerte,12,ICEN
+04,Carchi,landslide,El Niño - Moderado,11,ICEN
+04,Carchi,landslide,La Niña - Débil,34,ICEN
+04,Carchi,landslide,La Niña - Fuerte,8,ICEN
+04,Carchi,landslide,La Niña - Moderada,7,ICEN
+04,Carchi,landslide,Neutro,82,ICEN
+04,Carchi,scour,El Niño - Fuerte,2,ICEN
+04,Carchi,scour,El Niño - Moderado,1,ICEN
+04,Carchi,scour,Neutro,8,ICEN
+05,Cotopaxi,debris_flow,El Niño - Débil,5,ICEN
+05,Cotopaxi,debris_flow,La Niña - Débil,12,ICEN
+05,Cotopaxi,debris_flow,La Niña - Fuerte,4,ICEN
+05,Cotopaxi,debris_flow,La Niña - Moderada,1,ICEN
+05,Cotopaxi,debris_flow,Neutro,13,ICEN
+05,Cotopaxi,flood,El Niño - Débil,44,ICEN
+05,Cotopaxi,flood,El Niño - Fuerte,13,ICEN
+05,Cotopaxi,flood,El Niño - Moderado,15,ICEN
+05,Cotopaxi,flood,La Niña - Débil,14,ICEN
+05,Cotopaxi,flood,La Niña - Fuerte,7,ICEN
+05,Cotopaxi,flood,La Niña - Moderada,5,ICEN
+05,Cotopaxi,flood,Neutro,33,ICEN
+05,Cotopaxi,landslide,El Niño - Débil,70,ICEN
+05,Cotopaxi,landslide,El Niño - Fuerte,11,ICEN
+05,Cotopaxi,landslide,El Niño - Moderado,33,ICEN
+05,Cotopaxi,landslide,La Niña - Débil,40,ICEN
+05,Cotopaxi,landslide,La Niña - Fuerte,15,ICEN
+05,Cotopaxi,landslide,La Niña - Moderada,12,ICEN
+05,Cotopaxi,landslide,Neutro,89,ICEN
+05,Cotopaxi,scour,El Niño - Débil,7,ICEN
+05,Cotopaxi,scour,El Niño - Fuerte,5,ICEN
+05,Cotopaxi,scour,El Niño - Moderado,4,ICEN
+05,Cotopaxi,scour,La Niña - Débil,2,ICEN
+05,Cotopaxi,scour,La Niña - Fuerte,3,ICEN
+05,Cotopaxi,scour,Neutro,11,ICEN
+06,Chimborazo,debris_flow,El Niño - Débil,18,ICEN
+06,Chimborazo,debris_flow,El Niño - Fuerte,4,ICEN
+06,Chimborazo,debris_flow,El Niño - Moderado,5,ICEN
+06,Chimborazo,debris_flow,La Niña - Débil,32,ICEN
+06,Chimborazo,debris_flow,La Niña - Fuerte,4,ICEN
+06,Chimborazo,debris_flow,La Niña - Moderada,1,ICEN
+06,Chimborazo,debris_flow,Neutro,48,ICEN
+06,Chimborazo,flood,El Niño - Débil,23,ICEN
+06,Chimborazo,flood,El Niño - Fuerte,1,ICEN
+06,Chimborazo,flood,El Niño - Moderado,12,ICEN
+06,Chimborazo,flood,La Niña - Débil,17,ICEN
+06,Chimborazo,flood,La Niña - Fuerte,2,ICEN
+06,Chimborazo,flood,La Niña - Moderada,3,ICEN
+06,Chimborazo,flood,Neutro,32,ICEN
+06,Chimborazo,landslide,El Niño - Débil,182,ICEN
+06,Chimborazo,landslide,El Niño - Fuerte,51,ICEN
+06,Chimborazo,landslide,El Niño - Moderado,111,ICEN
+06,Chimborazo,landslide,La Niña - Débil,139,ICEN
+06,Chimborazo,landslide,La Niña - Fuerte,28,ICEN
+06,Chimborazo,landslide,La Niña - Moderada,34,ICEN
+06,Chimborazo,landslide,Neutro,337,ICEN
+06,Chimborazo,scour,El Niño - Débil,10,ICEN
+06,Chimborazo,scour,El Niño - Fuerte,3,ICEN
+06,Chimborazo,scour,El Niño - Moderado,4,ICEN
+06,Chimborazo,scour,La Niña - Débil,10,ICEN
+06,Chimborazo,scour,Neutro,10,ICEN
+07,El Oro,debris_flow,El Niño - Débil,22,ICEN
+07,El Oro,debris_flow,El Niño - Fuerte,1,ICEN
+07,El Oro,debris_flow,El Niño - Moderado,1,ICEN
+07,El Oro,debris_flow,La Niña - Débil,5,ICEN
+07,El Oro,debris_flow,La Niña - Fuerte,1,ICEN
+07,El Oro,debris_flow,Neutro,8,ICEN
+07,El Oro,flood,El Niño - Débil,193,ICEN
+07,El Oro,flood,El Niño - Fuerte,19,ICEN
+07,El Oro,flood,El Niño - Moderado,77,ICEN
+07,El Oro,flood,La Niña - Débil,71,ICEN
+07,El Oro,flood,La Niña - Fuerte,3,ICEN
+07,El Oro,flood,La Niña - Moderada,3,ICEN
+07,El Oro,flood,Neutro,107,ICEN
+07,El Oro,landslide,El Niño - Débil,227,ICEN
+07,El Oro,landslide,El Niño - Fuerte,20,ICEN
+07,El Oro,landslide,El Niño - Moderado,120,ICEN
+07,El Oro,landslide,La Niña - Débil,241,ICEN
+07,El Oro,landslide,La Niña - Fuerte,8,ICEN
+07,El Oro,landslide,La Niña - Moderada,22,ICEN
+07,El Oro,landslide,Neutro,228,ICEN
+07,El Oro,scour,El Niño - Débil,37,ICEN
+07,El Oro,scour,El Niño - Fuerte,11,ICEN
+07,El Oro,scour,El Niño - Moderado,14,ICEN
+07,El Oro,scour,La Niña - Débil,25,ICEN
+07,El Oro,scour,La Niña - Fuerte,2,ICEN
+07,El Oro,scour,La Niña - Moderada,2,ICEN
+07,El Oro,scour,Neutro,24,ICEN
+08,Esmeraldas,debris_flow,El Niño - Débil,4,ICEN
+08,Esmeraldas,debris_flow,El Niño - Fuerte,1,ICEN
+08,Esmeraldas,debris_flow,La Niña - Débil,4,ICEN
+08,Esmeraldas,debris_flow,La Niña - Fuerte,1,ICEN
+08,Esmeraldas,debris_flow,Neutro,4,ICEN
+08,Esmeraldas,flood,El Niño - Débil,131,ICEN
+08,Esmeraldas,flood,El Niño - Fuerte,131,ICEN
+08,Esmeraldas,flood,El Niño - Moderado,106,ICEN
+08,Esmeraldas,flood,La Niña - Débil,82,ICEN
+08,Esmeraldas,flood,La Niña - Fuerte,3,ICEN
+08,Esmeraldas,flood,La Niña - Moderada,1,ICEN
+08,Esmeraldas,flood,Neutro,176,ICEN
+08,Esmeraldas,landslide,El Niño - Débil,115,ICEN
+08,Esmeraldas,landslide,El Niño - Fuerte,42,ICEN
+08,Esmeraldas,landslide,El Niño - Moderado,44,ICEN
+08,Esmeraldas,landslide,La Niña - Débil,68,ICEN
+08,Esmeraldas,landslide,La Niña - Fuerte,7,ICEN
+08,Esmeraldas,landslide,La Niña - Moderada,9,ICEN
+08,Esmeraldas,landslide,Neutro,137,ICEN
+08,Esmeraldas,scour,El Niño - Débil,14,ICEN
+08,Esmeraldas,scour,El Niño - Fuerte,12,ICEN
+08,Esmeraldas,scour,El Niño - Moderado,7,ICEN
+08,Esmeraldas,scour,La Niña - Débil,14,ICEN
+08,Esmeraldas,scour,Neutro,20,ICEN
+09,Guayas,debris_flow,El Niño - Moderado,1,ICEN
+09,Guayas,flood,El Niño - Débil,601,ICEN
+09,Guayas,flood,El Niño - Fuerte,158,ICEN
+09,Guayas,flood,El Niño - Moderado,221,ICEN
+09,Guayas,flood,La Niña - Débil,69,ICEN
+09,Guayas,flood,La Niña - Fuerte,23,ICEN
+09,Guayas,flood,La Niña - Moderada,11,ICEN
+09,Guayas,flood,Neutro,448,ICEN
+09,Guayas,landslide,El Niño - Débil,19,ICEN
+09,Guayas,landslide,El Niño - Fuerte,10,ICEN
+09,Guayas,landslide,El Niño - Moderado,24,ICEN
+09,Guayas,landslide,La Niña - Débil,20,ICEN
+09,Guayas,landslide,La Niña - Fuerte,5,ICEN
+09,Guayas,landslide,La Niña - Moderada,4,ICEN
+09,Guayas,landslide,Neutro,22,ICEN
+09,Guayas,scour,El Niño - Débil,18,ICEN
+09,Guayas,scour,El Niño - Fuerte,21,ICEN
+09,Guayas,scour,El Niño - Moderado,20,ICEN
+09,Guayas,scour,La Niña - Débil,14,ICEN
+09,Guayas,scour,La Niña - Fuerte,7,ICEN
+09,Guayas,scour,La Niña - Moderada,1,ICEN
+09,Guayas,scour,Neutro,21,ICEN
+10,Imbabura,debris_flow,El Niño - Débil,2,ICEN
+10,Imbabura,debris_flow,El Niño - Fuerte,3,ICEN
+10,Imbabura,debris_flow,El Niño - Moderado,1,ICEN
+10,Imbabura,debris_flow,La Niña - Débil,2,ICEN
+10,Imbabura,debris_flow,La Niña - Fuerte,4,ICEN
+10,Imbabura,debris_flow,La Niña - Moderada,1,ICEN
+10,Imbabura,debris_flow,Neutro,4,ICEN
+10,Imbabura,flood,El Niño - Débil,23,ICEN
+10,Imbabura,flood,El Niño - Fuerte,10,ICEN
+10,Imbabura,flood,El Niño - Moderado,22,ICEN
+10,Imbabura,flood,La Niña - Débil,13,ICEN
+10,Imbabura,flood,La Niña - Fuerte,2,ICEN
+10,Imbabura,flood,Neutro,42,ICEN
+10,Imbabura,landslide,El Niño - Débil,89,ICEN
+10,Imbabura,landslide,El Niño - Fuerte,31,ICEN
+10,Imbabura,landslide,El Niño - Moderado,61,ICEN
+10,Imbabura,landslide,La Niña - Débil,72,ICEN
+10,Imbabura,landslide,La Niña - Fuerte,11,ICEN
+10,Imbabura,landslide,La Niña - Moderada,26,ICEN
+10,Imbabura,landslide,Neutro,147,ICEN
+10,Imbabura,scour,El Niño - Débil,4,ICEN
+10,Imbabura,scour,El Niño - Fuerte,7,ICEN
+10,Imbabura,scour,El Niño - Moderado,1,ICEN
+10,Imbabura,scour,La Niña - Débil,4,ICEN
+10,Imbabura,scour,La Niña - Fuerte,5,ICEN
+10,Imbabura,scour,La Niña - Moderada,3,ICEN
+10,Imbabura,scour,Neutro,5,ICEN
+11,Loja,debris_flow,El Niño - Débil,10,ICEN
+11,Loja,debris_flow,El Niño - Fuerte,2,ICEN
+11,Loja,debris_flow,El Niño - Moderado,2,ICEN
+11,Loja,debris_flow,La Niña - Débil,18,ICEN
+11,Loja,debris_flow,La Niña - Fuerte,1,ICEN
+11,Loja,debris_flow,La Niña - Moderada,2,ICEN
+11,Loja,debris_flow,Neutro,16,ICEN
+11,Loja,flood,El Niño - Débil,48,ICEN
+11,Loja,flood,El Niño - Fuerte,13,ICEN
+11,Loja,flood,El Niño - Moderado,41,ICEN
+11,Loja,flood,La Niña - Débil,24,ICEN
+11,Loja,flood,La Niña - Fuerte,2,ICEN
+11,Loja,flood,La Niña - Moderada,7,ICEN
+11,Loja,flood,Neutro,53,ICEN
+11,Loja,landslide,El Niño - Débil,351,ICEN
+11,Loja,landslide,El Niño - Fuerte,51,ICEN
+11,Loja,landslide,El Niño - Moderado,192,ICEN
+11,Loja,landslide,La Niña - Débil,184,ICEN
+11,Loja,landslide,La Niña - Fuerte,8,ICEN
+11,Loja,landslide,La Niña - Moderada,23,ICEN
+11,Loja,landslide,Neutro,485,ICEN
+11,Loja,scour,El Niño - Débil,13,ICEN
+11,Loja,scour,El Niño - Fuerte,1,ICEN
+11,Loja,scour,El Niño - Moderado,7,ICEN
+11,Loja,scour,La Niña - Débil,2,ICEN
+11,Loja,scour,La Niña - Moderada,1,ICEN
+11,Loja,scour,Neutro,18,ICEN
+12,Los Ríos,flood,El Niño - Débil,236,ICEN
+12,Los Ríos,flood,El Niño - Fuerte,71,ICEN
+12,Los Ríos,flood,El Niño - Moderado,60,ICEN
+12,Los Ríos,flood,La Niña - Débil,101,ICEN
+12,Los Ríos,flood,La Niña - Fuerte,19,ICEN
+12,Los Ríos,flood,La Niña - Moderada,10,ICEN
+12,Los Ríos,flood,Neutro,170,ICEN
+12,Los Ríos,landslide,El Niño - Débil,12,ICEN
+12,Los Ríos,landslide,El Niño - Fuerte,3,ICEN
+12,Los Ríos,landslide,El Niño - Moderado,6,ICEN
+12,Los Ríos,landslide,La Niña - Débil,5,ICEN
+12,Los Ríos,landslide,La Niña - Moderada,1,ICEN
+12,Los Ríos,landslide,Neutro,13,ICEN
+12,Los Ríos,scour,El Niño - Débil,33,ICEN
+12,Los Ríos,scour,El Niño - Fuerte,15,ICEN
+12,Los Ríos,scour,El Niño - Moderado,8,ICEN
+12,Los Ríos,scour,La Niña - Débil,9,ICEN
+12,Los Ríos,scour,La Niña - Fuerte,2,ICEN
+12,Los Ríos,scour,Neutro,21,ICEN
+13,Manabí,debris_flow,El Niño - Débil,8,ICEN
+13,Manabí,debris_flow,El Niño - Fuerte,5,ICEN
+13,Manabí,debris_flow,El Niño - Moderado,2,ICEN
+13,Manabí,debris_flow,La Niña - Débil,2,ICEN
+13,Manabí,debris_flow,Neutro,10,ICEN
+13,Manabí,flood,El Niño - Débil,334,ICEN
+13,Manabí,flood,El Niño - Fuerte,82,ICEN
+13,Manabí,flood,El Niño - Moderado,256,ICEN
+13,Manabí,flood,La Niña - Débil,96,ICEN
+13,Manabí,flood,La Niña - Fuerte,6,ICEN
+13,Manabí,flood,La Niña - Moderada,15,ICEN
+13,Manabí,flood,Neutro,244,ICEN
+13,Manabí,landslide,El Niño - Débil,112,ICEN
+13,Manabí,landslide,El Niño - Fuerte,40,ICEN
+13,Manabí,landslide,El Niño - Moderado,78,ICEN
+13,Manabí,landslide,La Niña - Débil,31,ICEN
+13,Manabí,landslide,La Niña - Moderada,16,ICEN
+13,Manabí,landslide,Neutro,111,ICEN
+13,Manabí,scour,El Niño - Débil,24,ICEN
+13,Manabí,scour,El Niño - Fuerte,4,ICEN
+13,Manabí,scour,El Niño - Moderado,5,ICEN
+13,Manabí,scour,La Niña - Débil,6,ICEN
+13,Manabí,scour,La Niña - Moderada,2,ICEN
+13,Manabí,scour,Neutro,17,ICEN
+14,Morona Santiago,debris_flow,El Niño - Fuerte,4,ICEN
+14,Morona Santiago,debris_flow,El Niño - Moderado,1,ICEN
+14,Morona Santiago,debris_flow,La Niña - Débil,13,ICEN
+14,Morona Santiago,debris_flow,La Niña - Fuerte,1,ICEN
+14,Morona Santiago,debris_flow,La Niña - Moderada,3,ICEN
+14,Morona Santiago,debris_flow,Neutro,13,ICEN
+14,Morona Santiago,flood,El Niño - Débil,25,ICEN
+14,Morona Santiago,flood,El Niño - Fuerte,11,ICEN
+14,Morona Santiago,flood,El Niño - Moderado,13,ICEN
+14,Morona Santiago,flood,La Niña - Débil,32,ICEN
+14,Morona Santiago,flood,La Niña - Fuerte,7,ICEN
+14,Morona Santiago,flood,La Niña - Moderada,9,ICEN
+14,Morona Santiago,flood,Neutro,102,ICEN
+14,Morona Santiago,landslide,El Niño - Débil,177,ICEN
+14,Morona Santiago,landslide,El Niño - Fuerte,67,ICEN
+14,Morona Santiago,landslide,El Niño - Moderado,35,ICEN
+14,Morona Santiago,landslide,La Niña - Débil,102,ICEN
+14,Morona Santiago,landslide,La Niña - Fuerte,16,ICEN
+14,Morona Santiago,landslide,La Niña - Moderada,33,ICEN
+14,Morona Santiago,landslide,Neutro,360,ICEN
+14,Morona Santiago,scour,El Niño - Débil,13,ICEN
+14,Morona Santiago,scour,El Niño - Fuerte,3,ICEN
+14,Morona Santiago,scour,El Niño - Moderado,4,ICEN
+14,Morona Santiago,scour,La Niña - Débil,31,ICEN
+14,Morona Santiago,scour,La Niña - Fuerte,4,ICEN
+14,Morona Santiago,scour,La Niña - Moderada,3,ICEN
+14,Morona Santiago,scour,Neutro,56,ICEN
+15,Napo,debris_flow,El Niño - Débil,1,ICEN
+15,Napo,debris_flow,El Niño - Fuerte,1,ICEN
+15,Napo,debris_flow,El Niño - Moderado,4,ICEN
+15,Napo,debris_flow,La Niña - Débil,14,ICEN
+15,Napo,debris_flow,La Niña - Fuerte,3,ICEN
+15,Napo,debris_flow,La Niña - Moderada,3,ICEN
+15,Napo,debris_flow,Neutro,54,ICEN
+15,Napo,flood,El Niño - Débil,16,ICEN
+15,Napo,flood,El Niño - Fuerte,13,ICEN
+15,Napo,flood,El Niño - Moderado,7,ICEN
+15,Napo,flood,La Niña - Débil,14,ICEN
+15,Napo,flood,La Niña - Fuerte,7,ICEN
+15,Napo,flood,La Niña - Moderada,5,ICEN
+15,Napo,flood,Neutro,58,ICEN
+15,Napo,landslide,El Niño - Débil,73,ICEN
+15,Napo,landslide,El Niño - Fuerte,90,ICEN
+15,Napo,landslide,El Niño - Moderado,32,ICEN
+15,Napo,landslide,La Niña - Débil,97,ICEN
+15,Napo,landslide,La Niña - Fuerte,22,ICEN
+15,Napo,landslide,La Niña - Moderada,14,ICEN
+15,Napo,landslide,Neutro,369,ICEN
+15,Napo,scour,El Niño - Débil,1,ICEN
+15,Napo,scour,El Niño - Fuerte,9,ICEN
+15,Napo,scour,El Niño - Moderado,8,ICEN
+15,Napo,scour,La Niña - Débil,9,ICEN
+15,Napo,scour,La Niña - Fuerte,1,ICEN
+15,Napo,scour,La Niña - Moderada,5,ICEN
+15,Napo,scour,Neutro,35,ICEN
+16,Pastaza,debris_flow,Neutro,2,ICEN
+16,Pastaza,flood,El Niño - Débil,20,ICEN
+16,Pastaza,flood,El Niño - Fuerte,9,ICEN
+16,Pastaza,flood,El Niño - Moderado,10,ICEN
+16,Pastaza,flood,La Niña - Débil,44,ICEN
+16,Pastaza,flood,La Niña - Fuerte,9,ICEN
+16,Pastaza,flood,La Niña - Moderada,5,ICEN
+16,Pastaza,flood,Neutro,86,ICEN
+16,Pastaza,landslide,El Niño - Débil,64,ICEN
+16,Pastaza,landslide,El Niño - Fuerte,21,ICEN
+16,Pastaza,landslide,El Niño - Moderado,18,ICEN
+16,Pastaza,landslide,La Niña - Débil,38,ICEN
+16,Pastaza,landslide,La Niña - Fuerte,10,ICEN
+16,Pastaza,landslide,La Niña - Moderada,12,ICEN
+16,Pastaza,landslide,Neutro,161,ICEN
+16,Pastaza,scour,El Niño - Débil,16,ICEN
+16,Pastaza,scour,El Niño - Fuerte,3,ICEN
+16,Pastaza,scour,El Niño - Moderado,3,ICEN
+16,Pastaza,scour,La Niña - Débil,2,ICEN
+16,Pastaza,scour,La Niña - Fuerte,1,ICEN
+16,Pastaza,scour,La Niña - Moderada,1,ICEN
+16,Pastaza,scour,Neutro,23,ICEN
+17,Pichincha,debris_flow,El Niño - Débil,3,ICEN
+17,Pichincha,debris_flow,El Niño - Fuerte,5,ICEN
+17,Pichincha,debris_flow,El Niño - Moderado,5,ICEN
+17,Pichincha,debris_flow,La Niña - Débil,12,ICEN
+17,Pichincha,debris_flow,La Niña - Fuerte,4,ICEN
+17,Pichincha,debris_flow,La Niña - Moderada,5,ICEN
+17,Pichincha,debris_flow,Neutro,20,ICEN
+17,Pichincha,flood,El Niño - Débil,90,ICEN
+17,Pichincha,flood,El Niño - Fuerte,55,ICEN
+17,Pichincha,flood,El Niño - Moderado,31,ICEN
+17,Pichincha,flood,La Niña - Débil,116,ICEN
+17,Pichincha,flood,La Niña - Fuerte,15,ICEN
+17,Pichincha,flood,La Niña - Moderada,20,ICEN
+17,Pichincha,flood,Neutro,193,ICEN
+17,Pichincha,landslide,El Niño - Débil,327,ICEN
+17,Pichincha,landslide,El Niño - Fuerte,108,ICEN
+17,Pichincha,landslide,El Niño - Moderado,174,ICEN
+17,Pichincha,landslide,La Niña - Débil,509,ICEN
+17,Pichincha,landslide,La Niña - Fuerte,90,ICEN
+17,Pichincha,landslide,La Niña - Moderada,111,ICEN
+17,Pichincha,landslide,Neutro,766,ICEN
+17,Pichincha,scour,El Niño - Débil,13,ICEN
+17,Pichincha,scour,El Niño - Fuerte,4,ICEN
+17,Pichincha,scour,El Niño - Moderado,5,ICEN
+17,Pichincha,scour,La Niña - Débil,10,ICEN
+17,Pichincha,scour,La Niña - Fuerte,2,ICEN
+17,Pichincha,scour,La Niña - Moderada,3,ICEN
+17,Pichincha,scour,Neutro,22,ICEN
+18,Tungurahua,debris_flow,El Niño - Débil,6,ICEN
+18,Tungurahua,debris_flow,El Niño - Fuerte,3,ICEN
+18,Tungurahua,debris_flow,El Niño - Moderado,1,ICEN
+18,Tungurahua,debris_flow,La Niña - Débil,24,ICEN
+18,Tungurahua,debris_flow,La Niña - Fuerte,9,ICEN
+18,Tungurahua,debris_flow,La Niña - Moderada,14,ICEN
+18,Tungurahua,debris_flow,Neutro,55,ICEN
+18,Tungurahua,flood,El Niño - Débil,20,ICEN
+18,Tungurahua,flood,El Niño - Fuerte,8,ICEN
+18,Tungurahua,flood,El Niño - Moderado,16,ICEN
+18,Tungurahua,flood,La Niña - Débil,29,ICEN
+18,Tungurahua,flood,La Niña - Fuerte,1,ICEN
+18,Tungurahua,flood,La Niña - Moderada,5,ICEN
+18,Tungurahua,flood,Neutro,56,ICEN
+18,Tungurahua,landslide,El Niño - Débil,171,ICEN
+18,Tungurahua,landslide,El Niño - Fuerte,171,ICEN
+18,Tungurahua,landslide,El Niño - Moderado,76,ICEN
+18,Tungurahua,landslide,La Niña - Débil,172,ICEN
+18,Tungurahua,landslide,La Niña - Fuerte,17,ICEN
+18,Tungurahua,landslide,La Niña - Moderada,38,ICEN
+18,Tungurahua,landslide,Neutro,468,ICEN
+18,Tungurahua,scour,El Niño - Débil,10,ICEN
+18,Tungurahua,scour,El Niño - Fuerte,6,ICEN
+18,Tungurahua,scour,El Niño - Moderado,3,ICEN
+18,Tungurahua,scour,La Niña - Débil,11,ICEN
+18,Tungurahua,scour,La Niña - Fuerte,3,ICEN
+18,Tungurahua,scour,La Niña - Moderada,5,ICEN
+18,Tungurahua,scour,Neutro,23,ICEN
+19,Zamora Chinchipe,debris_flow,El Niño - Débil,3,ICEN
+19,Zamora Chinchipe,debris_flow,El Niño - Moderado,2,ICEN
+19,Zamora Chinchipe,debris_flow,La Niña - Débil,8,ICEN
+19,Zamora Chinchipe,debris_flow,La Niña - Moderada,1,ICEN
+19,Zamora Chinchipe,debris_flow,Neutro,14,ICEN
+19,Zamora Chinchipe,flood,El Niño - Débil,42,ICEN
+19,Zamora Chinchipe,flood,El Niño - Fuerte,6,ICEN
+19,Zamora Chinchipe,flood,El Niño - Moderado,8,ICEN
+19,Zamora Chinchipe,flood,La Niña - Débil,11,ICEN
+19,Zamora Chinchipe,flood,La Niña - Fuerte,4,ICEN
+19,Zamora Chinchipe,flood,La Niña - Moderada,7,ICEN
+19,Zamora Chinchipe,flood,Neutro,81,ICEN
+19,Zamora Chinchipe,landslide,El Niño - Débil,192,ICEN
+19,Zamora Chinchipe,landslide,El Niño - Fuerte,67,ICEN
+19,Zamora Chinchipe,landslide,El Niño - Moderado,51,ICEN
+19,Zamora Chinchipe,landslide,La Niña - Débil,72,ICEN
+19,Zamora Chinchipe,landslide,La Niña - Fuerte,12,ICEN
+19,Zamora Chinchipe,landslide,La Niña - Moderada,25,ICEN
+19,Zamora Chinchipe,landslide,Neutro,242,ICEN
+19,Zamora Chinchipe,scour,El Niño - Débil,6,ICEN
+19,Zamora Chinchipe,scour,El Niño - Fuerte,1,ICEN
+19,Zamora Chinchipe,scour,El Niño - Moderado,1,ICEN
+19,Zamora Chinchipe,scour,La Niña - Débil,4,ICEN
+19,Zamora Chinchipe,scour,La Niña - Moderada,2,ICEN
+19,Zamora Chinchipe,scour,Neutro,1,ICEN
+20,Galápagos,debris_flow,El Niño - Fuerte,1,ICEN
+20,Galápagos,flood,El Niño - Débil,11,ICEN
+20,Galápagos,flood,El Niño - Fuerte,4,ICEN
+20,Galápagos,flood,El Niño - Moderado,5,ICEN
+20,Galápagos,flood,La Niña - Débil,2,ICEN
+20,Galápagos,flood,Neutro,1,ICEN
+20,Galápagos,landslide,El Niño - Débil,1,ICEN
+20,Galápagos,landslide,Neutro,1,ICEN
+21,Sucumbíos,debris_flow,Neutro,3,ICEN
+21,Sucumbíos,flood,El Niño - Débil,9,ICEN
+21,Sucumbíos,flood,El Niño - Fuerte,14,ICEN
+21,Sucumbíos,flood,El Niño - Moderado,1,ICEN
+21,Sucumbíos,flood,La Niña - Débil,18,ICEN
+21,Sucumbíos,flood,La Niña - Moderada,1,ICEN
+21,Sucumbíos,flood,Neutro,58,ICEN
+21,Sucumbíos,landslide,El Niño - Débil,20,ICEN
+21,Sucumbíos,landslide,El Niño - Fuerte,6,ICEN
+21,Sucumbíos,landslide,El Niño - Moderado,6,ICEN
+21,Sucumbíos,landslide,La Niña - Débil,25,ICEN
+21,Sucumbíos,landslide,La Niña - Fuerte,5,ICEN
+21,Sucumbíos,landslide,La Niña - Moderada,4,ICEN
+21,Sucumbíos,landslide,Neutro,110,ICEN
+21,Sucumbíos,scour,El Niño - Débil,7,ICEN
+21,Sucumbíos,scour,El Niño - Fuerte,3,ICEN
+21,Sucumbíos,scour,El Niño - Moderado,1,ICEN
+21,Sucumbíos,scour,La Niña - Débil,7,ICEN
+21,Sucumbíos,scour,La Niña - Moderada,1,ICEN
+21,Sucumbíos,scour,Neutro,13,ICEN
+22,Orellana,flood,El Niño - Débil,21,ICEN
+22,Orellana,flood,El Niño - Fuerte,12,ICEN
+22,Orellana,flood,El Niño - Moderado,5,ICEN
+22,Orellana,flood,La Niña - Débil,14,ICEN
+22,Orellana,flood,La Niña - Fuerte,7,ICEN
+22,Orellana,flood,La Niña - Moderada,1,ICEN
+22,Orellana,flood,Neutro,81,ICEN
+22,Orellana,landslide,El Niño - Débil,4,ICEN
+22,Orellana,landslide,El Niño - Fuerte,10,ICEN
+22,Orellana,landslide,El Niño - Moderado,6,ICEN
+22,Orellana,landslide,La Niña - Débil,10,ICEN
+22,Orellana,landslide,La Niña - Fuerte,1,ICEN
+22,Orellana,landslide,La Niña - Moderada,4,ICEN
+22,Orellana,landslide,Neutro,26,ICEN
+22,Orellana,scour,El Niño - Débil,1,ICEN
+22,Orellana,scour,El Niño - Fuerte,5,ICEN
+22,Orellana,scour,El Niño - Moderado,2,ICEN
+22,Orellana,scour,La Niña - Débil,10,ICEN
+22,Orellana,scour,La Niña - Fuerte,1,ICEN
+22,Orellana,scour,Neutro,16,ICEN
+23,Santo Domingo de los Tsáchilas,debris_flow,El Niño - Fuerte,1,ICEN
+23,Santo Domingo de los Tsáchilas,debris_flow,La Niña - Débil,5,ICEN
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Débil,65,ICEN
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Fuerte,26,ICEN
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Moderado,34,ICEN
+23,Santo Domingo de los Tsáchilas,flood,La Niña - Débil,27,ICEN
+23,Santo Domingo de los Tsáchilas,flood,La Niña - Fuerte,1,ICEN
+23,Santo Domingo de los Tsáchilas,flood,Neutro,31,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Débil,50,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Fuerte,12,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Moderado,58,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,La Niña - Débil,51,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,La Niña - Fuerte,2,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,La Niña - Moderada,3,ICEN
+23,Santo Domingo de los Tsáchilas,landslide,Neutro,50,ICEN
+23,Santo Domingo de los Tsáchilas,scour,El Niño - Débil,11,ICEN
+23,Santo Domingo de los Tsáchilas,scour,El Niño - Moderado,7,ICEN
+23,Santo Domingo de los Tsáchilas,scour,La Niña - Débil,3,ICEN
+23,Santo Domingo de los Tsáchilas,scour,La Niña - Moderada,2,ICEN
+23,Santo Domingo de los Tsáchilas,scour,Neutro,7,ICEN
+24,Santa Elena,flood,El Niño - Débil,46,ICEN
+24,Santa Elena,flood,El Niño - Fuerte,14,ICEN
+24,Santa Elena,flood,El Niño - Moderado,27,ICEN
+24,Santa Elena,flood,La Niña - Débil,13,ICEN
+24,Santa Elena,flood,La Niña - Moderada,2,ICEN
+24,Santa Elena,flood,Neutro,43,ICEN
+24,Santa Elena,landslide,El Niño - Fuerte,5,ICEN
+24,Santa Elena,landslide,El Niño - Moderado,1,ICEN
+24,Santa Elena,landslide,La Niña - Débil,1,ICEN
+24,Santa Elena,landslide,Neutro,6,ICEN
+24,Santa Elena,scour,El Niño - Débil,5,ICEN
+24,Santa Elena,scour,El Niño - Fuerte,1,ICEN
+24,Santa Elena,scour,El Niño - Moderado,4,ICEN
+24,Santa Elena,scour,La Niña - Débil,1,ICEN
+24,Santa Elena,scour,Neutro,2,ICEN
+01,Azuay,debris_flow,El Niño - Débil,3,ONI
+01,Azuay,debris_flow,La Niña - Débil,2,ONI
+01,Azuay,debris_flow,La Niña - Moderada,1,ONI
+01,Azuay,debris_flow,Neutro,11,ONI
+01,Azuay,flood,El Niño - Débil,24,ONI
+01,Azuay,flood,El Niño - Fuerte,13,ONI
+01,Azuay,flood,El Niño - Moderado,4,ONI
+01,Azuay,flood,El Niño - Muy Fuerte,19,ONI
+01,Azuay,flood,La Niña - Débil,58,ONI
+01,Azuay,flood,La Niña - Moderada,8,ONI
+01,Azuay,flood,Neutro,148,ONI
+01,Azuay,landslide,El Niño - Débil,108,ONI
+01,Azuay,landslide,El Niño - Fuerte,33,ONI
+01,Azuay,landslide,El Niño - Moderado,28,ONI
+01,Azuay,landslide,El Niño - Muy Fuerte,32,ONI
+01,Azuay,landslide,La Niña - Débil,138,ONI
+01,Azuay,landslide,La Niña - Moderada,14,ONI
+01,Azuay,landslide,Neutro,384,ONI
+01,Azuay,scour,El Niño - Débil,6,ONI
+01,Azuay,scour,El Niño - Fuerte,5,ONI
+01,Azuay,scour,El Niño - Muy Fuerte,4,ONI
+01,Azuay,scour,La Niña - Débil,8,ONI
+01,Azuay,scour,La Niña - Moderada,1,ONI
+01,Azuay,scour,Neutro,20,ONI
+02,Bolívar,debris_flow,El Niño - Débil,6,ONI
+02,Bolívar,debris_flow,El Niño - Fuerte,2,ONI
+02,Bolívar,debris_flow,La Niña - Débil,4,ONI
+02,Bolívar,debris_flow,La Niña - Moderada,2,ONI
+02,Bolívar,debris_flow,Neutro,19,ONI
+02,Bolívar,flood,El Niño - Débil,16,ONI
+02,Bolívar,flood,El Niño - Fuerte,18,ONI
+02,Bolívar,flood,El Niño - Moderado,6,ONI
+02,Bolívar,flood,El Niño - Muy Fuerte,1,ONI
+02,Bolívar,flood,La Niña - Débil,18,ONI
+02,Bolívar,flood,La Niña - Moderada,4,ONI
+02,Bolívar,flood,Neutro,57,ONI
+02,Bolívar,landslide,El Niño - Débil,123,ONI
+02,Bolívar,landslide,El Niño - Fuerte,52,ONI
+02,Bolívar,landslide,El Niño - Moderado,32,ONI
+02,Bolívar,landslide,El Niño - Muy Fuerte,9,ONI
+02,Bolívar,landslide,La Niña - Débil,116,ONI
+02,Bolívar,landslide,La Niña - Moderada,21,ONI
+02,Bolívar,landslide,Neutro,350,ONI
+02,Bolívar,scour,El Niño - Débil,7,ONI
+02,Bolívar,scour,El Niño - Fuerte,3,ONI
+02,Bolívar,scour,El Niño - Moderado,2,ONI
+02,Bolívar,scour,La Niña - Débil,7,ONI
+02,Bolívar,scour,La Niña - Moderada,2,ONI
+02,Bolívar,scour,Neutro,17,ONI
+03,Cañar,debris_flow,El Niño - Débil,1,ONI
+03,Cañar,debris_flow,La Niña - Débil,2,ONI
+03,Cañar,flood,El Niño - Débil,12,ONI
+03,Cañar,flood,El Niño - Fuerte,1,ONI
+03,Cañar,flood,La Niña - Débil,11,ONI
+03,Cañar,flood,La Niña - Moderada,5,ONI
+03,Cañar,flood,Neutro,38,ONI
+03,Cañar,landslide,El Niño - Débil,22,ONI
+03,Cañar,landslide,El Niño - Fuerte,4,ONI
+03,Cañar,landslide,El Niño - Moderado,10,ONI
+03,Cañar,landslide,La Niña - Débil,31,ONI
+03,Cañar,landslide,La Niña - Moderada,4,ONI
+03,Cañar,landslide,Neutro,64,ONI
+03,Cañar,scour,El Niño - Muy Fuerte,1,ONI
+03,Cañar,scour,La Niña - Débil,3,ONI
+03,Cañar,scour,La Niña - Moderada,4,ONI
+03,Cañar,scour,Neutro,5,ONI
+04,Carchi,debris_flow,El Niño - Débil,4,ONI
+04,Carchi,debris_flow,El Niño - Moderado,1,ONI
+04,Carchi,debris_flow,El Niño - Muy Fuerte,1,ONI
+04,Carchi,debris_flow,La Niña - Débil,2,ONI
+04,Carchi,debris_flow,La Niña - Moderada,1,ONI
+04,Carchi,debris_flow,Neutro,7,ONI
+04,Carchi,flood,El Niño - Débil,13,ONI
+04,Carchi,flood,El Niño - Fuerte,1,ONI
+04,Carchi,flood,El Niño - Moderado,1,ONI
+04,Carchi,flood,El Niño - Muy Fuerte,3,ONI
+04,Carchi,flood,La Niña - Débil,10,ONI
+04,Carchi,flood,Neutro,27,ONI
+04,Carchi,landslide,El Niño - Débil,38,ONI
+04,Carchi,landslide,El Niño - Fuerte,9,ONI
+04,Carchi,landslide,El Niño - Moderado,5,ONI
+04,Carchi,landslide,El Niño - Muy Fuerte,7,ONI
+04,Carchi,landslide,La Niña - Débil,50,ONI
+04,Carchi,landslide,La Niña - Moderada,3,ONI
+04,Carchi,landslide,Neutro,87,ONI
+04,Carchi,scour,El Niño - Débil,4,ONI
+04,Carchi,scour,Neutro,7,ONI
+05,Cotopaxi,debris_flow,El Niño - Débil,9,ONI
+05,Cotopaxi,debris_flow,El Niño - Fuerte,1,ONI
+05,Cotopaxi,debris_flow,La Niña - Débil,10,ONI
+05,Cotopaxi,debris_flow,La Niña - Moderada,7,ONI
+05,Cotopaxi,debris_flow,Neutro,8,ONI
+05,Cotopaxi,flood,El Niño - Débil,12,ONI
+05,Cotopaxi,flood,El Niño - Fuerte,13,ONI
+05,Cotopaxi,flood,El Niño - Moderado,8,ONI
+05,Cotopaxi,flood,El Niño - Muy Fuerte,4,ONI
+05,Cotopaxi,flood,La Niña - Débil,28,ONI
+05,Cotopaxi,flood,La Niña - Moderada,1,ONI
+05,Cotopaxi,flood,Neutro,65,ONI
+05,Cotopaxi,landslide,El Niño - Débil,51,ONI
+05,Cotopaxi,landslide,El Niño - Fuerte,21,ONI
+05,Cotopaxi,landslide,El Niño - Moderado,9,ONI
+05,Cotopaxi,landslide,El Niño - Muy Fuerte,15,ONI
+05,Cotopaxi,landslide,La Niña - Débil,65,ONI
+05,Cotopaxi,landslide,La Niña - Moderada,4,ONI
+05,Cotopaxi,landslide,Neutro,105,ONI
+05,Cotopaxi,scour,El Niño - Débil,6,ONI
+05,Cotopaxi,scour,El Niño - Fuerte,4,ONI
+05,Cotopaxi,scour,El Niño - Moderado,1,ONI
+05,Cotopaxi,scour,La Niña - Débil,5,ONI
+05,Cotopaxi,scour,Neutro,16,ONI
+06,Chimborazo,debris_flow,El Niño - Débil,13,ONI
+06,Chimborazo,debris_flow,El Niño - Fuerte,6,ONI
+06,Chimborazo,debris_flow,El Niño - Moderado,2,ONI
+06,Chimborazo,debris_flow,El Niño - Muy Fuerte,5,ONI
+06,Chimborazo,debris_flow,La Niña - Débil,26,ONI
+06,Chimborazo,debris_flow,La Niña - Moderada,6,ONI
+06,Chimborazo,debris_flow,Neutro,54,ONI
+06,Chimborazo,flood,El Niño - Débil,11,ONI
+06,Chimborazo,flood,El Niño - Fuerte,3,ONI
+06,Chimborazo,flood,El Niño - Moderado,5,ONI
+06,Chimborazo,flood,El Niño - Muy Fuerte,4,ONI
+06,Chimborazo,flood,La Niña - Débil,21,ONI
+06,Chimborazo,flood,La Niña - Moderada,3,ONI
+06,Chimborazo,flood,Neutro,43,ONI
+06,Chimborazo,landslide,El Niño - Débil,159,ONI
+06,Chimborazo,landslide,El Niño - Fuerte,35,ONI
+06,Chimborazo,landslide,El Niño - Moderado,52,ONI
+06,Chimborazo,landslide,El Niño - Muy Fuerte,34,ONI
+06,Chimborazo,landslide,La Niña - Débil,203,ONI
+06,Chimborazo,landslide,La Niña - Moderada,25,ONI
+06,Chimborazo,landslide,Neutro,374,ONI
+06,Chimborazo,scour,El Niño - Débil,6,ONI
+06,Chimborazo,scour,El Niño - Moderado,1,ONI
+06,Chimborazo,scour,El Niño - Muy Fuerte,2,ONI
+06,Chimborazo,scour,La Niña - Débil,5,ONI
+06,Chimborazo,scour,La Niña - Moderada,2,ONI
+06,Chimborazo,scour,Neutro,21,ONI
+07,El Oro,debris_flow,El Niño - Débil,5,ONI
+07,El Oro,debris_flow,El Niño - Fuerte,2,ONI
+07,El Oro,debris_flow,El Niño - Moderado,1,ONI
+07,El Oro,debris_flow,La Niña - Débil,5,ONI
+07,El Oro,debris_flow,La Niña - Moderada,1,ONI
+07,El Oro,debris_flow,Neutro,24,ONI
+07,El Oro,flood,El Niño - Débil,93,ONI
+07,El Oro,flood,El Niño - Fuerte,56,ONI
+07,El Oro,flood,El Niño - Moderado,18,ONI
+07,El Oro,flood,El Niño - Muy Fuerte,13,ONI
+07,El Oro,flood,La Niña - Débil,71,ONI
+07,El Oro,flood,La Niña - Moderada,5,ONI
+07,El Oro,flood,Neutro,217,ONI
+07,El Oro,landslide,El Niño - Débil,117,ONI
+07,El Oro,landslide,El Niño - Fuerte,54,ONI
+07,El Oro,landslide,El Niño - Moderado,43,ONI
+07,El Oro,landslide,El Niño - Muy Fuerte,21,ONI
+07,El Oro,landslide,La Niña - Débil,238,ONI
+07,El Oro,landslide,La Niña - Moderada,28,ONI
+07,El Oro,landslide,Neutro,365,ONI
+07,El Oro,scour,El Niño - Débil,16,ONI
+07,El Oro,scour,El Niño - Fuerte,10,ONI
+07,El Oro,scour,El Niño - Moderado,3,ONI
+07,El Oro,scour,El Niño - Muy Fuerte,1,ONI
+07,El Oro,scour,La Niña - Débil,26,ONI
+07,El Oro,scour,La Niña - Moderada,3,ONI
+07,El Oro,scour,Neutro,56,ONI
+08,Esmeraldas,debris_flow,El Niño - Débil,5,ONI
+08,Esmeraldas,debris_flow,El Niño - Fuerte,3,ONI
+08,Esmeraldas,debris_flow,La Niña - Débil,5,ONI
+08,Esmeraldas,debris_flow,Neutro,1,ONI
+08,Esmeraldas,flood,El Niño - Débil,174,ONI
+08,Esmeraldas,flood,El Niño - Fuerte,76,ONI
+08,Esmeraldas,flood,El Niño - Moderado,21,ONI
+08,Esmeraldas,flood,El Niño - Muy Fuerte,74,ONI
+08,Esmeraldas,flood,La Niña - Débil,63,ONI
+08,Esmeraldas,flood,La Niña - Moderada,13,ONI
+08,Esmeraldas,flood,Neutro,209,ONI
+08,Esmeraldas,landslide,El Niño - Débil,123,ONI
+08,Esmeraldas,landslide,El Niño - Fuerte,53,ONI
+08,Esmeraldas,landslide,El Niño - Moderado,20,ONI
+08,Esmeraldas,landslide,El Niño - Muy Fuerte,21,ONI
+08,Esmeraldas,landslide,La Niña - Débil,74,ONI
+08,Esmeraldas,landslide,La Niña - Moderada,7,ONI
+08,Esmeraldas,landslide,Neutro,124,ONI
+08,Esmeraldas,scour,El Niño - Débil,15,ONI
+08,Esmeraldas,scour,El Niño - Fuerte,8,ONI
+08,Esmeraldas,scour,El Niño - Moderado,8,ONI
+08,Esmeraldas,scour,El Niño - Muy Fuerte,4,ONI
+08,Esmeraldas,scour,La Niña - Débil,12,ONI
+08,Esmeraldas,scour,Neutro,20,ONI
+09,Guayas,debris_flow,Neutro,1,ONI
+09,Guayas,flood,El Niño - Débil,205,ONI
+09,Guayas,flood,El Niño - Fuerte,262,ONI
+09,Guayas,flood,El Niño - Moderado,75,ONI
+09,Guayas,flood,El Niño - Muy Fuerte,38,ONI
+09,Guayas,flood,La Niña - Débil,109,ONI
+09,Guayas,flood,La Niña - Moderada,4,ONI
+09,Guayas,flood,Neutro,838,ONI
+09,Guayas,landslide,El Niño - Débil,17,ONI
+09,Guayas,landslide,El Niño - Fuerte,4,ONI
+09,Guayas,landslide,El Niño - Moderado,5,ONI
+09,Guayas,landslide,El Niño - Muy Fuerte,1,ONI
+09,Guayas,landslide,La Niña - Débil,25,ONI
+09,Guayas,landslide,La Niña - Moderada,4,ONI
+09,Guayas,landslide,Neutro,48,ONI
+09,Guayas,scour,El Niño - Débil,14,ONI
+09,Guayas,scour,El Niño - Fuerte,9,ONI
+09,Guayas,scour,El Niño - Moderado,7,ONI
+09,Guayas,scour,El Niño - Muy Fuerte,7,ONI
+09,Guayas,scour,La Niña - Débil,23,ONI
+09,Guayas,scour,La Niña - Moderada,1,ONI
+09,Guayas,scour,Neutro,41,ONI
+10,Imbabura,debris_flow,El Niño - Débil,2,ONI
+10,Imbabura,debris_flow,El Niño - Fuerte,1,ONI
+10,Imbabura,debris_flow,El Niño - Moderado,1,ONI
+10,Imbabura,debris_flow,La Niña - Débil,9,ONI
+10,Imbabura,debris_flow,Neutro,4,ONI
+10,Imbabura,flood,El Niño - Débil,19,ONI
+10,Imbabura,flood,El Niño - Fuerte,5,ONI
+10,Imbabura,flood,El Niño - Moderado,3,ONI
+10,Imbabura,flood,El Niño - Muy Fuerte,14,ONI
+10,Imbabura,flood,La Niña - Débil,13,ONI
+10,Imbabura,flood,Neutro,58,ONI
+10,Imbabura,landslide,El Niño - Débil,54,ONI
+10,Imbabura,landslide,El Niño - Fuerte,8,ONI
+10,Imbabura,landslide,El Niño - Moderado,12,ONI
+10,Imbabura,landslide,El Niño - Muy Fuerte,39,ONI
+10,Imbabura,landslide,La Niña - Débil,106,ONI
+10,Imbabura,landslide,La Niña - Moderada,16,ONI
+10,Imbabura,landslide,Neutro,202,ONI
+10,Imbabura,scour,El Niño - Débil,1,ONI
+10,Imbabura,scour,El Niño - Fuerte,1,ONI
+10,Imbabura,scour,El Niño - Moderado,1,ONI
+10,Imbabura,scour,El Niño - Muy Fuerte,1,ONI
+10,Imbabura,scour,La Niña - Débil,12,ONI
+10,Imbabura,scour,Neutro,13,ONI
+11,Loja,debris_flow,El Niño - Débil,5,ONI
+11,Loja,debris_flow,El Niño - Fuerte,1,ONI
+11,Loja,debris_flow,El Niño - Muy Fuerte,2,ONI
+11,Loja,debris_flow,La Niña - Débil,21,ONI
+11,Loja,debris_flow,La Niña - Moderada,2,ONI
+11,Loja,debris_flow,Neutro,20,ONI
+11,Loja,flood,El Niño - Débil,39,ONI
+11,Loja,flood,El Niño - Fuerte,13,ONI
+11,Loja,flood,El Niño - Moderado,4,ONI
+11,Loja,flood,El Niño - Muy Fuerte,6,ONI
+11,Loja,flood,La Niña - Débil,33,ONI
+11,Loja,flood,La Niña - Moderada,1,ONI
+11,Loja,flood,Neutro,92,ONI
+11,Loja,landslide,El Niño - Débil,331,ONI
+11,Loja,landslide,El Niño - Fuerte,73,ONI
+11,Loja,landslide,El Niño - Moderado,43,ONI
+11,Loja,landslide,El Niño - Muy Fuerte,29,ONI
+11,Loja,landslide,La Niña - Débil,186,ONI
+11,Loja,landslide,La Niña - Moderada,18,ONI
+11,Loja,landslide,Neutro,614,ONI
+11,Loja,scour,El Niño - Débil,12,ONI
+11,Loja,scour,El Niño - Fuerte,3,ONI
+11,Loja,scour,El Niño - Moderado,1,ONI
+11,Loja,scour,El Niño - Muy Fuerte,2,ONI
+11,Loja,scour,La Niña - Débil,6,ONI
+11,Loja,scour,Neutro,18,ONI
+12,Los Ríos,flood,El Niño - Débil,140,ONI
+12,Los Ríos,flood,El Niño - Fuerte,112,ONI
+12,Los Ríos,flood,El Niño - Moderado,33,ONI
+12,Los Ríos,flood,El Niño - Muy Fuerte,17,ONI
+12,Los Ríos,flood,La Niña - Débil,141,ONI
+12,Los Ríos,flood,La Niña - Moderada,2,ONI
+12,Los Ríos,flood,Neutro,222,ONI
+12,Los Ríos,landslide,El Niño - Débil,12,ONI
+12,Los Ríos,landslide,El Niño - Fuerte,3,ONI
+12,Los Ríos,landslide,El Niño - Moderado,3,ONI
+12,Los Ríos,landslide,La Niña - Débil,6,ONI
+12,Los Ríos,landslide,Neutro,16,ONI
+12,Los Ríos,scour,El Niño - Débil,18,ONI
+12,Los Ríos,scour,El Niño - Fuerte,6,ONI
+12,Los Ríos,scour,El Niño - Moderado,6,ONI
+12,Los Ríos,scour,El Niño - Muy Fuerte,1,ONI
+12,Los Ríos,scour,La Niña - Débil,10,ONI
+12,Los Ríos,scour,Neutro,47,ONI
+13,Manabí,debris_flow,El Niño - Débil,2,ONI
+13,Manabí,debris_flow,La Niña - Débil,2,ONI
+13,Manabí,debris_flow,Neutro,23,ONI
+13,Manabí,flood,El Niño - Débil,135,ONI
+13,Manabí,flood,El Niño - Fuerte,107,ONI
+13,Manabí,flood,El Niño - Moderado,52,ONI
+13,Manabí,flood,El Niño - Muy Fuerte,68,ONI
+13,Manabí,flood,La Niña - Débil,111,ONI
+13,Manabí,flood,La Niña - Moderada,2,ONI
+13,Manabí,flood,Neutro,558,ONI
+13,Manabí,landslide,El Niño - Débil,84,ONI
+13,Manabí,landslide,El Niño - Fuerte,23,ONI
+13,Manabí,landslide,El Niño - Moderado,28,ONI
+13,Manabí,landslide,El Niño - Muy Fuerte,16,ONI
+13,Manabí,landslide,La Niña - Débil,41,ONI
+13,Manabí,landslide,La Niña - Moderada,1,ONI
+13,Manabí,landslide,Neutro,195,ONI
+13,Manabí,scour,El Niño - Débil,12,ONI
+13,Manabí,scour,El Niño - Fuerte,10,ONI
+13,Manabí,scour,El Niño - Moderado,5,ONI
+13,Manabí,scour,El Niño - Muy Fuerte,1,ONI
+13,Manabí,scour,La Niña - Débil,9,ONI
+13,Manabí,scour,Neutro,21,ONI
+14,Morona Santiago,debris_flow,El Niño - Débil,6,ONI
+14,Morona Santiago,debris_flow,El Niño - Muy Fuerte,1,ONI
+14,Morona Santiago,debris_flow,La Niña - Débil,10,ONI
+14,Morona Santiago,debris_flow,Neutro,18,ONI
+14,Morona Santiago,flood,El Niño - Débil,46,ONI
+14,Morona Santiago,flood,El Niño - Fuerte,7,ONI
+14,Morona Santiago,flood,El Niño - Moderado,4,ONI
+14,Morona Santiago,flood,El Niño - Muy Fuerte,7,ONI
+14,Morona Santiago,flood,La Niña - Débil,36,ONI
+14,Morona Santiago,flood,La Niña - Moderada,6,ONI
+14,Morona Santiago,flood,Neutro,93,ONI
+14,Morona Santiago,landslide,El Niño - Débil,178,ONI
+14,Morona Santiago,landslide,El Niño - Fuerte,38,ONI
+14,Morona Santiago,landslide,El Niño - Moderado,65,ONI
+14,Morona Santiago,landslide,El Niño - Muy Fuerte,29,ONI
+14,Morona Santiago,landslide,La Niña - Débil,126,ONI
+14,Morona Santiago,landslide,La Niña - Moderada,7,ONI
+14,Morona Santiago,landslide,Neutro,347,ONI
+14,Morona Santiago,scour,El Niño - Débil,22,ONI
+14,Morona Santiago,scour,El Niño - Moderado,2,ONI
+14,Morona Santiago,scour,El Niño - Muy Fuerte,4,ONI
+14,Morona Santiago,scour,La Niña - Débil,21,ONI
+14,Morona Santiago,scour,La Niña - Moderada,2,ONI
+14,Morona Santiago,scour,Neutro,63,ONI
+15,Napo,debris_flow,El Niño - Débil,12,ONI
+15,Napo,debris_flow,La Niña - Débil,13,ONI
+15,Napo,debris_flow,La Niña - Moderada,1,ONI
+15,Napo,debris_flow,Neutro,54,ONI
+15,Napo,flood,El Niño - Débil,20,ONI
+15,Napo,flood,El Niño - Fuerte,9,ONI
+15,Napo,flood,El Niño - Moderado,2,ONI
+15,Napo,flood,El Niño - Muy Fuerte,4,ONI
+15,Napo,flood,La Niña - Débil,28,ONI
+15,Napo,flood,La Niña - Moderada,2,ONI
+15,Napo,flood,Neutro,55,ONI
+15,Napo,landslide,El Niño - Débil,134,ONI
+15,Napo,landslide,El Niño - Fuerte,41,ONI
+15,Napo,landslide,El Niño - Moderado,38,ONI
+15,Napo,landslide,El Niño - Muy Fuerte,21,ONI
+15,Napo,landslide,La Niña - Débil,100,ONI
+15,Napo,landslide,La Niña - Moderada,11,ONI
+15,Napo,landslide,Neutro,352,ONI
+15,Napo,scour,El Niño - Débil,11,ONI
+15,Napo,scour,El Niño - Fuerte,5,ONI
+15,Napo,scour,El Niño - Muy Fuerte,4,ONI
+15,Napo,scour,La Niña - Débil,8,ONI
+15,Napo,scour,Neutro,40,ONI
+16,Pastaza,debris_flow,Neutro,2,ONI
+16,Pastaza,flood,El Niño - Débil,33,ONI
+16,Pastaza,flood,El Niño - Fuerte,4,ONI
+16,Pastaza,flood,El Niño - Moderado,7,ONI
+16,Pastaza,flood,El Niño - Muy Fuerte,6,ONI
+16,Pastaza,flood,La Niña - Débil,44,ONI
+16,Pastaza,flood,La Niña - Moderada,4,ONI
+16,Pastaza,flood,Neutro,85,ONI
+16,Pastaza,landslide,El Niño - Débil,77,ONI
+16,Pastaza,landslide,El Niño - Fuerte,10,ONI
+16,Pastaza,landslide,El Niño - Moderado,12,ONI
+16,Pastaza,landslide,El Niño - Muy Fuerte,17,ONI
+16,Pastaza,landslide,La Niña - Débil,70,ONI
+16,Pastaza,landslide,La Niña - Moderada,6,ONI
+16,Pastaza,landslide,Neutro,132,ONI
+16,Pastaza,scour,El Niño - Débil,12,ONI
+16,Pastaza,scour,El Niño - Fuerte,1,ONI
+16,Pastaza,scour,El Niño - Moderado,6,ONI
+16,Pastaza,scour,La Niña - Débil,8,ONI
+16,Pastaza,scour,Neutro,22,ONI
+17,Pichincha,debris_flow,El Niño - Débil,7,ONI
+17,Pichincha,debris_flow,El Niño - Fuerte,4,ONI
+17,Pichincha,debris_flow,El Niño - Moderado,1,ONI
+17,Pichincha,debris_flow,El Niño - Muy Fuerte,4,ONI
+17,Pichincha,debris_flow,La Niña - Débil,23,ONI
+17,Pichincha,debris_flow,La Niña - Moderada,3,ONI
+17,Pichincha,debris_flow,Neutro,12,ONI
+17,Pichincha,flood,El Niño - Débil,67,ONI
+17,Pichincha,flood,El Niño - Fuerte,40,ONI
+17,Pichincha,flood,El Niño - Moderado,21,ONI
+17,Pichincha,flood,El Niño - Muy Fuerte,17,ONI
+17,Pichincha,flood,La Niña - Débil,180,ONI
+17,Pichincha,flood,La Niña - Moderada,17,ONI
+17,Pichincha,flood,Neutro,178,ONI
+17,Pichincha,landslide,El Niño - Débil,386,ONI
+17,Pichincha,landslide,El Niño - Fuerte,81,ONI
+17,Pichincha,landslide,El Niño - Moderado,55,ONI
+17,Pichincha,landslide,El Niño - Muy Fuerte,59,ONI
+17,Pichincha,landslide,La Niña - Débil,619,ONI
+17,Pichincha,landslide,La Niña - Moderada,98,ONI
+17,Pichincha,landslide,Neutro,787,ONI
+17,Pichincha,scour,El Niño - Débil,12,ONI
+17,Pichincha,scour,El Niño - Fuerte,2,ONI
+17,Pichincha,scour,El Niño - Moderado,3,ONI
+17,Pichincha,scour,El Niño - Muy Fuerte,2,ONI
+17,Pichincha,scour,La Niña - Débil,13,ONI
+17,Pichincha,scour,La Niña - Moderada,2,ONI
+17,Pichincha,scour,Neutro,25,ONI
+18,Tungurahua,debris_flow,El Niño - Débil,16,ONI
+18,Tungurahua,debris_flow,El Niño - Fuerte,2,ONI
+18,Tungurahua,debris_flow,El Niño - Moderado,3,ONI
+18,Tungurahua,debris_flow,El Niño - Muy Fuerte,1,ONI
+18,Tungurahua,debris_flow,La Niña - Débil,34,ONI
+18,Tungurahua,debris_flow,La Niña - Moderada,1,ONI
+18,Tungurahua,debris_flow,Neutro,55,ONI
+18,Tungurahua,flood,El Niño - Débil,34,ONI
+18,Tungurahua,flood,El Niño - Fuerte,8,ONI
+18,Tungurahua,flood,El Niño - Moderado,10,ONI
+18,Tungurahua,flood,El Niño - Muy Fuerte,8,ONI
+18,Tungurahua,flood,La Niña - Débil,32,ONI
+18,Tungurahua,flood,Neutro,43,ONI
+18,Tungurahua,landslide,El Niño - Débil,180,ONI
+18,Tungurahua,landslide,El Niño - Fuerte,95,ONI
+18,Tungurahua,landslide,El Niño - Moderado,116,ONI
+18,Tungurahua,landslide,El Niño - Muy Fuerte,66,ONI
+18,Tungurahua,landslide,La Niña - Débil,208,ONI
+18,Tungurahua,landslide,La Niña - Moderada,24,ONI
+18,Tungurahua,landslide,Neutro,424,ONI
+18,Tungurahua,scour,El Niño - Débil,12,ONI
+18,Tungurahua,scour,El Niño - Fuerte,1,ONI
+18,Tungurahua,scour,El Niño - Moderado,6,ONI
+18,Tungurahua,scour,El Niño - Muy Fuerte,1,ONI
+18,Tungurahua,scour,La Niña - Débil,14,ONI
+18,Tungurahua,scour,Neutro,27,ONI
+19,Zamora Chinchipe,debris_flow,El Niño - Débil,5,ONI
+19,Zamora Chinchipe,debris_flow,El Niño - Muy Fuerte,2,ONI
+19,Zamora Chinchipe,debris_flow,La Niña - Débil,8,ONI
+19,Zamora Chinchipe,debris_flow,La Niña - Moderada,3,ONI
+19,Zamora Chinchipe,debris_flow,Neutro,10,ONI
+19,Zamora Chinchipe,flood,El Niño - Débil,37,ONI
+19,Zamora Chinchipe,flood,El Niño - Fuerte,7,ONI
+19,Zamora Chinchipe,flood,El Niño - Moderado,12,ONI
+19,Zamora Chinchipe,flood,El Niño - Muy Fuerte,6,ONI
+19,Zamora Chinchipe,flood,La Niña - Débil,38,ONI
+19,Zamora Chinchipe,flood,Neutro,59,ONI
+19,Zamora Chinchipe,landslide,El Niño - Débil,143,ONI
+19,Zamora Chinchipe,landslide,El Niño - Fuerte,51,ONI
+19,Zamora Chinchipe,landslide,El Niño - Moderado,76,ONI
+19,Zamora Chinchipe,landslide,El Niño - Muy Fuerte,34,ONI
+19,Zamora Chinchipe,landslide,La Niña - Débil,104,ONI
+19,Zamora Chinchipe,landslide,La Niña - Moderada,4,ONI
+19,Zamora Chinchipe,landslide,Neutro,249,ONI
+19,Zamora Chinchipe,scour,El Niño - Débil,1,ONI
+19,Zamora Chinchipe,scour,El Niño - Fuerte,2,ONI
+19,Zamora Chinchipe,scour,El Niño - Moderado,1,ONI
+19,Zamora Chinchipe,scour,La Niña - Débil,5,ONI
+19,Zamora Chinchipe,scour,Neutro,6,ONI
+20,Galápagos,debris_flow,Neutro,1,ONI
+20,Galápagos,flood,El Niño - Débil,2,ONI
+20,Galápagos,flood,El Niño - Fuerte,4,ONI
+20,Galápagos,flood,El Niño - Moderado,1,ONI
+20,Galápagos,flood,El Niño - Muy Fuerte,5,ONI
+20,Galápagos,flood,La Niña - Débil,2,ONI
+20,Galápagos,flood,Neutro,9,ONI
+20,Galápagos,landslide,Neutro,2,ONI
+21,Sucumbíos,debris_flow,Neutro,3,ONI
+21,Sucumbíos,flood,El Niño - Débil,16,ONI
+21,Sucumbíos,flood,El Niño - Fuerte,7,ONI
+21,Sucumbíos,flood,El Niño - Muy Fuerte,5,ONI
+21,Sucumbíos,flood,La Niña - Débil,11,ONI
+21,Sucumbíos,flood,La Niña - Moderada,4,ONI
+21,Sucumbíos,flood,Neutro,58,ONI
+21,Sucumbíos,landslide,El Niño - Débil,41,ONI
+21,Sucumbíos,landslide,El Niño - Fuerte,4,ONI
+21,Sucumbíos,landslide,El Niño - Moderado,4,ONI
+21,Sucumbíos,landslide,El Niño - Muy Fuerte,3,ONI
+21,Sucumbíos,landslide,La Niña - Débil,17,ONI
+21,Sucumbíos,landslide,La Niña - Moderada,2,ONI
+21,Sucumbíos,landslide,Neutro,105,ONI
+21,Sucumbíos,scour,El Niño - Débil,6,ONI
+21,Sucumbíos,scour,El Niño - Fuerte,1,ONI
+21,Sucumbíos,scour,El Niño - Moderado,4,ONI
+21,Sucumbíos,scour,El Niño - Muy Fuerte,1,ONI
+21,Sucumbíos,scour,La Niña - Débil,5,ONI
+21,Sucumbíos,scour,Neutro,15,ONI
+22,Orellana,flood,El Niño - Débil,33,ONI
+22,Orellana,flood,El Niño - Fuerte,6,ONI
+22,Orellana,flood,El Niño - Moderado,3,ONI
+22,Orellana,flood,El Niño - Muy Fuerte,2,ONI
+22,Orellana,flood,La Niña - Débil,24,ONI
+22,Orellana,flood,La Niña - Moderada,2,ONI
+22,Orellana,flood,Neutro,71,ONI
+22,Orellana,landslide,El Niño - Débil,20,ONI
+22,Orellana,landslide,El Niño - Moderado,1,ONI
+22,Orellana,landslide,El Niño - Muy Fuerte,1,ONI
+22,Orellana,landslide,La Niña - Débil,13,ONI
+22,Orellana,landslide,La Niña - Moderada,3,ONI
+22,Orellana,landslide,Neutro,23,ONI
+22,Orellana,scour,El Niño - Débil,7,ONI
+22,Orellana,scour,El Niño - Moderado,1,ONI
+22,Orellana,scour,El Niño - Muy Fuerte,1,ONI
+22,Orellana,scour,La Niña - Débil,8,ONI
+22,Orellana,scour,La Niña - Moderada,1,ONI
+22,Orellana,scour,Neutro,17,ONI
+23,Santo Domingo de los Tsáchilas,debris_flow,La Niña - Débil,5,ONI
+23,Santo Domingo de los Tsáchilas,debris_flow,Neutro,1,ONI
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Débil,26,ONI
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Fuerte,30,ONI
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Moderado,13,ONI
+23,Santo Domingo de los Tsáchilas,flood,El Niño - Muy Fuerte,12,ONI
+23,Santo Domingo de los Tsáchilas,flood,La Niña - Débil,28,ONI
+23,Santo Domingo de los Tsáchilas,flood,La Niña - Moderada,1,ONI
+23,Santo Domingo de los Tsáchilas,flood,Neutro,74,ONI
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Débil,40,ONI
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Fuerte,17,ONI
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Moderado,6,ONI
+23,Santo Domingo de los Tsáchilas,landslide,El Niño - Muy Fuerte,31,ONI
+23,Santo Domingo de los Tsáchilas,landslide,La Niña - Débil,54,ONI
+23,Santo Domingo de los Tsáchilas,landslide,La Niña - Moderada,4,ONI
+23,Santo Domingo de los Tsáchilas,landslide,Neutro,74,ONI
+23,Santo Domingo de los Tsáchilas,scour,El Niño - Débil,4,ONI
+23,Santo Domingo de los Tsáchilas,scour,El Niño - Fuerte,3,ONI
+23,Santo Domingo de los Tsáchilas,scour,El Niño - Moderado,4,ONI
+23,Santo Domingo de los Tsáchilas,scour,El Niño - Muy Fuerte,2,ONI
+23,Santo Domingo de los Tsáchilas,scour,La Niña - Débil,3,ONI
+23,Santo Domingo de los Tsáchilas,scour,Neutro,14,ONI
+24,Santa Elena,flood,El Niño - Débil,15,ONI
+24,Santa Elena,flood,El Niño - Fuerte,22,ONI
+24,Santa Elena,flood,El Niño - Moderado,6,ONI
+24,Santa Elena,flood,El Niño - Muy Fuerte,7,ONI
+24,Santa Elena,flood,La Niña - Débil,15,ONI
+24,Santa Elena,flood,Neutro,80,ONI
+24,Santa Elena,landslide,El Niño - Débil,3,ONI
+24,Santa Elena,landslide,La Niña - Débil,1,ONI
+24,Santa Elena,landslide,Neutro,9,ONI
+24,Santa Elena,scour,El Niño - Fuerte,1,ONI
+24,Santa Elena,scour,La Niña - Débil,1,ONI
+24,Santa Elena,scour,Neutro,11,ONI
+01,Azuay,TODOS,El Niño - Débil,286,ICEN
+01,Azuay,TODOS,El Niño - Fuerte,65,ICEN
+01,Azuay,TODOS,El Niño - Moderado,102,ICEN
+01,Azuay,TODOS,La Niña - Débil,146,ICEN
+01,Azuay,TODOS,La Niña - Fuerte,17,ICEN
+01,Azuay,TODOS,La Niña - Moderada,36,ICEN
+01,Azuay,TODOS,Neutro,420,ICEN
+02,Bolívar,TODOS,El Niño - Débil,326,ICEN
+02,Bolívar,TODOS,El Niño - Fuerte,47,ICEN
+02,Bolívar,TODOS,El Niño - Moderado,138,ICEN
+02,Bolívar,TODOS,La Niña - Débil,152,ICEN
+02,Bolívar,TODOS,La Niña - Fuerte,12,ICEN
+02,Bolívar,TODOS,La Niña - Moderada,19,ICEN
+02,Bolívar,TODOS,Neutro,200,ICEN
+03,Cañar,TODOS,El Niño - Débil,58,ICEN
+03,Cañar,TODOS,El Niño - Fuerte,15,ICEN
+03,Cañar,TODOS,El Niño - Moderado,30,ICEN
+03,Cañar,TODOS,La Niña - Débil,54,ICEN
+03,Cañar,TODOS,La Niña - Fuerte,4,ICEN
+03,Cañar,TODOS,La Niña - Moderada,4,ICEN
+03,Cañar,TODOS,Neutro,53,ICEN
+04,Carchi,TODOS,El Niño - Débil,59,ICEN
+04,Carchi,TODOS,El Niño - Fuerte,24,ICEN
+04,Carchi,TODOS,El Niño - Moderado,21,ICEN
+04,Carchi,TODOS,La Niña - Débil,39,ICEN
+04,Carchi,TODOS,La Niña - Fuerte,12,ICEN
+04,Carchi,TODOS,La Niña - Moderada,9,ICEN
+04,Carchi,TODOS,Neutro,117,ICEN
+05,Cotopaxi,TODOS,El Niño - Débil,126,ICEN
+05,Cotopaxi,TODOS,El Niño - Fuerte,29,ICEN
+05,Cotopaxi,TODOS,El Niño - Moderado,52,ICEN
+05,Cotopaxi,TODOS,La Niña - Débil,68,ICEN
+05,Cotopaxi,TODOS,La Niña - Fuerte,29,ICEN
+05,Cotopaxi,TODOS,La Niña - Moderada,18,ICEN
+05,Cotopaxi,TODOS,Neutro,146,ICEN
+06,Chimborazo,TODOS,El Niño - Débil,233,ICEN
+06,Chimborazo,TODOS,El Niño - Fuerte,59,ICEN
+06,Chimborazo,TODOS,El Niño - Moderado,132,ICEN
+06,Chimborazo,TODOS,La Niña - Débil,198,ICEN
+06,Chimborazo,TODOS,La Niña - Fuerte,34,ICEN
+06,Chimborazo,TODOS,La Niña - Moderada,38,ICEN
+06,Chimborazo,TODOS,Neutro,427,ICEN
+07,El Oro,TODOS,El Niño - Débil,479,ICEN
+07,El Oro,TODOS,El Niño - Fuerte,51,ICEN
+07,El Oro,TODOS,El Niño - Moderado,212,ICEN
+07,El Oro,TODOS,La Niña - Débil,342,ICEN
+07,El Oro,TODOS,La Niña - Fuerte,14,ICEN
+07,El Oro,TODOS,La Niña - Moderada,27,ICEN
+07,El Oro,TODOS,Neutro,367,ICEN
+08,Esmeraldas,TODOS,El Niño - Débil,264,ICEN
+08,Esmeraldas,TODOS,El Niño - Fuerte,186,ICEN
+08,Esmeraldas,TODOS,El Niño - Moderado,157,ICEN
+08,Esmeraldas,TODOS,La Niña - Débil,168,ICEN
+08,Esmeraldas,TODOS,La Niña - Fuerte,11,ICEN
+08,Esmeraldas,TODOS,La Niña - Moderada,10,ICEN
+08,Esmeraldas,TODOS,Neutro,337,ICEN
+09,Guayas,TODOS,El Niño - Débil,638,ICEN
+09,Guayas,TODOS,El Niño - Fuerte,189,ICEN
+09,Guayas,TODOS,El Niño - Moderado,266,ICEN
+09,Guayas,TODOS,La Niña - Débil,103,ICEN
+09,Guayas,TODOS,La Niña - Fuerte,35,ICEN
+09,Guayas,TODOS,La Niña - Moderada,16,ICEN
+09,Guayas,TODOS,Neutro,491,ICEN
+10,Imbabura,TODOS,El Niño - Débil,118,ICEN
+10,Imbabura,TODOS,El Niño - Fuerte,51,ICEN
+10,Imbabura,TODOS,El Niño - Moderado,85,ICEN
+10,Imbabura,TODOS,La Niña - Débil,91,ICEN
+10,Imbabura,TODOS,La Niña - Fuerte,22,ICEN
+10,Imbabura,TODOS,La Niña - Moderada,30,ICEN
+10,Imbabura,TODOS,Neutro,198,ICEN
+11,Loja,TODOS,El Niño - Débil,422,ICEN
+11,Loja,TODOS,El Niño - Fuerte,67,ICEN
+11,Loja,TODOS,El Niño - Moderado,242,ICEN
+11,Loja,TODOS,La Niña - Débil,228,ICEN
+11,Loja,TODOS,La Niña - Fuerte,11,ICEN
+11,Loja,TODOS,La Niña - Moderada,33,ICEN
+11,Loja,TODOS,Neutro,572,ICEN
+12,Los Ríos,TODOS,El Niño - Débil,281,ICEN
+12,Los Ríos,TODOS,El Niño - Fuerte,89,ICEN
+12,Los Ríos,TODOS,El Niño - Moderado,74,ICEN
+12,Los Ríos,TODOS,La Niña - Débil,115,ICEN
+12,Los Ríos,TODOS,La Niña - Fuerte,21,ICEN
+12,Los Ríos,TODOS,La Niña - Moderada,11,ICEN
+12,Los Ríos,TODOS,Neutro,204,ICEN
+13,Manabí,TODOS,El Niño - Débil,478,ICEN
+13,Manabí,TODOS,El Niño - Fuerte,131,ICEN
+13,Manabí,TODOS,El Niño - Moderado,341,ICEN
+13,Manabí,TODOS,La Niña - Débil,135,ICEN
+13,Manabí,TODOS,La Niña - Fuerte,6,ICEN
+13,Manabí,TODOS,La Niña - Moderada,33,ICEN
+13,Manabí,TODOS,Neutro,382,ICEN
+14,Morona Santiago,TODOS,El Niño - Débil,215,ICEN
+14,Morona Santiago,TODOS,El Niño - Fuerte,85,ICEN
+14,Morona Santiago,TODOS,El Niño - Moderado,53,ICEN
+14,Morona Santiago,TODOS,La Niña - Débil,178,ICEN
+14,Morona Santiago,TODOS,La Niña - Fuerte,28,ICEN
+14,Morona Santiago,TODOS,La Niña - Moderada,48,ICEN
+14,Morona Santiago,TODOS,Neutro,531,ICEN
+15,Napo,TODOS,El Niño - Débil,91,ICEN
+15,Napo,TODOS,El Niño - Fuerte,113,ICEN
+15,Napo,TODOS,El Niño - Moderado,51,ICEN
+15,Napo,TODOS,La Niña - Débil,134,ICEN
+15,Napo,TODOS,La Niña - Fuerte,33,ICEN
+15,Napo,TODOS,La Niña - Moderada,27,ICEN
+15,Napo,TODOS,Neutro,516,ICEN
+16,Pastaza,TODOS,El Niño - Débil,100,ICEN
+16,Pastaza,TODOS,El Niño - Fuerte,33,ICEN
+16,Pastaza,TODOS,El Niño - Moderado,31,ICEN
+16,Pastaza,TODOS,La Niña - Débil,84,ICEN
+16,Pastaza,TODOS,La Niña - Fuerte,20,ICEN
+16,Pastaza,TODOS,La Niña - Moderada,18,ICEN
+16,Pastaza,TODOS,Neutro,272,ICEN
+17,Pichincha,TODOS,El Niño - Débil,433,ICEN
+17,Pichincha,TODOS,El Niño - Fuerte,172,ICEN
+17,Pichincha,TODOS,El Niño - Moderado,215,ICEN
+17,Pichincha,TODOS,La Niña - Débil,647,ICEN
+17,Pichincha,TODOS,La Niña - Fuerte,111,ICEN
+17,Pichincha,TODOS,La Niña - Moderada,139,ICEN
+17,Pichincha,TODOS,Neutro,1001,ICEN
+18,Tungurahua,TODOS,El Niño - Débil,207,ICEN
+18,Tungurahua,TODOS,El Niño - Fuerte,188,ICEN
+18,Tungurahua,TODOS,El Niño - Moderado,96,ICEN
+18,Tungurahua,TODOS,La Niña - Débil,236,ICEN
+18,Tungurahua,TODOS,La Niña - Fuerte,30,ICEN
+18,Tungurahua,TODOS,La Niña - Moderada,62,ICEN
+18,Tungurahua,TODOS,Neutro,602,ICEN
+19,Zamora Chinchipe,TODOS,El Niño - Débil,243,ICEN
+19,Zamora Chinchipe,TODOS,El Niño - Fuerte,74,ICEN
+19,Zamora Chinchipe,TODOS,El Niño - Moderado,62,ICEN
+19,Zamora Chinchipe,TODOS,La Niña - Débil,95,ICEN
+19,Zamora Chinchipe,TODOS,La Niña - Fuerte,16,ICEN
+19,Zamora Chinchipe,TODOS,La Niña - Moderada,35,ICEN
+19,Zamora Chinchipe,TODOS,Neutro,338,ICEN
+20,Galápagos,TODOS,El Niño - Débil,12,ICEN
+20,Galápagos,TODOS,El Niño - Fuerte,5,ICEN
+20,Galápagos,TODOS,El Niño - Moderado,5,ICEN
+20,Galápagos,TODOS,La Niña - Débil,2,ICEN
+20,Galápagos,TODOS,Neutro,2,ICEN
+21,Sucumbíos,TODOS,El Niño - Débil,36,ICEN
+21,Sucumbíos,TODOS,El Niño - Fuerte,23,ICEN
+21,Sucumbíos,TODOS,El Niño - Moderado,8,ICEN
+21,Sucumbíos,TODOS,La Niña - Débil,50,ICEN
+21,Sucumbíos,TODOS,La Niña - Fuerte,5,ICEN
+21,Sucumbíos,TODOS,La Niña - Moderada,6,ICEN
+21,Sucumbíos,TODOS,Neutro,184,ICEN
+22,Orellana,TODOS,El Niño - Débil,26,ICEN
+22,Orellana,TODOS,El Niño - Fuerte,27,ICEN
+22,Orellana,TODOS,El Niño - Moderado,13,ICEN
+22,Orellana,TODOS,La Niña - Débil,34,ICEN
+22,Orellana,TODOS,La Niña - Fuerte,9,ICEN
+22,Orellana,TODOS,La Niña - Moderada,5,ICEN
+22,Orellana,TODOS,Neutro,123,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Débil,126,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Fuerte,39,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Moderado,99,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,La Niña - Débil,86,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,La Niña - Fuerte,3,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,La Niña - Moderada,5,ICEN
+23,Santo Domingo de los Tsáchilas,TODOS,Neutro,88,ICEN
+24,Santa Elena,TODOS,El Niño - Débil,51,ICEN
+24,Santa Elena,TODOS,El Niño - Fuerte,20,ICEN
+24,Santa Elena,TODOS,El Niño - Moderado,32,ICEN
+24,Santa Elena,TODOS,La Niña - Débil,15,ICEN
+24,Santa Elena,TODOS,La Niña - Moderada,2,ICEN
+24,Santa Elena,TODOS,Neutro,51,ICEN
+01,Azuay,TODOS,El Niño - Débil,141,ONI
+01,Azuay,TODOS,El Niño - Fuerte,51,ONI
+01,Azuay,TODOS,El Niño - Moderado,32,ONI
+01,Azuay,TODOS,El Niño - Muy Fuerte,55,ONI
+01,Azuay,TODOS,La Niña - Débil,206,ONI
+01,Azuay,TODOS,La Niña - Moderada,24,ONI
+01,Azuay,TODOS,Neutro,563,ONI
+02,Bolívar,TODOS,El Niño - Débil,152,ONI
+02,Bolívar,TODOS,El Niño - Fuerte,75,ONI
+02,Bolívar,TODOS,El Niño - Moderado,40,ONI
+02,Bolívar,TODOS,El Niño - Muy Fuerte,10,ONI
+02,Bolívar,TODOS,La Niña - Débil,145,ONI
+02,Bolívar,TODOS,La Niña - Moderada,29,ONI
+02,Bolívar,TODOS,Neutro,443,ONI
+03,Cañar,TODOS,El Niño - Débil,35,ONI
+03,Cañar,TODOS,El Niño - Fuerte,5,ONI
+03,Cañar,TODOS,El Niño - Moderado,10,ONI
+03,Cañar,TODOS,El Niño - Muy Fuerte,1,ONI
+03,Cañar,TODOS,La Niña - Débil,47,ONI
+03,Cañar,TODOS,La Niña - Moderada,13,ONI
+03,Cañar,TODOS,Neutro,107,ONI
+04,Carchi,TODOS,El Niño - Débil,59,ONI
+04,Carchi,TODOS,El Niño - Fuerte,10,ONI
+04,Carchi,TODOS,El Niño - Moderado,7,ONI
+04,Carchi,TODOS,El Niño - Muy Fuerte,11,ONI
+04,Carchi,TODOS,La Niña - Débil,62,ONI
+04,Carchi,TODOS,La Niña - Moderada,4,ONI
+04,Carchi,TODOS,Neutro,128,ONI
+05,Cotopaxi,TODOS,El Niño - Débil,78,ONI
+05,Cotopaxi,TODOS,El Niño - Fuerte,39,ONI
+05,Cotopaxi,TODOS,El Niño - Moderado,18,ONI
+05,Cotopaxi,TODOS,El Niño - Muy Fuerte,19,ONI
+05,Cotopaxi,TODOS,La Niña - Débil,108,ONI
+05,Cotopaxi,TODOS,La Niña - Moderada,12,ONI
+05,Cotopaxi,TODOS,Neutro,194,ONI
+06,Chimborazo,TODOS,El Niño - Débil,189,ONI
+06,Chimborazo,TODOS,El Niño - Fuerte,44,ONI
+06,Chimborazo,TODOS,El Niño - Moderado,60,ONI
+06,Chimborazo,TODOS,El Niño - Muy Fuerte,45,ONI
+06,Chimborazo,TODOS,La Niña - Débil,255,ONI
+06,Chimborazo,TODOS,La Niña - Moderada,36,ONI
+06,Chimborazo,TODOS,Neutro,492,ONI
+07,El Oro,TODOS,El Niño - Débil,231,ONI
+07,El Oro,TODOS,El Niño - Fuerte,122,ONI
+07,El Oro,TODOS,El Niño - Moderado,65,ONI
+07,El Oro,TODOS,El Niño - Muy Fuerte,35,ONI
+07,El Oro,TODOS,La Niña - Débil,340,ONI
+07,El Oro,TODOS,La Niña - Moderada,37,ONI
+07,El Oro,TODOS,Neutro,662,ONI
+08,Esmeraldas,TODOS,El Niño - Débil,317,ONI
+08,Esmeraldas,TODOS,El Niño - Fuerte,140,ONI
+08,Esmeraldas,TODOS,El Niño - Moderado,49,ONI
+08,Esmeraldas,TODOS,El Niño - Muy Fuerte,99,ONI
+08,Esmeraldas,TODOS,La Niña - Débil,154,ONI
+08,Esmeraldas,TODOS,La Niña - Moderada,20,ONI
+08,Esmeraldas,TODOS,Neutro,354,ONI
+09,Guayas,TODOS,El Niño - Débil,236,ONI
+09,Guayas,TODOS,El Niño - Fuerte,275,ONI
+09,Guayas,TODOS,El Niño - Moderado,87,ONI
+09,Guayas,TODOS,El Niño - Muy Fuerte,46,ONI
+09,Guayas,TODOS,La Niña - Débil,157,ONI
+09,Guayas,TODOS,La Niña - Moderada,9,ONI
+09,Guayas,TODOS,Neutro,928,ONI
+10,Imbabura,TODOS,El Niño - Débil,76,ONI
+10,Imbabura,TODOS,El Niño - Fuerte,15,ONI
+10,Imbabura,TODOS,El Niño - Moderado,17,ONI
+10,Imbabura,TODOS,El Niño - Muy Fuerte,54,ONI
+10,Imbabura,TODOS,La Niña - Débil,140,ONI
+10,Imbabura,TODOS,La Niña - Moderada,16,ONI
+10,Imbabura,TODOS,Neutro,277,ONI
+11,Loja,TODOS,El Niño - Débil,387,ONI
+11,Loja,TODOS,El Niño - Fuerte,90,ONI
+11,Loja,TODOS,El Niño - Moderado,48,ONI
+11,Loja,TODOS,El Niño - Muy Fuerte,39,ONI
+11,Loja,TODOS,La Niña - Débil,246,ONI
+11,Loja,TODOS,La Niña - Moderada,21,ONI
+11,Loja,TODOS,Neutro,744,ONI
+12,Los Ríos,TODOS,El Niño - Débil,170,ONI
+12,Los Ríos,TODOS,El Niño - Fuerte,121,ONI
+12,Los Ríos,TODOS,El Niño - Moderado,42,ONI
+12,Los Ríos,TODOS,El Niño - Muy Fuerte,18,ONI
+12,Los Ríos,TODOS,La Niña - Débil,157,ONI
+12,Los Ríos,TODOS,La Niña - Moderada,2,ONI
+12,Los Ríos,TODOS,Neutro,285,ONI
+13,Manabí,TODOS,El Niño - Débil,233,ONI
+13,Manabí,TODOS,El Niño - Fuerte,140,ONI
+13,Manabí,TODOS,El Niño - Moderado,85,ONI
+13,Manabí,TODOS,El Niño - Muy Fuerte,85,ONI
+13,Manabí,TODOS,La Niña - Débil,163,ONI
+13,Manabí,TODOS,La Niña - Moderada,3,ONI
+13,Manabí,TODOS,Neutro,797,ONI
+14,Morona Santiago,TODOS,El Niño - Débil,252,ONI
+14,Morona Santiago,TODOS,El Niño - Fuerte,45,ONI
+14,Morona Santiago,TODOS,El Niño - Moderado,71,ONI
+14,Morona Santiago,TODOS,El Niño - Muy Fuerte,41,ONI
+14,Morona Santiago,TODOS,La Niña - Débil,193,ONI
+14,Morona Santiago,TODOS,La Niña - Moderada,15,ONI
+14,Morona Santiago,TODOS,Neutro,521,ONI
+15,Napo,TODOS,El Niño - Débil,177,ONI
+15,Napo,TODOS,El Niño - Fuerte,55,ONI
+15,Napo,TODOS,El Niño - Moderado,40,ONI
+15,Napo,TODOS,El Niño - Muy Fuerte,29,ONI
+15,Napo,TODOS,La Niña - Débil,149,ONI
+15,Napo,TODOS,La Niña - Moderada,14,ONI
+15,Napo,TODOS,Neutro,501,ONI
+16,Pastaza,TODOS,El Niño - Débil,122,ONI
+16,Pastaza,TODOS,El Niño - Fuerte,15,ONI
+16,Pastaza,TODOS,El Niño - Moderado,25,ONI
+16,Pastaza,TODOS,El Niño - Muy Fuerte,23,ONI
+16,Pastaza,TODOS,La Niña - Débil,122,ONI
+16,Pastaza,TODOS,La Niña - Moderada,10,ONI
+16,Pastaza,TODOS,Neutro,241,ONI
+17,Pichincha,TODOS,El Niño - Débil,472,ONI
+17,Pichincha,TODOS,El Niño - Fuerte,127,ONI
+17,Pichincha,TODOS,El Niño - Moderado,80,ONI
+17,Pichincha,TODOS,El Niño - Muy Fuerte,82,ONI
+17,Pichincha,TODOS,La Niña - Débil,835,ONI
+17,Pichincha,TODOS,La Niña - Moderada,120,ONI
+17,Pichincha,TODOS,Neutro,1002,ONI
+18,Tungurahua,TODOS,El Niño - Débil,242,ONI
+18,Tungurahua,TODOS,El Niño - Fuerte,106,ONI
+18,Tungurahua,TODOS,El Niño - Moderado,135,ONI
+18,Tungurahua,TODOS,El Niño - Muy Fuerte,76,ONI
+18,Tungurahua,TODOS,La Niña - Débil,288,ONI
+18,Tungurahua,TODOS,La Niña - Moderada,25,ONI
+18,Tungurahua,TODOS,Neutro,549,ONI
+19,Zamora Chinchipe,TODOS,El Niño - Débil,186,ONI
+19,Zamora Chinchipe,TODOS,El Niño - Fuerte,60,ONI
+19,Zamora Chinchipe,TODOS,El Niño - Moderado,89,ONI
+19,Zamora Chinchipe,TODOS,El Niño - Muy Fuerte,42,ONI
+19,Zamora Chinchipe,TODOS,La Niña - Débil,155,ONI
+19,Zamora Chinchipe,TODOS,La Niña - Moderada,7,ONI
+19,Zamora Chinchipe,TODOS,Neutro,324,ONI
+20,Galápagos,TODOS,El Niño - Débil,2,ONI
+20,Galápagos,TODOS,El Niño - Fuerte,4,ONI
+20,Galápagos,TODOS,El Niño - Moderado,1,ONI
+20,Galápagos,TODOS,El Niño - Muy Fuerte,5,ONI
+20,Galápagos,TODOS,La Niña - Débil,2,ONI
+20,Galápagos,TODOS,Neutro,12,ONI
+21,Sucumbíos,TODOS,El Niño - Débil,63,ONI
+21,Sucumbíos,TODOS,El Niño - Fuerte,12,ONI
+21,Sucumbíos,TODOS,El Niño - Moderado,8,ONI
+21,Sucumbíos,TODOS,El Niño - Muy Fuerte,9,ONI
+21,Sucumbíos,TODOS,La Niña - Débil,33,ONI
+21,Sucumbíos,TODOS,La Niña - Moderada,6,ONI
+21,Sucumbíos,TODOS,Neutro,181,ONI
+22,Orellana,TODOS,El Niño - Débil,60,ONI
+22,Orellana,TODOS,El Niño - Fuerte,6,ONI
+22,Orellana,TODOS,El Niño - Moderado,5,ONI
+22,Orellana,TODOS,El Niño - Muy Fuerte,4,ONI
+22,Orellana,TODOS,La Niña - Débil,45,ONI
+22,Orellana,TODOS,La Niña - Moderada,6,ONI
+22,Orellana,TODOS,Neutro,111,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Débil,70,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Fuerte,50,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Moderado,23,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,El Niño - Muy Fuerte,45,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,La Niña - Débil,90,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,La Niña - Moderada,5,ONI
+23,Santo Domingo de los Tsáchilas,TODOS,Neutro,163,ONI
+24,Santa Elena,TODOS,El Niño - Débil,18,ONI
+24,Santa Elena,TODOS,El Niño - Fuerte,23,ONI
+24,Santa Elena,TODOS,El Niño - Moderado,6,ONI
+24,Santa Elena,TODOS,El Niño - Muy Fuerte,7,ONI
+24,Santa Elena,TODOS,La Niña - Débil,17,ONI
+24,Santa Elena,TODOS,Neutro,100,ONI

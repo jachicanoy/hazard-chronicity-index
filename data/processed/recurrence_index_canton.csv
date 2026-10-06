@@ -1,0 +1,865 @@
+province_code,province_name_official,canton_code,canton_name_official,hazard_type,meses_enso_con_evento,n_eventos_en_meses_enso,recurrence_index
+01,Azuay,0101,Cuenca,debris_flow,4,4,0.07407407407407407
+01,Azuay,0101,Cuenca,flood,19,67,0.35185185185185186
+01,Azuay,0101,Cuenca,landslide,35,207,0.6481481481481481
+01,Azuay,0101,Cuenca,scour,6,7,0.1111111111111111
+01,Azuay,0102,Girón,flood,5,8,0.09259259259259259
+01,Azuay,0102,Girón,landslide,9,26,0.16666666666666666
+01,Azuay,0102,Girón,scour,1,1,0.018518518518518517
+01,Azuay,0103,Gualaceo,flood,4,6,0.07407407407407407
+01,Azuay,0103,Gualaceo,landslide,10,15,0.18518518518518517
+01,Azuay,0103,Gualaceo,scour,1,1,0.018518518518518517
+01,Azuay,0104,Nabón,flood,2,3,0.037037037037037035
+01,Azuay,0104,Nabón,landslide,6,7,0.1111111111111111
+01,Azuay,0105,Paute,debris_flow,1,4,0.018518518518518517
+01,Azuay,0105,Paute,flood,5,7,0.09259259259259259
+01,Azuay,0105,Paute,landslide,10,21,0.18518518518518517
+01,Azuay,0106,Pucará,flood,2,2,0.037037037037037035
+01,Azuay,0106,Pucará,landslide,18,45,0.3333333333333333
+01,Azuay,0106,Pucará,scour,6,9,0.1111111111111111
+01,Azuay,0108,Santa Isabel,flood,6,6,0.1111111111111111
+01,Azuay,0108,Santa Isabel,landslide,15,23,0.2777777777777778
+01,Azuay,0108,Santa Isabel,scour,3,4,0.05555555555555555
+01,Azuay,0109,Sígsig,flood,2,2,0.037037037037037035
+01,Azuay,0109,Sígsig,landslide,10,15,0.18518518518518517
+01,Azuay,0110,Oña,flood,1,1,0.018518518518518517
+01,Azuay,0110,Oña,landslide,3,5,0.05555555555555555
+01,Azuay,0111,Chordeleg,flood,2,2,0.037037037037037035
+01,Azuay,0111,Chordeleg,landslide,2,2,0.037037037037037035
+01,Azuay,0112,El Pan,landslide,2,2,0.037037037037037035
+01,Azuay,0113,Sevilla de Oro,landslide,14,18,0.25925925925925924
+01,Azuay,0114,Guachapala,flood,2,2,0.037037037037037035
+01,Azuay,0114,Guachapala,landslide,1,3,0.018518518518518517
+01,Azuay,0115,Camilo Ponce enríquez,flood,8,10,0.14814814814814814
+01,Azuay,0115,Camilo Ponce enríquez,landslide,6,6,0.1111111111111111
+01,Azuay,0115,Camilo Ponce enríquez,scour,1,1,0.018518518518518517
+02,Bolívar,0201,Guaranda,debris_flow,7,8,0.12962962962962962
+02,Bolívar,0201,Guaranda,flood,8,11,0.14814814814814814
+02,Bolívar,0201,Guaranda,landslide,34,160,0.6296296296296297
+02,Bolívar,0201,Guaranda,scour,5,7,0.09259259259259259
+02,Bolívar,0202,Chillanes,debris_flow,2,2,0.037037037037037035
+02,Bolívar,0202,Chillanes,flood,10,17,0.18518518518518517
+02,Bolívar,0202,Chillanes,landslide,25,86,0.46296296296296297
+02,Bolívar,0202,Chillanes,scour,4,4,0.07407407407407407
+02,Bolívar,0203,Chimbo,debris_flow,3,4,0.05555555555555555
+02,Bolívar,0203,Chimbo,flood,5,8,0.09259259259259259
+02,Bolívar,0203,Chimbo,landslide,21,67,0.3888888888888889
+02,Bolívar,0203,Chimbo,scour,2,2,0.037037037037037035
+02,Bolívar,0204,Echeandía,debris_flow,1,1,0.018518518518518517
+02,Bolívar,0204,Echeandía,flood,13,19,0.24074074074074073
+02,Bolívar,0204,Echeandía,landslide,17,30,0.3148148148148148
+02,Bolívar,0204,Echeandía,scour,4,6,0.07407407407407407
+02,Bolívar,0205,San Miguel,debris_flow,3,4,0.05555555555555555
+02,Bolívar,0205,San Miguel,flood,5,9,0.09259259259259259
+02,Bolívar,0205,San Miguel,landslide,22,120,0.4074074074074074
+02,Bolívar,0205,San Miguel,scour,1,1,0.018518518518518517
+02,Bolívar,0206,Caluma,debris_flow,1,1,0.018518518518518517
+02,Bolívar,0206,Caluma,flood,12,17,0.2222222222222222
+02,Bolívar,0206,Caluma,landslide,10,15,0.18518518518518517
+02,Bolívar,0206,Caluma,scour,2,3,0.037037037037037035
+02,Bolívar,0207,Las Naves,flood,9,12,0.16666666666666666
+02,Bolívar,0207,Las Naves,landslide,3,3,0.05555555555555555
+02,Bolívar,0207,Las Naves,scour,3,3,0.05555555555555555
+03,Cañar,0301,Azogues,flood,2,4,0.037037037037037035
+03,Cañar,0301,Azogues,landslide,7,7,0.12962962962962962
+03,Cañar,0301,Azogues,scour,1,1,0.018518518518518517
+03,Cañar,0302,Biblián,flood,4,7,0.07407407407407407
+03,Cañar,0302,Biblián,landslide,7,11,0.12962962962962962
+03,Cañar,0303,Cañar,debris_flow,1,1,0.018518518518518517
+03,Cañar,0303,Cañar,flood,5,7,0.09259259259259259
+03,Cañar,0303,Cañar,landslide,18,44,0.3333333333333333
+03,Cañar,0304,La Troncal,flood,10,17,0.18518518518518517
+03,Cañar,0304,La Troncal,landslide,11,13,0.2037037037037037
+03,Cañar,0304,La Troncal,scour,3,3,0.05555555555555555
+03,Cañar,0305,El Tambo,flood,1,1,0.018518518518518517
+03,Cañar,0305,El Tambo,landslide,1,1,0.018518518518518517
+03,Cañar,0306,Déleg,scour,1,1,0.018518518518518517
+03,Cañar,0307,Suscal,flood,1,1,0.018518518518518517
+03,Cañar,0307,Suscal,landslide,3,3,0.05555555555555555
+04,Carchi,0401,Tulcán,debris_flow,3,3,0.05555555555555555
+04,Carchi,0401,Tulcán,flood,8,16,0.14814814814814814
+04,Carchi,0401,Tulcán,landslide,24,38,0.4444444444444444
+04,Carchi,0401,Tulcán,scour,1,1,0.018518518518518517
+04,Carchi,0402,Bolívar,debris_flow,1,2,0.018518518518518517
+04,Carchi,0402,Bolívar,flood,4,4,0.07407407407407407
+04,Carchi,0402,Bolívar,landslide,5,9,0.09259259259259259
+04,Carchi,0403,Espejo,debris_flow,1,1,0.018518518518518517
+04,Carchi,0403,Espejo,flood,2,2,0.037037037037037035
+04,Carchi,0403,Espejo,landslide,7,7,0.12962962962962962
+04,Carchi,0404,Mira,flood,4,4,0.07407407407407407
+04,Carchi,0404,Mira,landslide,21,32,0.3888888888888889
+04,Carchi,0404,Mira,scour,4,4,0.07407407407407407
+04,Carchi,0405,Montúfar,debris_flow,1,2,0.018518518518518517
+04,Carchi,0405,Montúfar,flood,7,9,0.12962962962962962
+04,Carchi,0405,Montúfar,landslide,7,11,0.12962962962962962
+04,Carchi,0406,San Pedro de Huaca,debris_flow,2,2,0.037037037037037035
+04,Carchi,0406,San Pedro de Huaca,flood,1,1,0.018518518518518517
+04,Carchi,0406,San Pedro de Huaca,landslide,1,1,0.018518518518518517
+04,Carchi,0406,San Pedro de Huaca,scour,1,1,0.018518518518518517
+05,Cotopaxi,0501,Latacunga,debris_flow,4,6,0.07407407407407407
+05,Cotopaxi,0501,Latacunga,flood,8,13,0.14814814814814814
+05,Cotopaxi,0501,Latacunga,landslide,7,8,0.12962962962962962
+05,Cotopaxi,0501,Latacunga,scour,5,7,0.09259259259259259
+05,Cotopaxi,0502,La Maná,debris_flow,1,1,0.018518518518518517
+05,Cotopaxi,0502,La Maná,flood,10,19,0.18518518518518517
+05,Cotopaxi,0502,La Maná,landslide,11,16,0.2037037037037037
+05,Cotopaxi,0502,La Maná,scour,4,4,0.07407407407407407
+05,Cotopaxi,0503,Pangua,flood,6,13,0.1111111111111111
+05,Cotopaxi,0503,Pangua,landslide,13,21,0.24074074074074073
+05,Cotopaxi,0503,Pangua,scour,5,6,0.09259259259259259
+05,Cotopaxi,0504,Pujilí,flood,7,14,0.12962962962962962
+05,Cotopaxi,0504,Pujilí,landslide,31,72,0.5740740740740741
+05,Cotopaxi,0505,Salcedo,debris_flow,2,2,0.037037037037037035
+05,Cotopaxi,0505,Salcedo,flood,3,3,0.05555555555555555
+05,Cotopaxi,0505,Salcedo,landslide,1,1,0.018518518518518517
+05,Cotopaxi,0506,Saquisilí,debris_flow,2,2,0.037037037037037035
+05,Cotopaxi,0506,Saquisilí,flood,5,8,0.09259259259259259
+05,Cotopaxi,0506,Saquisilí,landslide,2,2,0.037037037037037035
+05,Cotopaxi,0507,Sigchos,debris_flow,2,3,0.037037037037037035
+05,Cotopaxi,0507,Sigchos,flood,8,12,0.14814814814814814
+05,Cotopaxi,0507,Sigchos,landslide,16,28,0.2962962962962963
+05,Cotopaxi,0507,Sigchos,scour,3,3,0.05555555555555555
+06,Chimborazo,0601,Riobamba,debris_flow,4,6,0.07407407407407407
+06,Chimborazo,0601,Riobamba,flood,6,9,0.1111111111111111
+06,Chimborazo,0601,Riobamba,landslide,30,43,0.5555555555555556
+06,Chimborazo,0601,Riobamba,scour,3,3,0.05555555555555555
+06,Chimborazo,0602,Alausí,debris_flow,6,9,0.1111111111111111
+06,Chimborazo,0602,Alausí,flood,1,1,0.018518518518518517
+06,Chimborazo,0602,Alausí,landslide,35,90,0.6481481481481481
+06,Chimborazo,0602,Alausí,scour,1,2,0.018518518518518517
+06,Chimborazo,0603,Colta,debris_flow,4,5,0.07407407407407407
+06,Chimborazo,0603,Colta,flood,4,4,0.07407407407407407
+06,Chimborazo,0603,Colta,landslide,28,63,0.5185185185185185
+06,Chimborazo,0604,Chambo,debris_flow,1,1,0.018518518518518517
+06,Chimborazo,0604,Chambo,flood,1,1,0.018518518518518517
+06,Chimborazo,0604,Chambo,landslide,7,7,0.12962962962962962
+06,Chimborazo,0605,Chunchi,debris_flow,1,1,0.018518518518518517
+06,Chimborazo,0605,Chunchi,flood,3,3,0.05555555555555555
+06,Chimborazo,0605,Chunchi,landslide,26,64,0.48148148148148145
+06,Chimborazo,0605,Chunchi,scour,2,2,0.037037037037037035
+06,Chimborazo,0606,Guamote,debris_flow,3,4,0.05555555555555555
+06,Chimborazo,0606,Guamote,flood,3,5,0.05555555555555555
+06,Chimborazo,0606,Guamote,landslide,28,45,0.5185185185185185
+06,Chimborazo,0607,Guano,debris_flow,5,6,0.09259259259259259
+06,Chimborazo,0607,Guano,flood,9,11,0.16666666666666666
+06,Chimborazo,0607,Guano,landslide,29,57,0.5370370370370371
+06,Chimborazo,0607,Guano,scour,1,1,0.018518518518518517
+06,Chimborazo,0608,Pallatanga,debris_flow,2,3,0.037037037037037035
+06,Chimborazo,0608,Pallatanga,flood,2,2,0.037037037037037035
+06,Chimborazo,0608,Pallatanga,landslide,19,50,0.35185185185185186
+06,Chimborazo,0608,Pallatanga,scour,4,4,0.07407407407407407
+06,Chimborazo,0609,Penipe,debris_flow,2,2,0.037037037037037035
+06,Chimborazo,0609,Penipe,landslide,17,24,0.3148148148148148
+06,Chimborazo,0609,Penipe,scour,4,4,0.07407407407407407
+06,Chimborazo,0610,Cumandá,debris_flow,3,3,0.05555555555555555
+06,Chimborazo,0610,Cumandá,flood,6,8,0.1111111111111111
+06,Chimborazo,0610,Cumandá,landslide,16,24,0.2962962962962963
+06,Chimborazo,0610,Cumandá,scour,4,4,0.07407407407407407
+07,El Oro,0701,Machala,flood,20,60,0.37037037037037035
+07,El Oro,0701,Machala,scour,3,3,0.05555555555555555
+07,El Oro,0702,Arenillas,flood,14,39,0.25925925925925924
+07,El Oro,0702,Arenillas,landslide,4,5,0.07407407407407407
+07,El Oro,0702,Arenillas,scour,3,3,0.05555555555555555
+07,El Oro,0703,Atahualpa,debris_flow,1,3,0.018518518518518517
+07,El Oro,0703,Atahualpa,flood,1,2,0.018518518518518517
+07,El Oro,0703,Atahualpa,landslide,23,60,0.42592592592592593
+07,El Oro,0703,Atahualpa,scour,2,2,0.037037037037037035
+07,El Oro,0704,Balsas,debris_flow,1,1,0.018518518518518517
+07,El Oro,0704,Balsas,flood,7,8,0.12962962962962962
+07,El Oro,0704,Balsas,landslide,18,39,0.3333333333333333
+07,El Oro,0704,Balsas,scour,6,17,0.1111111111111111
+07,El Oro,0705,Chilla,flood,2,2,0.037037037037037035
+07,El Oro,0705,Chilla,landslide,13,21,0.24074074074074073
+07,El Oro,0705,Chilla,scour,2,2,0.037037037037037035
+07,El Oro,0706,El Guabo,flood,13,26,0.24074074074074073
+07,El Oro,0706,El Guabo,landslide,1,1,0.018518518518518517
+07,El Oro,0706,El Guabo,scour,2,2,0.037037037037037035
+07,El Oro,0707,Huaquillas,flood,17,34,0.3148148148148148
+07,El Oro,0708,Marcabelí,debris_flow,1,3,0.018518518518518517
+07,El Oro,0708,Marcabelí,flood,6,8,0.1111111111111111
+07,El Oro,0708,Marcabelí,landslide,3,7,0.05555555555555555
+07,El Oro,0708,Marcabelí,scour,3,3,0.05555555555555555
+07,El Oro,0709,Pasaje,debris_flow,2,2,0.037037037037037035
+07,El Oro,0709,Pasaje,flood,18,62,0.3333333333333333
+07,El Oro,0709,Pasaje,landslide,13,40,0.24074074074074073
+07,El Oro,0709,Pasaje,scour,6,8,0.1111111111111111
+07,El Oro,0710,Piñas,debris_flow,4,6,0.07407407407407407
+07,El Oro,0710,Piñas,flood,10,17,0.18518518518518517
+07,El Oro,0710,Piñas,landslide,28,122,0.5185185185185185
+07,El Oro,0710,Piñas,scour,10,12,0.18518518518518517
+07,El Oro,0711,Portovelo,debris_flow,3,3,0.05555555555555555
+07,El Oro,0711,Portovelo,flood,8,12,0.14814814814814814
+07,El Oro,0711,Portovelo,landslide,23,67,0.42592592592592593
+07,El Oro,0711,Portovelo,scour,5,8,0.09259259259259259
+07,El Oro,0712,Santa Rosa,debris_flow,2,3,0.037037037037037035
+07,El Oro,0712,Santa Rosa,flood,23,57,0.42592592592592593
+07,El Oro,0712,Santa Rosa,landslide,9,14,0.16666666666666666
+07,El Oro,0712,Santa Rosa,scour,1,1,0.018518518518518517
+07,El Oro,0713,Zaruma,debris_flow,5,5,0.09259259259259259
+07,El Oro,0713,Zaruma,flood,3,3,0.05555555555555555
+07,El Oro,0713,Zaruma,landslide,20,54,0.37037037037037035
+07,El Oro,0713,Zaruma,scour,5,6,0.09259259259259259
+07,El Oro,0714,Las Lajas,debris_flow,1,2,0.018518518518518517
+07,El Oro,0714,Las Lajas,flood,4,5,0.07407407407407407
+07,El Oro,0714,Las Lajas,landslide,13,22,0.24074074074074073
+07,El Oro,0714,Las Lajas,scour,3,5,0.05555555555555555
+08,Esmeraldas,0801,Esmeraldas,debris_flow,2,6,0.037037037037037035
+08,Esmeraldas,0801,Esmeraldas,flood,24,106,0.4444444444444444
+08,Esmeraldas,0801,Esmeraldas,landslide,35,108,0.6481481481481481
+08,Esmeraldas,0801,Esmeraldas,scour,7,9,0.12962962962962962
+08,Esmeraldas,0802,Eloy Alfaro,flood,18,57,0.3333333333333333
+08,Esmeraldas,0802,Eloy Alfaro,landslide,4,5,0.07407407407407407
+08,Esmeraldas,0802,Eloy Alfaro,scour,2,2,0.037037037037037035
+08,Esmeraldas,0803,Muisne,flood,17,84,0.3148148148148148
+08,Esmeraldas,0803,Muisne,landslide,18,28,0.3333333333333333
+08,Esmeraldas,0803,Muisne,scour,7,10,0.12962962962962962
+08,Esmeraldas,0804,Quinindé,debris_flow,1,1,0.018518518518518517
+08,Esmeraldas,0804,Quinindé,flood,27,87,0.5
+08,Esmeraldas,0804,Quinindé,landslide,31,97,0.5740740740740741
+08,Esmeraldas,0804,Quinindé,scour,12,16,0.2222222222222222
+08,Esmeraldas,0805,San Lorenzo,flood,12,32,0.2222222222222222
+08,Esmeraldas,0805,San Lorenzo,landslide,18,21,0.3333333333333333
+08,Esmeraldas,0806,Atacames,flood,15,47,0.2777777777777778
+08,Esmeraldas,0806,Atacames,landslide,8,12,0.14814814814814814
+08,Esmeraldas,0806,Atacames,scour,1,1,0.018518518518518517
+08,Esmeraldas,0807,Rioverde,debris_flow,2,2,0.037037037037037035
+08,Esmeraldas,0807,Rioverde,flood,17,46,0.3148148148148148
+08,Esmeraldas,0807,Rioverde,landslide,10,12,0.18518518518518517
+08,Esmeraldas,0807,Rioverde,scour,2,2,0.037037037037037035
+09,Guayas,0901,Guayaquil,flood,32,218,0.5925925925925926
+09,Guayas,0901,Guayaquil,landslide,15,39,0.2777777777777778
+09,Guayas,0901,Guayaquil,scour,7,10,0.12962962962962962
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),flood,19,45,0.35185185185185186
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),scour,1,1,0.018518518518518517
+09,Guayas,0903,Balao,flood,10,18,0.18518518518518517
+09,Guayas,0903,Balao,scour,1,2,0.018518518518518517
+09,Guayas,0904,Balzar,flood,15,32,0.2777777777777778
+09,Guayas,0904,Balzar,landslide,1,2,0.018518518518518517
+09,Guayas,0904,Balzar,scour,1,1,0.018518518518518517
+09,Guayas,0905,Colimes,flood,10,38,0.18518518518518517
+09,Guayas,0905,Colimes,scour,1,1,0.018518518518518517
+09,Guayas,0906,Daule,flood,20,107,0.37037037037037035
+09,Guayas,0906,Daule,landslide,1,1,0.018518518518518517
+09,Guayas,0907,Durán,flood,21,49,0.3888888888888889
+09,Guayas,0907,Durán,landslide,4,5,0.07407407407407407
+09,Guayas,0907,Durán,scour,2,2,0.037037037037037035
+09,Guayas,0908,El Empalme,flood,13,24,0.24074074074074073
+09,Guayas,0908,El Empalme,landslide,3,3,0.05555555555555555
+09,Guayas,0908,El Empalme,scour,1,1,0.018518518518518517
+09,Guayas,0909,El Triunfo,debris_flow,1,1,0.018518518518518517
+09,Guayas,0909,El Triunfo,flood,10,23,0.18518518518518517
+09,Guayas,0909,El Triunfo,landslide,2,2,0.037037037037037035
+09,Guayas,0909,El Triunfo,scour,4,4,0.07407407407407407
+09,Guayas,0910,Milagro,flood,17,70,0.3148148148148148
+09,Guayas,0911,Naranjal,flood,14,47,0.25925925925925924
+09,Guayas,0911,Naranjal,landslide,1,1,0.018518518518518517
+09,Guayas,0911,Naranjal,scour,4,4,0.07407407407407407
+09,Guayas,0912,Naranjito,flood,13,26,0.24074074074074073
+09,Guayas,0912,Naranjito,scour,6,7,0.1111111111111111
+09,Guayas,0913,Palestina,flood,12,33,0.2222222222222222
+09,Guayas,0913,Palestina,scour,2,2,0.037037037037037035
+09,Guayas,0914,Pedro Carbo,flood,16,51,0.2962962962962963
+09,Guayas,0914,Pedro Carbo,landslide,1,1,0.018518518518518517
+09,Guayas,0914,Pedro Carbo,scour,3,4,0.05555555555555555
+09,Guayas,0916,Samborondón,flood,13,46,0.24074074074074073
+09,Guayas,0918,Santa Lucía,flood,12,41,0.2222222222222222
+09,Guayas,0918,Santa Lucía,scour,1,1,0.018518518518518517
+09,Guayas,0919,Salitre,flood,15,99,0.2777777777777778
+09,Guayas,0919,Salitre,scour,6,6,0.1111111111111111
+09,Guayas,0920,San Jacinto de Yaguachi,flood,15,50,0.2777777777777778
+09,Guayas,0920,San Jacinto de Yaguachi,landslide,1,1,0.018518518518518517
+09,Guayas,0920,San Jacinto de Yaguachi,scour,2,4,0.037037037037037035
+09,Guayas,0921,Playas,flood,10,14,0.18518518518518517
+09,Guayas,0921,Playas,scour,1,1,0.018518518518518517
+09,Guayas,0922,Simón Bolívar,flood,8,21,0.14814814814814814
+09,Guayas,0922,Simón Bolívar,scour,3,4,0.05555555555555555
+09,Guayas,0923,Coronel Marcelino Maridueña,flood,6,10,0.1111111111111111
+09,Guayas,0923,Coronel Marcelino Maridueña,scour,1,1,0.018518518518518517
+09,Guayas,0924,Lomas de Sargentillo,flood,9,16,0.16666666666666666
+09,Guayas,0925,Nobol,flood,11,14,0.2037037037037037
+09,Guayas,0925,Nobol,scour,1,1,0.018518518518518517
+09,Guayas,0927,General  Antonio Elizalde,flood,9,13,0.16666666666666666
+09,Guayas,0927,General  Antonio Elizalde,landslide,6,7,0.1111111111111111
+09,Guayas,0927,General  Antonio Elizalde,scour,6,6,0.1111111111111111
+09,Guayas,0928,Isidro Ayora,flood,9,10,0.16666666666666666
+10,Imbabura,1001,Ibarra,debris_flow,3,3,0.05555555555555555
+10,Imbabura,1001,Ibarra,flood,15,26,0.2777777777777778
+10,Imbabura,1001,Ibarra,landslide,27,76,0.5
+10,Imbabura,1001,Ibarra,scour,3,5,0.05555555555555555
+10,Imbabura,1002,Antonio Ante,flood,6,8,0.1111111111111111
+10,Imbabura,1002,Antonio Ante,landslide,1,1,0.018518518518518517
+10,Imbabura,1003,Cotacachi,debris_flow,2,2,0.037037037037037035
+10,Imbabura,1003,Cotacachi,flood,7,16,0.12962962962962962
+10,Imbabura,1003,Cotacachi,landslide,20,78,0.37037037037037035
+10,Imbabura,1003,Cotacachi,scour,2,3,0.037037037037037035
+10,Imbabura,1004,Otavalo,flood,11,15,0.2037037037037037
+10,Imbabura,1004,Otavalo,landslide,13,29,0.24074074074074073
+10,Imbabura,1004,Otavalo,scour,3,4,0.05555555555555555
+10,Imbabura,1005,Pimampiro,debris_flow,2,2,0.037037037037037035
+10,Imbabura,1005,Pimampiro,flood,3,4,0.05555555555555555
+10,Imbabura,1005,Pimampiro,landslide,13,23,0.24074074074074073
+10,Imbabura,1005,Pimampiro,scour,1,1,0.018518518518518517
+10,Imbabura,1006,San Miguel de Urcuquí,flood,1,1,0.018518518518518517
+10,Imbabura,1006,San Miguel de Urcuquí,landslide,12,22,0.2222222222222222
+11,Loja,1101,Loja,debris_flow,3,4,0.05555555555555555
+11,Loja,1101,Loja,flood,13,39,0.24074074074074073
+11,Loja,1101,Loja,landslide,37,280,0.6851851851851852
+11,Loja,1101,Loja,scour,8,12,0.14814814814814814
+11,Loja,1102,Calvas,debris_flow,1,1,0.018518518518518517
+11,Loja,1102,Calvas,flood,4,7,0.07407407407407407
+11,Loja,1102,Calvas,landslide,18,73,0.3333333333333333
+11,Loja,1102,Calvas,scour,4,4,0.07407407407407407
+11,Loja,1103,Catamayo,debris_flow,2,2,0.037037037037037035
+11,Loja,1103,Catamayo,flood,7,9,0.12962962962962962
+11,Loja,1103,Catamayo,landslide,19,51,0.35185185185185186
+11,Loja,1103,Catamayo,scour,4,5,0.07407407407407407
+11,Loja,1104,Celica,debris_flow,3,3,0.05555555555555555
+11,Loja,1104,Celica,flood,7,9,0.12962962962962962
+11,Loja,1104,Celica,landslide,13,49,0.24074074074074073
+11,Loja,1104,Celica,scour,1,1,0.018518518518518517
+11,Loja,1105,Chaguarpamba,debris_flow,1,3,0.018518518518518517
+11,Loja,1105,Chaguarpamba,flood,3,7,0.05555555555555555
+11,Loja,1105,Chaguarpamba,landslide,20,39,0.37037037037037035
+11,Loja,1105,Chaguarpamba,scour,1,2,0.018518518518518517
+11,Loja,1106,Espíndola,flood,3,4,0.05555555555555555
+11,Loja,1106,Espíndola,landslide,12,33,0.2222222222222222
+11,Loja,1107,Gonzanamá,flood,2,2,0.037037037037037035
+11,Loja,1107,Gonzanamá,landslide,10,27,0.18518518518518517
+11,Loja,1108,Macará,debris_flow,1,1,0.018518518518518517
+11,Loja,1108,Macará,flood,6,11,0.1111111111111111
+11,Loja,1108,Macará,landslide,12,34,0.2222222222222222
+11,Loja,1108,Macará,scour,3,3,0.05555555555555555
+11,Loja,1109,Paltas,debris_flow,1,1,0.018518518518518517
+11,Loja,1109,Paltas,flood,2,5,0.037037037037037035
+11,Loja,1109,Paltas,landslide,17,59,0.3148148148148148
+11,Loja,1109,Paltas,scour,1,1,0.018518518518518517
+11,Loja,1110,Puyango,flood,2,4,0.037037037037037035
+11,Loja,1110,Puyango,landslide,18,47,0.3333333333333333
+11,Loja,1111,Saraguro,debris_flow,1,1,0.018518518518518517
+11,Loja,1111,Saraguro,flood,4,6,0.07407407407407407
+11,Loja,1111,Saraguro,landslide,16,37,0.2962962962962963
+11,Loja,1111,Saraguro,scour,1,1,0.018518518518518517
+11,Loja,1112,Sozoranga,flood,3,3,0.05555555555555555
+11,Loja,1112,Sozoranga,landslide,19,65,0.35185185185185186
+11,Loja,1112,Sozoranga,scour,1,1,0.018518518518518517
+11,Loja,1113,Zapotillo,flood,7,20,0.12962962962962962
+11,Loja,1113,Zapotillo,landslide,9,14,0.16666666666666666
+11,Loja,1114,Pindal,debris_flow,1,1,0.018518518518518517
+11,Loja,1114,Pindal,flood,4,4,0.07407407407407407
+11,Loja,1114,Pindal,landslide,8,15,0.14814814814814814
+11,Loja,1115,Quilanga,flood,2,2,0.037037037037037035
+11,Loja,1115,Quilanga,landslide,13,19,0.24074074074074073
+11,Loja,1116,Olmedo,debris_flow,1,1,0.018518518518518517
+11,Loja,1116,Olmedo,flood,2,2,0.037037037037037035
+11,Loja,1116,Olmedo,landslide,9,17,0.16666666666666666
+12,Los Ríos,1201,Babahoyo,flood,27,119,0.5
+12,Los Ríos,1201,Babahoyo,scour,14,19,0.25925925925925924
+12,Los Ríos,1202,Baba,flood,12,45,0.2222222222222222
+12,Los Ríos,1202,Baba,scour,2,2,0.037037037037037035
+12,Los Ríos,1203,Montalvo,flood,20,32,0.37037037037037035
+12,Los Ríos,1203,Montalvo,landslide,5,5,0.09259259259259259
+12,Los Ríos,1203,Montalvo,scour,5,6,0.09259259259259259
+12,Los Ríos,1204,Puebloviejo,flood,12,17,0.2222222222222222
+12,Los Ríos,1204,Puebloviejo,scour,2,2,0.037037037037037035
+12,Los Ríos,1205,Quevedo,flood,23,63,0.42592592592592593
+12,Los Ríos,1205,Quevedo,landslide,11,16,0.2037037037037037
+12,Los Ríos,1205,Quevedo,scour,3,3,0.05555555555555555
+12,Los Ríos,1206,Urdaneta,flood,19,46,0.35185185185185186
+12,Los Ríos,1206,Urdaneta,landslide,3,3,0.05555555555555555
+12,Los Ríos,1206,Urdaneta,scour,4,4,0.07407407407407407
+12,Los Ríos,1207,Ventanas,flood,14,43,0.25925925925925924
+12,Los Ríos,1207,Ventanas,scour,8,10,0.14814814814814814
+12,Los Ríos,1208,Vinces,flood,12,28,0.2222222222222222
+12,Los Ríos,1208,Vinces,scour,4,4,0.07407407407407407
+12,Los Ríos,1209,Palenque,flood,6,9,0.1111111111111111
+12,Los Ríos,1210,Buena Fe,flood,7,8,0.12962962962962962
+12,Los Ríos,1210,Buena Fe,landslide,2,2,0.037037037037037035
+12,Los Ríos,1210,Buena Fe,scour,1,1,0.018518518518518517
+12,Los Ríos,1211,Valencia,flood,13,21,0.24074074074074073
+12,Los Ríos,1211,Valencia,landslide,1,1,0.018518518518518517
+12,Los Ríos,1211,Valencia,scour,5,6,0.09259259259259259
+12,Los Ríos,1212,Mocache,flood,9,11,0.16666666666666666
+12,Los Ríos,1212,Mocache,landslide,2,2,0.037037037037037035
+12,Los Ríos,1212,Mocache,scour,3,5,0.05555555555555555
+12,Los Ríos,1213,Quinsaloma,flood,10,10,0.18518518518518517
+13,Manabí,1301,Portoviejo,debris_flow,1,1,0.018518518518518517
+13,Manabí,1301,Portoviejo,flood,24,128,0.4444444444444444
+13,Manabí,1301,Portoviejo,landslide,20,35,0.37037037037037035
+13,Manabí,1301,Portoviejo,scour,3,3,0.05555555555555555
+13,Manabí,1302,Bolívar,flood,13,20,0.24074074074074073
+13,Manabí,1302,Bolívar,landslide,9,13,0.16666666666666666
+13,Manabí,1302,Bolívar,scour,1,1,0.018518518518518517
+13,Manabí,1303,Chone,debris_flow,1,1,0.018518518518518517
+13,Manabí,1303,Chone,flood,27,116,0.5
+13,Manabí,1303,Chone,landslide,17,26,0.3148148148148148
+13,Manabí,1303,Chone,scour,1,1,0.018518518518518517
+13,Manabí,1304,El Carmen,flood,12,26,0.2222222222222222
+13,Manabí,1304,El Carmen,landslide,17,26,0.3148148148148148
+13,Manabí,1304,El Carmen,scour,4,4,0.07407407407407407
+13,Manabí,1305,Flavio Alfaro,flood,16,23,0.2962962962962963
+13,Manabí,1305,Flavio Alfaro,landslide,19,42,0.35185185185185186
+13,Manabí,1305,Flavio Alfaro,scour,3,3,0.05555555555555555
+13,Manabí,1306,Jipijapa,debris_flow,1,1,0.018518518518518517
+13,Manabí,1306,Jipijapa,flood,13,35,0.24074074074074073
+13,Manabí,1306,Jipijapa,landslide,14,24,0.25925925925925924
+13,Manabí,1306,Jipijapa,scour,3,3,0.05555555555555555
+13,Manabí,1307,Junín,flood,8,10,0.14814814814814814
+13,Manabí,1307,Junín,landslide,8,11,0.14814814814814814
+13,Manabí,1307,Junín,scour,1,1,0.018518518518518517
+13,Manabí,1308,Manta,debris_flow,1,1,0.018518518518518517
+13,Manabí,1308,Manta,flood,16,46,0.2962962962962963
+13,Manabí,1308,Manta,landslide,9,13,0.16666666666666666
+13,Manabí,1308,Manta,scour,2,2,0.037037037037037035
+13,Manabí,1309,Montecristi,flood,11,28,0.2037037037037037
+13,Manabí,1309,Montecristi,landslide,2,2,0.037037037037037035
+13,Manabí,1309,Montecristi,scour,1,2,0.018518518518518517
+13,Manabí,1310,Paján,flood,10,26,0.18518518518518517
+13,Manabí,1310,Paján,landslide,6,13,0.1111111111111111
+13,Manabí,1310,Paján,scour,4,6,0.07407407407407407
+13,Manabí,1311,Pichincha,debris_flow,1,1,0.018518518518518517
+13,Manabí,1311,Pichincha,flood,5,7,0.09259259259259259
+13,Manabí,1311,Pichincha,landslide,8,13,0.14814814814814814
+13,Manabí,1311,Pichincha,scour,1,1,0.018518518518518517
+13,Manabí,1312,Rocafuerte,debris_flow,2,2,0.037037037037037035
+13,Manabí,1312,Rocafuerte,flood,14,26,0.25925925925925924
+13,Manabí,1312,Rocafuerte,landslide,5,5,0.09259259259259259
+13,Manabí,1312,Rocafuerte,scour,3,3,0.05555555555555555
+13,Manabí,1313,Santa Ana,debris_flow,1,1,0.018518518518518517
+13,Manabí,1313,Santa Ana,flood,16,59,0.2962962962962963
+13,Manabí,1313,Santa Ana,landslide,5,6,0.09259259259259259
+13,Manabí,1313,Santa Ana,scour,3,3,0.05555555555555555
+13,Manabí,1314,Sucre,debris_flow,1,4,0.018518518518518517
+13,Manabí,1314,Sucre,flood,14,48,0.25925925925925924
+13,Manabí,1314,Sucre,landslide,6,7,0.1111111111111111
+13,Manabí,1314,Sucre,scour,1,1,0.018518518518518517
+13,Manabí,1315,Tosagua,debris_flow,1,1,0.018518518518518517
+13,Manabí,1315,Tosagua,flood,13,27,0.24074074074074073
+13,Manabí,1315,Tosagua,landslide,8,11,0.14814814814814814
+13,Manabí,1315,Tosagua,scour,1,1,0.018518518518518517
+13,Manabí,1316,24 de Mayo,debris_flow,1,1,0.018518518518518517
+13,Manabí,1316,24 de Mayo,flood,11,27,0.2037037037037037
+13,Manabí,1316,24 de Mayo,landslide,4,4,0.07407407407407407
+13,Manabí,1317,Pedernales,flood,19,39,0.35185185185185186
+13,Manabí,1317,Pedernales,landslide,10,12,0.18518518518518517
+13,Manabí,1317,Pedernales,scour,1,1,0.018518518518518517
+13,Manabí,1318,Olmedo,flood,12,17,0.2222222222222222
+13,Manabí,1318,Olmedo,landslide,5,5,0.09259259259259259
+13,Manabí,1318,Olmedo,scour,1,2,0.018518518518518517
+13,Manabí,1319,Puerto López,flood,13,21,0.24074074074074073
+13,Manabí,1319,Puerto López,landslide,3,6,0.05555555555555555
+13,Manabí,1319,Puerto López,scour,1,1,0.018518518518518517
+13,Manabí,1320,Jama,debris_flow,1,1,0.018518518518518517
+13,Manabí,1320,Jama,flood,5,8,0.09259259259259259
+13,Manabí,1320,Jama,landslide,4,10,0.07407407407407407
+13,Manabí,1321,Jaramijó,flood,6,10,0.1111111111111111
+13,Manabí,1321,Jaramijó,landslide,1,1,0.018518518518518517
+13,Manabí,1321,Jaramijó,scour,1,1,0.018518518518518517
+13,Manabí,1322,San Vicente,flood,10,19,0.18518518518518517
+13,Manabí,1322,San Vicente,landslide,3,3,0.05555555555555555
+14,Morona Santiago,1401,Morona,flood,20,35,0.37037037037037035
+14,Morona Santiago,1401,Morona,landslide,40,100,0.7407407407407407
+14,Morona Santiago,1401,Morona,scour,5,5,0.09259259259259259
+14,Morona Santiago,1402,Gualaquiza,debris_flow,1,2,0.018518518518518517
+14,Morona Santiago,1402,Gualaquiza,flood,8,10,0.14814814814814814
+14,Morona Santiago,1402,Gualaquiza,landslide,13,24,0.24074074074074073
+14,Morona Santiago,1402,Gualaquiza,scour,8,10,0.14814814814814814
+14,Morona Santiago,1403,Limón Indanza,debris_flow,3,4,0.05555555555555555
+14,Morona Santiago,1403,Limón Indanza,flood,1,2,0.018518518518518517
+14,Morona Santiago,1403,Limón Indanza,landslide,34,137,0.6296296296296297
+14,Morona Santiago,1403,Limón Indanza,scour,3,3,0.05555555555555555
+14,Morona Santiago,1404,Palora,flood,3,3,0.05555555555555555
+14,Morona Santiago,1404,Palora,landslide,2,2,0.037037037037037035
+14,Morona Santiago,1405,Santiago,flood,4,4,0.07407407407407407
+14,Morona Santiago,1405,Santiago,landslide,34,68,0.6296296296296297
+14,Morona Santiago,1405,Santiago,scour,4,4,0.07407407407407407
+14,Morona Santiago,1406,Sucúa,debris_flow,1,1,0.018518518518518517
+14,Morona Santiago,1406,Sucúa,flood,3,3,0.05555555555555555
+14,Morona Santiago,1406,Sucúa,landslide,3,3,0.05555555555555555
+14,Morona Santiago,1406,Sucúa,scour,2,2,0.037037037037037035
+14,Morona Santiago,1407,Huamboya,flood,5,6,0.09259259259259259
+14,Morona Santiago,1407,Huamboya,landslide,8,11,0.14814814814814814
+14,Morona Santiago,1407,Huamboya,scour,1,1,0.018518518518518517
+14,Morona Santiago,1408,San Juan Bosco,flood,1,1,0.018518518518518517
+14,Morona Santiago,1408,San Juan Bosco,landslide,12,17,0.2222222222222222
+14,Morona Santiago,1408,San Juan Bosco,scour,1,2,0.018518518518518517
+14,Morona Santiago,1409,Taisha,flood,3,4,0.05555555555555555
+14,Morona Santiago,1409,Taisha,landslide,5,5,0.09259259259259259
+14,Morona Santiago,1409,Taisha,scour,5,6,0.09259259259259259
+14,Morona Santiago,1410,Logroño,flood,4,4,0.07407407407407407
+14,Morona Santiago,1410,Logroño,landslide,3,3,0.05555555555555555
+14,Morona Santiago,1410,Logroño,scour,1,1,0.018518518518518517
+14,Morona Santiago,1411,Pablo Sexto,scour,1,1,0.018518518518518517
+14,Morona Santiago,1412,Tiwintza,flood,9,9,0.16666666666666666
+14,Morona Santiago,1412,Tiwintza,landslide,15,18,0.2777777777777778
+14,Morona Santiago,1412,Tiwintza,scour,2,3,0.037037037037037035
+15,Napo,1501,Tena,flood,16,26,0.2962962962962963
+15,Napo,1501,Tena,landslide,15,26,0.2777777777777778
+15,Napo,1501,Tena,scour,5,11,0.09259259259259259
+15,Napo,1503,Archidona,debris_flow,1,1,0.018518518518518517
+15,Napo,1503,Archidona,flood,8,12,0.14814814814814814
+15,Napo,1503,Archidona,landslide,33,98,0.6111111111111112
+15,Napo,1503,Archidona,scour,2,2,0.037037037037037035
+15,Napo,1504,El Chaco,debris_flow,5,9,0.09259259259259259
+15,Napo,1504,El Chaco,flood,4,6,0.07407407407407407
+15,Napo,1504,El Chaco,landslide,34,58,0.6296296296296297
+15,Napo,1504,El Chaco,scour,8,12,0.14814814814814814
+15,Napo,1507,Quijos,debris_flow,3,8,0.05555555555555555
+15,Napo,1507,Quijos,flood,3,3,0.05555555555555555
+15,Napo,1507,Quijos,landslide,33,99,0.6111111111111112
+15,Napo,1509,Carlos Julio Arosemena Tola,flood,2,2,0.037037037037037035
+15,Napo,1509,Carlos Julio Arosemena Tola,landslide,3,4,0.05555555555555555
+16,Pastaza,1601,Pastaza,flood,19,40,0.35185185185185186
+16,Pastaza,1601,Pastaza,landslide,32,67,0.5925925925925926
+16,Pastaza,1601,Pastaza,scour,8,17,0.14814814814814814
+16,Pastaza,1602,Mera,flood,5,6,0.09259259259259259
+16,Pastaza,1602,Mera,landslide,30,60,0.5555555555555556
+16,Pastaza,1602,Mera,scour,8,8,0.14814814814814814
+16,Pastaza,1603,Santa Clara,flood,2,2,0.037037037037037035
+16,Pastaza,1603,Santa Clara,landslide,11,13,0.2037037037037037
+16,Pastaza,1604,Arajuno,flood,14,18,0.25925925925925924
+16,Pastaza,1604,Arajuno,landslide,16,22,0.2962962962962963
+16,Pastaza,1604,Arajuno,scour,4,4,0.07407407407407407
+17,Pichincha,1701,Distrito Metropolitano de Quito,debris_flow,12,15,0.2222222222222222
+17,Pichincha,1701,Distrito Metropolitano de Quito,flood,31,136,0.5740740740740741
+17,Pichincha,1701,Distrito Metropolitano de Quito,landslide,44,680,0.8148148148148148
+17,Pichincha,1701,Distrito Metropolitano de Quito,scour,18,23,0.3333333333333333
+17,Pichincha,1702,Cayambe,flood,7,13,0.12962962962962962
+17,Pichincha,1702,Cayambe,landslide,14,16,0.25925925925925924
+17,Pichincha,1702,Cayambe,scour,2,2,0.037037037037037035
+17,Pichincha,1703,Mejía,debris_flow,3,3,0.05555555555555555
+17,Pichincha,1703,Mejía,flood,15,25,0.2777777777777778
+17,Pichincha,1703,Mejía,landslide,36,153,0.6666666666666666
+17,Pichincha,1703,Mejía,scour,2,5,0.037037037037037035
+17,Pichincha,1704,Pedro Moncayo,flood,3,4,0.05555555555555555
+17,Pichincha,1704,Pedro Moncayo,landslide,15,19,0.2777777777777778
+17,Pichincha,1705,Rumiñahui,flood,9,25,0.16666666666666666
+17,Pichincha,1705,Rumiñahui,landslide,8,13,0.14814814814814814
+17,Pichincha,1705,Rumiñahui,scour,2,2,0.037037037037037035
+17,Pichincha,1707,San Miguel de los Bancos,flood,4,5,0.07407407407407407
+17,Pichincha,1707,San Miguel de los Bancos,landslide,18,30,0.3333333333333333
+17,Pichincha,1708,Pedro Vicente Maldonado,debris_flow,1,1,0.018518518518518517
+17,Pichincha,1708,Pedro Vicente Maldonado,flood,1,1,0.018518518518518517
+17,Pichincha,1708,Pedro Vicente Maldonado,landslide,5,7,0.09259259259259259
+17,Pichincha,1709,Puerto Quito,flood,13,18,0.24074074074074073
+17,Pichincha,1709,Puerto Quito,landslide,9,18,0.16666666666666666
+17,Pichincha,1709,Puerto Quito,scour,2,2,0.037037037037037035
+18,Tungurahua,1801,Ambato,debris_flow,8,9,0.14814814814814814
+18,Tungurahua,1801,Ambato,flood,22,35,0.4074074074074074
+18,Tungurahua,1801,Ambato,landslide,48,154,0.8888888888888888
+18,Tungurahua,1801,Ambato,scour,13,17,0.24074074074074073
+18,Tungurahua,1802,Baños de Agua Santa,debris_flow,6,7,0.1111111111111111
+18,Tungurahua,1802,Baños de Agua Santa,flood,3,3,0.05555555555555555
+18,Tungurahua,1802,Baños de Agua Santa,landslide,39,203,0.7222222222222222
+18,Tungurahua,1802,Baños de Agua Santa,scour,5,6,0.09259259259259259
+18,Tungurahua,1803,Cevallos,debris_flow,1,1,0.018518518518518517
+18,Tungurahua,1803,Cevallos,flood,5,5,0.09259259259259259
+18,Tungurahua,1803,Cevallos,landslide,2,2,0.037037037037037035
+18,Tungurahua,1803,Cevallos,scour,1,1,0.018518518518518517
+18,Tungurahua,1804,Mocha,debris_flow,3,3,0.05555555555555555
+18,Tungurahua,1804,Mocha,flood,3,3,0.05555555555555555
+18,Tungurahua,1804,Mocha,landslide,10,12,0.18518518518518517
+18,Tungurahua,1805,Patate,debris_flow,1,2,0.018518518518518517
+18,Tungurahua,1805,Patate,flood,5,7,0.09259259259259259
+18,Tungurahua,1805,Patate,landslide,20,46,0.37037037037037035
+18,Tungurahua,1805,Patate,scour,1,1,0.018518518518518517
+18,Tungurahua,1806,Quero,debris_flow,1,1,0.018518518518518517
+18,Tungurahua,1806,Quero,flood,3,4,0.05555555555555555
+18,Tungurahua,1806,Quero,landslide,3,3,0.05555555555555555
+18,Tungurahua,1807,San Pedro de Pelileo,flood,4,4,0.07407407407407407
+18,Tungurahua,1807,San Pedro de Pelileo,landslide,40,90,0.7407407407407407
+18,Tungurahua,1808,Santiago de Píllaro,flood,4,11,0.07407407407407407
+18,Tungurahua,1808,Santiago de Píllaro,landslide,20,24,0.37037037037037035
+18,Tungurahua,1808,Santiago de Píllaro,scour,2,2,0.037037037037037035
+18,Tungurahua,1809,Tisaleo,debris_flow,1,2,0.018518518518518517
+18,Tungurahua,1809,Tisaleo,flood,2,2,0.037037037037037035
+18,Tungurahua,1809,Tisaleo,landslide,3,3,0.05555555555555555
+19,Zamora Chinchipe,1901,Zamora,debris_flow,3,3,0.05555555555555555
+19,Zamora Chinchipe,1901,Zamora,flood,16,23,0.2962962962962963
+19,Zamora Chinchipe,1901,Zamora,landslide,35,155,0.6481481481481481
+19,Zamora Chinchipe,1901,Zamora,scour,4,5,0.07407407407407407
+19,Zamora Chinchipe,1902,Chinchipe,flood,2,2,0.037037037037037035
+19,Zamora Chinchipe,1902,Chinchipe,landslide,18,32,0.3333333333333333
+19,Zamora Chinchipe,1903,Nangaritza,debris_flow,1,1,0.018518518518518517
+19,Zamora Chinchipe,1903,Nangaritza,flood,5,5,0.09259259259259259
+19,Zamora Chinchipe,1903,Nangaritza,landslide,2,2,0.037037037037037035
+19,Zamora Chinchipe,1903,Nangaritza,scour,1,1,0.018518518518518517
+19,Zamora Chinchipe,1904,Yacuambi,debris_flow,1,1,0.018518518518518517
+19,Zamora Chinchipe,1904,Yacuambi,flood,2,2,0.037037037037037035
+19,Zamora Chinchipe,1904,Yacuambi,landslide,21,28,0.3888888888888889
+19,Zamora Chinchipe,1904,Yacuambi,scour,1,1,0.018518518518518517
+19,Zamora Chinchipe,1905,Yantzaza,debris_flow,2,2,0.037037037037037035
+19,Zamora Chinchipe,1905,Yantzaza,flood,11,16,0.2037037037037037
+19,Zamora Chinchipe,1905,Yantzaza,landslide,21,27,0.3888888888888889
+19,Zamora Chinchipe,1905,Yantzaza,scour,1,1,0.018518518518518517
+19,Zamora Chinchipe,1906,El Pangui,flood,9,12,0.16666666666666666
+19,Zamora Chinchipe,1906,El Pangui,landslide,7,8,0.12962962962962962
+19,Zamora Chinchipe,1907,Centinela del Cóndor,flood,6,8,0.1111111111111111
+19,Zamora Chinchipe,1907,Centinela del Cóndor,landslide,15,28,0.2777777777777778
+19,Zamora Chinchipe,1908,Palanda,debris_flow,2,2,0.037037037037037035
+19,Zamora Chinchipe,1908,Palanda,flood,1,2,0.018518518518518517
+19,Zamora Chinchipe,1908,Palanda,landslide,29,83,0.5370370370370371
+19,Zamora Chinchipe,1909,Paquisha,flood,2,2,0.037037037037037035
+19,Zamora Chinchipe,1909,Paquisha,landslide,5,8,0.09259259259259259
+20,Galápagos,2001,San Cristóbal,debris_flow,1,1,0.018518518518518517
+20,Galápagos,2001,San Cristóbal,flood,5,9,0.09259259259259259
+20,Galápagos,2001,San Cristóbal,landslide,1,1,0.018518518518518517
+20,Galápagos,2002,Isabela,flood,1,1,0.018518518518518517
+20,Galápagos,2003,Santa Cruz,flood,6,11,0.1111111111111111
+21,Sucumbíos,2101,Lago Agrio,flood,4,6,0.07407407407407407
+21,Sucumbíos,2101,Lago Agrio,landslide,4,4,0.07407407407407407
+21,Sucumbíos,2101,Lago Agrio,scour,1,2,0.018518518518518517
+21,Sucumbíos,2102,Gonzalo Pizarro,flood,5,6,0.09259259259259259
+21,Sucumbíos,2102,Gonzalo Pizarro,landslide,19,29,0.35185185185185186
+21,Sucumbíos,2102,Gonzalo Pizarro,scour,8,8,0.14814814814814814
+21,Sucumbíos,2103,Putumayo,flood,7,12,0.12962962962962962
+21,Sucumbíos,2103,Putumayo,scour,3,3,0.05555555555555555
+21,Sucumbíos,2104,Shushufindi,flood,6,9,0.1111111111111111
+21,Sucumbíos,2105,Sucumbíos,flood,1,1,0.018518518518518517
+21,Sucumbíos,2105,Sucumbíos,landslide,12,34,0.2222222222222222
+21,Sucumbíos,2106,Cascales,landslide,1,1,0.018518518518518517
+21,Sucumbíos,2106,Cascales,scour,1,1,0.018518518518518517
+21,Sucumbíos,2107,Cuyabeno,flood,2,3,0.037037037037037035
+22,Orellana,2201,Francisco de Orellana,flood,9,25,0.16666666666666666
+22,Orellana,2201,Francisco de Orellana,landslide,11,21,0.2037037037037037
+22,Orellana,2201,Francisco de Orellana,scour,8,11,0.14814814814814814
+22,Orellana,2202,Aguarico,flood,6,21,0.1111111111111111
+22,Orellana,2203,La Joya de los Sachas,flood,6,10,0.1111111111111111
+22,Orellana,2203,La Joya de los Sachas,landslide,1,1,0.018518518518518517
+22,Orellana,2203,La Joya de los Sachas,scour,1,1,0.018518518518518517
+22,Orellana,2204,Loreto,flood,6,12,0.1111111111111111
+22,Orellana,2204,Loreto,landslide,11,14,0.2037037037037037
+22,Orellana,2204,Loreto,scour,1,1,0.018518518518518517
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,debris_flow,1,1,0.018518518518518517
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,flood,31,121,0.5740740740740741
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,landslide,35,141,0.6481481481481481
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,scour,12,19,0.2222222222222222
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,flood,11,19,0.2037037037037037
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,landslide,6,8,0.1111111111111111
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,scour,2,2,0.037037037037037035
+24,Santa Elena,2401,Santa Elena,flood,13,67,0.24074074074074073
+24,Santa Elena,2401,Santa Elena,landslide,5,9,0.09259259259259259
+24,Santa Elena,2401,Santa Elena,scour,6,8,0.1111111111111111
+24,Santa Elena,2402,La Libertad,flood,9,15,0.16666666666666666
+24,Santa Elena,2403,Salinas,flood,7,18,0.12962962962962962
+24,Santa Elena,2403,Salinas,scour,2,2,0.037037037037037035
+16,Pastaza,1601,Pastaza,TODOS,36,124,0.6666666666666666
+14,Morona Santiago,1401,Morona,TODOS,45,140,0.8333333333333334
+19,Zamora Chinchipe,1909,Paquisha,TODOS,7,10,0.12962962962962962
+18,Tungurahua,1801,Ambato,TODOS,50,215,0.9259259259259259
+19,Zamora Chinchipe,1901,Zamora,TODOS,39,186,0.7222222222222222
+08,Esmeraldas,0801,Esmeraldas,TODOS,40,229,0.7407407407407407
+01,Azuay,0108,Santa Isabel,TODOS,16,33,0.2962962962962963
+05,Cotopaxi,0502,La Maná,TODOS,19,40,0.35185185185185186
+11,Loja,1101,Loja,TODOS,41,335,0.7592592592592593
+01,Azuay,0101,Cuenca,TODOS,37,285,0.6851851851851852
+18,Tungurahua,1802,Baños de Agua Santa,TODOS,41,219,0.7592592592592593
+18,Tungurahua,1807,San Pedro de Pelileo,TODOS,40,94,0.7407407407407407
+23,Santo Domingo de los Tsáchilas,2301,Santo Domingo,TODOS,40,282,0.7407407407407407
+16,Pastaza,1602,Mera,TODOS,35,74,0.6481481481481481
+13,Manabí,1305,Flavio Alfaro,TODOS,27,68,0.5
+03,Cañar,0304,La Troncal,TODOS,18,33,0.3333333333333333
+11,Loja,1103,Catamayo,TODOS,21,67,0.3888888888888889
+01,Azuay,0115,Camilo Ponce enríquez,TODOS,11,17,0.2037037037037037
+17,Pichincha,1704,Pedro Moncayo,TODOS,16,23,0.2962962962962963
+09,Guayas,0901,Guayaquil,TODOS,33,267,0.6111111111111112
+16,Pastaza,1604,Arajuno,TODOS,25,44,0.46296296296296297
+11,Loja,1109,Paltas,TODOS,17,66,0.3148148148148148
+19,Zamora Chinchipe,1902,Chinchipe,TODOS,19,34,0.35185185185185186
+17,Pichincha,1701,Distrito Metropolitano de Quito,TODOS,46,854,0.8518518518518519
+17,Pichincha,1703,Mejía,TODOS,38,186,0.7037037037037037
+11,Loja,1111,Saraguro,TODOS,19,45,0.35185185185185186
+21,Sucumbíos,2102,Gonzalo Pizarro,TODOS,27,43,0.5
+06,Chimborazo,0603,Colta,TODOS,28,72,0.5185185185185185
+18,Tungurahua,1809,Tisaleo,TODOS,5,7,0.09259259259259259
+15,Napo,1501,Tena,TODOS,28,63,0.5185185185185185
+02,Bolívar,0201,Guaranda,TODOS,34,186,0.6296296296296297
+09,Guayas,0927,General  Antonio Elizalde,TODOS,17,26,0.3148148148148148
+11,Loja,1106,Espíndola,TODOS,13,37,0.24074074074074073
+01,Azuay,0109,Sígsig,TODOS,11,17,0.2037037037037037
+11,Loja,1105,Chaguarpamba,TODOS,20,51,0.37037037037037035
+06,Chimborazo,0609,Penipe,TODOS,20,30,0.37037037037037035
+14,Morona Santiago,1412,Tiwintza,TODOS,21,30,0.3888888888888889
+14,Morona Santiago,1403,Limón Indanza,TODOS,34,146,0.6296296296296297
+19,Zamora Chinchipe,1908,Palanda,TODOS,30,87,0.5555555555555556
+08,Esmeraldas,0804,Quinindé,TODOS,38,201,0.7037037037037037
+06,Chimborazo,0605,Chunchi,TODOS,27,70,0.5
+10,Imbabura,1001,Ibarra,TODOS,31,110,0.5740740740740741
+06,Chimborazo,0602,Alausí,TODOS,35,102,0.6481481481481481
+13,Manabí,1308,Manta,TODOS,17,62,0.3148148148148148
+13,Manabí,1307,Junín,TODOS,11,22,0.2037037037037037
+13,Manabí,1309,Montecristi,TODOS,13,32,0.24074074074074073
+13,Manabí,1312,Rocafuerte,TODOS,20,36,0.37037037037037035
+13,Manabí,1303,Chone,TODOS,31,144,0.5740740740740741
+08,Esmeraldas,0807,Rioverde,TODOS,22,62,0.4074074074074074
+09,Guayas,0904,Balzar,TODOS,16,35,0.2962962962962963
+02,Bolívar,0205,San Miguel,TODOS,22,134,0.4074074074074074
+06,Chimborazo,0607,Guano,TODOS,34,75,0.6296296296296297
+08,Esmeraldas,0802,Eloy Alfaro,TODOS,19,64,0.35185185185185186
+04,Carchi,0401,Tulcán,TODOS,27,58,0.5
+07,El Oro,0703,Atahualpa,TODOS,23,67,0.42592592592592593
+12,Los Ríos,1203,Montalvo,TODOS,23,43,0.42592592592592593
+02,Bolívar,0202,Chillanes,TODOS,25,109,0.46296296296296297
+09,Guayas,0916,Samborondón,TODOS,13,46,0.24074074074074073
+09,Guayas,0908,El Empalme,TODOS,15,28,0.2777777777777778
+12,Los Ríos,1206,Urdaneta,TODOS,19,53,0.35185185185185186
+12,Los Ríos,1207,Ventanas,TODOS,17,53,0.3148148148148148
+17,Pichincha,1707,San Miguel de los Bancos,TODOS,18,35,0.3333333333333333
+09,Guayas,0909,El Triunfo,TODOS,12,30,0.2222222222222222
+07,El Oro,0701,Machala,TODOS,21,63,0.3888888888888889
+04,Carchi,0402,Bolívar,TODOS,9,15,0.16666666666666666
+09,Guayas,0919,Salitre,TODOS,18,105,0.3333333333333333
+09,Guayas,0913,Palestina,TODOS,13,35,0.24074074074074073
+01,Azuay,0102,Girón,TODOS,10,35,0.18518518518518517
+13,Manabí,1301,Portoviejo,TODOS,30,167,0.5555555555555556
+01,Azuay,0112,El Pan,TODOS,2,2,0.037037037037037035
+18,Tungurahua,1804,Mocha,TODOS,13,18,0.24074074074074073
+07,El Oro,0713,Zaruma,TODOS,23,68,0.42592592592592593
+08,Esmeraldas,0803,Muisne,TODOS,27,122,0.5
+13,Manabí,1318,Olmedo,TODOS,14,24,0.25925925925925924
+22,Orellana,2204,Loreto,TODOS,15,27,0.2777777777777778
+07,El Oro,0709,Pasaje,TODOS,22,112,0.4074074074074074
+15,Napo,1503,Archidona,TODOS,36,113,0.6666666666666666
+06,Chimborazo,0610,Cumandá,TODOS,19,39,0.35185185185185186
+09,Guayas,0920,San Jacinto de Yaguachi,TODOS,15,55,0.2777777777777778
+09,Guayas,0907,Durán,TODOS,23,56,0.42592592592592593
+09,Guayas,0911,Naranjal,TODOS,16,52,0.2962962962962963
+13,Manabí,1317,Pedernales,TODOS,24,52,0.4444444444444444
+05,Cotopaxi,0506,Saquisilí,TODOS,9,12,0.16666666666666666
+06,Chimborazo,0601,Riobamba,TODOS,32,61,0.5925925925925926
+11,Loja,1110,Puyango,TODOS,18,51,0.3333333333333333
+11,Loja,1102,Calvas,TODOS,19,85,0.35185185185185186
+01,Azuay,0103,Gualaceo,TODOS,13,22,0.24074074074074073
+19,Zamora Chinchipe,1904,Yacuambi,TODOS,22,32,0.4074074074074074
+09,Guayas,0925,Nobol,TODOS,11,15,0.2037037037037037
+01,Azuay,0113,Sevilla de Oro,TODOS,14,18,0.25925925925925924
+11,Loja,1114,Pindal,TODOS,9,20,0.16666666666666666
+03,Cañar,0301,Azogues,TODOS,8,12,0.14814814814814814
+14,Morona Santiago,1407,Huamboya,TODOS,12,18,0.2222222222222222
+09,Guayas,0906,Daule,TODOS,20,108,0.37037037037037035
+01,Azuay,0104,Nabón,TODOS,8,10,0.14814814814814814
+15,Napo,1504,El Chaco,TODOS,38,85,0.7037037037037037
+24,Santa Elena,2401,Santa Elena,TODOS,14,84,0.25925925925925924
+23,Santo Domingo de los Tsáchilas,2302,La Concordia,TODOS,13,29,0.24074074074074073
+15,Napo,1507,Quijos,TODOS,35,110,0.6481481481481481
+18,Tungurahua,1808,Santiago de Píllaro,TODOS,23,37,0.42592592592592593
+13,Manabí,1304,El Carmen,TODOS,23,56,0.42592592592592593
+13,Manabí,1315,Tosagua,TODOS,18,40,0.3333333333333333
+10,Imbabura,1003,Cotacachi,TODOS,20,99,0.37037037037037035
+05,Cotopaxi,0504,Pujilí,TODOS,33,86,0.6111111111111112
+09,Guayas,0910,Milagro,TODOS,17,70,0.3148148148148148
+09,Guayas,0921,Playas,TODOS,11,15,0.2037037037037037
+18,Tungurahua,1803,Cevallos,TODOS,9,9,0.16666666666666666
+07,El Oro,0707,Huaquillas,TODOS,17,34,0.3148148148148148
+07,El Oro,0710,Piñas,TODOS,30,157,0.5555555555555556
+13,Manabí,1314,Sucre,TODOS,15,60,0.2777777777777778
+18,Tungurahua,1805,Patate,TODOS,22,56,0.4074074074074074
+07,El Oro,0712,Santa Rosa,TODOS,24,75,0.4444444444444444
+06,Chimborazo,0608,Pallatanga,TODOS,21,59,0.3888888888888889
+17,Pichincha,1709,Puerto Quito,TODOS,18,38,0.3333333333333333
+14,Morona Santiago,1408,San Juan Bosco,TODOS,12,20,0.2222222222222222
+02,Bolívar,0203,Chimbo,TODOS,21,81,0.3888888888888889
+04,Carchi,0405,Montúfar,TODOS,12,22,0.2222222222222222
+11,Loja,1107,Gonzanamá,TODOS,11,29,0.2037037037037037
+11,Loja,1116,Olmedo,TODOS,10,20,0.18518518518518517
+11,Loja,1108,Macará,TODOS,13,49,0.24074074074074073
+22,Orellana,2201,Francisco de Orellana,TODOS,20,57,0.37037037037037035
+14,Morona Santiago,1405,Santiago,TODOS,34,76,0.6296296296296297
+16,Pastaza,1603,Santa Clara,TODOS,11,15,0.2037037037037037
+12,Los Ríos,1201,Babahoyo,TODOS,28,138,0.5185185185185185
+07,El Oro,0711,Portovelo,TODOS,27,90,0.5
+09,Guayas,0902,Alfredo Baquerizo Moreno (Juján),TODOS,19,46,0.35185185185185186
+22,Orellana,2202,Aguarico,TODOS,6,21,0.1111111111111111
+11,Loja,1104,Celica,TODOS,17,62,0.3148148148148148
+02,Bolívar,0206,Caluma,TODOS,16,36,0.2962962962962963
+07,El Oro,0704,Balsas,TODOS,19,65,0.35185185185185186
+10,Imbabura,1006,San Miguel de Urcuquí,TODOS,12,23,0.2222222222222222
+02,Bolívar,0204,Echeandía,TODOS,19,56,0.35185185185185186
+07,El Oro,0714,Las Lajas,TODOS,15,34,0.2777777777777778
+14,Morona Santiago,1409,Taisha,TODOS,11,15,0.2037037037037037
+12,Los Ríos,1204,Puebloviejo,TODOS,13,19,0.24074074074074073
+07,El Oro,0702,Arenillas,TODOS,17,47,0.3148148148148148
+11,Loja,1115,Quilanga,TODOS,14,21,0.25925925925925924
+13,Manabí,1319,Puerto López,TODOS,14,28,0.25925925925925924
+11,Loja,1113,Zapotillo,TODOS,11,34,0.2037037037037037
+01,Azuay,0106,Pucará,TODOS,18,56,0.3333333333333333
+11,Loja,1112,Sozoranga,TODOS,19,69,0.35185185185185186
+13,Manabí,1306,Jipijapa,TODOS,21,63,0.3888888888888889
+08,Esmeraldas,0805,San Lorenzo,TODOS,25,53,0.46296296296296297
+21,Sucumbíos,2101,Lago Agrio,TODOS,8,12,0.14814814814814814
+14,Morona Santiago,1406,Sucúa,TODOS,8,9,0.14814814814814814
+20,Galápagos,2003,Santa Cruz,TODOS,6,11,0.1111111111111111
+10,Imbabura,1005,Pimampiro,TODOS,15,30,0.2777777777777778
+19,Zamora Chinchipe,1907,Centinela del Cóndor,TODOS,18,36,0.3333333333333333
+14,Morona Santiago,1402,Gualaquiza,TODOS,19,46,0.35185185185185186
+19,Zamora Chinchipe,1905,Yantzaza,TODOS,27,46,0.5
+19,Zamora Chinchipe,1906,El Pangui,TODOS,14,20,0.25925925925925924
+10,Imbabura,1004,Otavalo,TODOS,20,48,0.37037037037037035
+06,Chimborazo,0604,Chambo,TODOS,9,9,0.16666666666666666
+09,Guayas,0928,Isidro Ayora,TODOS,9,10,0.16666666666666666
+07,El Oro,0708,Marcabelí,TODOS,8,21,0.14814814814814814
+13,Manabí,1310,Paján,TODOS,14,45,0.25925925925925924
+13,Manabí,1311,Pichincha,TODOS,11,22,0.2037037037037037
+12,Los Ríos,1202,Baba,TODOS,13,47,0.24074074074074073
+21,Sucumbíos,2105,Sucumbíos,TODOS,13,35,0.24074074074074073
+19,Zamora Chinchipe,1903,Nangaritza,TODOS,9,9,0.16666666666666666
+06,Chimborazo,0606,Guamote,TODOS,30,54,0.5555555555555556
+21,Sucumbíos,2103,Putumayo,TODOS,9,15,0.16666666666666666
+21,Sucumbíos,2104,Shushufindi,TODOS,6,9,0.1111111111111111
+05,Cotopaxi,0501,Latacunga,TODOS,17,34,0.3148148148148148
+01,Azuay,0114,Guachapala,TODOS,2,5,0.037037037037037035
+09,Guayas,0914,Pedro Carbo,TODOS,17,56,0.3148148148148148
+13,Manabí,1316,24 de Mayo,TODOS,12,32,0.2222222222222222
+13,Manabí,1313,Santa Ana,TODOS,18,69,0.3333333333333333
+22,Orellana,2203,La Joya de los Sachas,TODOS,7,12,0.12962962962962962
+13,Manabí,1320,Jama,TODOS,8,19,0.14814814814814814
+13,Manabí,1322,San Vicente,TODOS,11,22,0.2037037037037037
+05,Cotopaxi,0503,Pangua,TODOS,17,40,0.3148148148148148
+05,Cotopaxi,0507,Sigchos,TODOS,21,46,0.3888888888888889
+12,Los Ríos,1205,Quevedo,TODOS,23,82,0.42592592592592593
+12,Los Ríos,1212,Mocache,TODOS,12,18,0.2222222222222222
+09,Guayas,0918,Santa Lucía,TODOS,13,42,0.24074074074074073
+24,Santa Elena,2402,La Libertad,TODOS,9,15,0.16666666666666666
+12,Los Ríos,1211,Valencia,TODOS,14,28,0.25925925925925924
+08,Esmeraldas,0806,Atacames,TODOS,17,60,0.3148148148148148
+13,Manabí,1321,Jaramijó,TODOS,6,12,0.1111111111111111
+20,Galápagos,2001,San Cristóbal,TODOS,6,11,0.1111111111111111
+13,Manabí,1302,Bolívar,TODOS,18,34,0.3333333333333333
+09,Guayas,0922,Simón Bolívar,TODOS,9,25,0.16666666666666666
+12,Los Ríos,1208,Vinces,TODOS,12,32,0.2222222222222222
+12,Los Ríos,1213,Quinsaloma,TODOS,10,10,0.18518518518518517
+24,Santa Elena,2403,Salinas,TODOS,9,20,0.16666666666666666
+04,Carchi,0404,Mira,TODOS,22,40,0.4074074074074074
+17,Pichincha,1702,Cayambe,TODOS,19,31,0.35185185185185186
+09,Guayas,0912,Naranjito,TODOS,14,33,0.25925925925925924
+07,El Oro,0706,El Guabo,TODOS,15,29,0.2777777777777778
+09,Guayas,0923,Coronel Marcelino Maridueña,TODOS,7,11,0.12962962962962962
+03,Cañar,0303,Cañar,TODOS,18,52,0.3333333333333333
+07,El Oro,0705,Chilla,TODOS,14,25,0.25925925925925924
+09,Guayas,0903,Balao,TODOS,10,20,0.18518518518518517
+01,Azuay,0111,Chordeleg,TODOS,4,4,0.07407407407407407
+10,Imbabura,1002,Antonio Ante,TODOS,7,9,0.12962962962962962
+14,Morona Santiago,1410,Logroño,TODOS,7,8,0.12962962962962962
+03,Cañar,0305,El Tambo,TODOS,2,2,0.037037037037037035
+21,Sucumbíos,2107,Cuyabeno,TODOS,2,3,0.037037037037037035
+01,Azuay,0105,Paute,TODOS,15,32,0.2777777777777778
+03,Cañar,0302,Biblián,TODOS,9,18,0.16666666666666666
+01,Azuay,0110,Oña,TODOS,3,6,0.05555555555555555
+09,Guayas,0924,Lomas de Sargentillo,TODOS,9,16,0.16666666666666666
+18,Tungurahua,1806,Quero,TODOS,7,8,0.12962962962962962
+12,Los Ríos,1209,Palenque,TODOS,6,9,0.1111111111111111
+09,Guayas,0905,Colimes,TODOS,10,39,0.18518518518518517
+15,Napo,1509,Carlos Julio Arosemena Tola,TODOS,5,6,0.09259259259259259
+17,Pichincha,1708,Pedro Vicente Maldonado,TODOS,7,9,0.12962962962962962
+02,Bolívar,0207,Las Naves,TODOS,11,18,0.2037037037037037
+17,Pichincha,1705,Rumiñahui,TODOS,12,40,0.2222222222222222
+21,Sucumbíos,2106,Cascales,TODOS,2,2,0.037037037037037035
+04,Carchi,0403,Espejo,TODOS,9,10,0.16666666666666666
+14,Morona Santiago,1404,Palora,TODOS,5,5,0.09259259259259259
+05,Cotopaxi,0505,Salcedo,TODOS,6,6,0.1111111111111111
+12,Los Ríos,1210,Buena Fe,TODOS,8,11,0.14814814814814814
+04,Carchi,0406,San Pedro de Huaca,TODOS,4,5,0.07407407407407407
+03,Cañar,0307,Suscal,TODOS,3,4,0.05555555555555555
+14,Morona Santiago,1411,Pablo Sexto,TODOS,1,1,0.018518518518518517
+03,Cañar,0306,Déleg,TODOS,1,1,0.018518518518518517
+20,Galápagos,2002,Isabela,TODOS,1,1,0.018518518518518517
+01,Azuay,0107,San Fernando,TODOS,0,0,0.0

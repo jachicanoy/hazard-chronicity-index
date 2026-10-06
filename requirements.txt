@@ -1,0 +1,22 @@
+pandas>=2.2
+numpy>=1.26
+pyyaml>=6.0
+pyarrow>=15.0
+openpyxl>=3.1
+jupyter>=1.0
+geopandas>=0.14      # Fase 2 — integración espacial
+pyogrio>=0.7         # Fase 2 — lectura/escritura GeoPackage
+pymannkendall>=1.4   # Fase 3 — prueba de tendencia
+jenkspy>=0.4          # Fase 8 — clasificación por quiebres naturales (Jenks)
+libpysal>=4.9          # Fase 9 — matrices de pesos espaciales (Queen, KNN)
+esda>=2.5               # Fase 9 — Getis-Ord Gi*, Local Moran's I
+h3>=4.0                 # Fase 9 — agregación hexagonal
+scikit-learn>=1.4       # Fase 9 — utilidades numéricas (KDE de respaldo)
+mapclassify>=2.6         # Fase 10 — clasificación Jenks para mapas (estáticos e interactivos)
+folium>=0.16             # Fase 10 — mapas interactivos (Leaflet)
+plotly>=5.20              # Fase 10 — gráficos del dashboard HTML
+ipywidgets>=8.1            # Fase 10 — dashboard interactivo dentro de Jupyter
+joblib>=1.3               # Fase 12 — serializacion de modelos entrenados
+
+statsmodels>=0.14       # Fase 15 — regresión Binomial Negativa, HAC, diagnósticos
+pytest>=8                # Fase 15 — pruebas unitarias (tests/)

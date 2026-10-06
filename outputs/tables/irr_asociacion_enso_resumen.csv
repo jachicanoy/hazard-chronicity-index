@@ -1,0 +1,19 @@
+estrato,n_eventos,IRR_crudo,IRR,IC95_inf,IC95_sup,p_valor,p_BH,significativo_BH
+Nacional,21743,1.958,1.411,1.168,1.703,0.0,0.001,True
+Región Costa,7281,3.378,3.448,2.512,4.733,0.0,0.0,True
+Región Sierra,10363,1.618,1.155,0.913,1.461,0.23,0.319,False
+Región Oriente,4073,1.139,1.091,0.873,1.363,0.445,0.501,False
+Amenaza debris_flow,685,0.791,0.463,0.308,0.696,0.0,0.001,True
+Amenaza flood,7281,2.805,2.023,1.569,2.609,0.0,0.0,True
+Amenaza landslide,12625,1.653,1.206,0.987,1.473,0.067,0.12,False
+Amenaza scour,1152,1.993,1.626,1.344,1.966,0.0,0.0,True
+Costa × flood,4663,4.025,5.34,3.553,8.028,0.0,0.0,True
+Costa × landslide,2059,2.327,1.91,1.415,2.578,0.0,0.0,True
+Costa × scour,473,3.319,2.877,2.062,4.013,0.0,0.0,True
+Sierra × debris_flow,450,0.734,0.466,0.299,0.728,0.001,0.002,True
+Sierra × flood,1692,1.828,1.328,0.955,1.845,0.091,0.137,False
+Sierra × landslide,7855,1.63,1.148,0.905,1.458,0.256,0.329,False
+Sierra × scour,366,1.838,1.288,0.97,1.71,0.08,0.13,False
+Oriente × flood,903,0.906,1.004,0.733,1.373,0.983,0.983,False
+Oriente × landslide,2709,1.312,1.106,0.882,1.388,0.384,0.46,False
+Oriente × scour,313,0.952,1.114,0.797,1.556,0.528,0.559,False
