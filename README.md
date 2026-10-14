@@ -4,7 +4,7 @@
 
 Identifica en qué cantones se repiten de forma crónica las inundaciones, deslizamientos, socavamientos y aluviones, qué tan graves son y cuánto se relacionan con los episodios de El Niño. Su propósito es apoyar la Acción Anticipatoria y la priorización territorial.
 
-**Tablero interactivo:** https://jersoncatalyst.github.io/hazard-chronicity-index/
+**Tablero interactivo:** https://jachicanoy.github.io/hazard-chronicity-index/
 
 Autor: Jerson Achicanoy, Information Management and GIS Expert, 3iS LATAM.
 
